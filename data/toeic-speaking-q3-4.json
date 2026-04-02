@@ -1,0 +1,890 @@
+[
+  {
+    "id": 101,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a group of colleagues in a modern conference room having a meeting. They are sitting around a large wooden table with laptops open, and a presenter is pointing at a screen displaying charts.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə ɡruːp əv ˈkɑːliːɡz ɪn ə ˈmɑːdərn ˈkɑːnfərəns ruːm ˈhævɪŋ ə ˈmiːtɪŋ ðeɪ ɑːr ˈsɪtɪŋ əˈraʊnd ə lɑːrdʒ ˈwʊdən ˈteɪbl wɪð ˈlæptɑːps ˈoʊpən ənd ə prɪˈzɛntər ɪz ˈpɔɪntɪŋ æt ə skriːn dɪˈspleɪɪŋ tʃɑːrts/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhóm đồng nghiệp trong phòng hội nghị hiện đại đang họp. Họ ngồi quanh bàn gỗ lớn với laptop mở, và một người đang trình bày đang chỉ vào màn hình hiển thị biểu đồ.",
+      "kr": "사진은 현대적인 회의실에서 동료들이 회의를 하는 모습을 보여줍니다. 그들은 큰 나무 테이블 주위에 앉아 노트북을 열어놓고 있고, 발표자가 차트가 표시된 화면을 가리키고 있습니다.",
+      "jp": "写真では、現代的な会議室で同僚たちが会議をしています。彼らは大きな木製テーブルを囲んで座り、ラップトップを開き、発表者がチャートを表示したスクリーンを指しています。"
+    },
+    "category": "Business & Office",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a group of colleagues in a modern conference room having a meeting. They are sitting around a large wooden table with laptops open, and a presenter is pointing at a screen displaying charts. There are coffee cups and documents on the table.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə ɡruːp əv ˈkɑːliːɡz ɪn ə ˈmɑːdərn ˈkɑːnfərəns ruːm ˈhævɪŋ ə ˈmiːtɪŋ ðeɪ ɑːr ˈsɪtɪŋ əˈraʊnd ə lɑːrdʒ ˈwʊdən ˈteɪbl wɪð ˈlæptɑːps ˈoʊpən ənd ə prɪˈzɛntər ɪz ˈpɔɪntɪŋ æt ə skriːn dɪˈspleɪɪŋ tʃɑːrts ðɛr ɑːr ˈkɔːfi kʌps ənd ˈdɑːkjəmənts ɑːn ðə ˈteɪbl/"
+  },
+  {
+    "id": 102,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, there is heavy traffic on a busy city highway during rush hour. Many cars, buses, and taxis are moving slowly, and tall buildings can be seen in the background.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ðɛr ɪz ˈhɛvi ˈtræfɪk ɑːn ə ˈbɪzi ˈsɪti ˈhaɪweɪ ˈdjʊərɪŋ rʌʃ aʊər ˈmɛni kɑːrz ˈbʌsɪz ənd ˈtæksiz ɑːr ˈmuːvɪŋ ˈsloʊli ənd tɔːl ˈbɪldɪŋz kæn biː siːn ɪn ðə ˈbækɡraʊnd/",
+    "translations": {
+      "vn": "Trong bức ảnh, có tình trạng tắc nghẽn nặng trên xa lộ thành phố đông đúc vào giờ cao điểm. Nhiều xe hơi, xe buýt và taxi đang di chuyển chậm, và các tòa nhà cao tầng có thể thấy ở phía sau.",
+      "kr": "사진에는 러시아워 시간대 번화한 도시 고속도로의 심한 정체가 있습니다. 많은 자동차, 버스, 택시가 천천히 움직이고 있고, 배경에 고층 건물이 보입니다.",
+      "jp": "写真では、ラッシュアワーの賑やかな都市高速道路で深刻な渋滞が発生しています。多くの車、バス、タクシーがゆっくり動き、背景に高層ビルが見えます。"
+    },
+    "category": "City Life",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, there is heavy traffic on a busy city highway during rush hour. Many cars, buses, and taxis are moving slowly, and tall buildings can be seen in the background. The sky is cloudy.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ðɛr ɪz ˈhɛvi ˈtræfɪk ɑːn ə ˈbɪzi ˈsɪti ˈhaɪweɪ ˈdjʊərɪŋ rʌʃ aʊər ˈmɛni kɑːrz ˈbʌsɪz ənd ˈtæksiz ɑːr ˈmuːvɪŋ ˈsloʊli ənd tɔːl ˈbɪldɪŋz kæn biː siːn ɪn ðə ˈbækɡraʊnd ðə skaɪ ɪz ˈklaʊdi/"
+  },
+  {
+    "id": 103,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a happy family having dinner together at home. They are sitting at a dining table with plates of food, smiling and talking to each other.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈhæpi ˈfæməli ˈhævɪŋ ˈdɪnər təˈɡɛðər æt hoʊm ðeɪ ɑːr ˈsɪtɪŋ æt ə ˈdaɪnɪŋ ˈteɪbl wɪð pleɪts əv fuːd ˈsmaɪlɪŋ ənd ˈtɔːkɪŋ tuː iːtʃ ˈʌðər/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một gia đình hạnh phúc đang ăn tối cùng nhau tại nhà. Họ ngồi quanh bàn ăn với các đĩa thức ăn, mỉm cười và nói chuyện với nhau.",
+      "kr": "이미지는 행복한 가족이 집에서 함께 저녁을 먹는 모습을 보여줍니다. 그들은 음식이 담긴 접시와 함께 식탁에 앉아 웃으며 서로 이야기하고 있습니다.",
+      "jp": "画像では、幸せな家族が自宅で一緒に夕食をとっています。彼らは料理の皿が並ぶダイニングテーブルに座り、笑顔で会話をしています。"
+    },
+    "category": "Family & Home",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a happy family having dinner together at home. They are sitting at a dining table with plates of food, smiling and talking to each other. There are candles and a vase of flowers on the table.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈhæpi ˈfæməli ˈhævɪŋ ˈdɪnər təˈɡɛðər æt hoʊm ðeɪ ɑːr ˈsɪtɪŋ æt ə ˈdaɪnɪŋ ˈteɪbl wɪð pleɪts əv fuːd ˈsmaɪlɪŋ ənd ˈtɔːkɪŋ tuː iːtʃ ˈʌðər ðɛr ɑːr ˈkændlz ənd ə veɪs əv ˈflaʊərz ɑːn ðə ˈteɪbl/"
+  },
+  {
+    "id": 104,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a chef is cooking in a professional restaurant kitchen. He is stirring a pot on the stove while fresh vegetables and ingredients are placed on the counter nearby.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə ʃɛf ɪz ˈkʊkɪŋ ɪn ə prəˈfɛʃənl ˈrɛstərɑːnt ˈkɪtʃɪn hi ɪz ˈstɜːrɪŋ ə pɑːt ɑːn ðə stoʊv waɪl frɛʃ ˈvɛdʒtəbəlz ənd ɪnˈɡriːdiənts ɑːr pleɪst ɑːn ðə ˈkaʊntər ˈnɪrbaɪ/",
+    "translations": {
+      "vn": "Trong bức ảnh, một đầu bếp đang nấu ăn trong bếp nhà hàng chuyên nghiệp. Anh ấy đang khuấy nồi trên bếp trong khi rau củ tươi và nguyên liệu được đặt trên quầy gần đó.",
+      "kr": "사진에서 셰프가 전문 레스토랑 주방에서 요리하고 있습니다. 그는 스토브 위의 냄비를 저으며 신선한 채소와 재료가 근처 카운터에 놓여 있습니다.",
+      "jp": "写真では、シェフがプロのレストランキッチンで調理しています。彼はストーブの鍋をかき回し、新鮮な野菜と材料が近くのカウンターに置かれています。"
+    },
+    "category": "Food & Restaurant",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, a chef is cooking in a professional restaurant kitchen. He is stirring a pot on the stove while fresh vegetables and ingredients are placed on the counter nearby. Other kitchen staff are working in the background.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ə ʃɛf ɪz ˈkʊkɪŋ ɪn ə prəˈfɛʃənl ˈrɛstərɑːnt ˈkɪtʃɪn hi ɪz ˈstɜːrɪŋ ə pɑːt ɑːn ðə stoʊv waɪl frɛʃ ˈvɛdʒtəbəlz ənd ɪnˈɡriːdiənts ɑːr pleɪst ɑːn ðə ˈkaʊntər ˈnɪrbaɪ ˈʌðər ˈkɪtʃɪn stæf ɑːr ˈwɜːrkɪŋ ɪn ðə ˈbækɡraʊnd/"
+  },
+  {
+    "id": 105,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows several people exercising in a modern gym. Some are running on treadmills, others are lifting weights, and a trainer is helping one person with a machine.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ˈsɛvrəl ˈpiːpl ˈɛksərsaɪzɪŋ ɪn ə ˈmɑːdərn dʒɪm sʌm ɑːr ˈrʌnɪŋ ɑːn ˈtrɛdmɪlz ˈʌðərz ɑːr ˈlɪftɪŋ weɪts ənd ə ˈtreɪnər ɪz ˈhɛlpɪŋ wʌn ˈpɜːrsən wɪð ə məˈʃiːn/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một số người đang tập thể dục trong phòng gym hiện đại. Một số đang chạy trên máy chạy bộ, người khác đang nâng tạ, và một huấn luyện viên đang giúp một người sử dụng máy.",
+      "kr": "사진은 현대적인 헬스장에서 여러 사람이 운동하는 모습을 보여줍니다. 일부는 트레드밀에서 달리고 있고, 다른 사람들은 웨이트를 들고 있으며, 트레이너가 한 사람에게 기구 사용을 돕고 있습니다.",
+      "jp": "写真では、近代的なジムで数人がエクササイズをしています。何人かはトレッドミルで走り、他はウェイトを上げ、トレーナーが一人にマシンの使い方を指導しています。"
+    },
+    "category": "Health & Fitness",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows several people exercising in a modern gym. Some are running on treadmills, others are lifting weights, and a trainer is helping one person with a machine. The gym is bright and has large windows.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ˈsɛvrəl ˈpiːpl ˈɛksərsaɪzɪŋ ɪn ə ˈmɑːdərn dʒɪm sʌm ɑːr ˈrʌnɪŋ ɑːn ˈtrɛdmɪlz ˈʌðərz ɑːr ˈlɪftɪŋ weɪts ənd ə ˈtreɪnər ɪz ˈhɛlpɪŋ wʌn ˈpɜːrsən wɪð ə məˈʃiːn ðə dʒɪm ɪz braɪt ənd hæz lɑːrdʒ ˈwɪndoʊz/"
+  },
+  {
+    "id": 106,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, passengers are waiting in a busy airport terminal. Some are sitting on chairs reading magazines, while others are standing in line at the check-in counter.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ˈpæsɪndʒərz ɑːr ˈweɪtɪŋ ɪn ə ˈbɪzi ˈɛrpɔːrt ˈtɜːrmɪnl sʌm ɑːr ˈsɪtɪŋ ɑːn tʃɛrz ˈriːdɪŋ ˌmæɡəˈziːnz waɪl ˈʌðərz ɑːr ˈstændɪŋ ɪn laɪn æt ðə ˈtʃɛkɪn ˈkaʊntər/",
+    "translations": {
+      "vn": "Trong bức ảnh, hành khách đang chờ ở nhà ga sân bay đông đúc. Một số đang ngồi trên ghế đọc tạp chí, trong khi những người khác đang xếp hàng tại quầy check-in.",
+      "kr": "사진에서 승객들이 붐비는 공항 터미널에서 기다리고 있습니다. 일부는 의자에 앉아 잡지를 읽고 있고, 다른 사람들은 체크인 카운터에서 줄을 서 있습니다.",
+      "jp": "写真では、混雑した空港ターミナルで乗客が待っています。何人かは椅子に座って雑誌を読み、他はチェックインカウンターに並んでいます。"
+    },
+    "category": "Travel & Airport",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, passengers are waiting in a busy airport terminal. Some are sitting on chairs reading magazines, while others are standing in line at the check-in counter. There are digital boards showing flight information.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ˈpæsɪndʒərz ɑːr ˈweɪtɪŋ ɪn ə ˈbɪzi ˈɛrpɔːrt ˈtɜːrmɪnl sʌm ɑːr ˈsɪtɪŋ ɑːn tʃɛrz ˈriːdɪŋ ˌmæɡəˈziːnz waɪl ˈʌðərz ɑːr ˈstændɪŋ ɪn laɪn æt ðə ˈtʃɛkɪn ˈkaʊntər ðɛr ɑːr ˈdɪdʒɪtl bɔːrdz ˈʃoʊɪŋ flaɪt ˌɪnfərˈmeɪʃən/"
+  },
+  {
+    "id": 107,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a teacher standing in front of a classroom full of students. She is writing on a whiteboard while the students are taking notes at their desks.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈtiːtʃər ˈstændɪŋ ɪn frʌnt əv ə ˈklæsruːm fʊl əv ˈstuːdnts ʃi ɪz ˈraɪtɪŋ ɑːn ə ˈwaɪtbɔːrd waɪl ðə ˈstuːdnts ɑːr ˈteɪkɪŋ noʊts æt ðɛr dɛsks/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một giáo viên đang đứng trước lớp học đầy học sinh. Cô ấy đang viết lên bảng trắng trong khi học sinh đang ghi chép tại bàn của mình.",
+      "kr": "이미지는 학생들로 가득 찬 교실 앞에 선 교사를 보여줍니다. 그녀는 화이트보드에 글을 쓰고 있고 학생들은 책상에 앉아 필기하고 있습니다.",
+      "jp": "画像では、学生でいっぱいの教室の前に立つ教師が映っています。彼女はホワイトボードに書き、学生たちは机でノートを取っています。"
+    },
+    "category": "Education",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a teacher standing in front of a classroom full of students. She is writing on a whiteboard while the students are taking notes at their desks. The classroom has posters on the walls.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈtiːtʃər ˈstændɪŋ ɪn frʌnt əv ə ˈklæsruːm fʊl əv ˈstuːdnts ʃi ɪz ˈraɪtɪŋ ɑːn ə ˈwaɪtbɔːrd waɪl ðə ˈstuːdnts ɑːr ˈteɪkɪŋ noʊts æt ðɛr dɛsks ðə ˈklæsruːm hæz ˈpoʊstərz ɑːn ðə wɔːlz/"
+  },
+  {
+    "id": 108,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, customers are shopping in a large supermarket. People are pushing shopping carts down the aisles and selecting items from the shelves.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ˈkʌstəmərz ɑːr ˈʃɑːpɪŋ ɪn ə lɑːrdʒ ˈsuːpərˌmɑːrkɪt ˈpiːpl ɑːr ˈpʊʃɪŋ ˈʃɑːpɪŋ kɑːrts daʊn ði aɪlz ənd sɪˈlɛktɪŋ ˈaɪtəmz frɑːm ðə ʃɛlvz/",
+    "translations": {
+      "vn": "Trong bức ảnh, khách hàng đang mua sắm trong siêu thị lớn. Mọi người đang đẩy xe hàng dọc các lối đi và chọn sản phẩm từ kệ hàng.",
+      "kr": "사진에서 고객들이 대형 슈퍼마켓에서 쇼핑하고 있습니다. 사람들은 통로를 따라 쇼핑 카트를 밀며 선반에서 물건을 고르고 있습니다.",
+      "jp": "写真では、顧客が大型スーパーで買い物をしています。人々は通路をカートを押して歩き、棚から商品を選んでいます。"
+    },
+    "category": "Shopping",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, customers are shopping in a large supermarket. People are pushing shopping carts down the aisles and selecting items from the shelves. There are signs indicating different sections like fruits and dairy.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ˈkʌstəmərz ɑːr ˈʃɑːpɪŋ ɪn ə lɑːrdʒ ˈsuːpərˌmɑːrkɪt ˈpiːpl ɑːr ˈpʊʃɪŋ ˈʃɑːpɪŋ kɑːrts daʊn ði aɪlz ənd sɪˈlɛktɪŋ ˈaɪtəmz frɑːm ðə ʃɛlvz ðɛr ɑːr saɪnz ˈɪndɪkeɪtɪŋ ˈdɪfrənt ˈsɛkʃənz laɪk fruːts ənd ˈdɛri/"
+  },
+  {
+    "id": 109,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a doctor examining a patient in a clinic. The doctor is using a stethoscope while the patient is sitting on an examination table.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə ˈdɑːktər ɪɡˈzæmɪnɪŋ ə ˈpeɪʃənt ɪn ə ˈklɪnɪk ðə ˈdɑːktər ɪz ˈjuːzɪŋ ə ˈstɛθəskoʊp waɪl ðə ˈpeɪʃənt ɪz ˈsɪtɪŋ ɑːn ən ɪɡˌzæmɪˈneɪʃən ˈteɪbl/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy bác sĩ đang khám cho bệnh nhân trong phòng khám. Bác sĩ đang dùng ống nghe trong khi bệnh nhân đang ngồi trên bàn khám.",
+      "kr": "사진에서 의사가 진료실에서 환자를 진찰하고 있습니다. 의사는 청진기를 사용하고 있고 환자는 진찰대에 앉아 있습니다.",
+      "jp": "写真では、クリニックで医師が患者を診察しています。医師は聴診器を使い、患者は診察台に座っています。"
+    },
+    "category": "Medical",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a doctor examining a patient in a clinic. The doctor is using a stethoscope while the patient is sitting on an examination table. Medical charts and equipment are visible on the wall.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə ˈdɑːktər ɪɡˈzæmɪnɪŋ ə ˈpeɪʃənt ɪn ə ˈklɪnɪk ðə ˈdɑːktər ɪz ˈjuːzɪŋ ə ˈstɛθəskoʊp waɪl ðə ˈpeɪʃənt ɪz ˈsɪtɪŋ ɑːn ən ɪɡˌzæmɪˈneɪʃən ˈteɪbl ˈmɛdɪkl tʃɑːrts ənd ɪˈkwɪpmənt ɑːr ˈvɪzəbl ɑːn ðə wɔːl/"
+  },
+  {
+    "id": 110,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a group of friends is relaxing on a sunny beach. Some are lying on towels, others are playing with a beach ball near the water.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə ɡruːp əv frɛndz ɪz rɪˈlæksɪŋ ɑːn ə ˈsʌni biːtʃ sʌm ɑːr ˈlaɪɪŋ ɑːn ˈtaʊəlz ˈʌðərz ɑːr ˈpleɪɪŋ wɪð ə biːtʃ bɔːl nɪr ðə ˈwɔːtər/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nhóm bạn đang thư giãn trên bãi biển nắng. Một số đang nằm trên khăn, những người khác đang chơi bóng bãi biển gần nước.",
+      "kr": "이미지에서 친구들이 햇살 좋은 해변에서 쉬고 있습니다. 일부는 타월 위에 누워 있고, 다른 사람들은 물 근처에서 비치볼을 가지고 놀고 있습니다.",
+      "jp": "画像では、友達のグループが日差しの強いビーチでリラックスしています。何人かはタオルの上に横になり、他は水辺でビーチボールをしています。"
+    },
+    "category": "Leisure & Beach",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a group of friends is relaxing on a sunny beach. Some are lying on towels, others are playing with a beach ball near the water. There are umbrellas and the ocean in the background.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə ɡruːp əv frɛndz ɪz rɪˈlæksɪŋ ɑːn ə ˈsʌni biːtʃ sʌm ɑːr ˈlaɪɪŋ ɑːn ˈtaʊəlz ˈʌðərz ɑːr ˈpleɪɪŋ wɪð ə biːtʃ bɔːl nɪr ðə ˈwɔːtər ðɛr ɑːr ʌmˈbrɛləz ənd ði ˈoʊʃən ɪn ðə ˈbækɡraʊnd/"
+  },
+  {
+    "id": 111,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a crowded train station platform. Many commuters are waiting for the train, some are checking their watches, and digital displays show arrival times.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈkraʊdɪd treɪn ˈsteɪʃən ˈplætfɔːrm ˈmɛni kəˈmjuːtərz ɑːr ˈweɪtɪŋ fɔːr ðə treɪn sʌm ɑːr ˈtʃɛkɪŋ ðɛr wɑːtʃɪz ənd ˈdɪdʒɪtl dɪˈspleɪz ʃoʊ əˈraɪvl taɪmz/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy sân ga tàu điện đông đúc. Nhiều người đi làm đang chờ tàu, một số đang xem đồng hồ, và bảng điện tử hiển thị giờ đến.",
+      "kr": "사진은 붐비는 기차역 플랫폼을 보여줍니다. 많은 통근자들이 기차를 기다리고 있고, 일부는 시계를 확인하고 있으며, 디지털 디스플레이에 도착 시간이 표시되어 있습니다.",
+      "jp": "写真では、混雑した駅のホームが映っています。多くの通勤者が電車を待っており、何人かは時計を確認し、デジタル表示板に到着時刻が表示されています。"
+    },
+    "category": "Transportation",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a crowded train station platform. Many commuters are waiting for the train, some are checking their watches, and digital displays show arrival times. There are advertisements on the walls.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈkraʊdɪd treɪn ˈsteɪʃən ˈplætfɔːrm ˈmɛni kəˈmjuːtərz ɑːr ˈweɪtɪŋ fɔːr ðə treɪn sʌm ɑːr ˈtʃɛkɪŋ ðɛr wɑːtʃɪz ənd ˈdɪdʒɪtl dɪˈspleɪz ʃoʊ əˈraɪvl taɪmz ðɛr ɑːr ˌædvərˈtaɪzmənts ɑːn ðə wɔːlz/"
+  },
+  {
+    "id": 112,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, workers are assembling products on a factory production line. They are wearing safety uniforms and using tools at their workstations.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ˈwɜːrkərz ɑːr əˈsɛmblɪŋ ˈprɑːdʌkts ɑːn ə ˈfæktəri prəˈdʌkʃən laɪn ðeɪ ɑːr ˈwɛrɪŋ ˈseɪfti ˈjuːnɪfɔːrmz ənd ˈjuːzɪŋ tuːlz æt ðɛr ˈwɜːrkˌsteɪʃənz/",
+    "translations": {
+      "vn": "Trong bức ảnh, công nhân đang lắp ráp sản phẩm trên dây chuyền sản xuất nhà máy. Họ đang mặc đồng phục an toàn và sử dụng dụng cụ tại trạm làm việc của mình.",
+      "kr": "사진에서 공장 생산 라인에서 근로자들이 제품을 조립하고 있습니다. 그들은 안전 유니폼을 입고 작업장에서 도구를 사용하고 있습니다.",
+      "jp": "写真では、工場の生産ラインで作業員が製品を組み立てています。彼らは安全制服を着て、作業台で工具を使用しています。"
+    },
+    "category": "Industry & Factory",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, workers are assembling products on a factory production line. They are wearing safety uniforms and using tools at their workstations. Conveyor belts are moving parts along the line.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ˈwɜːrkərz ɑːr əˈsɛmblɪŋ ˈprɑːdʌkts ɑːn ə ˈfæktəri prəˈdʌkʃən laɪn ðeɪ ɑːr ˈwɛrɪŋ ˈseɪfti ˈjuːnɪfɔːrmz ənd ˈjuːzɪŋ tuːlz æt ðɛr ˈwɜːrkˌsteɪʃənz kənˈveɪər bɛlts ɑːr ˈmuːvɪŋ pɑːrts əˈlɔːŋ ðə laɪn/"
+  },
+  {
+    "id": 113,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows guests checking in at a hotel reception desk. A receptionist is smiling and handing over room keys while luggage is placed nearby.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ɡɛsts ˈtʃɛkɪŋ ɪn æt ə hoʊˈtɛl rɪˈsɛpʃən dɛsk ə rɪˈsɛpʃənɪst ɪz ˈsmaɪlɪŋ ənd ˈhændɪŋ ˈoʊvər ruːm kiːz waɪl ˈlʌɡɪdʒ ɪz pleɪst ˈnɪrbaɪ/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy khách đang làm thủ tục nhận phòng tại quầy lễ tân khách sạn. Nhân viên lễ tân đang mỉm cười và đưa chìa khóa phòng trong khi hành lý được đặt gần đó.",
+      "kr": "이미지에서 손님들이 호텔 리셉션 데스크에서 체크인하고 있습니다. 리셉셔니스트가 웃으며 룸 키를 건네고 있고, 수하물이 근처에 놓여 있습니다.",
+      "jp": "画像では、ホテルフロントデスクで宿泊客がチェックインしています。受付係が笑顔でルームキーを渡し、荷物が近くに置かれています。"
+    },
+    "category": "Hotel & Accommodation",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows guests checking in at a hotel reception desk. A receptionist is smiling and handing over room keys while luggage is placed nearby. The lobby looks elegant with plants and seating areas.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ɡɛsts ˈtʃɛkɪŋ ɪn æt ə hoʊˈtɛl rɪˈsɛpʃən dɛsk ə rɪˈsɛpʃənɪst ɪz ˈsmaɪlɪŋ ənd ˈhændɪŋ ˈoʊvər ruːm kiːz waɪl ˈlʌɡɪdʒ ɪz pleɪst ˈnɪrbaɪ ðə ˈlɑːbi lʊks ˈɛlɪɡənt wɪð plænts ənd ˈsiːtɪŋ ˈɛriəz/"
+  },
+  {
+    "id": 114,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, construction workers are building a high-rise building. Some are operating heavy machinery while others are working with tools on scaffolding.",
+    "ipa": "/ɪn ðə ˈpɪktʃər kənˈstrʌkʃən ˈwɜːrkərz ɑːr ˈbɪldɪŋ ə haɪ raɪz ˈbɪldɪŋ sʌm ɑːr ˈɑːpəreɪtɪŋ ˈhɛvi məˈʃiːnəri waɪl ˈʌðərz ɑːr ˈwɜːrkɪŋ wɪð tuːlz ɑːn ˈskæfəldɪŋ/",
+    "translations": {
+      "vn": "Trong bức ảnh, công nhân xây dựng đang thi công một tòa nhà cao tầng. Một số đang vận hành máy móc hạng nặng trong khi những người khác đang làm việc với dụng cụ trên giàn giáo.",
+      "kr": "사진에서 건설 근로자들이 고층 건물을 짓고 있습니다. 일부는 중장비를 조작하고 있고, 다른 사람들은 비계에서 도구로 작업하고 있습니다.",
+      "jp": "写真では、建設作業員が高層ビルを建築しています。何人かは重機を操作し、他は足場で工具を使って作業しています。"
+    },
+    "category": "Construction",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, construction workers are building a high-rise building. Some are operating heavy machinery while others are working with tools on scaffolding. Safety helmets and cranes are visible.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər kənˈstrʌkʃən ˈwɜːrkərz ɑːr ˈbɪldɪŋ ə haɪ raɪz ˈbɪldɪŋ sʌm ɑːr ˈɑːpəreɪtɪŋ ˈhɛvi məˈʃiːnəri waɪl ˈʌðərz ɑːr ˈwɜːrkɪŋ wɪð tuːlz ɑːn ˈskæfəldɪŋ ˈseɪfti ˈhɛlmɪts ənd kreɪnz ɑːr ˈvɪzəbl/"
+  },
+  {
+    "id": 115,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a bride and groom at their wedding ceremony. They are standing in front of guests, exchanging rings, and smiling happily.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə braɪd ənd ɡruːm æt ðɛr ˈwɛdɪŋ ˈsɛrəmoʊni ðeɪ ɑːr ˈstændɪŋ ɪn frʌnt əv ɡɛsts ɪksˈtʃeɪndʒɪŋ rɪŋz ənd ˈsmaɪlɪŋ ˈhæpɪli/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy cô dâu và chú rể trong lễ cưới của họ. Họ đang đứng trước khách mời, trao nhẫn và mỉm cười hạnh phúc.",
+      "kr": "사진은 결혼식에서 신부와 신랑을 보여줍니다. 그들은 하객들 앞에 서서 반지를 교환하며 행복하게 웃고 있습니다.",
+      "jp": "写真では、結婚式で花嫁と花婿が映っています。彼らはゲストの前で立ち、指輪を交換し、幸せそうに微笑んでいます。"
+    },
+    "category": "Events & Wedding",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a bride and groom at their wedding ceremony. They are standing in front of guests, exchanging rings, and smiling happily. The bride is wearing a white dress and holding flowers.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə braɪd ənd ɡruːm æt ðɛr ˈwɛdɪŋ ˈsɛrəmoʊni ðeɪ ɑːr ˈstændɪŋ ɪn frʌnt əv ɡɛsts ɪksˈtʃeɪndʒɪŋ rɪŋz ənd ˈsmaɪlɪŋ ˈhæpɪli ðə braɪd ɪz ˈwɛrɪŋ ə waɪt drɛs ənd ˈhoʊldɪŋ ˈflaʊərz/"
+  },
+  {
+    "id": 116,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, an audience is watching a live concert on stage. People are clapping and some are holding up their phones to record the performance.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ən ˈɔːdiəns ɪz ˈwɑːtʃɪŋ ə laɪv ˈkɑːnsərt ɑːn steɪdʒ ˈpiːpl ɑːr ˈklæpɪŋ ənd sʌm ɑːr ˈhoʊldɪŋ ʌp ðɛr foʊnz tuː rɪˈkɔːrd ðə pərˈfɔːrməns/",
+    "translations": {
+      "vn": "Trong bức ảnh, khán giả đang xem buổi hòa nhạc trực tiếp trên sân khấu. Mọi người đang vỗ tay và một số đang giơ điện thoại lên để ghi lại buổi biểu diễn.",
+      "kr": "사진에서 관객들이 무대에서 라이브 콘서트를 보고 있습니다. 사람들은 박수를 치고 있고 일부는 공연을 녹화하기 위해 휴대폰을 들고 있습니다.",
+      "jp": "写真では、観客がステージ上のライブコンサートを見ています。人々は拍手をしており、何人かはパフォーマンスを録画するためにスマホを掲げています。"
+    },
+    "category": "Entertainment & Concert",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, an audience is watching a live concert on stage. People are clapping and some are holding up their phones to record the performance. Bright lights and musicians are visible on stage.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ən ˈɔːdiəns ɪz ˈwɑːtʃɪŋ ə laɪv ˈkɑːnsərt ɑːn steɪdʒ ˈpiːpl ɑːr ˈklæpɪŋ ənd sʌm ɑːr ˈhoʊldɪŋ ʌp ðɛr foʊnz tuː rɪˈkɔːrd ðə pərˈfɔːrməns braɪt laɪts ənd mjuːˈzɪʃənz ɑːr ˈvɪzəbl ɑːn steɪdʒ/"
+  },
+  {
+    "id": 117,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a farmer feeding animals on a rural farm. There are cows, chickens, and a barn in the background under a clear blue sky.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈfɑːrmər ˈfiːdɪŋ ˈænɪmlz ɑːn ə ˈrʊrəl fɑːrm ðɛr ɑːr kaʊz ˈtʃɪkənz ənd ə bɑːrn ɪn ðə ˈbækɡraʊnd ˈʌndər ə klɪr bluː skaɪ/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nông dân đang cho động vật ăn ở trang trại nông thôn. Có bò, gà và một chuồng ở phía sau dưới bầu trời xanh trong.",
+      "kr": "이미지는 시골 농장에서 농부가 동물들에게 먹이를 주고 있는 모습을 보여줍니다. 배경에 소, 닭, 헛간이 있고 맑은 푸른 하늘이 보입니다.",
+      "jp": "画像では、田舎の農場で農夫が動物に餌を与えています。背景に牛、鶏、納屋があり、澄んだ青空の下です。"
+    },
+    "category": "Agriculture & Farm",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a farmer feeding animals on a rural farm. There are cows, chickens, and a barn in the background under a clear blue sky. The farmer is holding a bucket of feed.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈfɑːrmər ˈfiːdɪŋ ˈænɪmlz ɑːn ə ˈrʊrəl fɑːrm ðɛr ɑːr kaʊz ˈtʃɪkənz ənd ə bɑːrn ɪn ðə ˈbækɡraʊnd ˈʌndər ə klɪr bluː skaɪ ðə ˈfɑːrmər ɪz ˈhoʊldɪŋ ə ˈbʌkɪt əv fiːd/"
+  },
+  {
+    "id": 118,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, hikers are walking on a mountain trail surrounded by beautiful scenery. They are carrying backpacks and using walking sticks.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ˈhaɪkərz ɑːr ˈwɔːkɪŋ ɑːn ə ˈmaʊntən treɪl səˈraʊndɪd baɪ ˈbjuːtɪfl ˈsiːnəri ðeɪ ɑːr ˈkæriɪŋ ˈbækpæks ənd ˈjuːzɪŋ ˈwɔːkɪŋ stɪks/",
+    "translations": {
+      "vn": "Trong bức ảnh, những người đi bộ đường dài đang đi trên con đường núi được bao quanh bởi cảnh quan đẹp. Họ đang mang ba lô và sử dụng gậy đi bộ.",
+      "kr": "사진에서 등산객들이 아름다운 풍경으로 둘러싸인 산길을 걷고 있습니다. 그들은 배낭을 메고 등산 스틱을 사용하고 있습니다.",
+      "jp": "写真では、ハイカーが美しい景色に囲まれた山道を歩いています。彼らはバックパックを背負い、トレッキングポールを使っています。"
+    },
+    "category": "Nature & Hiking",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, hikers are walking on a mountain trail surrounded by beautiful scenery. They are carrying backpacks and using walking sticks. Trees and mountains are visible in the distance.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ˈhaɪkərz ɑːr ˈwɔːkɪŋ ɑːn ə ˈmaʊntən treɪl səˈraʊndɪd baɪ ˈbjuːtɪfl ˈsiːnəri ðeɪ ɑːr ˈkæriɪŋ ˈbækpæks ənd ˈjuːzɪŋ ˈwɔːkɪŋ stɪks triːz ənd ˈmaʊntənz ɑːr ˈvɪzəbl ɪn ðə ˈdɪstəns/"
+  },
+  {
+    "id": 119,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a librarian helping a child choose books in a public library. They are standing near shelves filled with colorful children's books.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə laɪˈbrɛriən ˈhɛlpɪŋ ə tʃaɪld tʃuːz bʊks ɪn ə ˈpʌblɪk ˈlaɪbrɛri ðeɪ ɑːr ˈstændɪŋ nɪr ʃɛlvz fɪld wɪð ˈkʌlərfəl ˈtʃɪldrənz bʊks/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một thủ thư đang giúp một đứa trẻ chọn sách trong thư viện công cộng. Họ đang đứng gần các kệ đầy sách thiếu nhi nhiều màu sắc.",
+      "kr": "사진은 공공 도서관에서 사서가 아이에게 책 고르는 것을 돕는 모습을 보여줍니다. 그들은 색색의 어린이 책으로 가득 찬 서가 근처에 서 있습니다.",
+      "jp": "写真では、公共図書館で司書が子供に本を選ぶ手伝いをしています。彼らはカラフルな児童書でいっぱいの棚の近くに立っています。"
+    },
+    "category": "Library",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a librarian helping a child choose books in a public library. They are standing near shelves filled with colorful children's books. The library is quiet and well-lit.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə laɪˈbrɛriən ˈhɛlpɪŋ ə tʃaɪld tʃuːz bʊks ɪn ə ˈpʌblɪk ˈlaɪbrɛri ðeɪ ɑːr ˈstændɪŋ nɪr ʃɛlvz fɪld wɪð ˈkʌlərfəl ˈtʃɪldrənz bʊks ðə ˈlaɪbrɛri ɪz ˈkwaɪət ənd wɛl lɪt/"
+  },
+  {
+    "id": 120,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a person is jogging in a park on a sunny morning. There are trees, a path, and other people walking dogs in the background.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə ˈpɜːrsən ɪz ˈdʒɑːɡɪŋ ɪn ə pɑːrk ɑːn ə ˈsʌni ˈmɔːrnɪŋ ðɛr ɑːr triːz ə pæθ ənd ˈʌðər ˈpiːpl ˈwɔːkɪŋ dɔːɡz ɪn ðə ˈbækɡraʊnd/",
+    "translations": {
+      "vn": "Trong bức ảnh, một người đang chạy bộ trong công viên vào buổi sáng nắng. Có cây cối, lối đi và những người khác đang dắt chó ở phía sau.",
+      "kr": "이미지에서 한 사람이 화창한 아침 공원에서 조깅하고 있습니다. 배경에 나무, 산책로, 개를 산책시키는 다른 사람들이 있습니다.",
+      "jp": "画像では、晴れた朝に公園で人がジョギングしています。背景に木々、道、他の人が犬を散歩させています。"
+    },
+    "category": "Health & Park",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a person is jogging in a park on a sunny morning. There are trees, a path, and other people walking dogs in the background. The person is wearing sportswear and headphones.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə ˈpɜːrsən ɪz ˈdʒɑːɡɪŋ ɪn ə pɑːrk ɑːn ə ˈsʌni ˈmɔːrnɪŋ ðɛr ɑːr triːz ə pæθ ənd ˈʌðər ˈpiːpl ˈwɔːkɪŋ dɔːɡz ɪn ðə ˈbækɡraʊnd ðə ˈpɜːrsən ɪz ˈwɛrɪŋ ˈspɔːrtswɛr ənd ˈhɛdfoʊnz/"
+  },
+  {
+    "id": 121,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a busy outdoor market on a weekend. Vendors are selling fresh fruits, vegetables, and flowers from stalls, and shoppers are carrying bags.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə ˈbɪzi ˈaʊtdɔːr ˈmɑːrkɪt ɑːn ə ˈwiːkɛnd ˈvɛndərz ɑːr ˈsɛlɪŋ frɛʃ fruːts ˈvɛdʒtəbəlz ənd ˈflaʊərz frɑːm stɔːlz ənd ˈʃɑːpərz ɑːr ˈkæriɪŋ bæɡz/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một chợ ngoài trời nhộn nhịp vào cuối tuần. Người bán đang bán trái cây tươi, rau củ và hoa từ các quầy hàng, và người mua đang mang túi.",
+      "kr": "사진은 주말의 붐비는 야외 시장을 보여줍니다. 상인들은 노점에서 신선한 과일, 채소, 꽃을 팔고 있고 쇼핑객들은 가방을 들고 있습니다.",
+      "jp": "写真では、週末の賑やかな屋外市場が映っています。露店主が新鮮な果物、野菜、花を売り、買い物客は袋を持っています。"
+    },
+    "category": "Market",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a busy outdoor market on a weekend. Vendors are selling fresh fruits, vegetables, and flowers from stalls, and shoppers are carrying bags. Colorful umbrellas cover the stalls.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə ˈbɪzi ˈaʊtdɔːr ˈmɑːrkɪt ɑːn ə ˈwiːkɛnd ˈvɛndərz ɑːr ˈsɛlɪŋ frɛʃ fruːts ˈvɛdʒtəbəlz ənd ˈflaʊərz frɑːm stɔːlz ənd ˈʃɑːpərz ɑːr ˈkæriɪŋ bæɡz ˈkʌlərfəl ʌmˈbrɛləz ˈkʌvər ðə stɔːlz/"
+  },
+  {
+    "id": 122,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, a young couple is sitting at an outdoor café table. They are drinking coffee and talking while enjoying the city view.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ə jʌŋ ˈkʌpl ɪz ˈsɪtɪŋ æt ən ˈaʊtdɔːr kæˈfeɪ ˈteɪbl ðeɪ ɑːr ˈdrɪŋkɪŋ ˈkɔːfi ənd ˈtɔːkɪŋ waɪl ɪnˈdʒɔɪɪŋ ðə ˈsɪti vjuː/",
+    "translations": {
+      "vn": "Trong bức ảnh, một cặp đôi trẻ đang ngồi ở bàn ngoài trời của quán cà phê. Họ đang uống cà phê và nói chuyện trong khi ngắm cảnh thành phố.",
+      "kr": "사진에서 젊은 커플이 야외 카페 테이블에 앉아 있습니다. 그들은 커피를 마시며 대화하고 도시 전망을 즐기고 있습니다。",
+      "jp": "写真では、若いカップルが屋外のカフェテーブルに座っています。彼らはコーヒーを飲みながら会話し、街の景色を楽しんでいます。"
+    },
+    "category": "Daily Life",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, a young couple is sitting at an outdoor café table. They are drinking coffee and talking while enjoying the city view. There are plants and other customers around them.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ə jʌŋ ˈkʌpl ɪz ˈsɪtɪŋ æt ən ˈaʊtdɔːr kæˈfeɪ ˈteɪbl ðeɪ ɑːr ˈdrɪŋkɪŋ ˈkɔːfi ənd ˈtɔːkɪŋ waɪl ɪnˈdʒɔɪɪŋ ðə ˈsɪti vjuː ðɛr ɑːr plænts ənd ˈʌðər ˈkʌstəmərz əˈraʊnd ðɛm/"
+  },
+  {
+    "id": 123,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a delivery person handing a package to a customer at the door of a house. The customer is signing on a digital device.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə dɪˈlɪvəri ˈpɜːrsən ˈhændɪŋ ə ˈpækɪdʒ tuː ə ˈkʌstəmər æt ðə dɔːr əv ə haʊs ðə ˈkʌstəmər ɪz ˈsaɪnɪŋ ɑːn ə ˈdɪdʒɪtl dɪˈvaɪs/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhân viên giao hàng đang đưa gói hàng cho khách tại cửa nhà. Khách hàng đang ký tên trên thiết bị điện tử.",
+      "kr": "이미지에서 배달원이 집 문 앞에서 고객에게 소포를 건네고 있습니다. 고객은 디지털 기기에 서명하고 있습니다.",
+      "jp": "画像では、配達員が家の玄関で顧客に荷物を渡しています。顧客はデジタルデバイスにサインしています。"
+    },
+    "category": "Delivery Service",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a delivery person handing a package to a customer at the door of a house. The customer is signing on a digital device. A delivery van is parked nearby.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə dɪˈlɪvəri ˈpɜːrsən ˈhændɪŋ ə ˈpækɪdʒ tuː ə ˈkʌstəmər æt ðə dɔːr əv ə haʊs ðə ˈkʌstəmər ɪz ˈsaɪnɪŋ ɑːn ə ˈdɪdʒɪtl dɪˈvaɪs ə dɪˈlɪvəri væn ɪz pɑːrkt ˈnɪrbaɪ/"
+  },
+  {
+    "id": 124,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a group of volunteers is cleaning a park. They are picking up trash with bags and wearing gloves and bright vests.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə ɡruːp əv ˌvɑːlənˈtɪrz ɪz ˈkliːnɪŋ ə pɑːrk ðeɪ ɑːr ˈpɪkɪŋ ʌp træʃ wɪð bæɡz ənd ˈwɛrɪŋ ɡlʌvz ənd braɪt vɛsts/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nhóm tình nguyện viên đang dọn dẹp công viên. Họ đang nhặt rác bằng túi và đeo găng tay cùng áo phản quang sáng màu.",
+      "kr": "사진에서 자원봉사자 그룹이 공원을 청소하고 있습니다. 그들은 쓰레기를 봉투로 줍고 있으며 장갑과 밝은 조끼를 착용하고 있습니다.",
+      "jp": "写真では、ボランティアグループが公園を清掃しています。彼らはゴミ袋でゴミを拾い、手袋と明るいベストを着ています。"
+    },
+    "category": "Community & Environment",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, a group of volunteers is cleaning a park. They are picking up trash with bags and wearing gloves and bright vests. Trees and a lake can be seen in the background.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ə ɡruːp əv ˌvɑːlənˈtɪrz ɪz ˈkliːnɪŋ ə pɑːrk ðeɪ ɑːr ˈpɪkɪŋ ʌp træʃ wɪð bæɡz ənd ˈwɛrɪŋ ɡlʌvz ənd braɪt vɛsts triːz ənd ə leɪk kæn biː siːn ɪn ðə ˈbækɡraʊnd/"
+  },
+  {
+    "id": 125,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a scientist working in a laboratory. He is wearing a white lab coat and looking into a microscope on the bench.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈsaɪəntɪst ˈwɜːrkɪŋ ɪn ə ˈlæbrəˌtɔːri hi ɪz ˈwɛrɪŋ ə waɪt læb koʊt ənd ˈlʊkɪŋ ˈɪntu ə ˈmaɪkrəskoʊp ɑːn ðə bɛntʃ/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhà khoa học đang làm việc trong phòng thí nghiệm. Anh ấy đang mặc áo blouse trắng và nhìn vào kính hiển vi trên bàn.",
+      "kr": "사진은 실험실에서 일하는 과학자를 보여줍니다. 그는 흰 가운을 입고 벤치 위의 현미경을 들여다보고 있습니다.",
+      "jp": "写真では、実験室で働く科学者が映っています。彼は白衣を着て、ベンチ上の顕微鏡を覗いています。"
+    },
+    "category": "Science & Laboratory",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a scientist working in a laboratory. He is wearing a white lab coat and looking into a microscope on the bench. Test tubes and equipment are arranged around him.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈsaɪəntɪst ˈwɜːrkɪŋ ɪn ə ˈlæbrəˌtɔːri hi ɪz ˈwɛrɪŋ ə waɪt læb koʊt ənd ˈlʊkɪŋ ˈɪntu ə ˈmaɪkrəskoʊp ɑːn ðə bɛntʃ tɛst tuːbz ənd ɪˈkwɪpmənt ɑːr əˈreɪndʒd əˈraʊnd hɪm/"
+  },
+  {
+    "id": 126,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a street performer is playing a guitar and singing in a pedestrian area. People are stopping to listen and some are putting money in a hat.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə striːt pərˈfɔːrmər ɪz ˈpleɪɪŋ ə ɡɪˈtɑːr ənd ˈsɪŋɪŋ ɪn ə pəˈdɛstriən ˈɛriə ˈpiːpl ɑːr ˈstɑːpɪŋ tuː ˈlɪsən ənd sʌm ɑːr ˈpʊtɪŋ ˈmʌni ɪn ə hæt/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nghệ sĩ đường phố đang chơi guitar và hát ở khu vực dành cho người đi bộ. Mọi người đang dừng lại lắng nghe và một số đang bỏ tiền vào mũ.",
+      "kr": "이미지에서 거리 공연자가 보행자 구역에서 기타를 연주하며 노래하고 있습니다. 사람들이 멈춰 서서 듣고 있고 일부는 모자에 돈을 넣고 있습니다.",
+      "jp": "画像では、ストリートパフォーマーが歩行者エリアでギターを弾き歌っています。人々が立ち止まって聞き、何人かは帽子にお金を入れています。"
+    },
+    "category": "Street Performance",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a street performer is playing a guitar and singing in a pedestrian area. People are stopping to listen and some are putting money in a hat. Shops and cafés are visible around the area.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə striːt pərˈfɔːrmər ɪz ˈpleɪɪŋ ə ɡɪˈtɑːr ənd ˈsɪŋɪŋ ɪn ə pəˈdɛstriən ˈɛriə ˈpiːpl ɑːr ˈstɑːpɪŋ tuː ˈlɪsən ənd sʌm ɑːr ˈpʊtɪŋ ˈmʌni ɪn ə hæt ʃɑːps ənd kæˈfeɪz ɑːr ˈvɪzəbl əˈraʊnd ðə ˈɛriə/"
+  },
+  {
+    "id": 127,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a tour guide leading a group of tourists in a historic city. They are standing in front of an old building while the guide is holding a flag.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə tʊr ɡaɪd ˈliːdɪŋ ə ɡruːp əv ˈtʊrɪsts ɪn ə hɪˈstɔːrɪk ˈsɪti ðeɪ ɑːr ˈstændɪŋ ɪn frʌnt əv ən oʊld ˈbɪldɪŋ waɪl ðə ɡaɪd ɪz ˈhoʊldɪŋ ə flæɡ/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một hướng dẫn viên du lịch đang dẫn nhóm du khách trong thành phố lịch sử. Họ đang đứng trước một tòa nhà cũ trong khi hướng dẫn viên đang cầm cờ.",
+      "kr": "사진은 역사적인 도시에서 투어 가이드가 관광객 그룹을 안내하는 모습을 보여줍니다. 그들은 오래된 건물 앞에 서 있고 가이드가 깃발을 들고 있습니다.",
+      "jp": "写真では、歴史的な都市でツアーガイドが観光客グループを案内しています。彼らは古い建物の前で立ち、ガイドが旗を持っています。"
+    },
+    "category": "Tourism",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a tour guide leading a group of tourists in a historic city. They are standing in front of an old building while the guide is holding a flag. The tourists are taking photos.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə tʊr ɡaɪd ˈliːdɪŋ ə ɡruːp əv ˈtʊrɪsts ɪn ə hɪˈstɔːrɪk ˈsɪti ðeɪ ɑːr ˈstændɪŋ ɪn frʌnt əv ən oʊld ˈbɪldɪŋ waɪl ðə ɡaɪd ɪz ˈhoʊldɪŋ ə flæɡ ðə ˈtʊrɪsts ɑːr ˈteɪkɪŋ ˈfoʊtoʊz/"
+  },
+  {
+    "id": 128,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, a mechanic is repairing a car in a garage. The car is on a lift and tools are scattered around the workspace.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ə məˈkænɪk ɪz rɪˈpɛrɪŋ ə kɑːr ɪn ə ɡəˈrɑːʒ ðə kɑːr ɪz ɑːn ə lɪft ənd tuːlz ɑːr ˈskætərd əˈraʊnd ðə ˈwɜːrkˌspeɪs/",
+    "translations": {
+      "vn": "Trong bức ảnh, một thợ máy đang sửa xe trong gara. Xe đang được nâng lên và dụng cụ nằm rải rác quanh khu vực làm việc.",
+      "kr": "사진에서 정비사가 차고에서 차를 수리하고 있습니다. 차는 리프트에 올려져 있고 도구들이 작업 공간 주변에 흩어져 있습니다.",
+      "jp": "写真では、メカニックがガレージで車を修理しています。車はリフトに上げられ、工具が作業スペース周辺に散らばっています。"
+    },
+    "category": "Automotive",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, a mechanic is repairing a car in a garage. The car is on a lift and tools are scattered around the workspace. The mechanic is wearing overalls and using a wrench.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ə məˈkænɪk ɪz rɪˈpɛrɪŋ ə kɑːr ɪn ə ɡəˈrɑːʒ ðə kɑːr ɪz ɑːn ə lɪft ənd tuːlz ɑːr ˈskætərd əˈraʊnd ðə ˈwɜːrkˌspeɪs ðə məˈkænɪk ɪz ˈwɛrɪŋ ˈoʊvərɔːlz ənd ˈjuːzɪŋ ə rɛntʃ/"
+  },
+  {
+    "id": 129,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows children playing in a playground. Some are swinging, others are sliding down a slide, and parents are watching from benches.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ˈtʃɪldrən ˈpleɪɪŋ ɪn ə ˈpleɪɡraʊnd sʌm ɑːr ˈswɪŋɪŋ ˈʌðərz ɑːr ˈslaɪdɪŋ daʊn ə slaɪd ənd ˈpɛrənts ɑːr ˈwɑːtʃɪŋ frɑːm ˈbɛntʃɪz/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy trẻ em đang chơi ở sân chơi. Một số đang đu xích đu, những đứa khác đang trượt cầu trượt, và cha mẹ đang ngồi xem từ ghế băng.",
+      "kr": "이미지는 놀이터에서 아이들이 놀고 있는 모습을 보여줍니다. 일부는 그네를 타고 있고, 다른 아이들은 미끄럼틀을 타고 내려오며, 부모들은 벤치에서 지켜보고 있습니다.",
+      "jp": "画像では、子供たちが遊び場で遊んでいます。何人かはブランコに乗り、他は滑り台を滑り、親たちはベンチから見守っています。"
+    },
+    "category": "Children & Playground",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows children playing in a playground. Some are swinging, others are sliding down a slide, and parents are watching from benches. The playground has bright colors and safety surfaces.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ˈtʃɪldrən ˈpleɪɪŋ ɪn ə ˈpleɪɡraʊnd sʌm ɑːr ˈswɪŋɪŋ ˈʌðərz ɑːr ˈslaɪdɪŋ daʊn ə slaɪd ənd ˈpɛrənts ɑːr ˈwɑːtʃɪŋ frɑːm ˈbɛntʃɪz ðə ˈpleɪɡraʊnd hæz braɪt ˈkʌlərz ənd ˈseɪfti ˈsɜːrfɪsɪz/"
+  },
+  {
+    "id": 130,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a barista is making coffee behind the counter of a café. There are coffee machines, cups, and a menu board on the wall.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə bəˈrɪstə ɪz ˈmeɪkɪŋ ˈkɔːfi bɪˈhaɪnd ðə ˈkaʊntər əv ə kæˈfeɪ ðɛr ɑːr ˈkɔːfi məˈʃiːnz kʌps ənd ə ˈmɛnjuː bɔːrd ɑːn ðə wɔːl/",
+    "translations": {
+      "vn": "Trong bức ảnh, một barista đang pha cà phê phía sau quầy của quán cà phê. Có máy pha cà phê, cốc và bảng menu trên tường.",
+      "kr": "사진에서 바리스타가 카페 카운터 뒤에서 커피를 만들고 있습니다. 커피 머신, 컵, 벽에 메뉴 보드가 있습니다.",
+      "jp": "写真では、バリスタがカフェのカウンター裏でコーヒーを淹れています。コーヒーマシン、カップ、壁にメニューボードがあります。"
+    },
+    "category": "Café",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, a barista is making coffee behind the counter of a café. There are coffee machines, cups, and a menu board on the wall. Pastries are displayed in a glass case.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ə bəˈrɪstə ɪz ˈmeɪkɪŋ ˈkɔːfi bɪˈhaɪnd ðə ˈkaʊntər əv ə kæˈfeɪ ðɛr ɑːr ˈkɔːfi məˈʃiːnz kʌps ənd ə ˈmɛnjuː bɔːrd ɑːn ðə wɔːl ˈpeɪstriːz ɑːr dɪˈspleɪd ɪn ə ɡlæs keɪs/"
+  },
+  {
+    "id": 131,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a firefighter extinguishing a fire at a building. Smoke is coming out of windows and a fire truck is parked outside.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈfaɪərˌfaɪtər ɪkˈstɪŋɡwɪʃɪŋ ə faɪər æt ə ˈbɪldɪŋ smoʊk ɪz ˈkʌmɪŋ aʊt əv ˈwɪndoʊz ənd ə faɪər trʌk ɪz pɑːrkt aʊtˈsaɪd/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một lính cứu hỏa đang dập lửa tại một tòa nhà. Khói đang bốc ra từ cửa sổ và xe cứu hỏa đậu bên ngoài.",
+      "kr": "사진에서 소방관이 건물의 화재를 진압하고 있습니다. 창문에서 연기가 나오고 있고 소방차가 밖에 주차되어 있습니다.",
+      "jp": "写真では、消防士が建物の火災を消火しています。窓から煙が出ており、消防車が外に駐車されています。"
+    },
+    "category": "Emergency Services",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a firefighter extinguishing a fire at a building. Smoke is coming out of windows and a fire truck is parked outside. Other firefighters are holding hoses.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈfaɪərˌfaɪtər ɪkˈstɪŋɡwɪʃɪŋ ə faɪər æt ə ˈbɪldɪŋ smoʊk ɪz ˈkʌmɪŋ aʊt əv ˈwɪndoʊz ənd ə faɪər trʌk ɪz pɑːrkt aʊtˈsaɪd ˈʌðər ˈfaɪərˌfaɪtərz ɑːr ˈhoʊldɪŋ hoʊzɪz/"
+  },
+  {
+    "id": 132,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a gardener is planting flowers in a beautiful garden. There are various plants, tools, and a watering can nearby.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə ˈɡɑːrdnər ɪz ˈplæntɪŋ ˈflaʊərz ɪn ə ˈbjuːtɪfl ˈɡɑːrdn ðɛr ɑːr ˈvɛriəs plænts tuːlz ənd ə ˈwɔːtərɪŋ kæn ˈnɪrbaɪ/",
+    "translations": {
+      "vn": "Trong bức ảnh, một người làm vườn đang trồng hoa trong vườn đẹp. Có nhiều loại cây, dụng cụ và bình tưới nước gần đó.",
+      "kr": "이미지에서 정원사가 아름다운 정원에 꽃을 심고 있습니다. 주변에 다양한 식물, 도구, 물뿌리개가 있습니다.",
+      "jp": "画像では、庭師が美しい庭に花を植えています。近周辺りにさまざまな植物、工具、ジョウロがあります。"
+    },
+    "category": "Gardening",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a gardener is planting flowers in a beautiful garden. There are various plants, tools, and a watering can nearby. The garden has a fence and a birdhouse.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə ˈɡɑːrdnər ɪz ˈplæntɪŋ ˈflaʊərz ɪn ə ˈbjuːtɪfl ˈɡɑːrdn ðɛr ɑːr ˈvɛriəs plænts tuːlz ənd ə ˈwɔːtərɪŋ kæn ˈnɪrbaɪ ðə ˈɡɑːrdn hæz ə fɛns ənd ə ˈbɜːrdhaʊs/"
+  },
+  {
+    "id": 133,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a musician playing a piano on a concert stage. The audience is seated and listening attentively in a large hall.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə mjuːˈzɪʃən ˈpleɪɪŋ ə piˈænoʊ ɑːn ə ˈkɑːnsərt steɪdʒ ði ˈɔːdiəns ɪz ˈsiːtɪd ənd ˈlɪsənɪŋ əˈtɛntɪvli ɪn ə lɑːrdʒ hɔːl/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhạc sĩ đang chơi piano trên sân khấu hòa nhạc. Khán giả đang ngồi và lắng nghe chăm chú trong hội trường lớn.",
+      "kr": "사진은 콘서트 무대에서 뮤지션이 피아노를 연주하는 모습을 보여줍니다. 관객들은 대형 홀에서 자리 잡고 주의 깊게 듣고 있습니다.",
+      "jp": "写真では、コンサートステージで音楽家がピアノを演奏しています。観客は大ホールで座って熱心に聴いています。"
+    },
+    "category": "Music Performance",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a musician playing a piano on a concert stage. The audience is seated and listening attentively in a large hall. Spotlights are shining on the pianist.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə mjuːˈzɪʃən ˈpleɪɪŋ ə piˈænoʊ ɑːn ə ˈkɑːnsərt steɪdʒ ði ˈɔːdiəns ɪz ˈsiːtɪd ənd ˈlɪsənɪŋ əˈtɛntɪvli ɪn ə lɑːrdʒ hɔːl ˈspɑːtlaɪts ɑːr ˈʃaɪnɪŋ ɑːn ðə piˈænɪst/"
+  },
+  {
+    "id": 134,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, a postal worker is delivering mail to residential houses. He is riding a bicycle with a bag of letters and packages.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ə ˈpoʊstl ˈwɜːrkər ɪz dɪˈlɪvərɪŋ meɪl tuː ˌrɛzɪˈdɛnʃəl haʊzɪz hi ɪz ˈraɪdɪŋ ə ˈbaɪsɪkl wɪð ə bæɡ əv ˈlɛtərz ənd ˈpækɪdʒɪz/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nhân viên bưu điện đang phát thư cho các nhà dân cư. Anh ấy đang đi xe đạp với túi đựng thư và bưu kiện.",
+      "kr": "사진에서 우편 배달원이 주택가에 우편물을 배달하고 있습니다. 그는 편지와 소포가 든 가방을 들고 자전거를 타고 있습니다.",
+      "jp": "写真では、郵便配達員が住宅街に郵便物を配達しています。彼は手紙と荷物が入った袋を持って自転車に乗っています。"
+    },
+    "category": "Postal Service",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, a postal worker is delivering mail to residential houses. He is riding a bicycle with a bag of letters and packages. The neighborhood has trees and mailboxes.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ə ˈpoʊstl ˈwɜːrkər ɪz dɪˈlɪvərɪŋ meɪl tuː ˌrɛzɪˈdɛnʃəl haʊzɪz hi ɪz ˈraɪdɪŋ ə ˈbaɪsɪkl wɪð ə bæɡ əv ˈlɛtərz ənd ˈpækɪdʒɪz ðə ˈneɪbərˌhʊd hæz triːz ənd ˈmeɪlbɑːksɪz/"
+  },
+  {
+    "id": 135,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a yoga class in progress in a studio. Participants are doing poses on mats while an instructor is demonstrating in front.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈjoʊɡə klæs ɪn ˈprɑːɡrɛs ɪn ə ˈstuːdioʊ ˈpɑːrˌtɪsɪpənts ɑːr ˈduːɪŋ poʊzɪz ɑːn mæts waɪl ən ɪnˈstrʌktər ɪz ˈdɛmənˌstreɪtɪŋ ɪn frʌnt/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một lớp yoga đang diễn ra trong studio. Học viên đang thực hiện các tư thế trên thảm trong khi huấn luyện viên đang hướng dẫn ở phía trước.",
+      "kr": "이미지는 스튜디오에서 진행 중인 요가 수업을 보여줍니다. 참가자들은 매트 위에서 자세를 취하고 있고 강사가 앞에서 데모를 하고 있습니다.",
+      "jp": "画像では、スタジオでヨガクラスが進行中です。参加者はマット上でポーズを取り、インストラクターが前方でデモンストレーションしています。"
+    },
+    "category": "Yoga & Wellness",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a yoga class in progress in a studio. Participants are doing poses on mats while an instructor is demonstrating in front. The room has mirrors and soft lighting.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈjoʊɡə klæs ɪn ˈprɑːɡrɛs ɪn ə ˈstuːdioʊ ˈpɑːrˌtɪsɪpənts ɑːr ˈduːɪŋ poʊzɪz ɑːn mæts waɪl ən ɪnˈstrʌktər ɪz ˈdɛmənˌstreɪtɪŋ ɪn frʌnt ðə ruːm hæz ˈmɪrərz ənd sɔːft ˈlaɪtɪŋ/"
+  },
+  {
+    "id": 136,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a news reporter is broadcasting live from a city street. She is holding a microphone and speaking to the camera with buildings behind her.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə nuːz rɪˈpɔːrtər ɪz ˈbrɔːdkæstɪŋ laɪv frɑːm ə ˈsɪti striːt ʃi ɪz ˈhoʊldɪŋ ə ˈmaɪkrəfoʊn ənd ˈspiːkɪŋ tuː ðə ˈkæmərə wɪð ˈbɪldɪŋz bɪˈhaɪnd hər/",
+    "translations": {
+      "vn": "Trong bức ảnh, một phóng viên tin tức đang phát sóng trực tiếp từ phố thành phố. Cô ấy đang cầm micro và nói vào camera với các tòa nhà phía sau.",
+      "kr": "사진에서 뉴스 리포터가 도시 거리에서 생방송을 하고 있습니다. 그녀는 마이크를 들고 카메라를 향해 말하고 있으며 뒤에 건물들이 있습니다.",
+      "jp": "写真では、ニュースリポーターが市街地から生中継しています。彼女はマイクを持ち、カメラに向かって話し、後ろに建物があります。"
+    },
+    "category": "Media & News",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, a news reporter is broadcasting live from a city street. She is holding a microphone and speaking to the camera with buildings behind her. A van with a station logo is parked nearby.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ə nuːz rɪˈpɔːrtər ɪz ˈbrɔːdkæstɪŋ laɪv frɑːm ə ˈsɪti striːt ʃi ɪz ˈhoʊldɪŋ ə ˈmaɪkrəfoʊn ənd ˈspiːkɪŋ tuː ðə ˈkæmərə wɪð ˈbɪldɪŋz bɪˈhaɪnd hər ə væn wɪð ə ˈsteɪʃən ˈloʊɡoʊ ɪz pɑːrkt ˈnɪrbaɪ/"
+  },
+  {
+    "id": 137,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a fisherman casting a line from a small boat on a calm lake early in the morning. Mist is covering the water surface.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈfɪʃərmən ˈkæstɪŋ ə laɪn frɑːm ə smɔːl boʊt ɑːn ə kɑːm leɪk ˈɜːrli ɪn ðə ˈmɔːrnɪŋ mɪst ɪz ˈkʌvərɪŋ ðə ˈwɔːtər ˈsɜːrfɪs/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một ngư dân đang thả cần từ một con thuyền nhỏ trên hồ yên tĩnh vào sáng sớm. Sương mù đang bao phủ mặt nước.",
+      "kr": "사진은 아침 일찍 잔잔한 호수 위 작은 보트에서 어부가 낚싯대를 던지고 있는 모습을 보여줍니다. 안개가 수면을 덮고 있습니다.",
+      "jp": "写真では、朝早く静かな湖上の小舟から漁師が釣り竿を投げています。水面を霧が覆っています。"
+    },
+    "category": "Fishing",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a fisherman casting a line from a small boat on a calm lake early in the morning. Mist is covering the water surface. Trees are visible along the shore.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə ˈfɪʃərmən ˈkæstɪŋ ə laɪn frɑːm ə smɔːl boʊt ɑːn ə kɑːm leɪk ˈɜːrli ɪn ðə ˈmɔːrnɪŋ mɪst ɪz ˈkʌvərɪŋ ðə ˈwɔːtər ˈsɜːrfɪs triːz ɑːr ˈvɪzəbl əˈlɔːŋ ðə ʃɔːr/"
+  },
+  {
+    "id": 138,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a tailor is sewing clothes in a workshop. Fabrics, threads, and a sewing machine are on the table in front of him.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə ˈteɪlər ɪz ˈsoʊɪŋ kloʊðz ɪn ə ˈwɜːrkʃɑːp ˈfæbrɪks θrɛdz ənd ə ˈsoʊɪŋ məˈʃiːn ɑːr ɑːn ðə ˈteɪbl ɪn frʌnt əv hɪm/",
+    "translations": {
+      "vn": "Trong bức ảnh, một thợ may đang may quần áo trong xưởng. Vải vóc, chỉ và máy may nằm trên bàn trước mặt anh ấy.",
+      "kr": "이미지에서 재단사가 작업실에서 옷을縫っています. cloth, 실, 재봉틀가 그의 앞 테이블에 놓여 있습니다.",
+      "jp": "画像では、仕立て屋が工房で服を縫っています cloth、生地、糸、ミシン が彼の前のテーブルに置かれています。"
+    },
+    "category": "Tailoring",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a tailor is sewing clothes in a workshop. Fabrics, threads, and a sewing machine are on the table in front of him. Mannequins and patterns are hanging on the wall.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə ˈteɪlər ɪz ˈsoʊɪŋ kloʊðz ɪn ə ˈwɜːrkʃɑːp ˈfæbrɪks θrɛdz ənd ə ˈsoʊɪŋ məˈʃiːn ɑːr ɑːn ðə ˈteɪbl ɪn frʌnt əv hɪm ˈmænɪkɪnz ənd ˈpætərnz ɑːr ˈhæŋɪŋ ɑːn ðə wɔːl/"
+  },
+  {
+    "id": 139,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a group of cyclists riding on a scenic road. They are wearing helmets and cycling gear, with mountains in the background.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə ɡruːp əv ˈsaɪklɪsts ˈraɪdɪŋ ɑːn ə ˈsiːnɪk roʊd ðeɪ ɑːr ˈwɛrɪŋ ˈhɛlmɪts ənd ˈsaɪklɪŋ ɡɪr wɪð ˈmaʊntənz ɪn ðə ˈbækɡraʊnd/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhóm người đi xe đạp trên con đường phong cảnh. Họ đang đội mũ bảo hiểm và mặc đồ đạp xe, với núi ở phía sau.",
+      "kr": "사진은 경치 좋은 도로를 달리는 사이클리스트 그룹을 보여줍니다. 그들은 헬멧과 사이클 의류를 착용하고 있고 배경에 산이 있습니다.",
+      "jp": "写真では、自転車乗りグループが scenic な道を走っています。彼らはヘルメットとサイクリングウェアを着て、後ろに山が見えます。"
+    },
+    "category": "Cycling",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a group of cyclists riding on a scenic road. They are wearing helmets and cycling gear, with mountains in the background. The road is winding through green hills.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə ɡruːp əv ˈsaɪklɪsts ˈraɪdɪŋ ɑːn ə ˈsiːnɪk roʊd ðeɪ ɑːr ˈwɛrɪŋ ˈhɛlmɪts ənd ˈsaɪklɪŋ ɡɪr wɪð ˈmaʊntənz ɪn ðə ˈbækɡraʊnd ðə roʊd ɪz ˈwaɪndɪŋ θruː ɡriːn hɪlz/"
+  },
+  {
+    "id": 140,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, a bookseller is arranging books on shelves in a bookstore. Customers are browsing in the aisles and a sign reads 'New Arrivals'.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ə ˈbʊksɛlər ɪz əˈreɪndʒɪŋ bʊks ɑːn ʃɛlvz ɪn ə ˈbʊkˌstɔːr ˈkʌstəmərz ɑːr ˈbraʊzɪŋ ɪn ði aɪlz ənd ə saɪn riːdz nuː əˈraɪvlz/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nhân viên bán sách đang sắp xếp sách trên kệ trong bookstore. Khách hàng đang xem sách ở các lối đi và một biển ghi 'Sách mới về'.",
+      "kr": "사진에서 서점 직원이 책을 bookshelf에 정리하고 있습니다. 고객들은 통로에서 책을浏览하고 있고 'New Arrivals' 표지판이 보입니다.",
+      "jp": "写真では、本屋の店員が shelves に本を並べています。お客様通路で本を見ています。「New Arrivals」のサインが見えます。"
+    },
+    "category": "Bookstore",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, a bookseller is arranging books on shelves in a bookstore. Customers are browsing in the aisles and a sign reads 'New Arrivals'. The store has wooden shelves and reading chairs.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ə ˈbʊksɛlər ɪz əˈreɪndʒɪŋ bʊks ɑːn ʃɛlvz ɪn ə ˈbʊkˌstɔːr ˈkʌstəmərz ɑːr ˈbraʊzɪŋ ɪn ði aɪlz ənd ə saɪn riːdz nuː əˈraɪvlz ðə stɔːr hæz ˈwʊdən ʃɛlvz ənd ˈriːdɪŋ tʃɛrz/"
+  },
+  {
+    "id": 141,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a waiter serving food to customers at a restaurant table. He is carrying plates and the customers are looking at the dishes.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈweɪtər ˈsɜːrvɪŋ fuːd tuː ˈkʌstəmərz æt ə ˈrɛstərɑːnt ˈteɪbl hi ɪz ˈkæriɪŋ pleɪts ənd ðə ˈkʌstəmərz ɑːr ˈlʊkɪŋ æt ðə ˈdɪʃɪz/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một nhân viên phục vụ đang mang thức ăn cho khách tại bàn nhà hàng. Anh ấy đang bưng đĩa và khách hàng đang nhìn vào các món ăn.",
+      "kr": "이미지에서 웨이터가 레스토랑 테이블의 고객들에게 음식을 서빙하고 있습니다. 그는 접시를 들고 있고 고객들은 요리를看着 있습니다.",
+      "jp": "画像では、ウェイターがレストランテーブルのお客様に料理を提供しています。彼は皿を持ち、お客様は料理を見てています。"
+    },
+    "category": "Restaurant Service",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a waiter serving food to customers at a restaurant table. He is carrying plates and the customers are looking at the dishes. The table has wine glasses and napkins.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈweɪtər ˈsɜːrvɪŋ fuːd tuː ˈkʌstəmərz æt ə ˈrɛstərɑːnt ˈteɪbl hi ɪz ˈkæriɪŋ pleɪts ənd ðə ˈkʌstəmərz ɑːr ˈlʊkɪŋ æt ðə ˈdɪʃɪz ðə ˈteɪbl hæz waɪn ˈɡlæsɪz ənd ˈnæpkɪnz/"
+  },
+  {
+    "id": 142,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a vet is examining a dog in a veterinary clinic. The dog is on the table and the owner is standing beside it.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə vɛt ɪz ɪɡˈzæmɪnɪŋ ə dɔːɡ ɪn ə ˈvɛtərəˌnɛri ˈklɪnɪk ðə dɔːɡ ɪz ɑːn ðə ˈteɪbl ənd ðə ˈoʊnər ɪz ˈstændɪŋ bɪˈsaɪd ɪt/",
+    "translations": {
+      "vn": "Trong bức ảnh, một bác sĩ thú y đang khám cho một con chó trong phòng khám thú y. Con chó đang trên bàn và chủ nhân đứng bên cạnh.",
+      "kr": "사진에서 수의사가 동물 병원에서 개를 검사하고 있습니다. 개는 테이블 위에 있고 주인이 옆에 서 있습니다.",
+      "jp": "写真では、獣医が動物クリニックで犬を診察しています。犬は台上におり、飼い主が旁に立っています。"
+    },
+    "category": "Veterinary",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the picture, a vet is examining a dog in a veterinary clinic. The dog is on the table and the owner is standing beside it. Medical tools and a chart are on the wall.",
+    "sampleAnswerIpa": "/ɪn ðə ˈpɪktʃər ə vɛt ɪz ɪɡˈzæmɪnɪŋ ə dɔːɡ ɪn ə ˈvɛtərəˌnɛri ˈklɪnɪk ðə dɔːɡ ɪz ɑːn ðə ˈteɪbl ənd ðə ˈoʊnər ɪz ˈstændɪŋ bɪˈsaɪd ɪt ˈmɛdɪkl tuːlz ənd ə tʃɑːrt ɑːr ɑːn ðə wɔːl/"
+  },
+  {
+    "id": 143,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a photographer taking pictures at a scenic viewpoint. He is using a professional camera on a tripod overlooking a valley.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə fəˈtɑːɡrəfər ˈteɪkɪŋ ˈpɪktʃərz æt ə ˈsiːnɪk ˈvjuːpɔɪnt hi ɪz ˈjuːzɪŋ ə prəˈfɛʃənl ˈkæmərə ɑːn ə ˈtraɪpɑːd ˌoʊvərˈlʊkɪŋ ə ˈvæli/",
+    "translations": {
+      "vn": "B picture cho thấy một nhiếp ảnh gia đang chụp ảnh tại điểm ngắm cảnh. Anh ấy đang dùng máy ảnh chuyên nghiệp trên tripod nhìn xuống thung lũng.",
+      "kr": "사진에서 사진작가가 경치 좋은 뷰포인트에서 사진을 찍고 있습니다. 그는 삼각대에 프로 카메라를 사용하며 계곡을 내려다보고 있습니다.",
+      "jp": "写真では、摄影家が scenic な展望台で写真を撮っています。彼は tripod にプロカメラを設置し、谷を見下ろしています。"
+    },
+    "category": "Photography",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a photographer taking pictures at a scenic viewpoint. He is using a professional camera on a tripod overlooking a valley. The landscape includes rivers and forests.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə fəˈtɑːɡrəfər ˈteɪkɪŋ ˈpɪktʃərz æt ə ˈsiːnɪk ˈvjuːpɔɪnt hi ɪz ˈjuːzɪŋ ə prəˈfɛʃənl ˈkæmərə ɑːn ə ˈtraɪpɑːd ˌoʊvərˈlʊkɪŋ ə ˈvæli ðə ˈlændˌskeɪp ɪnˈkluːdz ˈrɪvərz ənd ˈfɔːrɪsts/"
+  },
+  {
+    "id": 144,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a security guard is patrolling a shopping mall. He is wearing a uniform and walking past stores with a walkie-talkie.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə sɪˈkjʊrəti ɡɑːrd ɪz pəˈtroʊlɪŋ ə ˈʃɑːpɪŋ mɔːl hi ɪz ˈwɛrɪŋ ə ˈjuːnɪfɔːrm ənd ˈwɔːkɪŋ pæst stɔːrz wɪð ə ˈwɔːki ˈtɔːki/",
+    "translations": {
+      "vn": "Trong bức ảnh, một bảo vệ đang tuần tra trong trung tâm mua sắm. Anh ấy mặc đồng phục và đi qua các cửa hàng với bộ đàm.",
+      "kr": "이미지에서 경비원이 쇼핑몰을 순찰하고 있습니다. 그는 유니폼을 입고 무전기를 들고 상점들을 지나가고 있습니다.",
+      "jp": "画像では、警備員がショッピングモールを巡回しています。彼は制服を着て、無線機を持って店舗を通り過ぎています。"
+    },
+    "category": "Security",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a security guard is patrolling a shopping mall. He is wearing a uniform and walking past stores with a walkie-talkie. The mall has escalators and many shoppers.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə sɪˈkjʊrəti ɡɑːrd ɪz pəˈtroʊlɪŋ ə ˈʃɑːpɪŋ mɔːl hi ɪz ˈwɛrɪŋ ə ˈjuːnɪfɔːrm ənd ˈwɔːkɪŋ pæst stɔːrz wɪð ə ˈwɔːki ˈtɔːki ðə mɔːl hæz ˈɛskəleɪtərz ənd ˈmɛni ˈʃɑːpərz/"
+  },
+  {
+    "id": 145,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The picture shows a painter working on a canvas in an art studio. Brushes, paints, and a palette are on a table next to him.",
+    "ipa": "/ðə ˈpɪktʃər ʃoʊz ə ˈpeɪntər ˈwɜːrkɪŋ ɑːn ə ˈkænvəs ɪn ən ɑːrt ˈstuːdioʊ ˈbrʌʃɪz peɪnts ənd ə ˈpælɪt ɑːr ɑːn ə ˈteɪbl nɛkst tuː hɪm/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một họa sĩ đang vẽ trên canvas trong xưởng nghệ thuật. Cọ, màu vẽ và bảng pha màu nằm trên bàn bên cạnh anh ấy.",
+      "kr": "사진에서 화가가美術 스튜디오에서 캔버스에 그림을 그리고 있습니다. 붓, 물감, 팔레트가 그의 옆 테이블에 놓여 있습니다.",
+      "jp": "写真では、画家が美術スタジオでキャンバスに絵を描いています。筆、絵の具、パレットが旁的テーブルに placed されています。"
+    },
+    "category": "Art & Painting",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The picture shows a painter working on a canvas in an art studio. Brushes, paints, and a palette are on a table next to him. Natural light is coming through a window.",
+    "sampleAnswerIpa": "/ðə ˈpɪktʃər ʃoʊz ə ˈpeɪntər ˈwɜːrkɪŋ ɑːn ə ˈkænvəs ɪn ən ɑːrt ˈstuːdioʊ ˈbrʌʃɪz peɪnts ənd ə ˈpælɪt ɑːr əˈraʊnd ə ˈteɪbl nɛkst tuː hɪm ˈnætʃərəl laɪt ɪz ˈkʌmɪŋ θruː ə ˈwɪndoʊ/"
+  },
+  {
+    "id": 146,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the photo, a bus driver is operating a city bus. Passengers are boarding through the front door and some are standing inside.",
+    "ipa": "/ɪn ðə ˈfoʊtoʊ ə bʌs ˈdraɪvər ɪz ˈɑːpəreɪtɪŋ ə ˈsɪti bʌs ˈpæsɪndʒərz ɑːr ˈbɔːrdɪŋ θruː ðə frʌnt dɔːr ənd sʌm ɑːr ˈstændɪŋ ɪnˈsaɪd/",
+    "translations": {
+      "vn": "Trong bức ảnh, một tài xế xe buýt đang lái xe buýt thành phố. Hành khách đang lên qua cửa trước và một số đang đứng bên trong.",
+      "kr": "사진에서 버스 운전사가 시내버스를 운전하고 있습니다. 승객들은 앞문로 승차하고 있고 일부는 Inside 에 서 있습니다.",
+      "jp": "写真では、バスの運転手が都市バスを運転しています。乗客が前方ドアから乗車し、何人かは car内に立っています。"
+    },
+    "category": "Public Transportation",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the photo, a bus driver is operating a city bus. Passengers are boarding through the front door and some are standing inside. The bus has route number and destination signs.",
+    "sampleAnswerIpa": "/ɪn ðə ˈfoʊtoʊ ə bʌs ˈdraɪvər ɪz ˈɑːpəreɪtɪŋ ə ˈsɪti bʌs ˈpæsɪndʒərz ɑːr ˈbɔːrdɪŋ θruː ðə frʌnt dɔːr ənd sʌm ɑːr ˈstændɪŋ ɪnˈsaɪd ðə bʌs hæz ruːt ˈnʌmbər ənd ˌdɛstɪˈneɪʃən saɪnz/"
+  },
+  {
+    "id": 147,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The image shows a florist arranging flowers in a shop. She is creating a bouquet with various colorful flowers and greenery.",
+    "ipa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈflɔːrɪst əˈreɪndʒɪŋ ˈflaʊərz ɪn ə ʃɑːp ʃi ɪz kriˈeɪtɪŋ ə buːˈkeɪ wɪð ˈvɛriəs ˈkʌlərfəl ˈflaʊərz ənd ˈɡriːnəri/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một người bán hoa đang sắp xếp hoa trong cửa hàng. Cô ấy đang tạo một bó hoa với nhiều loại hoa màu sắc và lá xanh.",
+      "kr": "이미지에서 플로리스트가 가게에서 꽃을 정리하고 있습니다. 그녀는 다양한 색색의 꽃과 greenery 로 꽃다발을 만들고 있습니다.",
+      "jp": "画像では、花屋が店内で花をアレンジしています。彼女は多彩な色とりどりの花と greenery でブーケを作っています。"
+    },
+    "category": "Florist",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The image shows a florist arranging flowers in a shop. She is creating a bouquet with various colorful flowers and greenery. Buckets of flowers and ribbons are around the counter.",
+    "sampleAnswerIpa": "/ði ˈɪmɪdʒ ʃoʊz ə ˈflɔːrɪst əˈreɪndʒɪŋ ˈflaʊərz ɪn ə ʃɑːp ʃi ɪz kriˈeɪtɪŋ ə buːˈkeɪ wɪð ˈvɛriəs ˈkʌlərfəl ˈflaʊərz ənd ˈɡriːnəri ˈbʌkɪts əv ˈflaʊərz ənd ˈrɪbənz ɑːr əˈraʊnd ðə ˈkaʊntər/"
+  },
+  {
+    "id": 148,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the picture, a student is studying at a desk in a dormitory room. Books, a laptop, and a lamp are on the desk."
+  },
+  {
+    "id": 149,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "The photo shows a chef tasting food from a spoon in a restaurant kitchen. Assistants are chopping vegetables nearby.",
+    "ipa": "/ðə ˈfoʊtoʊ ʃoʊz ə ʃɛf ˈteɪstɪŋ fuːd frɑːm ə spuːn ɪn ə ˈrɛstərɑːnt ˈkɪtʃɪn əˈsɪstənts ɑːr ˈtʃɑːpɪŋ ˈvɛdʒtəbəlz ˈnɪrbaɪ/",
+    "translations": {
+      "vn": "Bức ảnh cho thấy một đầu bếp đang nếm thức ăn từ muỗng trong bếp nhà hàng. Trợ lý đang thái rau củ gần đó.",
+      "kr": "사진에서 셰프가 레스토랑 주방에서 스푼으로 음식을 시식하고 있습니다. 어시스턴트들이 근처에서 채소를 썰고 있습니다.",
+      "jp": "写真では、シェフがレストランキッチンでスプーンから料理を味見しています。アシスタントたちが近くで野菜を切っています。"
+    },
+    "category": "Cooking",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "The photo shows a chef tasting food from a spoon in a restaurant kitchen. Assistants are chopping vegetables nearby. Pots are steaming on the stove.",
+    "sampleAnswerIpa": "/ðə ˈfoʊtoʊ ʃoʊz ə ʃɛf ˈteɪstɪŋ fuːd frɑːm ə spuːn ɪn ə ˈrɛstərɑːnt ˈkɪtʃɪn əˈsɪstənts ɑːr ˈtʃɑːpɪŋ ˈvɛdʒtəbəlz ˈnɪrbaɪ pɑːts ɑːr ˈstiːmɪŋ ɑːn ðə stoʊv/"
+  },
+  {
+    "id": 150,
+    "questionType": "Describe a picture",
+    "questionNumber": "Q3-4",
+    "text": "In the image, a maintenance worker is fixing a streetlight on a city street. He is using a cherry picker lift and wearing a safety harness.",
+    "ipa": "/ɪn ði ˈɪmɪdʒ ə ˈmeɪntənəns ˈwɜːrkər ɪz ˈfɪksɪŋ ə ˈstriːtlaɪt ɑːn ə ˈsɪti striːt hi ɪz ˈjuːzɪŋ ə ˈtʃɛri ˈpɪkər lɪft ənd ˈwɛrɪŋ ə ˈseɪfti ˈhɑːrnɪs/",
+    "translations": {
+      "vn": "Trong bức ảnh, một nhân viên bảo trì đang sửa đèn đường trên phố thành phố. Anh ấy đang dùng xe nâng cherry picker và đeo dây an toàn.",
+      "kr": "이미지에서 유지보수 직원이 도시 거리의 가로등을 수리하고 있습니다. 그는 체리 피커 리프트를 사용하고 안전 harness 을 착용하고 있습니다.",
+      "jp": "画像では、メンテナンス作業員が市街地の街灯を修理しています。彼はチェリー・ピッカー・リフトを使用し、安全 harness を着用しています。"
+    },
+    "category": "Maintenance",
+    "instructions": "Describe the picture in as much detail as possible.",
+    "prepTime": 30,
+    "speakTime": 45,
+    "sampleAnswer": "In the image, a maintenance worker is fixing a streetlight on a city street. He is using a cherry picker lift and wearing a safety harness. A van with tools is parked below.",
+    "sampleAnswerIpa": "/ɪn ði ˈɪmɪdʒ ə ˈmeɪntənəns ˈwɜːrkər ɪz ˈfɪksɪŋ ə ˈstriːtlaɪt ɑːn ə ˈsɪti striːt hi ɪz ˈjuːzɪŋ ə ˈtʃɛri ˈpɪkər lɪft ənd ˈwɛrɪŋ ə ˈseɪfti ˈhɑːrnɪs ə væn wɪð tuːlz ɪz pɑːrkt bɪˈloʊ/"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Ladies and gentlemen, this is an announcement for passengers on Flight UA456 to Chicago. The flight has been delayed due to bad weather conditions at the destination airport. We expect a new departure time of 8:30 PM instead of 7:45 PM. Please remain in the waiting area, and we will provide further updates shortly. Complimentary refreshments are available at Gate 12. We apologize for any inconvenience caused and thank you for your patience.",
+    "ipa": "/ˈleɪdiz ənd ˈdʒentəlmən ðɪs ɪz ən əˈnaʊnsmənt fɔːr ˈpæsɪndʒərz ɑːn flaɪt juː eɪ ˈfɔːr ˈfɪfti sɪks tuː ʃɪˈkɑːɡoʊ ðə flaɪt hæz bɪn dɪˈleɪd duː tuː bæd ˈweðər kənˈdɪʃənz æt ðə ˌdɛstɪˈneɪʃən ˈɛrpɔːrt wiː ɪkˈspɛkt ə nuː dɪˈpɑːrtʃər taɪm əv eɪt ˈθɜːrti piːˈem ɪnˈstɛd əv ˈsɛvən ˈfɔːrti faɪv piːˈem pliːz rɪˈmeɪn ɪn ðə ˈweɪtɪŋ ˈɛriə ənd wiː wɪl prəˈvaɪd ˈfɜːrðər ˈʌpdeɪts ˈʃɔːrtli ˈkɑːmplɪˈmɛntəri rɪˈfrɛʃmənts ɑːr əˈveɪləbl æt ɡeɪt twɛlv wiː əˈpɑːlədʒaɪz fɔːr ˈɛni ˌɪnkənˈviːniəns kɔːzd ənd θæŋk juː fɔːr jɔːr ˈpeɪʃəns/",
+    "translations": {
+      "vn": "Thưa quý bà và quý ông, đây là thông báo dành cho hành khách trên chuyến bay UA456 đến Chicago. Chuyến bay bị hoãn do điều kiện thời tiết xấu tại sân bay đích. Chúng tôi dự kiến giờ khởi hành mới là 8:30 tối thay vì 7:45 tối. Quý khách vui lòng chờ ở khu vực chờ, chúng tôi sẽ cập nhật thêm thông tin sớm. Đồ uống nhẹ miễn phí có sẵn tại Cổng 12. Chúng tôi xin lỗi vì sự bất tiện gây ra và cảm ơn sự kiên nhẫn của quý khách.",
+      "kr": "신사 숙녀 여러분, 시카고행 UA456 편 탑승객을 위한 안내 방송입니다. 목적지 공항의 악천후로 인해 항공편이 지연되었습니다. 새로운 출발 시간은 오후 7시 45분 대신 오후 8시 30분으로 예상됩니다. 대기 구역에 머물러 주시기 바랍니다. 곧 추가 안내를 드리겠습니다. 게이트 12에서 무료 음료를 제공하고 있습니다. 불편을 드려 죄송하며, 양해 부탁드립니다.",
+      "jp": "女士の皆様、紳士の皆様、シカゴ行きUA456便の乗客の皆様へのアナウンスです。到着空港の悪天候によりフライトが遅延しております。新しい出発時刻は午後7時45分から午後8時30分に変更の見込みです。待合エリアでお待ちください。まもなく追加情報をご案内いたします。ゲート12にて無料の軽食をご用意しております。不便をおかけし申し訳ございません。ご理解とご協力をお願いいたします。"
+    },
+    "category": "Airport & Flight Announcement",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈleɪdiz ənd ˈdʒentəlmən ðɪs ɪz ən əˈnaʊnsmənt fɔːr ˈpæsɪndʒərz ɑːn flaɪt juː eɪ ˈfɔːr ˈfɪfti sɪks tuː ʃɪˈkɑːɡoʊ ðə flaɪt hæz bɪn dɪˈleɪd duː tuː bæd ˈweðər kənˈdɪʃənz æt ðə ˌdɛstɪˈneɪʃən ˈɛrpɔːrt wiː ɪkˈspɛkt ə nuː dɪˈpɑːrtʃər taɪm əv eɪt ˈθɜːrti piːˈem ɪnˈstɛd əv ˈsɛvən ˈfɔːrti faɪv piːˈem pliːz rɪˈmeɪn ɪn ðə ˈweɪtɪŋ ˈɛriə ənd wiː wɪl prəˈvaɪd ˈfɜːrðər ˈʌpdeɪts ˈʃɔːrtli ˈkɑːmplɪˈmɛntəri rɪˈfrɛʃmənts ɑːr əˈveɪləbl æt ɡeɪt twɛlv wiː əˈpɑːlədʒaɪz fɔːr ˈɛni ˌɪnkənˈviːniəns kɔːzd ənd θæŋk juː fɔːr jɔːr ˈpeɪʃəns/"
+  },
+  {
+    "id": 2,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Welcome to the Riverside Hotel. We are delighted to have you as our guest. Our friendly staff is available 24 hours a day to assist with any requests, from room service to tour bookings. Enjoy our modern facilities including a fitness center, swimming pool, and business lounge. Breakfast is served daily from 6:30 AM to 10:00 AM in the main restaurant. We hope your stay is comfortable and memorable.",
+    "ipa": "/ˈwɛlkəm tuː ðə ˈrɪvərsaɪd hoʊˈtɛl wiː ɑːr dɪˈlaɪtɪd tuː hæv juː æz aʊər ɡɛst aʊər ˈfrɛndli stæf ɪz əˈveɪləbl ˈtwɛnti fɔːr aʊərz ə deɪ tuː əˈsɪst wɪð ˈɛni rɪˈkwɛsts frɑːm ruːm ˈsɜːrvɪs tuː tʊr ˈbʊkɪŋz ɪnˈdʒɔɪ aʊər ˈmɑːdərn fəˈsɪlətiz ɪnˈkluːdɪŋ ə ˈfɪtnəs ˈsɛntər ˈswɪmɪŋ puːl ənd ˈbɪznəs laʊndʒ ˈbrɛkfəst ɪz sɜːrvd ˈdeɪli frɑːm sɪks ˈθɜːrti eɪˈem tuː tɛn eɪˈem ɪn ðə meɪn ˈrɛstərɑːnt wiː hoʊp jɔːr steɪ ɪz ˈkʌmfərtəbl ənd məˈmɔːrəbl/",
+    "translations": {
+      "vn": "Chào mừng đến với Khách sạn Riverside. Chúng tôi rất vui được đón tiếp quý khách. Nhân viên thân thiện của chúng tôi sẵn sàng hỗ trợ 24 giờ một ngày với mọi yêu cầu, từ dịch vụ phòng đến đặt tour. Quý khách hãy tận hưởng các tiện nghi hiện đại bao gồm trung tâm thể dục, hồ bơi và phòng chờ kinh doanh. Bữa sáng được phục vụ hàng ngày từ 6:30 sáng đến 10:00 sáng tại nhà hàng chính. Chúng tôi hy vọng kỳ nghỉ của quý khách thoải mái và đáng nhớ.",
+      "kr": "리버사이드 호텔에 오신 것을 환영합니다. 저희 호텔의 손님으로 모시게 되어 기쁩니다. 친절한 직원들이 24시간 룸서비스부터 투어 예약까지 모든 요청을 도와드립니다. 피트니스 센터, 수영장, 비즈니스 라운지 등 현대적인 시설을 즐기세요. 조식은 매일 오전 6시 30분부터 10시까지 메인 레스토랑에서 제공됩니다. 편안하고 기억에 남는 숙박이 되시기 바랍니다.",
+      "jp": "リバーサイドホテルへようこそ。お客様をお迎えできて大変嬉しく存じます。フレンドリーなスタッフが24時間、ルームサービスからツアー予約まであらゆるご要望にお応えします。フィットネスセンター、プール、ビジネスラウンジなどの近代的な施設をお楽しみください。朝食は毎日午前6時30分から10時までメインレストランでご用意しております。快適で思い出に残るご滞在となりますよう願っております。"
+    },
+    "category": "Hotel & Accommodation",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈwɛlkəm tuː ðə ˈrɪvərsaɪd hoʊˈtɛl wiː ɑːr dɪˈlaɪtɪd tuː hæv juː æz aʊər ɡɛst aʊər ˈfrɛndli stæf ɪz əˈveɪləbl ˈtwɛnti fɔːr aʊərz ə deɪ tuː əˈsɪst wɪð ˈɛni rɪˈkwɛsts frɑːm ruːm ˈsɜːrvɪs tuː tʊr ˈbʊkɪŋz ɪnˈdʒɔɪ aʊər ˈmɑːdərn fəˈsɪlətiz ɪnˈkluːdɪŋ ə ˈfɪtnəs ˈsɛntər ˈswɪmɪŋ puːl ənd ˈbɪznəs laʊndʒ ˈbrɛkfəst ɪz sɜːrvd ˈdeɪli frɑːm sɪks ˈθɜːrti eɪˈem tuː tɛn eɪˈem ɪn ðə meɪn ˈrɛstərɑːnt wiː hoʊp jɔːr steɪ ɪz ˈkʌmfərtəbl ənd məˈmɔːrəbl/"
+  },
+  {
+    "id": 3,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Good morning, shoppers. Welcome to Central Department Store's annual winter sale. For a limited time, enjoy up to 50% off on selected clothing, shoes, and accessories. Additionally, all electronics and home appliances are discounted by 20%. Don't miss our special one-day offer on winter coats – buy one, get one half price. The sale runs from today until next Sunday. Visit our customer service desk for more details or gift wrapping services. Happy shopping!",
+    "ipa": "/ɡʊd ˈmɔːrnɪŋ ˈʃɑːpərz ˈwɛlkəm tuː ˈsɛntrəl dɪˈpɑːrtmənt stɔːr ænjuəl ˈwɪntər seɪl fɔːr ə ˈlɪmɪtɪd taɪm ɪnˈdʒɔɪ ʌp tuː ˈfɪfti pərˈsɛnt ɔːf ɑːn sɪˈlɛktɪd ˈkloʊðɪŋ ʃuːz ənd ækˈsɛsəriz əˈdɪʃənəli ɔːl ɪˈlɛktrɑːnɪks ənd hoʊm əˈplaɪənsɪz ɑːr ˈdɪskaʊntɪd baɪ ˈtwɛnti pərˈsɛnt doʊnt mɪs aʊər ˈspɛʃəl wʌn deɪ ˈɔːfər ɑːn ˈwɪntər koʊts baɪ wʌn ɡɛt wʌn hæf praɪs ðə seɪl rʌnz frɑːm təˈdeɪ ʌnˈtɪl nɛkst ˈsʌndeɪ ˈvɪzɪt aʊər ˈkʌstəmər ˈsɜːrvɪs dɛsk fɔːr mɔːr ˈdiːteɪlz ɔːr ɡɪft ˈræpɪŋ ˈsɜːrvɪsɪz ˈhæpi ˈʃɑːpɪŋ/",
+    "translations": {
+      "vn": "Chào buổi sáng, quý khách mua sắm. Chào mừng đến với đợt giảm giá mùa đông hàng năm của Trung tâm Bách hóa Central. Trong thời gian giới hạn, quý khách được giảm tới 50% cho các mặt hàng quần áo, giày dép và phụ kiện được chọn. Ngoài ra, tất cả đồ điện tử và đồ gia dụng được giảm 20%. Đừng bỏ lỡ ưu đãi đặc biệt một ngày cho áo khoác mùa đông – mua một tặng nửa giá cho cái thứ hai. Đợt giảm giá diễn ra từ hôm nay đến Chủ Nhật tuần sau. Quý khách vui lòng đến quầy dịch vụ khách hàng để biết thêm chi tiết hoặc dịch vụ gói quà. Chúc mua sắm vui vẻ!",
+      "kr": "좋은 아침입니다, 쇼핑객 여러분. 센트럴 백화점 연례 겨울 세일에 오신 것을 환영합니다. 한정 기간 동안 선별된 의류, 신발, 액세서리에 최대 50% 할인을 받으세요. 또한 모든 전자제품과 가전제품은 20% 할인됩니다. 겨울 코트 특별 원데이 오퍼를 놓치지 마세요 – 하나 사면 하나 반값입니다. 세일은 오늘부터 다음 주 일요일까지 진행됩니다. 자세한 내용이나 선물 포장 서비스는 고객 서비스 데스크를 방문해 주세요. 즐거운 쇼핑 되세요!",
+      "jp": "おはようございます。お買い物のお客様。セントラルデパートの年間ウィンターセールへようこそ。期間限定で、選定された衣類、靴、アクセサリーが最大50%オフになります。また、全ての電化製品と家電製品が20%オフです。ウィンターコートの特別1日オファーをお見逃しなく – 1着お買い上げで2着目半額です。セールは本日から来週日曜日まで開催されます。詳細やギフト包装サービスはカスタマーサービスデスクへお越しください。お買い物をお楽しみください！"
+    },
+    "category": "Shopping & Sales",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ɡʊd ˈmɔːrnɪŋ ˈʃɑːpərz ˈwɛlkəm tuː ˈsɛntrəl dɪˈpɑːrtmənt stɔːr ænjuəl ˈwɪntər seɪl fɔːr ə ˈlɪmɪtɪd taɪm ɪnˈdʒɔɪ ʌp tuː ˈfɪfti pərˈsɛnt ɔːf ɑːn sɪˈlɛktɪd ˈkloʊðɪŋ ʃuːz ənd ækˈsɛsəriz əˈdɪʃənəli ɔːl ɪˈlɛktrɑːnɪks ənd hoʊm əˈplaɪənsɪz ɑːr ˈdɪskaʊntɪd baɪ ˈtwɛnti pərˈsɛnt doʊnt mɪs aʊər ˈspɛʃəl wʌn deɪ ˈɔːfər ɑːn ˈwɪntər koʊts baɪ wʌn ɡɛt wʌn hæf praɪs ðə seɪl rʌnz frɑːm təˈdeɪ ʌnˈtɪl nɛkst ˈsʌndeɪ ˈvɪzɪt aʊər ˈkʌstəmər ˈsɜːrvɪs dɛsk fɔːr mɔːr ˈdiːteɪlz ɔːr ɡɪft ˈræpɪŋ ˈsɜːrvɪsɪz ˈhæpi ˈʃɑːpɪŋ/"
+  },
+  {
+    "id": 4,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "This is a public service announcement. Due to scheduled maintenance work on the subway line, trains on the Green Line will not run between Central Station and Riverside Station this weekend. Replacement bus services will operate every ten minutes during normal operating hours. Passengers are advised to allow extra travel time. Regular service will resume on Monday morning. We apologize for the inconvenience and thank you for your understanding.",
+    "ipa": "/ðɪs ɪz ə ˈpʌblɪk ˈsɜːrvɪs əˈnaʊnsmənt duː tuː ˈskɛdʒuːld ˈmeɪntənəns wɜːrk ɑːn ðə ˈsʌbweɪ laɪn treɪnz ɑːn ðə ɡriːn laɪn wɪl nɑːt rʌn bɪˈtwiːn ˈsɛntrəl ˈsteɪʃən ənd ˈrɪvərsaɪd ˈsteɪʃən ðɪs ˈwiːkɛnd rɪˈpleɪsmənt bʌs ˈsɜːrvɪsɪz wɪl ˈɑːpəreɪt ˈɛvri tɛn ˈmɪnɪts ˈdjʊərɪŋ ˈnɔːrməl ˈɑːpəreɪtɪŋ aʊərz ˈpæsɪndʒərz ɑːr ədˈvaɪzd tuː əˈlaʊ ˈɛkstrə ˈtrævəl taɪm ˈrɛɡjələr ˈsɜːrvɪs wɪl rɪˈzuːm ɑːn ˈmʌndeɪ ˈmɔːrnɪŋ wiː əˈpɑːlədʒaɪz fɔːr ði ˌɪnkənˈviːniəns ənd θæŋk juː fɔːr jɔːr ˌʌndərˈstændɪŋ/",
+    "translations": {
+      "vn": "Đây là thông báo dịch vụ công cộng. Do công việc bảo trì theo lịch trình trên tuyến tàu điện ngầm, các chuyến tàu trên Tuyến Xanh sẽ không chạy giữa Ga Trung tâm và Ga Riverside vào cuối tuần này. Dịch vụ xe buýt thay thế sẽ hoạt động cứ 10 phút một chuyến trong giờ hoạt động bình thường. Hành khách được khuyên nên dành thêm thời gian di chuyển. Dịch vụ bình thường sẽ hoạt động trở lại vào sáng thứ Hai. Chúng tôi xin lỗi vì sự bất tiện và cảm ơn sự thông cảm của quý khách.",
+      "kr": "공공 서비스 안내입니다. 지하철 노선의 예정된 유지보수 작업으로 인해 이번 주말 그린라인 열차는 센트럴역과 리버사이드역 사이를 운행하지 않습니다. 대체 버스 서비스는 정상 운영 시간 동안 10분 간격으로 운행됩니다. 승객 여러분은 추가 이동 시간을 고려해 주시기 바랍니다. 월요일 아침부터 정상 운행이 재개됩니다. 불편을 드려 죄송하며 양해 부탁드립니다.",
+      "jp": "公共サービスアナウンスです。地下鉄路線の予定メンテナンス作業のため、今週末はグリーンラインの列車がセントラル駅とリバーサイド駅間を運行しません。代替バスサービスは通常運行時間中に10分間隔で運行します。乗客の皆様は余裕を持った移動をお願いします。月曜朝から通常運行を再開いたします。不便をおかけして申し訳ございません。ご理解いただきありがとうございます。"
+    },
+    "category": "Transportation",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ðɪs ɪz ə ˈpʌblɪk ˈsɜːrvɪs əˈnaʊnsmənt duː tuː ˈskɛdʒuːld ˈmeɪntənəns wɜːrk ɑːn ðə ˈsʌbweɪ laɪn treɪnz ɑːn ðə ɡriːn laɪn wɪl nɑːt rʌn bɪˈtwiːn ˈsɛntrəl ˈsteɪʃən ənd ˈrɪvərsaɪd ˈsteɪʃən ðɪs ˈwiːkɛnd rɪˈpleɪsmənt bʌs ˈsɜːrvɪsɪz wɪl ˈɑːpəreɪt ˈɛvri tɛn ˈmɪnɪts ˈdjʊərɪŋ ˈnɔːrməl ˈɑːpəreɪtɪŋ aʊərz ˈpæsɪndʒərz ɑːr ədˈvaɪzd tuː əˈlaʊ ˈɛkstrə ˈtrævəl taɪm ˈrɛɡjələr ˈsɜːrvɪs wɪl rɪˈzuːm ɑːn ˈmʌndeɪ ˈmɔːrnɪŋ wiː əˈpɑːlədʒaɪz fɔːr ði ˌɪnkənˈviːniəns ənd θæŋk juː fɔːr jɔːr ˌʌndərˈstændɪŋ/"
+  },
+  {
+    "id": 5,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Thank you for visiting the City Art Museum today. We are currently featuring a special exhibition of modern paintings on the second floor. The museum cafe offers a variety of refreshments and light meals with a beautiful view of the garden. Guided tours in English are available at 11 AM and 2 PM. Please remember that photography is not permitted inside the exhibition halls. The museum is open until 6 PM today. We hope you enjoy your visit.",
+    "ipa": "/θæŋk juː fɔːr ˈvɪzɪtɪŋ ðə ˈsɪti ɑːrt mjuːˈziːəm təˈdeɪ wiː ɑːr ˈkʌrəntli ˈfiːtʃərɪŋ ə ˈspɛʃəl ˌɛksɪˈbɪʃən əv ˈmɑːdərn ˈpeɪntɪŋz ɑːn ðə ˈsɛkənd flɔːr ðə mjuːˈziːəm kæˈfeɪ ˈɔːfərz ə vəˈraɪəti əv rɪˈfrɛʃmənts ənd laɪt miːlz wɪð ə ˈbjuːtɪfəl vjuː əv ðə ˈɡɑːrdn ˈɡaɪdɪd tʊrz ɪn ˈɪŋɡlɪʃ ɑːr əˈveɪləbl æt ɪˈlɛvən eɪˈem ənd tuː piːˈem pliːz rɪˈmɛmbər ðæt fəˈtɑːɡrəfi ɪz nɑːt pərˈmɪtɪd ɪnˈsaɪd ði ˌɛksɪˈbɪʃən hɔːlz ðə mjuːˈziːəm ɪz ˈoʊpən ʌnˈtɪl sɪks piːˈem təˈdeɪ wiː hoʊp juː ɪnˈdʒɔɪ jɔːr ˈvɪzɪt/",
+    "translations": {
+      "vn": "Cảm ơn quý khách đã ghé thăm Bảo tàng Nghệ thuật Thành phố hôm nay. Hiện chúng tôi đang trưng bày triển lãm đặc biệt về tranh hiện đại ở tầng hai. Quán cà phê bảo tàng cung cấp nhiều loại đồ uống và bữa ăn nhẹ với tầm nhìn đẹp ra khu vườn. Các tour hướng dẫn bằng tiếng Anh có sẵn lúc 11 giờ sáng và 2 giờ chiều. Quý khách vui lòng nhớ rằng không được phép chụp ảnh bên trong các phòng triển lãm. Bảo tàng mở cửa đến 6 giờ tối hôm nay. Chúng tôi hy vọng quý khách có chuyến thăm thú vị.",
+      "kr": "오늘 시티 미술관을 방문해 주셔서 감사합니다. 현재 2층에서 현대 회화 특별 전시를 진행 중입니다. 박물관 카페에서는 정원을 바라보는 아름다운 전망과 함께 다양한 음료와 가벼운 식사를 제공합니다. 영어 가이드 투어는 오전 11시와 오후 2시에 이용 가능합니다. 전시실 내부에서는 사진 촬영이 금지되어 있음을 유념해 주세요. 박물관은 오늘 오후 6시까지 운영됩니다. 즐거운 관람 되세요.",
+      "jp": "本日シティ美術館にご来館いただきありがとうございます。現在2階にて現代絵画の特別展を開催中です。ミュージアムカフェでは庭園の美しい景色を眺めながら各種ドリンクと軽食をご用意しております。英語ガイドツアーは午前11時と午後2時にございます。展示ホール内は撮影禁止ですのでご注意ください。本日は午後6時まで開館しております。お楽しみいただければ幸いです。"
+    },
+    "category": "Museum & Culture",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/θæŋk juː fɔːr ˈvɪzɪtɪŋ ðə ˈsɪti ɑːrt mjuːˈziːəm təˈdeɪ wiː ɑːr ˈkʌrəntli ˈfiːtʃərɪŋ ə ˈspɛʃəl ˌɛksɪˈbɪʃən əv ˈmɑːdərn ˈpeɪntɪŋz ɑːn ðə ˈsɛkənd flɔːr ðə mjuːˈziːəm kæˈfeɪ ˈɔːfərz ə vəˈraɪəti əv rɪˈfrɛʃmənts ənd laɪt miːlz wɪð ə ˈbjuːtɪfəl vjuː əv ðə ˈɡɑːrdn ˈɡaɪdɪd tʊrz ɪn ˈɪŋɡlɪʃ ɑːr əˈveɪləbl æt ɪˈlɛvən eɪˈem ənd tuː piːˈem pliːz rɪˈmɛmbər ðæt fəˈtɑːɡrəfi ɪz nɑːt pərˈmɪtɪd ɪnˈsaɪd ði ˌɛksɪˈbɪʃən hɔːlz ðə mjuːˈziːəm ɪz ˈoʊpən ʌnˈtɪl sɪks piːˈem təˈdeɪ wiː hoʊp juː ɪnˈdʒɔɪ jɔːr ˈvɪzɪt/"
+  },
+  {
+    "id": 6,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Welcome to Bella Italian Restaurant. Tonight's specials include homemade lasagna with fresh basil, grilled salmon served with seasonal vegetables, and our famous tiramisu for dessert. We also recommend our house red wine to complement your meal. Reservations are suggested for parties of six or more. Our full menu is available for takeout, and we offer free delivery within a five-mile radius. Thank you for dining with us this evening.",
+    "ipa": "/ˈwɛlkəm tuː ˈbɛlə ɪˈtæliən ˈrɛstərɑːnt təˈnaɪts ˈspɛʃəlz ɪnˈkluːd hoʊmˈmeɪd ləˈzɑːnjə wɪð frɛʃ ˈbæzəl ɡrɪld ˈsæmən sɜːrvd wɪð ˈsiːzənəl ˈvɛdʒtəbəlz ənd aʊər ˈfeɪməs ˌtɪrəmɪˈsuː fɔːr dɪˈzɜːrt wiː ˈɔːlsoʊ ˌrɛkəˈmɛnd aʊər haʊs rɛd waɪn tuː ˈkɑːmplɪmɛnt jɔːr miːl ˌrɛzərˈveɪʃənz ɑːr səˈdʒɛstɪd fɔːr ˈpɑːrtiz əv sɪks ɔːr mɔːr aʊər fʊl ˈmɛnjuː ɪz əˈveɪləbl fɔːr ˈteɪkaʊt ənd wiː ˈɔːfər friː dɪˈlɪvəri wɪˈðɪn ə faɪv maɪl ˈreɪdiəs θæŋk juː fɔːr ˈdaɪnɪŋ wɪð ʌs ðɪs ˈiːvnɪŋ/",
+    "translations": {
+      "vn": "Chào mừng đến với Nhà hàng Ý Bella. Đặc biệt tối nay bao gồm lasagna tự làm với húng quế tươi, cá hồi nướng kèm rau củ theo mùa, và tiramisu nổi tiếng của chúng tôi làm món tráng miệng. Chúng tôi cũng khuyến khích quý khách dùng rượu vang đỏ nhà để kết hợp với bữa ăn. Nên đặt bàn trước cho nhóm từ sáu người trở lên. Thực đơn đầy đủ có sẵn cho mang về, và chúng tôi giao hàng miễn phí trong bán kính năm dặm. Cảm ơn quý khách đã dùng bữa tại nhà hàng tối nay.",
+      "kr": "벨라 이탈리안 레스토랑에 오신 것을 환영합니다. 오늘 밤 스페셜 메뉴로는 신선한 바질을 곁들인 홈메이드 라자냐, 제철 채소와 함께 제공되는 그릴 연어, 그리고 유명한 티라미수 디저트가 있습니다. 식사와 잘 어울리는 하우스 레드 와인도 추천드립니다. 6인 이상 단체는 예약을 권장합니다. 전체 메뉴는 테이크아웃 가능하며, 5마일 반경 내 무료 배달을 제공합니다. 오늘 저녁 식사를 함께해 주셔서 감사합니다.",
+      "jp": "ベッラ・イタリアンレストランへようこそ。今夜のスペシャルは自家製ラザニア（フレッシュバジル添え）、季節の野菜付きグリルサーモン、そして名物のティラミスです。お食事に合うハウス赤ワインもおすすめいたします。6名様以上のご予約をおすすめします。フルメニューはテイクアウト可能で、5マイル圏内は無料配達いたします。今宵のお食事をお楽しみいただきありがとうございます。"
+    },
+    "category": "Restaurant & Food",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈwɛlkəm tuː ˈbɛlə ɪˈtæliən ˈrɛstərɑːnt təˈnaɪts ˈspɛʃəlz ɪnˈkluːd hoʊmˈmeɪd ləˈzɑːnjə wɪð frɛʃ ˈbæzəl ɡrɪld ˈsæmən sɜːrvd wɪð ˈsiːzənəl ˈvɛdʒtəbəlz ənd aʊər ˈfeɪməs ˌtɪrəmɪˈsuː fɔːr dɪˈzɜːrt wiː ˈɔːlsoʊ ˌrɛkəˈmɛnd aʊər haʊs rɛd waɪn tuː ˈkɑːmplɪmɛnt jɔːr miːl ˌrɛzərˈveɪʃənz ɑːr səˈdʒɛstɪd fɔːr ˈpɑːrtiz əv sɪks ɔːr mɔːr aʊər fʊl ˈmɛnjuː ɪz əˈveɪləbl fɔːr ˈteɪkaʊt ənd wiː ˈɔːfər friː dɪˈlɪvəri wɪˈðɪn ə faɪv maɪl ˈreɪdiəs θæŋk juː fɔːr ˈdaɪnɪŋ wɪð ʌs ðɪs ˈiːvnɪŋ/"
+  },
+  {
+    "id": 7,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "This is your captain speaking. We are now beginning our descent into Los Angeles International Airport. The local time is 3:45 PM and the outside temperature is 72 degrees Fahrenheit. Please return to your seats, fasten your seat belts, and stow all carry-on items. Electronic devices must be turned off or switched to airplane mode. Cabin crew, prepare for landing. We should be at the gate in approximately twenty minutes. Thank you for flying with us.",
+    "ipa": "/ðɪs ɪz jɔːr ˈkæptɪn ˈspiːkɪŋ wiː ɑːr naʊ bɪˈɡɪnɪŋ aʊər dɪˈsɛnt ˈɪntu lɔːs ˈændʒələs ˌɪntərˈnæʃənəl ˈɛrpɔːrt ðə ˈloʊkəl taɪm ɪz θriː ˈfɔːrti faɪv piːˈem ənd ði aʊtˈsaɪd ˈtɛmpərətʃər ɪz ˈsɛvənti tuː dɪˈɡriːz ˈfærənhaɪt pliːz rɪˈtɜːrn tuː jɔːr siːts ˈfæsən jɔːr siːt bɛlts ənd stoʊ ɔːl ˈkæri ɑːn ˈaɪtəmz ɪˈlɛktrɑːnɪk dɪˈvaɪsɪz mʌst biː tɜːrnd ɔːf ɔːr swɪtʃt tuː ˈɛrpleɪn moʊd ˈkæbɪn kruː prɪˈpɛr fɔːr ˈlændɪŋ wiː ʃʊd biː æt ðə ɡeɪt ɪn əˌprɑːksɪmətli ˈtwɛnti ˈmɪnɪts θæŋk juː fɔːr ˈflaɪɪŋ wɪð ʌs/",
+    "translations": {
+      "vn": "Thuyền trưởng xin thông báo. Chúng ta hiện đang bắt đầu hạ độ cao để đáp xuống Sân bay Quốc tế Los Angeles. Giờ địa phương là 3:45 chiều và nhiệt độ bên ngoài là 72 độ F. Quý khách vui lòng trở về chỗ ngồi, thắt dây an toàn và cất gọn hành lý xách tay. Các thiết bị điện tử phải được tắt hoặc chuyển sang chế độ máy bay. Phi hành đoàn chuẩn bị hạ cánh. Chúng ta sẽ đến cổng trong khoảng hai mươi phút nữa. Cảm ơn quý khách đã bay cùng hãng chúng tôi.",
+      "kr": "기장입니다. 현재 로스앤젤레스 국제공항으로 하강을 시작합니다. 현지 시간은 오후 3시 45분, 외부 기온은 화씨 72도입니다. 좌석으로 돌아가 안전벨트를 매고 모든 휴대 수하물을 수납해 주십시오. 전자 기기는 꺼지거나 비행기 모드로 전환해야 합니다. 객실 승무원 여러분, 착륙 준비 바랍니다. 약 20분 후 게이트에 도착할 예정입니다. 함께 비행해 주셔서 감사합니다.",
+      "jp": "機長のアナウンスです。現在ロサンゼルス国際空港への降下を開始いたします。現地時間は午後3時45分、外気温は華氏72度です。座席にお戻りになり、シートベルトをお締めください。機内持ち込み手荷物は全て収納してください。電子機器は電源オフまたは機内モードにしてください。客室乗務員は着陸準備をお願いします。約20分後にゲート到着予定です。ご利用いただきありがとうございます。"
+    },
+    "category": "Airport & Flight Announcement",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ðɪs ɪz jɔːr ˈkæptɪn ˈspiːkɪŋ wiː ɑːr naʊ bɪˈɡɪnɪŋ aʊər dɪˈsɛnt ˈɪntu lɔːs ˈændʒələs ˌɪntərˈnæʃənəl ˈɛrpɔːrt ðə ˈloʊkəl taɪm ɪz θriː ˈfɔːrti faɪv piːˈem ənd ði aʊtˈsaɪd ˈtɛmpərətʃər ɪz ˈsɛvənti tuː dɪˈɡriːz ˈfærənhaɪt pliːz rɪˈtɜːrn tuː jɔːr siːts ˈfæsən jɔːr siːt bɛlts ənd stoʊ ɔːl ˈkæri ɑːn ˈaɪtəmz ɪˈlɛktrɑːnɪk dɪˈvaɪsɪz mʌst biː tɜːrnd ɔːf ɔːr swɪtʃt tuː ˈɛrpleɪn moʊd ˈkæbɪn kruː prɪˈpɛr fɔːr ˈlændɪŋ wiː ʃʊd biː æt ðə ɡeɪt ɪn əˌprɑːksɪmətli ˈtwɛnti ˈmɪnɪts θæŋk juː fɔːr ˈflaɪɪŋ wɪð ʌs/"
+  },
+  {
+    "id": 8,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Attention all staff members. The annual company picnic will take place next Saturday at Riverside Park from 11 AM to 4 PM. There will be games, food, and entertainment for everyone. Please bring your family and friends. Sign up at the HR office by Wednesday if you plan to attend so we can prepare enough food. Transportation will be provided from the office parking lot starting at 10:30 AM. We look forward to seeing you there.",
+    "ipa": "/əˈtɛnʃən ɔːl stæf ˈmɛmbərz ði ˈænjuəl ˈkʌmpəni ˈpɪknɪk wɪl teɪk pleɪs nɛkst ˈsætərdeɪ æt ˈrɪvərsaɪd pɑːrk frɑːm ɪˈlɛvən eɪˈem tuː fɔːr piːˈem ðɛr wɪl biː ɡeɪmz fuːd ənd ˌɛntərˈteɪnmənt fɔːr ˈɛvrɪwʌn pliːz brɪŋ jɔːr ˈfæməli ənd frɛndz saɪn ʌp æt ði eɪtʃˈɑːr ˈɔːfɪs baɪ ˈwɛnzdeɪ ɪf juː plæn tuː əˈtɛnd soʊ wiː kæn prɪˈpɛr ɪˈnʌf fuːd ˌtrænspɔːrˈteɪʃən wɪl biː prəˈvaɪdɪd frɑːm ði ˈɔːfɪs ˈpɑːrkɪŋ lɑːt ˈstɑːrtɪŋ æt tɛn ˈθɜːrti eɪˈem wiː lʊk ˈfɔːrwərd tuː ˈsiːɪŋ juː ðɛr/",
+    "translations": {
+      "vn": "Chú ý toàn thể nhân viên. Buổi picnic hàng năm của công ty sẽ diễn ra vào thứ Bảy tuần tới tại Công viên Riverside từ 11 giờ sáng đến 4 giờ chiều. Sẽ có trò chơi, đồ ăn và giải trí cho mọi người. Quý đồng nghiệp vui lòng mang theo gia đình và bạn bè. Vui lòng đăng ký tại văn phòng Nhân sự trước thứ Tư nếu dự định tham gia để chúng tôi chuẩn bị đủ thức ăn. Xe đưa đón sẽ được cung cấp từ bãi đỗ xe văn phòng bắt đầu từ 10:30 sáng. Chúng tôi mong gặp mọi người tại đó.",
+      "kr": "전 직원 여러분 주목. 연례 회사 피크닉이 다음 주 토요일 리버사이드 공원에서 오전 11시부터 오후 4시까지 열립니다. 모두를 위한 게임, 음식, 엔터테인먼트가 준비되어 있습니다. 가족과 친구들을 데려오세요. 참석 예정이라면 수요일까지 인사부에 등록해 주세요. 충분한 음식을 준비하기 위해서입니다. 사무실 주차장에서 오전 10시 30분부터 교통편이 제공됩니다. 그곳에서 뵙기를 기대합니다.",
+      "jp": "全社員の皆様にご注意ください。年次会社ピクニックは来週土曜日にリバーサイドパークで午前11時から午後4時まで開催されます。ゲーム、食事、エンターテイメントを皆さんでお楽しみいただけます。ご家族やご友人もぜひお連れください。水曜日までに人事部にご登録いただければ、十分な食事をご用意できます。オフィス駐車場から午前10時30分より送迎バスが出ます。皆様のお越しをお待ちしております。"
+    },
+    "category": "Company Event",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/əˈtɛnʃən ɔːl stæf ˈmɛmbərz ði ˈænjuəl ˈkʌmpəni ˈpɪknɪk wɪl teɪk pleɪs nɛkst ˈsætərdeɪ æt ˈrɪvərsaɪd pɑːrk frɑːm ɪˈlɛvən eɪˈem tuː fɔːr piːˈem ðɛr wɪl biː ɡeɪmz fuːd ənd ˌɛntərˈteɪnmənt fɔːr ˈɛvrɪwʌn pliːz brɪŋ jɔːr ˈfæməli ənd frɛndz saɪn ʌp æt ði eɪtʃˈɑːr ˈɔːfɪs baɪ ˈwɛnzdeɪ ɪf juː plæn tuː əˈtɛnd soʊ wiː kæn prɪˈpɛr ɪˈnʌf fuːd ˌtrænspɔːrˈteɪʃən wɪl biː prəˈvaɪdɪd frɑːm ði ˈɔːfɪs ˈpɑːrkɪŋ lɑːt ˈstɑːrtɪŋ æt tɛn ˈθɜːrti eɪˈem wiː lʊk ˈfɔːrwərd tuː ˈsiːɪŋ juː ðɛr/"
+  },
+  {
+    "id": 9,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Thank you for calling Global Tech Support. All of our representatives are currently assisting other customers. Your call is very important to us. Please continue to hold and the next available agent will be with you shortly. You can also visit our website at www.globaltech.com/support for frequently asked questions or to open a ticket online. Estimated wait time is approximately three minutes. Music will resume shortly.",
+    "ipa": "/θæŋk juː fɔːr ˈkɔːlɪŋ ˈɡloʊbəl tɛk səˈpɔːrt ɔːl əv aʊər ˌrɛprɪˈzɛntətɪvz ɑːr ˈkʌrəntli əˈsɪstɪŋ ˈʌðər ˈkʌstəmərz jɔːr kɔːl ɪz ˈvɛri ɪmˈpɔːrtənt tuː ʌs pliːz kənˈtɪnjuː tuː hoʊld ənd ðə nɛkst əˈveɪləbl ˈeɪdʒənt wɪl biː wɪð juː ˈʃɔːrtli juː kæn ˈɔːlsoʊ ˈvɪzɪt aʊər ˈwɛbsaɪt æt ˈdʌbəljuː ˈdʌbəljuː ˈdʌbəljuː ˈɡloʊbəl tɛk dɑːt kɑːm slæʃ səˈpɔːrt fɔːr ˈfriːkwəntli æskt ˈkwɛstʃənz ɔːr tuː ˈoʊpən ə ˈtɪkɪt ɑːnˈlaɪn ˈɛstɪmeɪtɪd weɪt taɪm ɪz əˌprɑːksɪmətli θriː ˈmɪnɪts ˈmjuːzɪk wɪl rɪˈzuːm ˈʃɔːrtli/",
+    "translations": {
+      "vn": "Cảm ơn quý khách đã gọi đến Hỗ trợ Kỹ thuật Global. Hiện tất cả nhân viên hỗ trợ đang phục vụ khách hàng khác. Cuộc gọi của quý khách rất quan trọng đối với chúng tôi. Vui lòng giữ máy, nhân viên tiếp theo sẽ hỗ trợ quý khách sớm. Quý khách cũng có thể truy cập website www.globaltech.com/support để xem các câu hỏi thường gặp hoặc mở ticket trực tuyến. Thời gian chờ ước tính khoảng ba phút. Nhạc sẽ tiếp tục ngay sau đây.",
+      "kr": "글로벌 테크 서포트로 전화 주셔서 감사합니다. 현재 모든 상담원이 다른 고객을 돕고 있습니다. 귀하의 전화는 매우 중요합니다. 계속 대기해 주시면 다음 상담원이 곧 연결됩니다. 자주 묻는 질문은 웹사이트 www.globaltech.com/support에서 확인하거나 온라인 티켓을 열 수 있습니다. 예상 대기 시간은 약 3분입니다. 곧 음악이 재생됩니다.",
+      "jp": "グローバル・テックサポートにお電話ありがとうございます。現在全てのオペレーターが他のお客様を対応中です。お電話は大変重要です。しばらくお待ちいただければ次のオペレーターが対応いたします。よくある質問はウェブサイトwww.globaltech.com/supportでご覧いただくか、オンラインでチケットを作成してください。予想待ち時間は約3分です。まもなく音楽を再開いたします。"
+    },
+    "category": "Customer Service",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/θæŋk juː fɔːr ˈkɔːlɪŋ ˈɡloʊbəl tɛk səˈpɔːrt ɔːl əv aʊər ˌrɛprɪˈzɛntətɪvz ɑːr ˈkʌrəntli əˈsɪstɪŋ ˈʌðər ˈkʌstəmərz jɔːr kɔːl ɪz ˈvɛri ɪmˈpɔːrtənt tuː ʌs pliːz kənˈtɪnjuː tuː hoʊld ənd ðə nɛkst əˈveɪləbl ˈeɪdʒənt wɪl biː wɪð juː ˈʃɔːrtli juː kæn ˈɔːlsoʊ ˈvɪzɪt aʊər ˈwɛbsaɪt æt ˈdʌbəljuː ˈdʌbəljuː ˈdʌbəljuː ˈɡloʊbəl tɛk dɑːt kɑːm slæʃ səˈpɔːrt fɔːr ˈfriːkwəntli æskt ˈkwɛstʃənz ɔːr tuː ˈoʊpən ə ˈtɪkɪt ɑːnˈlaɪn ˈɛstɪmeɪtɪd weɪt taɪm ɪz əˌprɑːksɪmətli θriː ˈmɪnɪts ˈmjuːzɪk wɪl rɪˈzuːm ˈʃɔːrtli/"
+  },
+  {
+    "id": 10,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "The weather forecast for tomorrow indicates heavy rain throughout the day in the metropolitan area. Temperatures will range from 55 to 62 degrees Fahrenheit with strong winds up to 30 miles per hour. Outdoor events are likely to be affected, and drivers should exercise caution due to reduced visibility and wet roads. Flood watches have been issued for low-lying areas. Please stay tuned for further updates on your local news station.",
+    "ipa": "/ðə ˈwɛðər ˈfɔːrkæst fɔːr təˈmɑːroʊ ˈɪndɪkeɪts ˈhɛvi reɪn θruːˈaʊt ðə deɪ ɪn ðə ˌmɛtrəˈpɑːlɪtən ˈɛriə ˈtɛmpərətʃərz wɪl reɪndʒ frɑːm ˈfɪfti faɪv tuː ˈsɪksti tuː dɪˈɡriːz ˈfærənhaɪt wɪð strɔːŋ wɪndz ʌp tuː ˈθɜːrti maɪlz pər aʊər ˈaʊtdɔːr ɪˈvɛnts ɑːr ˈlaɪkli tuː biː əˈfɛktɪd ənd ˈdraɪvərz ʃʊd ˈɛksərsaɪz ˈkɔːʃən duː tuː rɪˈduːst ˌvɪzəˈbɪləti ənd wɛt roʊdz flʌd wɑːtʃɪz hæv bɪn ˈɪʃuːd fɔːr loʊ ˈlaɪɪŋ ˈɛriəz pliːz steɪ tuːnd fɔːr ˈfɜːrðər ˈʌpdeɪts ɑːn jɔːr ˈloʊkəl nuːz ˈsteɪʃən/",
+    "translations": {
+      "vn": "Dự báo thời tiết cho ngày mai cho thấy mưa lớn suốt cả ngày tại khu vực đô thị. Nhiệt độ dao động từ 55 đến 62 độ F với gió mạnh tới 30 dặm/giờ. Các sự kiện ngoài trời có khả năng bị ảnh hưởng, và tài xế nên thận trọng do tầm nhìn giảm và đường ướt. Cảnh báo lũ đã được ban bố cho các khu vực trũng thấp. Vui lòng theo dõi thêm cập nhật trên đài tin tức địa phương.",
+      "kr": "내일 날씨 예보에 따르면 수도권 지역은 하루 종일 폭우가 예상됩니다. 기온은 화씨 55도에서 62도 사이이며, 최대 시속 30마일의 강풍이 불겠습니다. 야외 행사는 영향을 받을 가능성이 높으며, 운전자는 시야 감소와 젖은 도로로 인해 주의해야 합니다. 저지대에 홍수 주의보가 발령되었습니다. 지역 뉴스 방송에서 추가 업데이트를 확인해 주세요.",
+      "jp": "明日の天気予報では、都市圏で一日中大雨が予想されます。気温は華氏55度から62度の間で、最大風速時速30マイルの強風が吹きます。屋外イベントは影響を受ける可能性が高く、運転者は視界不良と濡れた道路のため注意が必要です。低地帯には洪水注意報が発令されています。最新情報は地元ニュース局でお知らせいたします。"
+    },
+    "category": "Weather Forecast",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ðə ˈwɛðər ˈfɔːrkæst fɔːr təˈmɑːroʊ ˈɪndɪkeɪts ˈhɛvi reɪn θruːˈaʊt ðə deɪ ɪn ðə ˌmɛtrəˈpɑːlɪtən ˈɛriə ˈtɛmpərətʃərz wɪl reɪndʒ frɑːm ˈfɪfti faɪv tuː ˈsɪksti tuː dɪˈɡriːz ˈfærənhaɪt wɪð strɔːŋ wɪndz ʌp tuː ˈθɜːrti maɪlz pər aʊər ˈaʊtdɔːr ɪˈvɛnts ɑːr ˈlaɪkli tuː biː əˈfɛktɪd ənd ˈdraɪvərz ʃʊd ˈɛksərsaɪz ˈkɔːʃən duː tuː rɪˈduːst ˌvɪzəˈbɪləti ənd wɛt roʊdz flʌd wɑːtʃɪz hæv bɪn ˈɪʃuːd fɔːr loʊ ˈlaɪɪŋ ˈɛriəz pliːz steɪ tuːnd fɔːr ˈfɜːrðər ˈʌpdeɪts ɑːn jɔːr ˈloʊkəl nuːz ˈsteɪʃən/"
+  },
+  {
+    "id": 11,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Ladies and gentlemen, the annual international conference on renewable energy will begin shortly in the main auditorium. Today's keynote speaker is Dr. Elena Martinez, an expert in solar technology. After the presentation, there will be a question-and-answer session. Coffee and refreshments will be served during the break at 10:30 AM in the lobby. Please silence your mobile devices and take your seats. We appreciate your cooperation.",
+    "ipa": "/ˈleɪdiz ənd ˈdʒentəlmən ði ˈænjuəl ˌɪntərˈnæʃənəl ˈkɑːnfərəns ɑːn rɪˈnuːəbl ˈɛnərdʒi wɪl bɪˈɡɪn ˈʃɔːrtli ɪn ðə meɪn ˌɔːdɪˈtɔːriəm təˈdeɪz ˈkiːnoʊt ˈspiːkər ɪz ˈdɑːktər ɪˈlɛnə mɑːrˈtɪnɛz ən ˈɛkspɜːrt ɪn ˈsoʊlər tɛkˈnɑːlədʒi ˈæftər ðə ˌprɛzənˈteɪʃən ðɛr wɪl biː ə ˈkwɛstʃən ənd ˈænsər ˈsɛʃən ˈkɔːfi ənd rɪˈfrɛʃmənts wɪl biː sɜːrvd ˈdjʊərɪŋ ðə breɪk æt tɛn ˈθɜːrti eɪˈem ɪn ðə ˈlɑːbi pliːz ˈsaɪləns jɔːr ˈmoʊbaɪl dɪˈvaɪsɪz ənd teɪk jɔːr siːts wiː əˈpriːʃieɪt jɔːr koʊˌɑːpəˈreɪʃən/",
+    "translations": {
+      "vn": "Thưa quý bà quý ông, hội nghị quốc tế hàng năm về năng lượng tái tạo sẽ bắt đầu sớm tại hội trường chính. Diễn giả chính hôm nay là Tiến sĩ Elena Martinez, chuyên gia về công nghệ năng lượng mặt trời. Sau bài thuyết trình sẽ có phần hỏi đáp. Cà phê và đồ uống nhẹ sẽ được phục vụ trong giờ giải lao lúc 10:30 sáng tại sảnh. Quý vị vui lòng tắt chuông điện thoại và ổn định chỗ ngồi. Chúng tôi cảm ơn sự hợp tác của quý vị.",
+      "kr": "신사 숙녀 여러분, 재생에너지에 관한 연례 국제 컨퍼런스가 곧 메인 강당에서 시작됩니다. 오늘 기조 연설자는 태양광 기술 전문가 엘레나 마르티네즈 박사입니다. 발표 후 질의응답 시간이 있습니다. 오전 10시 30분 휴식 시간에 로비에서 커피와 다과가 제공됩니다. 휴대폰을 무음으로 설정하고 착석해 주시기 바랍니다. 협조에 감사드립니다.",
+      "jp": "皆様、再生可能エネルギーに関する年次国際会議がまもなくメインオーディトリアムで開始いたします。本日の基調講演者は太陽光技術の専門家、エレナ・マルティネス博士です。プレゼンテーション後に質疑応答の時間がございます。午前10時30分の休憩中にロビーでコーヒーと軽食をご用意いたします。携帯電話をサイレントにし、ご着席ください。ご協力ありがとうございます。"
+    },
+    "category": "Conference & Event",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈleɪdiz ənd ˈdʒentəlmən ði ˈænjuəl ˌɪntərˈnæʃənəl ˈkɑːnfərəns ɑːn rɪˈnuːəbl ˈɛnərdʒi wɪl bɪˈɡɪn ˈʃɔːrtli ɪn ðə meɪn ˌɔːdɪˈtɔːriəm təˈdeɪz ˈkiːnoʊt ˈspiːkər ɪz ˈdɑːktər ɪˈlɛnə mɑːrˈtɪnɛz ən ˈɛkspɜːrt ɪn ˈsoʊlər tɛkˈnɑːlədʒi ˈæftər ðə ˌprɛzənˈteɪʃən ðɛr wɪl biː ə ˈkwɛstʃən ənd ˈænsər ˈsɛʃən ˈkɔːfi ənd rɪˈfrɛʃmənts wɪl biː sɜːrvd ˈdjʊərɪŋ ðə breɪk æt tɛn ˈθɜːrti eɪˈem ɪn ðə ˈlɑːbi pliːz ˈsaɪləns jɔːr ˈmoʊbaɪl dɪˈvaɪsɪz ənd teɪk jɔːr siːts wiː əˈpriːʃieɪt jɔːr koʊˌɑːpəˈreɪʃən/"
+  },
+  {
+    "id": 12,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Welcome aboard the Sunset Cruise. Our journey today will take us along the beautiful coastline with stunning views of the ocean and nearby islands. Dinner will be served on the upper deck at 7 PM, featuring fresh seafood and local specialties. Live music entertainment will begin after dinner. Please feel free to explore all areas of the boat. Life jackets are located under your seats in case of emergency. Enjoy your evening with us.",
+    "ipa": "/ˈwɛlkəm əˈbɔːrd ðə ˈsʌnsɛt kruːz aʊər ˈdʒɜːrni təˈdeɪ wɪl teɪk ʌs əˈlɔːŋ ðə ˈbjuːtɪfəl ˈkoʊstlaɪn wɪð ˈstʌnɪŋ vjuːz əv ði ˈoʊʃən ənd ˈnɪrbaɪ ˈaɪləndz ˈdɪnər wɪl biː sɜːrvd ɑːn ði ˈʌpər dɛk æt ˈsɛvən piːˈem ˈfiːtʃərɪŋ frɛʃ ˈsiːfuːd ənd ˈloʊkəl ˈspɛʃəltiz laɪv ˈmjuːzɪk ˌɛntərˈteɪnmənt wɪl bɪˈɡɪn ˈæftər ˈdɪnər pliːz fiːl friː tuː ɪkˈsplɔːr ɔːl ˈɛriəz əv ðə boʊt laɪf ˈdʒækɪts ɑːr loʊˈkeɪtɪd ˈʌndər jɔːr siːts ɪn keɪs əv ɪˈmɜːrdʒənsi ɪnˈdʒɔɪ jɔːr ˈiːvnɪŋ wɪð ʌs/",
+    "translations": {
+      "vn": "Chào mừng quý khách lên tàu Du ngoạn Hoàng hôn. Hành trình hôm nay sẽ đưa chúng ta dọc theo bờ biển tuyệt đẹp với tầm nhìn ngoạn mục ra đại dương và các đảo gần đó. Bữa tối sẽ được phục vụ trên boong trên lúc 7 giờ tối, bao gồm hải sản tươi và đặc sản địa phương. Chương trình biểu diễn nhạc sống sẽ bắt đầu sau bữa tối. Quý khách tự do khám phá tất cả các khu vực trên tàu. Áo phao được đặt dưới ghế ngồi trong trường hợp khẩn cấp. Chúc quý khách có buổi tối vui vẻ cùng chúng tôi.",
+      "kr": "선셋 크루즈에 탑승하신 것을 환영합니다. 오늘 여정은 아름다운 해안선을 따라 바다와 근처 섬들의 멋진 전망을 제공합니다. 저녁 식사는 오후 7시에 상부 데크에서 신선한 해산물과 지역 특선 요리로 제공됩니다. 식사 후 라이브 음악 엔터테인먼트가 시작됩니다. 배의 모든 구역을 자유롭게 탐방해 주세요. 비상시를 대비해 구명조끼는 좌석 아래에 있습니다. 저희와 함께 즐거운 저녁 되세요.",
+      "jp": "サンセットクルーズにご乗船いただきありがとうございます。本日の航路は美しい海岸線に沿って、海洋と近隣の島々の素晴らしい景色をお楽しみいただけます。夕食は午後7時に上部デッキにて、新鮮なシーフードと地元名物を揃えてご用意いたします。夕食後にライブ音楽エンターテイメントが始まります。船内の全エリアを自由にご覧ください。緊急時には座席下にライフジャケットがございます。今宵をお楽しみください。"
+    },
+    "category": "Travel & Cruise",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈwɛlkəm əˈbɔːrd ðə ˈsʌnsɛt kruːz aʊər ˈdʒɜːrni təˈdeɪ wɪl teɪk ʌs əˈlɔːŋ ðə ˈbjuːtɪfəl ˈkoʊstlaɪn wɪð ˈstʌnɪŋ vjuːz əv ði ˈoʊʃən ənd ˈnɪrbaɪ ˈaɪləndz ˈdɪnər wɪl biː sɜːrvd ɑːn ði ˈʌpər dɛk æt ˈsɛvən piːˈem ˈfiːtʃərɪŋ frɛʃ ˈsiːfuːd ənd ˈloʊkəl ˈspɛʃəltiz laɪv ˈmjuːzɪk ˌɛntərˈteɪnmənt wɪl bɪˈɡɪn ˈæftər ˈdɪnər pliːz fiːl friː tuː ɪkˈsplɔːr ɔːl ˈɛriəz əv ðə boʊt laɪf ˈdʒækɪts ɑːr loʊˈkeɪtɪd ˈʌndər jɔːr siːts ɪn keɪs əv ɪˈmɜːrdʒənsi ɪnˈdʒɔɪ jɔːr ˈiːvnɪŋ wɪð ʌs/"
+  },
+  {
+    "id": 13,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Attention passengers. This is the final boarding call for Flight SQ321 to Singapore departing from Gate 45. All ticketed passengers must board immediately as the aircraft doors will close in two minutes. If you have not yet checked in your luggage or collected your boarding pass, please proceed to the check-in counter right away. Any passengers who miss this flight will need to rebook at the airline service desk. Thank you for your attention.",
+    "ipa": "/əˈtɛnʃən ˈpæsɪndʒərz ðɪs ɪz ðə ˈfaɪnəl ˈbɔːrdɪŋ kɔːl fɔːr flaɪt ɛs ˈkjuː θriː ˈtuː ˈwʌn wʌn tuː ˌsɪŋəˈpɔːr dɪˈpɑːrtɪŋ frɑːm ɡeɪt ˈfɔːrti faɪv ɔːl ˈtɪkɪtɪd ˈpæsɪndʒərz mʌst bɔːrd ɪˈmiːdiətli æz ði ˈɛrkræft dɔːrz wɪl kloʊz ɪn tuː ˈmɪnɪts ɪf juː hæv nɑːt jɛt tʃɛkt ɪn jɔːr ˈlʌɡɪdʒ ɔːr kəˈlɛktɪd jɔːr ˈbɔːrdɪŋ pæs pliːz prəˈsiːd tuː ðə ˈtʃɛkɪn ˈkaʊntər raɪt əˈweɪ ˈɛni ˈpæsɪndʒərz huː mɪs ðɪs flaɪt wɪl niːd tuː riːˈbʊk æt ði ˈɛrlaɪn ˈsɜːrvɪs dɛsk θæŋk juː fɔːr jɔːr əˈtɛnʃən/",
+    "translations": {
+      "vn": "Chú ý quý khách hành khách. Đây là lời gọi lên máy bay cuối cùng cho chuyến bay SQ321 đến Singapore khởi hành từ Cổng 45. Tất cả hành khách có vé phải lên máy bay ngay lập tức vì cửa máy bay sẽ đóng trong hai phút nữa. Nếu quý khách chưa làm thủ tục hành lý hoặc nhận thẻ lên máy bay, vui lòng đến quầy check-in ngay. Bất kỳ hành khách nào bỏ lỡ chuyến bay này sẽ cần đặt lại vé tại quầy dịch vụ hãng hàng không. Cảm ơn quý khách đã chú ý.",
+      "kr": "승객 여러분 주목해 주십시오. 싱가포르행 SQ321편의 최종 탑승 안내입니다. 45번 게이트에서 출발합니다. 모든 예약 승객은 항공기 문이 2분 후 닫히므로 즉시 탑승해 주십시오. 수하물 체크인이나 탑승권을 아직 받지 않으신 분은 체크인 카운터로 바로 가 주세요. 이 편을 놓치신 승객은 항공사 서비스 데스크에서 재예약하셔야 합니다. 주의해 주셔서 감사합니다.",
+      "jp": "乗客の皆様にご注意ください。シンガポール行きSQ321便の最終搭乗案内です。45番ゲートより出発いたします。全員の予約済み乗客は、機体ドアが2分後に閉まるため、直ちにご搭乗ください。手荷物預け入れや搭乗券をお受け取りでない方は、チェックインカウンターへすぐにお越しください。この便を逃した乗客は航空会社サービスデスクで再予約が必要です。ご協力ありがとうございます。"
+    },
+    "category": "Airport & Flight Announcement",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/əˈtɛnʃən ˈpæsɪndʒərz ðɪs ɪz ðə ˈfaɪnəl ˈbɔːrdɪŋ kɔːl fɔːr flaɪt ɛs ˈkjuː θriː ˈtuː ˈwʌn wʌn tuː ˌsɪŋəˈpɔːr dɪˈpɑːrtɪŋ frɑːm ɡeɪt ˈfɔːrti faɪv ɔːl ˈtɪkɪtɪd ˈpæsɪndʒərz mʌst bɔːrd ɪˈmiːdiətli æz ði ˈɛrkræft dɔːrz wɪl kloʊz ɪn tuː ˈmɪnɪts ɪf juː hæv nɑːt jɛt tʃɛkt ɪn jɔːr ˈlʌɡɪdʒ ɔːr kəˈlɛktɪd jɔːr ˈbɔːrdɪŋ pæs pliːz prəˈsiːd tuː ðə ˈtʃɛkɪn ˈkaʊntər raɪt əˈweɪ ˈɛni ˈpæsɪndʒərz huː mɪs ðɪs flaɪt wɪl niːd tuː riːˈbʊk æt ði ˈɛrlaɪn ˈsɜːrvɪs dɛsk θæŋk juː fɔːr jɔːr əˈtɛnʃən/"
+  },
+  {
+    "id": 14,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Dear valued customers, we are pleased to announce the opening of our new branch in the downtown shopping district next month. The grand opening will feature special discounts, free gifts with purchase, and live performances throughout the day. Our new location offers expanded product selections and a comfortable lounge area for shoppers. We invite you to join us on opening day for refreshments and exclusive previews. Follow us on social media for more updates.",
+    "ipa": "/dɪr ˈvæljuːd ˈkʌstəmərz wiː ɑːr pliːzd tuː əˈnaʊns ði ˈoʊpənɪŋ əv aʊər nuː bræntʃ ɪn ðə ˈdaʊntaʊn ˈʃɑːpɪŋ ˈdɪstrɪkt nɛkst mʌnθ ðə ɡrænd ˈoʊpənɪŋ wɪl ˈfiːtʃər ˈspɛʃəl ˈdɪskaʊnts friː ɡɪfts wɪð ˈpɜːrtʃəs ənd laɪv pərˈfɔːrmənsɪz θruːˈaʊt ðə deɪ aʊər nuː loʊˈkeɪʃən ˈɔːfərz ɪkˈspændɪd ˈprɑːdʌkt sɪˈlɛkʃənz ənd ə ˈkʌmfərtəbl laʊndʒ ˈɛriə fɔːr ˈʃɑːpərz wiː ɪnˈvaɪt juː tuː dʒɔɪn ʌs ɑːn ˈoʊpənɪŋ deɪ fɔːr rɪˈfrɛʃmənts ənd ɪkˈskluːsɪv ˈpriːvjuːz ˈfɑːloʊ ʌs ɑːn ˈsoʊʃəl ˈmiːdiə fɔːr mɔːr ˈʌpdeɪts/",
+    "translations": {
+      "vn": "Kính gửi quý khách hàng thân thiết, chúng tôi vui mừng thông báo khai trương chi nhánh mới tại khu mua sắm trung tâm thành phố vào tháng tới. Ngày khai trương trọng thể sẽ có giảm giá đặc biệt, quà tặng miễn phí khi mua hàng và biểu diễn trực tiếp suốt cả ngày. Địa điểm mới cung cấp lựa chọn sản phẩm mở rộng và khu vực lounge thoải mái cho khách mua sắm. Chúng tôi mời quý khách tham gia ngày khai trương để thưởng thức đồ uống nhẹ và xem trước các sản phẩm độc quyền. Hãy theo dõi chúng tôi trên mạng xã hội để biết thêm thông tin.",
+      "kr": "소중한 고객 여러분, 다음 달 도심 쇼핑 지구에 새로운 지점을 오픈하게 되어 기쁩니다. 그랜드 오프닝에는 특별 할인, 구매 시 무료 선물, 하루 종일 라이브 공연이 준비되어 있습니다. 새 매장은 확장된 제품 선택과 쇼핑객을 위한 편안한 라운지 공간을 제공합니다. 오프닝 데이에 리프레시먼트와 독점 프리뷰를 즐기기 위해 오시기 바랍니다. 소셜 미디어에서 더 많은 업데이트를 확인해 주세요.",
+      "jp": "大切なお客様へ、来月ダウンタウンショッピング地区に新店舗をオープンすることをお知らせいたします。グランドオープンでは特別割引、購入時の無料ギフト、一日中のライブパフォーマンスをご用意しております。新店舗では商品の選択肢を拡大し、快適なラウンジエリアを設けています。オープン当日は軽食と限定プレビューをお楽しみいただけます。最新情報はソーシャルメディアでフォローしてください。"
+    },
+    "category": "Shopping & Store Opening",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/dɪr ˈvæljuːd ˈkʌstəmərz wiː ɑːr pliːzd tuː əˈnaʊns ði ˈoʊpənɪŋ əv aʊər nuː bræntʃ ɪn ðə ˈdaʊntaʊn ˈʃɑːpɪŋ ˈdɪstrɪkt nɛkst mʌnθ ðə ɡrænd ˈoʊpənɪŋ wɪl ˈfiːtʃər ˈspɛʃəl ˈdɪskaʊnts friː ɡɪfts wɪð ˈpɜːrtʃəs ənd laɪv pərˈfɔːrmənsɪz θruːˈaʊt ðə deɪ aʊər nuː loʊˈkeɪʃən ˈɔːfərz ɪkˈspændɪd ˈprɑːdʌkt sɪˈlɛkʃənz ənd ə ˈkʌmfərtəbl laʊndʒ ˈɛriə fɔːr ˈʃɑːpərz wiː ɪnˈvaɪt juː tuː dʒɔɪn ʌs ɑːn ˈoʊpənɪŋ deɪ fɔːr rɪˈfrɛʃmənts ənd ɪkˈskluːsɪv ˈpriːvjuːz ˈfɑːloʊ ʌs ɑːn ˈsoʊʃəl ˈmiːdiə fɔːr mɔːr ˈʌpdeɪts/"
+  },
+  {
+    "id": 15,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Good evening and welcome to the Grand Theater. Tonight we present the award-winning musical 'City Lights'. The performance will begin in five minutes. Please take your seats and turn off all mobile phones and other electronic devices. Latecomers will be seated only during suitable breaks in the program. Refreshments are available in the lobby during intermission. Photography and recording are strictly prohibited. We hope you enjoy the show.",
+    "ipa": "/ɡʊd ˈiːvnɪŋ ənd ˈwɛlkəm tuː ðə ɡrænd ˈθiːətər təˈnaɪt wiː prɪˈzɛnt ði əˈwɔːrd ˈwɪnɪŋ ˈmjuːzɪkl ˈsɪti laɪts ðə pərˈfɔːrməns wɪl bɪˈɡɪn ɪn faɪv ˈmɪnɪts pliːz teɪk jɔːr siːts ənd tɜːrn ɔːf ɔːl ˈmoʊbaɪl foʊnz ənd ˈʌðər ɪˈlɛktrɑːnɪk dɪˈvaɪsɪz ˈleɪtkʌmərz wɪl biː ˈsiːtɪd ˈoʊnli ˈdjʊərɪŋ ˈsuːtəbl breɪks ɪn ðə ˈproʊɡræm rɪˈfrɛʃmənts ɑːr əˈveɪləbl ɪn ðə ˈlɑːbi ˈdjʊərɪŋ ˌɪntərˈmɪʃən fəˈtɑːɡrəfi ənd rɪˈkɔːrdɪŋ ɑːr ˈstrɪktli prəˈhɪbɪtɪd wiː hoʊp juː ɪnˈdʒɔɪ ðə ʃoʊ/",
+    "translations": {
+      "vn": "Chào buổi tối và chào mừng đến với Nhà hát Grand. Tối nay chúng tôi trình diễn vở nhạc kịch đoạt giải 'Ánh sáng Thành phố'. Buổi diễn sẽ bắt đầu trong năm phút nữa. Quý khán giả vui lòng ổn định chỗ ngồi và tắt tất cả điện thoại di động cùng các thiết bị điện tử khác. Khán giả đến muộn chỉ được vào chỗ trong các khoảng nghỉ phù hợp của chương trình. Đồ uống nhẹ có sẵn tại sảnh trong giờ giải lao. Nghiêm cấm chụp ảnh và ghi âm. Chúng tôi hy vọng quý vị thưởng thức buổi diễn.",
+      "kr": "좋은 저녁입니다. 그랜드 극장에 오신 것을 환영합니다. 오늘 밤 수상 경력에 빛나는 뮤지컬 '시티 라이트'를 공연합니다. 공연은 5분 후 시작됩니다. 좌석에 착석하시고 모든 휴대폰과 전자 기기를 꺼 주십시오. 지각자는 프로그램의 적절한 휴식 시간에만 입장 가능합니다. 인터미션 동안 로비에서 다과가 제공됩니다. 사진 촬영 및 녹음은 엄격히 금지됩니다. 즐거운 관람 되세요.",
+      "jp": "こんばんは、グランドシアターへようこそ。今夜は受賞作ミュージカル『シティ・ライツ』をお届けいたします。公演は5分後に始まります。ご着席の上、携帯電話その他の電子機器の電源をお切りください。遅れて来られた方はプログラムの適切な休憩時にのみご案内いたします。休憩中はロビーで軽食をご用意しております。撮影・録音は固く禁じられております。どうぞお楽しみください。"
+    },
+    "category": "Theater & Entertainment",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ɡʊd ˈiːvnɪŋ ənd ˈwɛlkəm tuː ðə ɡrænd ˈθiːətər təˈnaɪt wiː prɪˈzɛnt ði əˈwɔːrd ˈwɪnɪŋ ˈmjuːzɪkl ˈsɪti laɪts ðə pərˈfɔːrməns wɪl bɪˈɡɪn ɪn faɪv ˈmɪnɪts pliːz teɪk jɔːr siːts ənd tɜːrn ɔːf ɔːl ˈmoʊbaɪl foʊnz ənd ˈʌðər ɪˈlɛktrɑːnɪk dɪˈvaɪsɪz ˈleɪtkʌmərz wɪl biː ˈsiːtɪd ˈoʊnli ˈdjʊərɪŋ ˈsuːtəbl breɪks ɪn ðə ˈproʊɡræm rɪˈfrɛʃmənts ɑːr əˈveɪləbl ɪn ðə ˈlɑːbi ˈdjʊərɪŋ ˌɪntərˈmɪʃən fəˈtɑːɡrəfi ənd rɪˈkɔːrdɪŋ ɑːr ˈstrɪktli prəˈhɪbɪtɪd wiː hoʊp juː ɪnˈdʒɔɪ ðə ʃoʊ/"
+  },
+  {
+    "id": 16,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "This is a reminder for all employees regarding the upcoming health and wellness fair next week. The event will be held in the company cafeteria on Wednesday from 10 AM to 3 PM. Free health screenings, fitness demonstrations, and nutritional advice will be available. Representatives from our insurance provider will also be present to answer questions about benefits. Healthy snacks and drinks will be provided. We encourage everyone to attend and take advantage of these valuable resources.",
+    "ipa": "/ðɪs ɪz ə rɪˈmaɪndər fɔːr ɔːl ɪmˈplɔɪiːz rɪˈɡɑːrdɪŋ ði ˌʌpˈkʌmɪŋ hɛlθ ənd ˈwɛlnəs fɛr nɛkst wiːk ði ɪˈvɛnt wɪl biː hɛld ɪn ðə ˈkʌmpəni ˌkæfəˈtɪriə ɑːn ˈwɛnzdeɪ frɑːm tɛn eɪˈem tuː θriː piːˈem friː hɛlθ ˈskriːnɪŋz ˈfɪtnəs ˌdɛmənˈstreɪʃənz ənd nuːˈtrɪʃənəl ədˈvaɪs wɪl biː əˈveɪləbl ˌrɛprɪˈzɛntətɪvz frɑːm aʊər ɪnˈʃʊrəns prəˈvaɪdər wɪl ˈɔːlsoʊ biː ˈprɛzənt tuː ˈænsər ˈkwɛstʃənz əˈbaʊt ˈbɛnɪfɪts ˈhɛlθi snæks ənd drɪŋks wɪl biː prəˈvaɪdɪd wiː ɪnˈkʌrɪdʒ ˈɛvrɪwʌn tuː əˈtɛnd ənd teɪk ədˈvæntɪdʒ əv ðiːz ˈvæljuəbl rɪˈsɔːrsɪz/",
+    "translations": {
+      "vn": "Đây là lời nhắc nhở cho toàn thể nhân viên về hội chợ sức khỏe và chăm sóc sức khỏe sắp tới vào tuần sau. Sự kiện sẽ diễn ra tại căng tin công ty vào thứ Tư từ 10 giờ sáng đến 3 giờ chiều. Các kiểm tra sức khỏe miễn phí, biểu diễn thể dục và tư vấn dinh dưỡng sẽ có sẵn. Đại diện từ nhà cung cấp bảo hiểm của chúng ta cũng sẽ có mặt để trả lời câu hỏi về quyền lợi. Đồ ăn nhẹ và đồ uống lành mạnh sẽ được cung cấp. Chúng tôi khuyến khích mọi người tham gia và tận dụng các nguồn tài nguyên quý giá này.",
+      "kr": "전 직원을 위한 알림입니다. 다음 주 건강 및 웰니스 박람회에 관한 내용입니다. 행사는 수요일 오전 10시부터 오후 3시까지 회사 카페테리아에서 열립니다. 무료 건강 검진, 피트니스 시연, 영양 상담이 제공됩니다. 보험 제공업체 대표도 혜택 관련 질문에 답변해 드릴 예정입니다. 건강한 스낵과 음료가 제공됩니다. 모두 참석하여 귀중한 자원을 활용하시기 바랍니다.",
+      "jp": "全従業員へのリマインダーです。来週の健康・ウェルネスフェアについてのお知らせです。イベントは水曜日の午前10時から午後3時まで会社カフェテリアで開催されます。無料健康診断、フィットネスデモンストレーション、栄養アドバイスをご用意しております。保険会社の担当者も福利厚生に関する質問にお答えします。ヘルシーな軽食とドリンクを提供いたします。皆様のご参加をお待ちしております。"
+    },
+    "category": "Company Health Event",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ðɪs ɪz ə rɪˈmaɪndər fɔːr ɔːl ɪmˈplɔɪiːz rɪˈɡɑːrdɪŋ ði ˌʌpˈkʌmɪŋ hɛlθ ənd ˈwɛlnəs fɛr nɛkst wiːk ði ɪˈvɛnt wɪl biː hɛld ɪn ðə ˈkʌmpəni ˌkæfəˈtɪriə ɑːn ˈwɛnzdeɪ frɑːm tɛn eɪˈem tuː θriː piːˈem friː hɛlθ ˈskriːnɪŋz ˈfɪtnəs ˌdɛmənˈstreɪʃənz ənd nuːˈtrɪʃənəl ədˈvaɪs wɪl biː əˈveɪləbl ˌrɛprɪˈzɛntətɪvz frɑːm aʊər ɪnˈʃʊrəns prəˈvaɪdər wɪl ˈɔːlsoʊ biː ˈprɛzənt tuː ˈænsər ˈkwɛstʃənz əˈbaʊt ˈbɛnɪfɪts ˈhɛlθi snæks ənd drɪŋks wɪl biː prəˈvaɪdɪd wiː ɪnˈkʌrɪdʒ ˈɛvrɪwʌn tuː əˈtɛnd ənd teɪk ədˈvæntɪdʒ əv ðiːz ˈvæljuəbl rɪˈsɔːrsɪz/"
+  },
+  {
+    "id": 17,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Welcome to Sunshine Fitness Center. Our facility offers state-of-the-art gym equipment, group exercise classes, and a heated swimming pool. New members receive a free personal training session and a complimentary towel service for the first month. We are open seven days a week from 5 AM to 11 PM. Childcare services are available for parents during workout hours. Please consult our friendly staff for membership options and tour the center today.",
+    "ipa": "/ˈwɛlkəm tuː ˈsʌnʃaɪn ˈfɪtnəs ˈsɛntər aʊər fəˈsɪləti ˈɔːfərz steɪt əv ði ɑːrt dʒɪm ɪˈkwɪpmənt ɡruːp ˈɛksərsaɪz ˈklæsɪz ənd ə ˈhiːtɪd ˈswɪmɪŋ puːl nuː ˈmɛmbərz rɪˈsiːv ə friː ˈpɜːrsənəl ˈtreɪnɪŋ ˈsɛʃən ənd ə ˌkɑːmplɪˈmɛntəri ˈtaʊəl ˈsɜːrvɪs fɔːr ðə fɜːrst mʌnθ wiː ɑːr ˈoʊpən ˈsɛvən deɪz ə wiːk frɑːm faɪv eɪˈem tuː ɪˈlɛvən piːˈem ˈtʃaɪldkɛr ˈsɜːrvɪsɪz ɑːr əˈveɪləbl fɔːr ˈpɛrənts ˈdjʊərɪŋ ˈwɜːrkaʊt aʊərz pliːz kənˈsʌlt aʊər ˈfrɛndli stæf fɔːr ˈmɛmbərʃɪp ˈɑːpʃənz ənd tʊr ðə ˈsɛntər təˈdeɪ/",
+    "translations": {
+      "vn": "Chào mừng đến với Trung tâm Thể dục Sunshine. Cơ sở của chúng tôi cung cấp thiết bị phòng gym hiện đại nhất, các lớp tập nhóm và hồ bơi nước nóng. Thành viên mới nhận một buổi huấn luyện cá nhân miễn phí và dịch vụ khăn miễn phí trong tháng đầu. Chúng tôi mở cửa 7 ngày/tuần từ 5 giờ sáng đến 11 giờ tối. Dịch vụ trông trẻ có sẵn cho phụ huynh trong giờ tập. Quý khách vui lòng tham khảo nhân viên thân thiện của chúng tôi về các gói thành viên và tham quan trung tâm hôm nay.",
+      "kr": "선샤인 피트니스 센터에 오신 것을 환영합니다. 최첨단 헬스 장비, 그룹 운동 클래스, 온수 수영장을 제공합니다. 신규 회원은 첫 달 무료 개인 트레이닝 세션과 무료 타월 서비스를 받습니다. 매일 오전 5시부터 오후 11시까지 운영됩니다. 운동 시간 동안 부모를 위한 보육 서비스가 있습니다. 회원권 옵션은 친절한 직원에게 문의하시고 오늘 센터 투어를 하세요.",
+      "jp": "サンシャインフィットネスセンターへようこそ。最先端のジム機器、グループエクササイズクラス、温水プールをご用意しております。新規会員の方は初月無料パーソナルトレーニングセッションと無料タオルサービスがございます。週7日、朝5時から夜11時まで営業しております。ワークアウト中は保護者のための保育サービスが利用可能です。会員プランはスタッフまでお気軽にご相談ください。本日施設見学をおすすめします。"
+    },
+    "category": "Fitness Center",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ˈwɛlkəm tuː ˈsʌnʃaɪn ˈfɪtnəs ˈsɛntər aʊər fəˈsɪləti ˈɔːfərz steɪt əv ði ɑːrt dʒɪm ɪˈkwɪpmənt ɡruːp ˈɛksərsaɪz ˈklæsɪz ənd ə ˈhiːtɪd ˈswɪmɪŋ puːl nuː ˈmɛmbərz rɪˈsiːv ə friː ˈpɜːrsənəl ˈtreɪnɪŋ ˈsɛʃən ənd ə ˌkɑːmplɪˈmɛntəri ˈtaʊəl ˈsɜːrvɪs fɔːr ðə fɜːrst mʌnθ wiː ɑːr ˈoʊpən ˈsɛvən deɪz ə wiːk frɑːm faɪv eɪˈem tuː ɪˈlɛvən piːˈem ˈtʃaɪldkɛr ˈsɜːrvɪsɪz ɑːr əˈveɪləbl fɔːr ˈpɛrənts ˈdjʊərɪŋ ˈwɜːrkaʊt aʊərz pliːz kənˈsʌlt aʊər ˈfrɛndli stæf fɔːr ˈmɛmbərʃɪp ˈɑːpʃənz ənd tʊr ðə ˈsɛntər təˈdeɪ/"
+  },
+  {
+    "id": 18,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Thank you for choosing Ocean View Resort for your vacation. Our beachfront property features private balconies, an on-site spa, and multiple dining options with fresh seafood daily. Activities include water sports, yoga classes, and evening entertainment by the pool. Check-in time is after 3 PM and check-out is by 11 AM. For any assistance during your stay, our front desk is available 24 hours. We wish you a relaxing and enjoyable holiday.",
+    "ipa": "/θæŋk juː fɔːr ˈtʃuːzɪŋ ˈoʊʃən vjuː rɪˈzɔːrt fɔːr jɔːr veɪˈkeɪʃən aʊər ˈbiːtʃfrʌnt ˈprɑːpərti ˈfiːtʃərz ˈpraɪvɪt ˈbælkəniz ən ɑːn saɪt spɑː ənd ˈmʌltɪpl ˈdaɪnɪŋ ˈɑːpʃənz wɪð frɛʃ ˈsiːfuːd ˈdeɪli ækˈtɪvətiz ɪnˈkluːd ˈwɔːtər spɔːrts ˈjoʊɡə ˈklæsɪz ənd ˈiːvnɪŋ ˌɛntərˈteɪnmənt baɪ ðə puːl ˈtʃɛkɪn taɪm ɪz ˈæftər θriː piːˈem ənd ˈtʃɛkaʊt ɪz baɪ ɪˈlɛvən eɪˈem fɔːr ˈɛni əˈsɪstəns ˈdjʊərɪŋ jɔːr steɪ aʊər frʌnt dɛsk ɪz əˈveɪləbl ˈtwɛnti fɔːr aʊərz wiː wɪʃ juː ə rɪˈlæksɪŋ ənd ɪnˈdʒɔɪəbl ˈhɑːlɪdeɪ/",
+    "translations": {
+      "vn": "Cảm ơn quý khách đã chọn Ocean View Resort cho kỳ nghỉ của mình. Khu nghỉ dưỡng ven biển của chúng tôi có ban công riêng, spa tại chỗ và nhiều lựa chọn ăn uống với hải sản tươi hàng ngày. Các hoạt động bao gồm thể thao dưới nước, lớp yoga và giải trí buổi tối bên hồ bơi. Giờ nhận phòng sau 3 giờ chiều và trả phòng trước 11 giờ sáng. Để được hỗ trợ trong suốt kỳ nghỉ, quầy lễ tân của chúng tôi sẵn sàng 24 giờ. Chúng tôi chúc quý khách có kỳ nghỉ thư giãn và thú vị.",
+      "kr": "휴가를 위해 오션뷰 리조트를 선택해 주셔서 감사합니다. 해변가에 위치한 저희 리조트는 전용 발코니, 현장 스파, 매일 신선한 해산물을 제공하는 다양한 다이닝 옵션을 갖추고 있습니다. 수상 스포츠, 요가 클래스, 풀사이드 저녁 엔터테인먼트 등의 활동이 있습니다. 체크인은 오후 3시 이후, 체크아웃은 오전 11시까지입니다. 투숙 중 도움 필요 시 프런트 데스크가 24시간 운영됩니다. 편안하고 즐거운 휴가가 되시기 바랍니다.",
+      "jp": "ご休暇にオーシャンビューリゾートをお選びいただきありがとうございます。ビーチフロントの当リゾートはプライベートバルコニー、敷地内スパ、毎日新鮮なシーフードを提供する複数のダイニングをご用意しております。アクティビティにはウォータースポーツ、ヨガクラス、プールサイドの夜のエンターテイメントがございます。チェックインは午後3時以降、チェックアウトは午前11時までです。滞在中のお困りごとは24時間対応のフロントデスクまで。リラックスした楽しい休日をお過ごしください。"
+    },
+    "category": "Hotel & Resort",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/θæŋk juː fɔːr ˈtʃuːzɪŋ ˈoʊʃən vjuː rɪˈzɔːrt fɔːr jɔːr veɪˈkeɪʃən aʊər ˈbiːtʃfrʌnt ˈprɑːpərti ˈfiːtʃərz ˈpraɪvɪt ˈbælkəniz ən ɑːn saɪt spɑː ənd ˈmʌltɪpl ˈdaɪnɪŋ ˈɑːpʃənz wɪð frɛʃ ˈsiːfuːd ˈdeɪli ækˈtɪvətiz ɪnˈkluːd ˈwɔːtər spɔːrts ˈjoʊɡə ˈklæsɪz ənd ˈiːvnɪŋ ˌɛntərˈteɪnmənt baɪ ðə puːl ˈtʃɛkɪn taɪm ɪz ˈæftər θriː piːˈem ənd ˈtʃɛkaʊt ɪz baɪ ɪˈlɛvən eɪˈem fɔːr ˈɛni əˈsɪstəns ˈdjʊərɪŋ jɔːr steɪ aʊər frʌnt dɛsk ɪz əˈveɪləbl ˈtwɛnti fɔːr aʊərz wiː wɪʃ juː ə rɪˈlæksɪŋ ənd ɪnˈdʒɔɪəbl ˈhɑːlɪdeɪ/"
+  },
+  {
+    "id": 19,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Attention all passengers traveling on the high-speed train to the capital city. Due to scheduled track maintenance, there will be a slight delay of approximately fifteen minutes for today's departure. We apologize for this inconvenience and appreciate your patience. Complimentary beverages will be offered on board as a gesture of goodwill. The train will still arrive at the destination on schedule thanks to adjusted timing. Thank you for choosing our service.",
+    "ipa": "/əˈtɛnʃən ɔːl ˈpæsɪndʒərz ˈtrævəlɪŋ ɑːn ðə haɪ spiːd treɪn tuː ðə ˈkæpɪtl ˈsɪti duː tuː ˈskɛdʒuːld træk ˈmeɪntənəns ðɛr wɪl biː ə slaɪt dɪˈleɪ əv əˌprɑːksɪmətli ˈfɪftiːn ˈmɪnɪts fɔːr təˈdeɪz dɪˈpɑːrtʃər wiː əˈpɑːlədʒaɪz fɔːr ðɪs ˌɪnkənˈviːniəns ənd əˈpriːʃieɪt jɔːr ˈpeɪʃəns ˈkɑːmplɪˈmɛntəri ˈbɛvərɪdʒɪz wɪl biː ˈɔːfərd ɑːn bɔːrd æz ə ˈdʒɛstʃər əv ˈɡʊdwɪl ðə treɪn wɪl stɪl əˈraɪv æt ðə ˌdɛstɪˈneɪʃən ɑːn ˈskɛdʒuːl θæŋks tuː əˈdʒʌstɪd ˈtaɪmɪŋ θæŋk juː fɔːr ˈtʃuːzɪŋ aʊər ˈsɜːrvɪs/",
+    "translations": {
+      "vn": "Chú ý toàn thể hành khách đi tàu cao tốc đến thủ đô. Do bảo trì đường ray theo lịch trình, chuyến đi hôm nay sẽ bị chậm trễ nhẹ khoảng mười lăm phút. Chúng tôi xin lỗi vì sự bất tiện này và cảm ơn sự kiên nhẫn của quý khách. Đồ uống miễn phí sẽ được phục vụ trên tàu như một cử chỉ thiện chí. Tàu vẫn sẽ đến đích đúng giờ nhờ điều chỉnh thời gian. Cảm ơn quý khách đã chọn dịch vụ của chúng tôi.",
+      "kr": "수도행 고속 열차 탑승객 여러분 주목. 예정된 선로 유지보수로 인해 오늘 출발이 약 15분 지연됩니다. 불편을 드려 죄송하며 양해 부탁드립니다. 선의의 표시로 기내에서 무료 음료를 제공하겠습니다. 시간 조정 덕분에 목적지에는 예정대로 도착할 예정입니다. 저희 서비스를 선택해 주셔서 감사합니다.",
+      "jp": "首都行き高速列車をご利用の乗客の皆様にご注意ください。予定された線路メンテナンスのため、本日の出発が約15分遅れます。この不便に対しお詫び申し上げるとともに、ご辛抱いただきありがとうございます。善意の印として車内で無料ドリンクを提供いたします。時間調整により目的地には予定通り到着いたします。当サービスをご利用いただきありがとうございます。"
+    },
+    "category": "Train Announcement",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/əˈtɛnʃən ɔːl ˈpæsɪndʒərz ˈtrævəlɪŋ ɑːn ðə haɪ spiːd treɪn tuː ðə ˈkæpɪtl ˈsɪti duː tuː ˈskɛdʒuːld træk ˈmeɪntənəns ðɛr wɪl biː ə slaɪt dɪˈleɪ əv əˌprɑːksɪmətli ˈfɪftiːn ˈmɪnɪts fɔːr təˈdeɪz dɪˈpɑːrtʃər wiː əˈpɑːlədʒaɪz fɔːr ðɪs ˌɪnkənˈviːniəns ənd əˈpriːʃieɪt jɔːr ˈpeɪʃəns ˈkɑːmplɪˈmɛntəri ˈbɛvərɪdʒɪz wɪl biː ˈɔːfərd ɑːn bɔːrd æz ə ˈdʒɛstʃər əv ˈɡʊdwɪl ðə treɪn wɪl stɪl əˈraɪv æt ðə ˌdɛstɪˈneɪʃən ɑːn ˈskɛdʒuːl θæŋks tuː əˈdʒʌstɪd ˈtaɪmɪŋ θæŋk juː fɔːr ˈtʃuːzɪŋ aʊər ˈsɜːrvɪs/"
+  },
+  {
+    "id": 20,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "This is an important safety announcement. In the event of an emergency, please remain calm and follow the instructions of the crew members. Exits are located at the front, rear, and over the wings. Life vests are under your seat or in the armrest. Oxygen masks will drop from the ceiling if cabin pressure changes. Secure your own mask before assisting others. Thank you for your attention to these safety procedures.",
+    "ipa": "/ðɪs ɪz ən ɪmˈpɔːrtənt ˈseɪfti əˈnaʊnsmənt ɪn ði ɪˈvɛnt əv ən ɪˈmɜːrdʒənsi pliːz rɪˈmeɪn kɑːm ənd ˈfɑːloʊ ði ɪnˈstrʌkʃənz əv ðə kruː ˈmɛmbərz ˈɛɡzɪts ɑːr loʊˈkeɪtɪd æt ðə frʌnt rɪr ənd ˈoʊvər ðə wɪŋz laɪf vɛsts ɑːr ˈʌndər jɔːr siːt ɔːr ɪn ði ˈɑːrmrɛst ˈɑːksɪdʒən mæsks wɪl drɑːp frɑːm ðə ˈsiːlɪŋ ɪf ˈkæbɪn ˈprɛʃər tʃeɪndʒɪz sɪˈkjʊr jɔːr oʊn mæsk bɪˈfɔːr əˈsɪstɪŋ ˈʌðərz θæŋk juː fɔːr jɔːr əˈtɛnʃən tuː ðiːz ˈseɪfti prəˈsiːdʒərz/",
+    "translations": {
+      "vn": "Đây là thông báo an toàn quan trọng. Trong trường hợp khẩn cấp, quý khách vui lòng giữ bình tĩnh và làm theo hướng dẫn của phi hành đoàn. Lối thoát hiểm nằm ở phía trước, phía sau và trên cánh máy bay. Áo phao ở dưới ghế ngồi hoặc trong tay vịn. Mặt nạ oxy sẽ rơi từ trần nếu áp suất cabin thay đổi. Hãy đeo mặt nạ của mình trước khi giúp người khác. Cảm ơn quý khách đã chú ý đến các quy trình an toàn này.",
+      "kr": "중요한 안전 안내입니다. 비상시에는 침착하시고 승무원의 지시를 따르십시오. 출구는 앞쪽, 뒤쪽, 날개 위에 있습니다. 구명조끼는 좌석 아래 또는 팔걸이에 있습니다. 객실 압력이 변하면 천장에서 산소 마스크가 떨어집니다. 다른 사람을 돕기 전에 본인의 마스크를 먼저 착용하십시오. 안전 절차에 주의해 주셔서 감사합니다.",
+      "jp": "重要な安全アナウンスです。緊急時には落ち着いて乗務員の指示に従ってください。非常口は前方、後方、翼の上にございます。救命胴衣は座席下またはアームレストに収納されています。客室圧力が変化した場合、天井から酸素マスクが降ります。他の人を助ける前にご自身のマスクを装着してください。これらの安全手順にご留意いただきありがとうございます。"
+    },
+    "category": "Flight Safety",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ðɪs ɪz ən ɪmˈpɔːrtənt ˈseɪfti əˈnaʊnsmənt ɪn ði ɪˈvɛnt əv ən ɪˈmɜːrdʒənsi pliːz rɪˈmeɪn kɑːm ənd ˈfɑːloʊ ði ɪnˈstrʌkʃənz əv ðə kruː ˈmɛmbərz ˈɛɡzɪts ɑːr loʊˈkeɪtɪd æt ðə frʌnt rɪr ənd ˈoʊvər ðə wɪŋz laɪf vɛsts ɑːr ˈʌndər jɔːr siːt ɔːr ɪn ði ˈɑːrmrɛst ˈɑːksɪdʒən mæsks wɪl drɑːp frɑːm ðə ˈsiːlɪŋ ɪf ˈkæbɪn ˈprɛʃər tʃeɪndʒɪz sɪˈkjʊr jɔːr oʊn mæsk bɪˈfɔːr əˈsɪstɪŋ ˈʌðərz θæŋk juː fɔːr jɔːr əˈtɛnʃən tuː ðiːz ˈseɪfti prəˈsiːdʒərz/"
+  },
+  {
+    "id": 21,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "We are excited to announce that registration is now open for the annual City Marathon taking place on Sunday, April 12th. Participants can choose between the full marathon, half marathon, or 10K run. Early registration fees are available until March 1st. All runners will receive a race packet, finisher medal, and post-race refreshments. Training tips and course maps are available on our official website. Join thousands of runners for this exciting community event.",
+    "ipa": "/wiː ɑːr ɪkˈsaɪtɪd tuː əˈnaʊns ðæt ˌrɛdʒɪˈstreɪʃən ɪz naʊ ˈoʊpən fɔːr ði ˈænjuəl ˈsɪti ˈmærəθɑːn ˈteɪkɪŋ pleɪs ɑːn ˈsʌndeɪ eɪˈprəl twɛlfθ ˈpɑːrtɪsɪpənts kæn tʃuːz bɪˈtwiːn ðə fʊl ˈmærəθɑːn hæf ˈmærəθɑːn ɔːr tɛn keɪ rʌn ˈɜːrli ˌrɛdʒɪˈstreɪʃən fiːz ɑːr əˈveɪləbl ʌnˈtɪl mɑːrtʃ fɜːrst ɔːl ˈrʌnərz wɪl rɪˈsiːv ə reɪs ˈpækɪt ˈfɪnɪʃər ˈmɛdl ənd poʊst reɪs rɪˈfrɛʃmənts ˈtreɪnɪŋ tɪps ənd kɔːrs mæps ɑːr əˈveɪləbl ɑːn aʊər əˈfɪʃəl ˈwɛbsaɪt dʒɔɪn ˈθaʊzəndz əv ˈrʌnərz fɔːr ðɪs ɪkˈsaɪtɪŋ kəˈmjuːnəti ɪˈvɛnt/",
+    "translations": {
+      "vn": "Chúng tôi rất vui mừng thông báo rằng đăng ký hiện đã mở cho Cuộc thi Marathon Thành phố hàng năm diễn ra vào Chủ Nhật, ngày 12 tháng 4. Người tham gia có thể chọn marathon đầy đủ, nửa marathon hoặc chạy 10K. Phí đăng ký sớm có hiệu lực đến ngày 1 tháng 3. Tất cả vận động viên sẽ nhận gói thi đấu, huy chương hoàn thành và đồ uống nhẹ sau cuộc đua. Mẹo tập luyện và bản đồ đường chạy có sẵn trên website chính thức của chúng tôi. Hãy tham gia cùng hàng ngàn vận động viên trong sự kiện cộng đồng thú vị này.",
+      "kr": "연례 시티 마라톤 등록이 이제 열렸음을 알려드립니다. 행사는 4월 12일 일요일에 열립니다. 참가자는 풀 마라톤, 하프 마라톤, 10K 중 선택할 수 있습니다. 3월 1일까지 조기 등록 요금이 적용됩니다. 모든 러너는 레이스 패킷, 완주 메달, 레이스 후 리프레시먼트를 받습니다. 훈련 팁과 코스 맵은 공식 웹사이트에서 확인 가능합니다. 수천 명의 러너와 함께하는 흥미로운 커뮤니티 이벤트에 참여하세요.",
+      "jp": "年次シティマラソンの登録が開始されたことをお知らせいたします。開催日は4月12日日曜日です。参加者はフルマラソン、ハーフマラソン、10Kからお選びいただけます。3月1日まで早期登録料金が適用されます。全ランナーにレースパケット、完走メダル、レース後リフレッシュメントを提供いたします。トレーニングのヒントとコースマップは公式ウェブサイトでご覧いただけます。何千人ものランナーと共にこのエキサイティングなコミュニティイベントにご参加ください。"
+    },
+    "category": "Sports Event",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/wiː ɑːr ɪkˈsaɪtɪd tuː əˈnaʊns ðæt ˌrɛdʒɪˈstreɪʃən ɪz naʊ ˈoʊpən fɔːr ði ˈænjuəl ˈsɪti ˈmærəθɑːn ˈteɪkɪŋ pleɪs ɑːn ˈsʌndeɪ eɪˈprəl twɛlfθ ˈpɑːrtɪsɪpənts kæn tʃuːz bɪˈtwiːn ðə fʊl ˈmærəθɑːn hæf ˈmærəθɑːn ɔːr tɛn keɪ rʌn ˈɜːrli ˌrɛdʒɪˈstreɪʃən fiːz ɑːr əˈveɪləbl ʌnˈtɪl mɑːrtʃ fɜːrst ɔːl ˈrʌnərz wɪl rɪˈsiːv ə reɪs ˈpækɪt ˈfɪnɪʃər ˈmɛdl ənd poʊst reɪs rɪˈfrɛʃmənts ˈtreɪnɪŋ tɪps ənd kɔːrs mæps ɑːr əˈveɪləbl ɑːn aʊər əˈfɪʃəl ˈwɛbsaɪt dʒɔɪn ˈθaʊzəndz əv ˈrʌnərz fɔːr ðɪs ɪkˈsaɪtɪŋ kəˈmjuːnəti ɪˈvɛnt/"
+  },
+  {
+    "id": 22,
+    "questionType": "Read a text aloud",
+    "questionNumber": "Q1-2",
+    "text": "Good morning, this is your daily traffic update. Heavy congestion is reported on the main highway heading north due to road construction. Drivers are advised to use alternate routes or expect delays of up to forty minutes. Public transportation services are running on schedule and are recommended for commuters. Light rain is affecting visibility in the downtown area, so please drive carefully. Stay tuned for updates every fifteen minutes.",
+    "ipa": "/ɡʊd ˈmɔːrnɪŋ ðɪs ɪz jɔːr ˈdeɪli ˈtræfɪk ˈʌpdeɪt ˈhɛvi kənˈdʒɛstʃən ɪz rɪˈpɔːrtɪd ɑːn ðə meɪn ˈhaɪweɪ ˈhɛdɪŋ nɔːrθ duː tuː roʊd kənˈstrʌkʃən ˈdraɪvərz ɑːr ədˈvaɪzd tuː juːz ɔːlˈtɜːrnət ruːts ɔːr ɪkˈspɛkt dɪˈleɪz əv ʌp tuː ˈfɔːrti ˈmɪnɪts ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈsɜːrvɪsɪz ɑːr ˈrʌnɪŋ ɑːn ˈskɛdʒuːl ənd ɑːr ˌrɛkəˈmɛndɪd fɔːr kəˈmjuːtərz laɪt reɪn ɪz əˈfɛktɪŋ ˌvɪzəˈbɪləti ɪn ðə ˈdaʊntaʊn ˈɛriə soʊ pliːz draɪv ˈkɛrfəli steɪ tuːnd fɔːr ˈʌpdeɪts ˈɛvri ˈfɪftiːn ˈmɪnɪts/",
+    "translations": {
+      "vn": "Chào buổi sáng, đây là bản cập nhật giao thông hàng ngày. Tắc nghẽn nghiêm trọng được báo cáo trên xa lộ chính hướng bắc do thi công đường bộ. Tài xế được khuyên sử dụng tuyến đường thay thế hoặc dự kiến chậm trễ tới bốn mươi phút. Dịch vụ giao thông công cộng đang chạy đúng giờ và được khuyến nghị cho người đi làm. Mưa nhẹ đang ảnh hưởng đến tầm nhìn ở khu trung tâm, vì vậy vui lòng lái xe cẩn thận. Hãy theo dõi cập nhật cứ mỗi mười lăm phút.",
+      "kr": "좋은 아침입니다. 일일 교통 업데이트입니다. 도로 공사로 인해 북쪽으로 가는 주요 고속도로에 심한 정체가 보고되었습니다. 운전자는 대체 경로를 이용하거나 최대 40분 지연을 예상하십시오. 대중교통은 예정대로 운행 중이며 통근자에게 추천합니다. 도심 지역에서는 가벼운 비로 시야가 제한되니 안전 운전 바랍니다. 15분마다 업데이트를 확인하세요.",
+      "jp": "おはようございます。毎日の交通情報です。道路工事のため、北行き高速道路で深刻な渋滞が発生しています。ドライバーの皆様は代替ルートをご利用いただくか、最大40分の遅れを覚悟してください。公共交通機関は予定通り運行しており、通勤者におすすめです。市街地では小雨で視界が悪くなっていますので、安全運転をお願いします。15分ごとに更新情報をご確認ください。"
+    },
+    "category": "Traffic Update",
+    "instructions": "Read the text aloud clearly and naturally.",
+    "sampleAnswerIpa": "/ɡʊd ˈmɔːrnɪŋ ðɪs ɪz jɔːr ˈdeɪli ˈtræfɪk ˈʌpdeɪt ˈhɛvi kənˈdʒɛstʃən ɪz rɪˈpɔːrtɪd ɑːn ðə meɪn ˈhaɪweɪ ˈhɛdɪŋ nɔːrθ duː tuː roʊd kənˈstrʌkʃən ˈdraɪvərz ɑːr ədˈvaɪzd tuː juːz ɔːlˈtɜːrnət ruːts ɔːr ɪkˈspɛkt dɪˈleɪz əv ʌp tuː ˈfɔːrti ˈmɪnɪts ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈsɜːrvɪsɪz ɑːr ˈrʌnɪŋ ɑːn ˈskɛdʒuːl ənd ɑːr ˌrɛkəˈmɛndɪd fɔːr kəˈmjuːtərz laɪt reɪn ɪz əˈfɛktɪŋ ˌvɪzəˈbɪləti ɪn ðə ˈdaʊntaʊn ˈɛriə soʊ pliːz draɪv ˈkɛrfəli steɪ tuːnd fɔːr ˈʌpdeɪts ˈɛvri ˈfɪftiːn ˈmɪnɪts/"
+  }
+]

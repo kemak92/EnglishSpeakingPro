@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 301,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The quarterly sales meeting originally scheduled for Friday has been postponed to next Monday at 10:00 AM in Conference Room B due to several key team members being unavailable. When and where will the quarterly sales meeting now be held?",
+    "ipa": "/ðə ˈkwɔːtəli seɪlz ˈmiːtɪŋ əˈrɪdʒɪnəli ˈʃɛdjuːld fɔː ˈfraɪdeɪ hæz biːn poʊstˈpoʊnd tuː nɛkst ˈmʌndeɪ æt tɛn əˈklɒk eɪˈem ɪn ˈkɒnfərəns ruːm biː djuː tuː ˈsɛvrəl kiː tiːm ˈmɛmbərz ˈbiːɪŋ ˌʌnəˈveɪləbl wɛn ənd weər wɪl ðə ˈkwɔːtəli seɪlz ˈmiːtɪŋ naʊ biː hɛld/",
+    "translations": {
+      "vn": "Cuộc họp bán hàng quý ban đầu dự kiến vào thứ Sáu đã được hoãn sang thứ Hai tuần tới lúc 10 giờ sáng tại Phòng Hội nghị B vì một số thành viên chính không có mặt. Cuộc họp bán hàng quý giờ sẽ diễn ra khi nào và ở đâu?",
+      "kr": "원래 금요일로 예정된 분기 판매 회의가 주요 팀원들의 부재로 인해 다음 주 월요일 오전 10시에 B 회의실로 연기되었습니다. 이제 분기 판매 회의는 언제 어디에서 열리나요?",
+      "jp": "元々金曜日に予定されていた四半期販売会議は主要チームメンバーの不在のため、来週月曜日の午前10時に会議室Bに延期されました。今、四半期販売会議はいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The quarterly sales meeting will now be held next Monday at 10:00 AM in Conference Room B because several key team members are unavailable on the original date.",
+    "sampleAnswerIpa": "/ðə ˈkwɔːtəli seɪlz ˈmiːtɪŋ wɪl naʊ biː hɛld nɛkst ˈmʌndeɪ æt tɛn əˈklɒk eɪˈem ɪn ˈkɒnfərəns ruːm biː bɪˈkɒz ˈsɛvrəl kiː tiːm ˈmɛmbərz ɑːr ˌʌnəˈveɪləbl ɒn ði əˈrɪdʒɪnl deɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Cuộc họp bán hàng quý giờ sẽ diễn ra vào thứ Hai tuần tới lúc 10 giờ sáng tại Phòng Hội nghị B vì một số thành viên chính không có mặt vào ngày ban đầu.",
+      "kr": "분기 판매 회의는 이제 주요 팀원들이 원래 날짜에 참석할 수 없어 다음 주 월요일 오전 10시에 B 회의실에서 열립니다.",
+      "jp": "四半期販売会議は今、主要チームメンバーが元の日に不在のため、来週月曜日の午前10時に会議室Bで開催されます。"
+    },
+    "category": "Meeting Reschedule"
+  },
+  {
+    "id": 302,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The cafeteria will be closed all day on Tuesday for kitchen renovations and deep cleaning. Employees are encouraged to bring their own lunch or eat at nearby restaurants. Why and when will the cafeteria be closed?",
+    "ipa": "/ðə ˌkæfəˈtɪəriə wɪl biː kloʊzd ɔːl deɪ ɒn ˈtjuːzdeɪ fɔːr ˈkɪtʃɪn ˌrɛnəˈveɪʃənz ənd diːp ˈkliːnɪŋ ɪmˈplɔɪiːz ɑːr ɪnˈkʌrɪdʒd tuː brɪŋ ðɛr oʊn lʌntʃ ɔːr iːt æt ˈnɪrbaɪ ˈrɛstərɑːnts waɪ ənd wɛn wɪl ðə ˌkæfəˈtɪəriə biː kloʊzd/",
+    "translations": {
+      "vn": "Nhà ăn sẽ đóng cửa cả ngày thứ Ba để cải tạo bếp và vệ sinh sâu. Nhân viên được khuyến khích mang bữa trưa riêng hoặc ăn ở nhà hàng gần đó. Nhà ăn đóng cửa vì lý do gì và khi nào?",
+      "kr": "카페테리아는 화요일 종일 주방 리노베이션과 대청소로 폐쇄됩니다. 직원들은 자신의 점심을 가져오거나 근처 레스토랑에서 먹도록 권장됩니다. 카페테리아는 왜 언제 폐쇄되나요?",
+      "jp": "カフェテリアは火曜日終日、厨房改装と大清掃のため閉まります。従業員は自分のランチを持参するか近くのレストランで食べるよう奨励されています。カフェテリアはなぜいつ閉まるのですか？"
+    },
+    "sampleAnswer": "The cafeteria will be closed all day on Tuesday for kitchen renovations and deep cleaning, so employees should bring their own lunch or eat at nearby restaurants.",
+    "sampleAnswerIpa": "/ðə ˌkæfəˈtɪəriə wɪl biː kloʊzd ɔːl deɪ ɒn ˈtjuːzdeɪ fɔːr ˈkɪtʃɪn ˌrɛnəˈveɪʃənz ənd diːp ˈkliːnɪŋ soʊ ɪmˈplɔɪiːz ʃʊd brɪŋ ðɛr oʊn lʌntʃ ɔːr iːt æt ˈnɪrbaɪ ˈrɛstərɑːnts/",
+    "sampleAnswerTranslations": {
+      "vn": "Nhà ăn sẽ đóng cửa cả ngày thứ Ba để cải tạo bếp và vệ sinh sâu, nên nhân viên nên mang bữa trưa riêng hoặc ăn ở nhà hàng gần đó.",
+      "kr": "카페테리아는 주방 리노베이션과 대청소로 화요일 종일 폐쇄되므로 직원들은 자신의 점심을 가져오거나 근처 레스토랑에서 먹어야 합니다.",
+      "jp": "カフェテリアは厨房改装と大清掃のため火曜日終日閉まり、従業員は自分のランチを持参するか近くのレストランで食べるべきです。"
+    },
+    "category": "Cafeteria Closure"
+  },
+  {
+    "id": 303,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Due to budget approval delays, the deadline for submitting project proposals for the new fiscal year has been extended to March 31st. All submissions must be sent to the project committee. What is the new deadline for submitting project proposals?",
+    "ipa": "/djuː tuː ˈbʌdʒɪt əˈpruːvəl dɪˈleɪz ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˈprɒdʒɛkt prəˈpoʊzəlz fɔːr ðə nuː ˈfɪskəl jɪr hæz biːn ɪkˈstɛndɪd tuː mɑːtʃ ˈθɜːti fɜːst ɔːl səbˈmɪʃənz mʌst biː sɛnt tuː ðə ˈprɒdʒɛkt kəˈmɪti wɒt ɪz ðə nuː ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˈprɒdʒɛkt prəˈpoʊzəlz/",
+    "translations": {
+      "vn": "Do chậm trễ phê duyệt ngân sách, hạn chót nộp đề xuất dự án cho năm tài chính mới đã được kéo dài đến ngày 31 tháng 3. Tất cả nộp phải gửi cho ủy ban dự án. Hạn chót mới để nộp đề xuất dự án là khi nào?",
+      "kr": "예산 승인 지연으로 인해 새 회계연도 프로젝트 제안 제출 마감일이 3월 31일로 연장되었습니다. 모든 제출은 프로젝트 위원회에 보내야 합니다. 프로젝트 제안 제출 새로운 마감일은 언제인가요?",
+      "jp": "予算承認遅れのため、新会計年度のプロジェクト提案提出期限が3月31日に延長されました。全提出はプロジェクト委員会に送らなければなりません。プロジェクト提案の新しい提出期限はいつですか？"
+    },
+    "sampleAnswer": "The deadline for submitting project proposals for the new fiscal year has been extended to March 31st due to budget approval delays, and submissions must be sent to the project committee.",
+    "sampleAnswerIpa": "/ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˈprɒdʒɛkt prəˈpoʊzəlz fɔːr ðə nuː ˈfɪskəl jɪr hæz biːn ɪkˈstɛndɪd tuː mɑːtʃ ˈθɜːti fɜːst djuː tuː ˈbʌdʒɪt əˈpruːvəl dɪˈleɪz ənd səbˈmɪʃənz mʌst biː sɛnt tuː ðə ˈprɒdʒɛkt kəˈmɪti/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót nộp đề xuất dự án cho năm tài chính mới đã được kéo dài đến ngày 31 tháng 3 do chậm trễ phê duyệt ngân sách, và nộp phải gửi cho ủy ban dự án.",
+      "kr": "예산 승인 지연으로 인해 새 회계연도 프로젝트 제안 제출 마감일이 3월 31일로 연장되었으며 제출은 프로젝트 위원회에 보내야 합니다.",
+      "jp": "予算承認遅れのため、新会計年度のプロジェクト提案提出期限が3月31日に延長され、提出はプロジェクト委員会に送らなければなりません。"
+    },
+    "category": "Project Proposal Deadline"
+  },
+  {
+    "id": 304,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has updated its dress code policy starting next month: business casual attire is now allowed every day except for client meetings, which require formal business wear. What is the updated dress code policy starting next month?",
+    "ipa": "/ðə ˈkʌmpəni hæz ʌpˈdeɪtɪd ɪts drɛs koʊd ˈpɒləsi ˈstɑːtɪŋ nɛkst mʌnθ ˈbɪznɪs ˈkæʒuəl əˈtaɪər ɪz naʊ əˈlaʊd ˈɛvri deɪ ɪkˈsɛpt fɔːr ˈklaɪənt ˈmiːtɪŋz wɪtʃ rɪˈkwaɪər ˈfɔːməl ˈbɪznɪs wɛr wɒt ɪz ði ʌpˈdeɪtɪd drɛs koʊd ˈpɒləsi ˈstɑːtɪŋ nɛkst mʌnθ/",
+    "translations": {
+      "vn": "Công ty đã cập nhật chính sách trang phục bắt đầu từ tháng tới: trang phục công sở thoải mái được phép hàng ngày ngoại trừ họp khách hàng cần trang phục công sở trang trọng. Chính sách trang phục cập nhật từ tháng tới là gì?",
+      "kr": "회사는 다음 달부터 복장 규정을 업데이트했습니다: 고객 미팅을 제외한 매일 비즈니스 캐주얼 복장이 허용됩니다. 고객 미팅은 포멀 비즈니스 웨어가 필요합니다. 다음 달부터 업데이트된 복장 규정은 무엇인가요?",
+      "jp": "会社は来月からドレスコードポリシーを更新しました：クライアントミーティングを除き、毎日ビジネスカジュアルが許可されます。クライアントミーティングはフォーマルビジネスウェアが必要です。来月からの更新ドレスコードポリシーは何ですか？"
+    },
+    "sampleAnswer": "Starting next month, the updated dress code allows business casual attire every day except for client meetings, which require formal business wear.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ nɛkst mʌnθ ði ʌpˈdeɪtɪd drɛs koʊd əˈlaʊz ˈbɪznɪs ˈkæʒuəl əˈtaɪər ˈɛvri deɪ ɪkˈsɛpt fɔːr ˈklaɪənt ˈmiːtɪŋz wɪtʃ rɪˈkwaɪər ˈfɔːməl ˈbɪznɪs wɛr/",
+    "sampleAnswerTranslations": {
+      "vn": "Từ tháng tới, chính sách trang phục cập nhật cho phép trang phục công sở thoải mái hàng ngày ngoại trừ họp khách hàng cần trang phục công sở trang trọng.",
+      "kr": "다음 달부터 업데이트된 복장 규정은 고객 미팅을 제외한 매일 비즈니스 캐주얼을 허용하며 고객 미팅은 포멀 비즈니스 웨어가 필요합니다.",
+      "jp": "来月から、更新ドレスコードはクライアントミーティングを除き毎日ビジネスカジュアルを許可し、クライアントミーティングはフォーマルビジネスウェアが必要です。"
+    },
+    "category": "Dress Code Update"
+  },
+  {
+    "id": 305,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The annual team-building retreat will take place at Lakeview Resort from September 12th to 14th. Transportation and accommodation will be provided by the company for all participants. When and where will the annual team-building retreat take place?",
+    "ipa": "/ði ˈænjuəl tiːm ˈbɪldɪŋ rɪˈtriːt wɪl teɪk pleɪs æt ˈleɪkvjuː rɪˈzɔːt frɑːm sɛpˈtɛmbə ˈtwɛlfθ tuː ˈfɔːˈtiːnθ ˌtrænspɔːˈteɪʃən ənd əˌkɒməˈdeɪʃən wɪl biː prəˈvaɪdɪd baɪ ðə ˈkʌmpəni fɔːr ɔːl ˌpɑːˈtɪsɪpənts wɛn ənd weər wɪl ði ˈænjuəl tiːm ˈbɪldɪŋ rɪˈtriːt teɪk pleɪs/",
+    "translations": {
+      "vn": "Chuyến nghỉ xây dựng đội nhóm hàng năm sẽ diễn ra tại Khu nghỉ dưỡng Lakeview từ ngày 12 đến 14 tháng 9. Phương tiện di chuyển và chỗ ở sẽ do công ty cung cấp cho tất cả người tham gia. Chuyến nghỉ xây dựng đội nhóm hàng năm sẽ diễn ra khi nào và ở đâu?",
+      "kr": "연례 팀 빌딩 리트리트는 9월 12일부터 14일까지 레이크뷰 리조트에서 열리며 모든 참가자에게 교통과 숙소가 회사에서 제공됩니다. 연례 팀 빌딩 리트리트는 언제 어디에서 열리나요?",
+      "jp": "年次チームビルディングリトリートは9月12日から14日までレイクビューリゾートで開催され、全参加者に交通と宿泊が会社から提供されます。年次チームビルディングリトリートはいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The annual team-building retreat will take place at Lakeview Resort from September 12th to 14th, and transportation and accommodation will be provided by the company.",
+    "sampleAnswerIpa": "/ði ˈænjuəl tiːm ˈbɪldɪŋ rɪˈtriːt wɪl teɪk pleɪs æt ˈleɪkvjuː rɪˈzɔːt frɑːm sɛpˈtɛmbə ˈtwɛlfθ tuː ˈfɔːˈtiːnθ ənd ˌtrænspɔːˈteɪʃən ənd əˌkɒməˈdeɪʃən wɪl biː prəˈvaɪdɪd baɪ ðə ˈkʌmpəni/",
+    "sampleAnswerTranslations": {
+      "vn": "Chuyến nghỉ xây dựng đội nhóm hàng năm sẽ diễn ra tại Khu nghỉ dưỡng Lakeview từ ngày 12 đến 14 tháng 9, và phương tiện di chuyển cùng chỗ ở do công ty cung cấp.",
+      "kr": "연례 팀 빌딩 리트리트는 9월 12일부터 14일까지 레이크뷰 리조트에서 열리며 교통과 숙소는 회사에서 제공됩니다.",
+      "jp": "年次チームビルディングリトリートは9月12日から14日までレイクビューリゾートで開催され、交通と宿泊は会社が提供します。"
+    },
+    "category": "Team Building Retreat"
+  },
+  {
+    "id": 306,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All employees are required to attend the mandatory safety training session on Wednesday, April 24th at 2:00 PM in the main auditorium. The session will last approximately two hours. When and where is the mandatory safety training session?",
+    "ipa": "/ɔːl ɪmˈplɔɪiːz ɑːr rɪˈkwaɪərd tuː əˈtɛnd ðə ˈmændətəri ˈseɪfti ˈtreɪnɪŋ ˈsɛʃən ɒn ˈwɛnzdeɪ ˈeɪprəl ˈtwɛnti ˈfɔːrθ æt tuː əˈklɒk piːˈem ɪn ðə meɪn ˌɔːdɪˈtɔːriəm ðə ˈsɛʃən wɪl lɑːst əˌprɒksɪmətli tuː aʊərz wɛn ənd weər ɪz ðə ˈmændətəri ˈseɪfti ˈtreɪnɪŋ ˈsɛʃən/",
+    "translations": {
+      "vn": "Tất cả nhân viên phải tham gia buổi đào tạo an toàn bắt buộc vào thứ Tư, ngày 24 tháng 4 lúc 2 giờ chiều tại hội trường chính. Buổi đào tạo sẽ kéo dài khoảng hai giờ. Buổi đào tạo an toàn bắt buộc diễn ra khi nào và ở đâu?",
+      "kr": "모든 직원은 4월 24일 수요일 오후 2시에 메인 강당에서 필수 안전 교육 세션에 참석해야 하며 세션은 약 2시간 지속됩니다. 필수 안전 교육 세션은 언제 어디에서 열리나요?",
+      "jp": "全従業員は4月24日水曜日の午後2時にメイン講堂で必須安全研修セッションに出席しなければならず、セッションは約2時間続きます。必須安全研修セッションはいつどこでですか？"
+    },
+    "sampleAnswer": "The mandatory safety training session is on Wednesday, April 24th at 2:00 PM in the main auditorium, and it will last approximately two hours.",
+    "sampleAnswerIpa": "/ðə ˈmændətəri ˈseɪfti ˈtreɪnɪŋ ˈsɛʃən ɪz ɒn ˈwɛnzdeɪ ˈeɪprəl ˈtwɛnti ˈfɔːrθ æt tuː əˈklɒk piːˈem ɪn ðə meɪn ˌɔːdɪˈtɔːriəm ənd ɪt wɪl lɑːst əˌprɒksɪmətli tuː aʊərz/",
+    "sampleAnswerTranslations": {
+      "vn": "Buổi đào tạo an toàn bắt buộc diễn ra vào thứ Tư, ngày 24 tháng 4 lúc 2 giờ chiều tại hội trường chính, và kéo dài khoảng hai giờ.",
+      "kr": "필수 안전 교육 세션은 4월 24일 수요일 오후 2시에 메인 강당에서 열리며 약 2시간 지속됩니다.",
+      "jp": "必須安全研修セッションは4月24日水曜日の午後2時にメイン講堂で、約2時間続きます。"
+    },
+    "category": "Safety Training"
+  },
+  {
+    "id": 307,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office parking lot will be closed for resurfacing from May 6th to May 8th. Employees should use the overflow lot behind the building or public transportation during this period. When will the office parking lot be closed for resurfacing?",
+    "ipa": "/ði ˈɒfɪs ˈpɑːkɪŋ lɒt wɪl biː kloʊzd fɔːr riːˈsɜːfɪsɪŋ frɑːm meɪ sɪksθ tuː meɪ eɪtθ ɪmˈplɔɪiːz ʃʊd juːz ði ˈoʊvəfloʊ lɒt bɪˈhaɪnd ðə ˈbɪldɪŋ ɔːr ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈdjʊərɪŋ ðɪs ˈpɪəriəd wɛn wɪl ði ˈɒfɪs ˈpɑːkɪŋ lɒt biː kloʊzd fɔːr riːˈsɜːfɪsɪŋ/",
+    "translations": {
+      "vn": "Bãi đỗ xe văn phòng sẽ đóng cửa để sửa mặt đường từ ngày 6 đến 8 tháng 5. Nhân viên nên dùng bãi đỗ phụ phía sau tòa nhà hoặc phương tiện công cộng trong thời gian này. Bãi đỗ xe văn phòng sẽ đóng cửa để sửa mặt đường khi nào?",
+      "kr": "사무실 주차장은 5월 6일부터 8일까지 재포장으로 폐쇄됩니다. 이 기간 동안 직원들은 건물 뒤 오버플로우 주차장이나 대중교통을 이용해야 합니다. 사무실 주차장은 언제 재포장으로 폐쇄되나요?",
+      "jp": "オフィス駐車場は5月6日から8日まで再舗装のため閉まり、この期間従業員は建物裏のオーバーフロー駐車場または公共交通機関を利用してください。オフィス駐車場はいつ再舗装で閉まるのですか？"
+    },
+    "sampleAnswer": "The office parking lot will be closed for resurfacing from May 6th to May 8th, so employees should use the overflow lot or public transportation during that time.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs ˈpɑːkɪŋ lɒt wɪl biː kloʊzd fɔːr riːˈsɜːfɪsɪŋ frɑːm meɪ sɪksθ tuː meɪ eɪtθ soʊ ɪmˈplɔɪiːz ʃʊd juːz ði ˈoʊvəfloʊ lɒt ɔːr ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈdjʊərɪŋ ðæt taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Bãi đỗ xe văn phòng sẽ đóng cửa để sửa mặt đường từ ngày 6 đến 8 tháng 5, nên nhân viên nên dùng bãi đỗ phụ hoặc phương tiện công cộng trong thời gian đó.",
+      "kr": "사무실 주차장은 5월 6일부터 8일까지 재포장으로 폐쇄되므로 그 기간 동안 직원들은 오버플로우 주차장이나 대중교통을 이용해야 합니다.",
+      "jp": "オフィス駐車場は5月6日から8日まで再舗装のため閉まり、その期間従業員はオーバーフロー駐車場または公共交通機関を利用してください。"
+    },
+    "category": "Parking Resurfacing"
+  },
+  {
+    "id": 308,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The new printer in the copy room is now fully operational and supports color printing, scanning, and copying. Employees are reminded to collect their prints promptly to avoid paper jams. What features does the new printer in the copy room support?",
+    "ipa": "/ðə nuː ˈprɪntər ɪn ðə ˈkɒpi ruːm ɪz naʊ ˈfʊli ˌɒpəˈreɪʃənl ənd səˈpɔːts ˈkʌlər ˈprɪntɪŋ ˈskænɪŋ ənd ˈkɒpiɪŋ ɪmˈplɔɪiːz ɑːr rɪˈmaɪndɪd tuː kəˈlɛkt ðɛr prɪnts ˈprɒmptli tuː əˈvɔɪd ˈpeɪpər dʒæmz wɒt ˈfiːtʃərz dʌz ðə nuː ˈprɪntər ɪn ðə ˈkɒpi ruːm səˈpɔːt/",
+    "translations": {
+      "vn": "Máy in mới ở phòng photo giờ đã hoạt động đầy đủ và hỗ trợ in màu, quét và sao chép. Nhân viên được nhắc lấy bản in kịp thời để tránh kẹt giấy. Máy in mới ở phòng photo hỗ trợ những tính năng gì?",
+      "kr": "복사실의 새로운 프린터는 이제 완전히 작동하며 컬러 인쇄, 스캐닝, 복사를 지원합니다. 직원들은 종이 잼을 피하기 위해 인쇄물을 즉시 수거하라는 알림을 받았습니다. 복사실의 새로운 프린터는 어떤 기능을 지원하나요?",
+      "jp": "コピー室の新しいプリンターは今完全に稼働し、カラー印刷、スキャン、コピーをサポートします。従業員は紙詰まりを避けるため印刷物をすぐに回収するよう提醒されています。コピー室の新しいプリンターはどんな機能をサポートしますか？"
+    },
+    "sampleAnswer": "The new printer in the copy room is fully operational and supports color printing, scanning, and copying, but employees should collect their prints promptly to avoid paper jams.",
+    "sampleAnswerIpa": "/ðə nuː ˈprɪntər ɪn ðə ˈkɒpi ruːm ɪz ˈfʊli ˌɒpəˈreɪʃənl ənd səˈpɔːts ˈkʌlər ˈprɪntɪŋ ˈskænɪŋ ənd ˈkɒpiɪŋ bʌt ɪmˈplɔɪiːz ʃʊd kəˈlɛkt ðɛr prɪnts ˈprɒmptli tuː əˈvɔɪd ˈpeɪpər dʒæmz/",
+    "sampleAnswerTranslations": {
+      "vn": "Máy in mới ở phòng photo đã hoạt động đầy đủ và hỗ trợ in màu, quét và sao chép, nhưng nhân viên nên lấy bản in kịp thời để tránh kẹt giấy.",
+      "kr": "복사실의 새로운 프린터는 완전히 작동하며 컬러 인쇄, 스캐닝, 복사를 지원하지만 직원들은 종이 잼을 피하기 위해 인쇄물을 즉시 수거해야 합니다.",
+      "jp": "コピー室の新しいプリンターは完全に稼働し、カラー印刷、スキャン、コピーをサポートしますが、従業員は紙詰まりを避けるため印刷物をすぐに回収してください。"
+    },
+    "category": "New Printer Features"
+  },
+  {
+    "id": 309,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Employees can now book meeting rooms through the new online reservation system available on the company intranet. Bookings must be made at least 24 hours in advance. How can employees book meeting rooms?",
+    "ipa": "/ɪmˈplɔɪiːz kæn naʊ bʊk ˈmiːtɪŋ ruːmz θruː ðə nuː ɒnˈlaɪn ˌrɛzəˈveɪʃən ˈsɪstəm əˈveɪləbl ɒn ðə ˈkʌmpəni ˈɪntrənɛt ˈbʊkɪŋz mʌst biː meɪd æt liːst ˈtwɛnti fɔːr aʊərz ɪn ədˈvæns haʊ kæn ɪmˈplɔɪiːz bʊk ˈmiːtɪŋ ruːmz/",
+    "translations": {
+      "vn": "Nhân viên giờ có thể đặt phòng họp qua hệ thống đặt chỗ trực tuyến mới trên intranet công ty. Đặt chỗ phải thực hiện ít nhất 24 giờ trước. Nhân viên có thể đặt phòng họp như thế nào?",
+      "kr": "직원들은 이제 회사 인트라넷에서 이용 가능한 새로운 온라인 예약 시스템을 통해 회의실을 예약할 수 있으며 예약은 최소 24시간 전에 해야 합니다. 직원들은 회의실을 어떻게 예약할 수 있나요?",
+      "jp": "従業員は今、会社イントラネットで利用可能な新しいオンライン予約システムを通じて会議室を予約でき、予約は少なくとも24時間前にしなければなりません。従業員は会議室をどうやって予約できますか？"
+    },
+    "sampleAnswer": "Employees can book meeting rooms through the new online reservation system on the company intranet, and bookings must be made at least 24 hours in advance.",
+    "sampleAnswerIpa": "/ɪmˈplɔɪiːz kæn bʊk ˈmiːtɪŋ ruːmz θruː ðə nuː ɒnˈlaɪn ˌrɛzəˈveɪʃən ˈsɪstəm ɒn ðə ˈkʌmpəni ˈɪntrənɛt ənd ˈbʊkɪŋz mʌst biː meɪd æt liːst ˈtwɛnti fɔːr aʊərz ɪn ədˈvæns/",
+    "sampleAnswerTranslations": {
+      "vn": "Nhân viên có thể đặt phòng họp qua hệ thống đặt chỗ trực tuyến mới trên intranet công ty, và đặt chỗ phải thực hiện ít nhất 24 giờ trước.",
+      "kr": "직원들은 회사 인트라넷의 새로운 온라인 예약 시스템을 통해 회의실을 예약할 수 있으며 최소 24시간 전에 예약해야 합니다.",
+      "jp": "従業員は会社イントラネットの新しいオンライン予約システムを通じて会議室を予約でき、少なくとも24時間前に予約しなければなりません。"
+    },
+    "category": "Room Booking System"
+  },
+  {
+    "id": 310,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company holiday party is scheduled for Friday, December 20th at 6:00 PM in the Grand Ballroom of the Downtown Hotel. Spouses and partners are welcome to attend. When and where is the company holiday party?",
+    "ipa": "/ðə ˈkʌmpəni ˈhɒlɪdeɪ ˈpɑːti ɪz ˈʃɛdjuːld fɔːr ˈfraɪdeɪ dɪˈsɛmbə ˈtwɛntiəθ æt sɪks əˈklɒk piːˈem ɪn ðə ɡrænd ˈbɔːlruːm əv ðə ˈdaʊntaʊn hoʊˈtɛl ˈspaʊsɪz ənd ˈpɑːtnərz ɑːr ˈwɛlkəm tuː əˈtɛnd wɛn ənd weər ɪz ðə ˈkʌmpəni ˈhɒlɪdeɪ ˈpɑːti/",
+    "translations": {
+      "vn": "Bữa tiệc cuối năm công ty được lên lịch vào thứ Sáu, ngày 20 tháng 12 lúc 6 giờ tối tại Grand Ballroom của khách sạn Downtown. Vợ/chồng và bạn đời được mời tham gia. Bữa tiệc cuối năm công ty diễn ra khi nào và ở đâu?",
+      "kr": "회사 홀리데이 파티는 12월 20일 금요일 오후 6시에 다운타운 호텔의 그랜드 볼룸에서 예정되며 배우자와 파트너가 참석할 수 있습니다. 회사 홀리데이 파티는 언제 어디에서 열리나요?",
+      "jp": "会社ホリデーパーティーは12月20日金曜日の午後6時にダウンタウンホテルのグランドボールルームで予定され、配偶者とパートナーが参加できます。会社ホリデーパーティーはいつどこでですか？"
+    },
+    "sampleAnswer": "The company holiday party is scheduled for Friday, December 20th at 6:00 PM in the Grand Ballroom of the Downtown Hotel, and spouses and partners are welcome.",
+    "sampleAnswerIpa": "/ðə ˈkʌmpəni ˈhɒlɪdeɪ ˈpɑːti ɪz ˈʃɛdjuːld fɔːr ˈfraɪdeɪ dɪˈsɛmbə ˈtwɛntiəθ æt sɪks əˈklɒk piːˈem ɪn ðə ɡrænd ˈbɔːlruːm əv ðə ˈdaʊntaʊn hoʊˈtɛl ənd ˈspaʊsɪz ənd ˈpɑːtnərz ɑːr ˈwɛlkəm/",
+    "sampleAnswerTranslations": {
+      "vn": "Bữa tiệc cuối năm công ty được lên lịch vào thứ Sáu, ngày 20 tháng 12 lúc 6 giờ tối tại Grand Ballroom của khách sạn Downtown, và vợ/chồng cùng bạn đời được mời.",
+      "kr": "회사 홀리데이 파티는 12월 20일 금요일 오후 6시에 다운타운 호텔의 그랜드 볼룸에서 예정되며 배우자와 파트너가 환영됩니다.",
+      "jp": "会社ホリデーパーティーは12月20日金曜日の午後6時にダウンタウンホテルのグランドボールルームで予定され、配偶者とパートナーが歓迎されます。"
+    },
+    "category": "Holiday Party"
+  },
+  {
+    "id": 311,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All requests for IT equipment upgrades must be submitted to the IT department by July 31st for consideration in the next budget cycle. Late requests will be reviewed the following year. What is the deadline for submitting IT equipment upgrade requests?",
+    "ipa": "/ɔːl rɪˈkwɛsts fɔːr aɪˈtiː ɪˈkwɪpmənt ˈʌpɡreɪdz mʌst biː səbˈmɪtɪd tuː ði aɪˈtiː dɪˈpɑːtmənt baɪ dʒuˈlaɪ ˈθɜːti fɜːst fɔːr kənˌsɪdəˈreɪʃən ɪn ðə nɛkst ˈbʌdʒɪt ˈsaɪkl leɪt rɪˈkwɛsts wɪl biː rɪˈvjuːd ðə ˈfɒloʊɪŋ jɪr wɒt ɪz ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ aɪˈtiː ɪˈkwɪpmənt ˈʌpɡreɪd rɪˈkwɛsts/",
+    "translations": {
+      "vn": "Tất cả yêu cầu nâng cấp thiết bị IT phải được nộp cho bộ phận IT trước ngày 31 tháng 7 để xem xét trong chu kỳ ngân sách tiếp theo. Yêu cầu muộn sẽ được xem xét năm sau. Hạn chót nộp yêu cầu nâng cấp thiết bị IT là khi nào?",
+      "kr": "모든 IT 장비 업그레이드 요청은 다음 예산 주기 검토를 위해 7월 31일까지 IT 부서에 제출해야 하며 늦은 요청은 다음 해에 검토됩니다. IT 장비 업그레이드 요청 제출 마감일은 언제인가요?",
+      "jp": "全IT機器アップグレード依頼は次予算サイクル検討のため7月31日までにIT部門に提出しなければならず、遅れた依頼は翌年レビューされます。IT機器アップグレード依頼の提出期限はいつですか？"
+    },
+    "sampleAnswer": "All requests for IT equipment upgrades must be submitted to the IT department by July 31st for consideration in the next budget cycle, and late requests will be reviewed the following year.",
+    "sampleAnswerIpa": "/ɔːl rɪˈkwɛsts fɔːr aɪˈtiː ɪˈkwɪpmənt ˈʌpɡreɪdz mʌst biː səbˈmɪtɪd tuː ði aɪˈtiː dɪˈpɑːtmənt baɪ dʒuˈlaɪ ˈθɜːti fɜːst fɔːr kənˌsɪdəˈreɪʃən ɪn ðə nɛkst ˈbʌdʒɪt ˈsaɪkl ənd leɪt rɪˈkwɛsts wɪl biː rɪˈvjuːd ðə ˈfɒloʊɪŋ jɪr/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả yêu cầu nâng cấp thiết bị IT phải được nộp cho bộ phận IT trước ngày 31 tháng 7 để xem xét trong chu kỳ ngân sách tiếp theo, và yêu cầu muộn sẽ được xem xét năm sau.",
+      "kr": "모든 IT 장비 업그레이드 요청은 다음 예산 주기 검토를 위해 7월 31일까지 IT 부서에 제출해야 하며 늦은 요청은 다음 해에 검토됩니다.",
+      "jp": "全IT機器アップグレード依頼は次予算サイクル検討のため7月31日までにIT部門に提出し、遅れた依頼は翌年レビューされます。"
+    },
+    "category": "IT Upgrade Requests"
+  },
+  {
+    "id": 312,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office will switch to summer hours starting June 1st: employees can leave at 3:00 PM on Fridays. This schedule will continue until September 1st. When will the office switch to summer hours?",
+    "ipa": "/ði ˈɒfɪs wɪl swɪtʃ tuː ˈsʌmər aʊərz ˈstɑːtɪŋ dʒuːn fɜːst ɪmˈplɔɪiːz kæn liːv æt θriː əˈklɒk piːˈem ɒn ˈfraɪdeɪz ðɪs ˈʃɛdjuːl wɪl kənˈtɪnjuː ʌnˈtɪl sɛpˈtɛmbə fɜːst wɛn wɪl ði ˈɒfɪs swɪtʃ tuː ˈsʌmər aʊərz/",
+    "translations": {
+      "vn": "Văn phòng sẽ chuyển sang giờ hè bắt đầu từ ngày 1 tháng 6: nhân viên có thể rời đi lúc 3 giờ chiều thứ Sáu. Lịch này sẽ tiếp tục đến ngày 1 tháng 9. Văn phòng sẽ chuyển sang giờ hè khi nào?",
+      "kr": "사무실은 6월 1일부터 여름 근무 시간으로 전환되며 직원들은 금요일 오후 3시에 퇴근할 수 있습니다. 이 일정은 9월 1일까지 계속됩니다. 사무실은 언제 여름 근무 시간으로 전환하나요?",
+      "jp": "オフィスは6月1日から夏時間に切り替わり、従業員は金曜日の午後3時に退社できます。このスケジュールは9月1日まで続きます。オフィスはいつ夏時間に切り替わりますか？"
+    },
+    "sampleAnswer": "The office will switch to summer hours starting June 1st, allowing employees to leave at 3:00 PM on Fridays, and this schedule will continue until September 1st.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs wɪl swɪtʃ tuː ˈsʌmər aʊərz ˈstɑːtɪŋ dʒuːn fɜːst əˈlaʊɪŋ ɪmˈplɔɪiːz tuː liːv æt θriː əˈklɒk piːˈem ɒn ˈfraɪdeɪz ənd ðɪs ˈʃɛdjuːl wɪl kənˈtɪnjuː ʌnˈtɪl sɛpˈtɛmbə fɜːst/",
+    "sampleAnswerTranslations": {
+      "vn": "Văn phòng sẽ chuyển sang giờ hè từ ngày 1 tháng 6, cho phép nhân viên rời đi lúc 3 giờ chiều thứ Sáu, và lịch này tiếp tục đến ngày 1 tháng 9.",
+      "kr": "사무실은 6월 1일부터 여름 근무 시간으로 전환되어 금요일 오후 3시에 퇴근할 수 있으며 이 일정은 9월 1일까지 계속됩니다.",
+      "jp": "オフィスは6月1日から夏時間に切り替わり、金曜日の午後3時に退社でき、このスケジュールは9月1日まで続きます。"
+    },
+    "category": "Summer Hours"
+  },
+  {
+    "id": 313,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Due to renovations, the main entrance will be closed from August 5th to August 9th. Employees and visitors should use the side entrance on Elm Street during this time. When will the main entrance be closed?",
+    "ipa": "/djuː tuː ˌrɛnəˈveɪʃənz ðə meɪn ˈɛntrəns wɪl biː kloʊzd frɑːm ˈɔːɡəst fɪfθ tuː ˈɔːɡəst naɪnθ ɪmˈplɔɪiːz ənd ˈvɪzɪtərz ʃʊd juːz ðə saɪd ˈɛntrəns ɒn ɛlm striːt ˈdjʊərɪŋ ðɪs taɪm wɛn wɪl ðə meɪn ˈɛntrəns biː kloʊzd/",
+    "translations": {
+      "vn": "Do cải tạo, lối vào chính sẽ đóng cửa từ ngày 5 đến 9 tháng 8. Nhân viên và khách thăm nên dùng lối vào bên hông trên phố Elm trong thời gian này. Lối vào chính sẽ đóng cửa khi nào?",
+      "kr": "리노베이션으로 인해 메인 입구는 8월 5일부터 9일까지 폐쇄되며 이 기간 동안 직원과 방문객은 Elm Street 측면 입구를 이용해야 합니다. 메인 입구는 언제 폐쇄되나요?",
+      "jp": "改装のため、メインエントランスは8月5日から9日まで閉まり、この期間従業員と訪問者はElm Streetの側面入口を利用してください。メインエントランスはいつ閉まるのですか？"
+    },
+    "sampleAnswer": "The main entrance will be closed from August 5th to August 9th due to renovations, so employees and visitors should use the side entrance on Elm Street.",
+    "sampleAnswerIpa": "/ðə meɪn ˈɛntrəns wɪl biː kloʊzd frɑːm ˈɔːɡəst fɪfθ tuː ˈɔːɡəst naɪnθ djuː tuː ˌrɛnəˈveɪʃənz soʊ ɪmˈplɔɪiːz ənd ˈvɪzɪtərz ʃʊd juːz ðə saɪd ˈɛntrəns ɒn ɛlm striːt/",
+    "sampleAnswerTranslations": {
+      "vn": "Lối vào chính sẽ đóng cửa từ ngày 5 đến 9 tháng 8 do cải tạo, nên nhân viên và khách thăm nên dùng lối vào bên hông trên phố Elm.",
+      "kr": "리노베이션으로 인해 메인 입구는 8월 5일부터 9일까지 폐쇄되므로 직원과 방문객은 Elm Street 측면 입구를 이용해야 합니다.",
+      "jp": "改装のためメインエントランスは8月5日から9日まで閉まり、従業員と訪問者はElm Streetの側面入口を利用してください。"
+    },
+    "category": "Entrance Closure"
+  },
+  {
+    "id": 314,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has arranged free flu vaccinations for all employees on Tuesday, October 15th from 9:00 AM to 4:00 PM in the conference room on the first floor. When and where will the free flu vaccinations be available?",
+    "ipa": "/ðə ˈkʌmpəni hæz əˈreɪndʒd friː fluː ˌvæksɪˈneɪʃənz fɔːr ɔːl ɪmˈplɔɪiːz ɒn ˈtjuːzdeɪ ɒkˈtoʊbə ˈfɪftiːnθ frɑːm naɪn əˈklɒk eɪˈem tuː fɔːr əˈklɒk piːˈem ɪn ðə ˈkɒnfərəns ruːm ɒn ðə fɜːst flɔːr wɛn ənd weər wɪl ðə friː fluː ˌvæksɪˈneɪʃənz biː əˈveɪləbl/",
+    "translations": {
+      "vn": "Công ty đã sắp xếp tiêm phòng cúm miễn phí cho tất cả nhân viên vào thứ Ba, ngày 15 tháng 10 từ 9 giờ sáng đến 4 giờ chiều tại phòng hội nghị tầng một. Tiêm phòng cúm miễn phí sẽ có sẵn khi nào và ở đâu?",
+      "kr": "회사는 모든 직원을 위해 10월 15일 화요일 오전 9시부터 오후 4시까지 1층 회의실에서 무료 독감 백신 접종을 마련했습니다. 무료 독감 백신 접종은 언제 어디에서 이용 가능하나요?",
+      "jp": "会社は全従業員のため10月15日火曜日の午前9時から午後4時まで1階会議室で無料インフルエンザワクチン接種を安排しました。無料インフルエンザワクチンはいつどこで利用可能ですか？"
+    },
+    "sampleAnswer": "The company has arranged free flu vaccinations for all employees on Tuesday, October 15th from 9:00 AM to 4:00 PM in the conference room on the first floor.",
+    "sampleAnswerIpa": "/ðə ˈkʌmpəni hæz əˈreɪndʒd friː fluː ˌvæksɪˈneɪʃənz fɔːr ɔːl ɪmˈplɔɪiːz ɒn ˈtjuːzdeɪ ɒkˈtoʊbə ˈfɪftiːnθ frɑːm naɪn əˈklɒk eɪˈem tuː fɔːr əˈklɒk piːˈem ɪn ðə ˈkɒnfərəns ruːm ɒn ðə fɜːst flɔːr/",
+    "sampleAnswerTranslations": {
+      "vn": "Công ty đã sắp xếp tiêm phòng cúm miễn phí cho tất cả nhân viên vào thứ Ba, ngày 15 tháng 10 từ 9 giờ sáng đến 4 giờ chiều tại phòng hội nghị tầng một.",
+      "kr": "회사는 모든 직원을 위해 10월 15일 화요일 오전 9시부터 오후 4시까지 1층 회의실에서 무료 독감 백신 접종을 마련했습니다.",
+      "jp": "会社は全従業員のため10月15日火曜日の午前9時から午後4時まで1階会議室で無料インフルエンザワクチン接種を安排しました。"
+    },
+    "category": "Flu Vaccination"
+  },
+  {
+    "id": 315,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Employees traveling for business must now book flights and hotels through the approved travel portal to receive reimbursement. Direct bookings will no longer be reimbursed. How must employees book flights and hotels for business travel?",
+    "ipa": "/ɪmˈplɔɪiːz ˈtrævəlɪŋ fɔːr ˈbɪznɪs mʌst naʊ bʊk flaɪts ənd hoʊˈtɛlz θruː ði əˈpruːvd ˈtrævl ˈpɔːtl tuː rɪˈsiːv ˌriːɪmˈbɜːsmənt daɪˈrɛkt ˈbʊkɪŋz wɪl ˈnoʊ ˈlɒŋɡər biː ˌriːɪmˈbɜːst haʊ mʌst ɪmˈplɔɪiːz bʊk flaɪts ənd hoʊˈtɛlz fɔːr ˈbɪznɪs ˈtrævl/",
+    "translations": {
+      "vn": "Nhân viên đi công tác giờ phải đặt vé máy bay và khách sạn qua cổng du lịch được phê duyệt để được hoàn tiền. Đặt trực tiếp sẽ không được hoàn tiền nữa. Nhân viên phải đặt vé máy bay và khách sạn cho chuyến công tác như thế nào?",
+      "kr": "업무 여행 직원은 이제 환급을 받기 위해 승인된 여행 포털을 통해 항공편과 호텔을 예약해야 하며 직접 예약은 더 이상 환급되지 않습니다. 업무 여행을 위해 직원들은 항공편과 호텔을 어떻게 예약해야 하나요?",
+      "jp": "業務旅行の従業員は今、償還を受けるため承認された旅行ポータルを通じてフライトとホテルを予約しなければならず、直接予約はもはや償還されません。業務旅行のため従業員はフライトとホテルをどうやって予約しなければなりませんか？"
+    },
+    "sampleAnswer": "Employees traveling for business must book flights and hotels through the approved travel portal to receive reimbursement, as direct bookings will no longer be reimbursed.",
+    "sampleAnswerIpa": "/ɪmˈplɔɪiːz ˈtrævəlɪŋ fɔːr ˈbɪznɪs mʌst bʊk flaɪts ənd hoʊˈtɛlz θruː ði əˈpruːvd ˈtrævl ˈpɔːtl tuː rɪˈsiːv ˌriːɪmˈbɜːsmənt æz daɪˈrɛkt ˈbʊkɪŋz wɪl ˈnoʊ ˈlɒŋɡər biː ˌriːɪmˈbɜːst/",
+    "sampleAnswerTranslations": {
+      "vn": "Nhân viên đi công tác phải đặt vé máy bay và khách sạn qua cổng du lịch được phê duyệt để được hoàn tiền, vì đặt trực tiếp sẽ không được hoàn tiền nữa.",
+      "kr": "업무 여행 직원은 환급을 받기 위해 승인된 여행 포털을 통해 항공편과 호텔을 예약해야 하며 직접 예약은 더 이상 환급되지 않습니다.",
+      "jp": "業務旅行の従業員は償還を受けるため承認された旅行ポータルを通じてフライトとホテルを予約しなければならず、直接予約はもはや償還されません。"
+    },
+    "category": "Business Travel Booking"
+  },
+  {
+    "id": 316,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The new coffee machine in the break room is now available for use. It offers espresso, cappuccino, and regular coffee options. Please clean up after use to keep the area tidy. What options does the new coffee machine in the break room offer?",
+    "ipa": "/ðə nuː ˈkɒfi məˈʃiːn ɪn ðə breɪk ruːm ɪz naʊ əˈveɪləbl fɔː juːz ɪt ˈɒfərz ɛˈsprɛsoʊ ˌkæpəˈtʃiːnoʊ ənd ˈrɛɡjələr ˈkɒfi ˈɒpʃənz pliːz kliːn ʌp ˈæftə juːz tuː kiːp ði ˈɛəriə ˈtaɪdi wɒt ˈɒpʃənz dʌz ðə nuː ˈkɒfi məˈʃiːn ɪn ðə breɪk ruːm ˈɒfər/",
+    "translations": {
+      "vn": "Máy pha cà phê mới ở phòng nghỉ giờ đã sẵn sàng sử dụng. Nó cung cấp espresso, cappuccino và cà phê thường. Vui lòng dọn dẹp sau khi dùng để giữ khu vực sạch sẽ. Máy pha cà phê mới ở phòng nghỉ cung cấp những lựa chọn gì?",
+      "kr": "휴게실의 새로운 커피 머신은 이제 사용 가능하며 에스프레소, 카푸치노, 일반 커피 옵션을 제공합니다. 사용 후 청소하여 영역을 깔끔하게 유지해주세요. 휴게실의 새로운 커피 머신은 어떤 옵션을 제공하나요?",
+      "jp": "休憩室の新しいコーヒーマシンは今利用可能で、エスプレッソ、カプチーノ、レギュラーコーヒーオプションを提供します。使用後清掃してエリアを清潔に保ってください。休憩室の新しいコーヒーマシンはどんなオプションを提供しますか？"
+    },
+    "sampleAnswer": "The new coffee machine in the break room offers espresso, cappuccino, and regular coffee options, and employees should clean up after use.",
+    "sampleAnswerIpa": "/ðə nuː ˈkɒfi məˈʃiːn ɪn ðə breɪk ruːm ˈɒfərz ɛˈsprɛsoʊ ˌkæpəˈtʃiːnoʊ ənd ˈrɛɡjələr ˈkɒfi ˈɒpʃənz ənd ɪmˈplɔɪiːz ʃʊd kliːn ʌp ˈæftə juːz/",
+    "sampleAnswerTranslations": {
+      "vn": "Máy pha cà phê mới ở phòng nghỉ cung cấp espresso, cappuccino và cà phê thường, và nhân viên nên dọn dẹp sau khi dùng.",
+      "kr": "휴게실의 새로운 커피 머신은 에스프레소, 카푸치노, 일반 커피 옵션을 제공하며 사용 후 청소해야 합니다.",
+      "jp": "休憩室の新しいコーヒーマシンはエスプレッソ、カプチーノ、レギュラーコーヒーオプションを提供し、使用後清掃してください。"
+    },
+    "category": "Coffee Machine Options"
+  },
+  {
+    "id": 317,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All employees are required to update their personal information in the HR system by November 15th, including emergency contacts and address changes. This is for insurance and payroll accuracy. What is the deadline for updating personal information in the HR system?",
+    "ipa": "/ɔːl ɪmˈplɔɪiːz ɑːr rɪˈkwaɪərd tuː ʌpˈdeɪt ðɛr ˈpɜːrsənl ˌɪnfəˈmeɪʃən ɪn ðə eɪtʃˈɑːr ˈsɪstəm baɪ nəʊˈvɛmbə ˈfɪftiːnθ ɪnˈkluːdɪŋ ɪˈmɜːrdʒənsi ˈkɒntækts ənd əˈdrɛs ˈtʃeɪndʒɪz ðɪs ɪz fɔːr ɪnˈʃʊərəns ənd ˈpeɪroʊl ˈækjərəsi wɒt ɪz ðə ˈdɛdlaɪn fɔːr ʌpˈdeɪtɪŋ ˈpɜːrsənl ˌɪnfəˈmeɪʃən ɪn ðə eɪtʃˈɑːr ˈsɪstəm/",
+    "translations": {
+      "vn": "Tất cả nhân viên phải cập nhật thông tin cá nhân trong hệ thống HR trước ngày 15 tháng 11, bao gồm liên lạc khẩn cấp và thay đổi địa chỉ. Điều này để đảm bảo bảo hiểm và lương chính xác. Hạn chót cập nhật thông tin cá nhân trong hệ thống HR là khi nào?",
+      "kr": "모든 직원은 보험과 급여 정확성을 위해 11월 15일까지 HR 시스템에서 개인 정보(긴급 연락처와 주소 변경 포함)를 업데이트해야 합니다. HR 시스템에서 개인 정보 업데이트 마감일은 언제인가요?",
+      "jp": "全従業員は保険と給与正確性のため11月15日までにHRシステムで個人情報（緊急連絡先と住所変更を含む）を更新しなければなりません。HRシステムでの個人情報更新期限はいつですか？"
+    },
+    "sampleAnswer": "All employees are required to update their personal information, including emergency contacts and address changes, in the HR system by November 15th for insurance and payroll accuracy.",
+    "sampleAnswerIpa": "/ɔːl ɪmˈplɔɪiːz ɑːr rɪˈkwaɪərd tuː ʌpˈdeɪt ðɛr ˈpɜːrsənl ˌɪnfəˈmeɪʃən ɪnˈkluːdɪŋ ɪˈmɜːrdʒənsi ˈkɒntækts ənd əˈdrɛs ˈtʃeɪndʒɪz ɪn ðə eɪtʃˈɑːr ˈsɪstəm baɪ nəʊˈvɛmbə ˈfɪftiːnθ fɔːr ɪnˈʃʊərəns ənd ˈpeɪroʊl ˈækjərəsi/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả nhân viên phải cập nhật thông tin cá nhân, bao gồm liên lạc khẩn cấp và thay đổi địa chỉ, trong hệ thống HR trước ngày 15 tháng 11 để đảm bảo bảo hiểm và lương chính xác.",
+      "kr": "모든 직원은 보험과 급여 정확성을 위해 11월 15일까지 HR 시스템에서 개인 정보(긴급 연락처와 주소 변경 포함)를 업데이트해야 합니다.",
+      "jp": "全従業員は保険と給与正確性のため11月15日までにHRシステムで個人情報（緊急連絡先と住所変更を含む）を更新しなければなりません。"
+    },
+    "category": "Personal Information Update"
+  },
+  {
+    "id": 318,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has introduced a new expense reimbursement app. Employees must use this app for all expense claims starting next month to speed up processing times. What must employees use for expense claims starting next month?",
+    "ipa": "/ðə ˈkʌmpəni hæz ˌɪntrəˈdjuːst ə nuː ɪkˈspens ˌriːɪmˈbɜːsmənt æp ɪmˈplɔɪiːz mʌst juːz ðɪs æp fɔːr ɔːl ɪkˈspens kleɪmz ˈstɑːtɪŋ nɛkst mʌnθ tuː spiːd ʌp ˈprɑːsɛsɪŋ taɪmz wɒt mʌst ɪmˈplɔɪiːz juːz fɔːr ɪkˈspens kleɪmz ˈstɑːtɪŋ nɛkst mʌnθ/",
+    "translations": {
+      "vn": "Công ty đã giới thiệu ứng dụng hoàn tiền chi phí mới. Nhân viên phải dùng ứng dụng này cho tất cả yêu cầu hoàn tiền từ tháng tới để tăng tốc xử lý. Nhân viên phải dùng gì cho yêu cầu hoàn tiền từ tháng tới?",
+      "kr": "회사는 새로운 경비 환급 앱을 도입했습니다. 처리 시간을 단축하기 위해 다음 달부터 모든 경비 청구에 이 앱을 사용해야 합니다. 다음 달부터 경비 청구에 직원들은 무엇을 사용해야 하나요?",
+      "jp": "会社は新しい経費償還アプリを導入しました。処理時間を短縮するため、来月から全経費請求にこのアプリを使用しなければなりません。来月から経費請求に何を使用しなければなりませんか？"
+    },
+    "sampleAnswer": "Starting next month, employees must use the new expense reimbursement app for all expense claims to speed up processing times.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ nɛkst mʌnθ ɪmˈplɔɪiːz mʌst juːz ðə nuː ɪkˈspens ˌriːɪmˈbɜːsmənt æp fɔːr ɔːl ɪkˈspens kleɪmz tuː spiːd ʌp ˈprɑːsɛsɪŋ taɪmz/",
+    "sampleAnswerTranslations": {
+      "vn": "Từ tháng tới, nhân viên phải dùng ứng dụng hoàn tiền chi phí mới cho tất cả yêu cầu hoàn tiền để tăng tốc xử lý.",
+      "kr": "다음 달부터 처리 시간을 단축하기 위해 모든 경비 청구에 새로운 경비 환급 앱을 사용해야 합니다.",
+      "jp": "来月から処理時間を短縮するため、全経費請求に新しい経費償還アプリを使用しなければなりません。"
+    },
+    "category": "Expense App"
+  },
+  {
+    "id": 319,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office gym will be closed for equipment upgrades from July 22nd to July 26th. Alternative fitness classes will be offered online during this period. When will the office gym be closed for equipment upgrades?",
+    "ipa": "/ði ˈɒfɪs dʒɪm wɪl biː kloʊzd fɔːr ɪˈkwɪpmənt ˈʌpɡreɪdz frɑːm dʒuˈlaɪ ˈtwɛnti ˈsɛkənd tuː dʒuˈlaɪ ˈtwɛnti ˈsɪksθ ˌɔːltəˈnɛtɪv ˈfɪtnəs ˈklæsɪz wɪl biː ˈɒfərd ɒnˈlaɪn ˈdjʊərɪŋ ðɪs ˈpɪəriəd wɛn wɪl ði ˈɒfɪs dʒɪm biː kloʊzd fɔːr ɪˈkwɪpmənt ˈʌpɡreɪdz/",
+    "translations": {
+      "vn": "Phòng gym văn phòng sẽ đóng cửa để nâng cấp thiết bị từ ngày 22 đến 26 tháng 7. Các lớp fitness thay thế sẽ được cung cấp trực tuyến trong thời gian này. Phòng gym văn phòng sẽ đóng cửa để nâng cấp thiết bị khi nào?",
+      "kr": "사무실 헬스장은 장비 업그레이드로 인해 7월 22일부터 26일까지 폐쇄되며 이 기간 동안 대체 피트니스 클래스가 온라인으로 제공됩니다. 사무실 헬스장은 언제 장비 업그레이드로 폐쇄되나요?",
+      "jp": "オフィスジムは機器アップグレードのため7月22日から26日まで閉まり、この期間代替フィットネスクラスがオンラインで提供されます。オフィスジムはいつ機器アップグレードで閉まるのですか？"
+    },
+    "sampleAnswer": "The office gym will be closed for equipment upgrades from July 22nd to July 26th, and alternative fitness classes will be offered online during this period.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs dʒɪm wɪl biː kloʊzd fɔːr ɪˈkwɪpmənt ˈʌpɡreɪdz frɑːm dʒuˈlaɪ ˈtwɛnti ˈsɛkənd tuː dʒuˈlaɪ ˈtwɛnti ˈsɪksθ ənd ˌɔːltəˈnɛtɪv ˈfɪtnəs ˈklæsɪz wɪl biː ˈɒfərd ɒnˈlaɪn ˈdjʊərɪŋ ðɪs ˈpɪəriəd/",
+    "sampleAnswerTranslations": {
+      "vn": "Phòng gym văn phòng sẽ đóng cửa để nâng cấp thiết bị từ ngày 22 đến 26 tháng 7, và các lớp fitness thay thế sẽ được cung cấp trực tuyến trong thời gian này.",
+      "kr": "사무실 헬스장은 장비 업그레이드로 인해 7월 22일부터 26일까지 폐쇄되며 이 기간 동안 대체 피트니스 클래스가 온라인으로 제공됩니다.",
+      "jp": "オフィスジムは機器アップグレードのため7月22日から26日まで閉まり、この期間代替フィットネスクラスがオンラインで提供されます。"
+    },
+    "category": "Gym Upgrade"
+  },
+  {
+    "id": 320,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All suggestions for improving the employee handbook must be submitted to the HR department by April 30th. The updated handbook will be distributed in May. What is the deadline for submitting suggestions for the employee handbook?",
+    "ipa": "/ɔːl səˈdʒɛstʃənz fɔːr ɪmˈpruːvɪŋ ði ɪmˈplɔɪiː ˈhændbʊk mʌst biː səbˈmɪtɪd tuː ði eɪtʃˈɑːr dɪˈpɑːtmənt baɪ ˈeɪprəl ˈθɜːtiəθ ði ʌpˈdeɪtɪd ˈhændbʊk wɪl biː dɪˈstrɪbjuːtɪd ɪn meɪ wɒt ɪz ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ səˈdʒɛstʃənz fɔːr ði ɪmˈplɔɪiː ˈhændbʊk/",
+    "translations": {
+      "vn": "Tất cả đề xuất cải thiện sổ tay nhân viên phải được nộp cho bộ phận HR trước ngày 30 tháng 4. Sổ tay cập nhật sẽ được phân phối vào tháng 5. Hạn chót nộp đề xuất cho sổ tay nhân viên là khi nào?",
+      "kr": "직원 핸드북 개선 제안은 모두 4월 30일까지 HR 부서에 제출해야 하며 업데이트된 핸드북은 5월에 배포됩니다. 직원 핸드북 제안 제출 마감일은 언제인가요?",
+      "jp": "従業員ハンドブック改善提案は全て4月30日までにHR部門に提出しなければならず、更新ハンドブックは5月に配布されます。従業員ハンドブック提案の提出期限はいつですか？"
+    },
+    "sampleAnswer": "All suggestions for improving the employee handbook must be submitted to the HR department by April 30th, and the updated handbook will be distributed in May.",
+    "sampleAnswerIpa": "/ɔːl səˈdʒɛstʃənz fɔːr ɪmˈpruːvɪŋ ði ɪmˈplɔɪiː ˈhændbʊk mʌst biː səbˈmɪtɪd tuː ði eɪtʃˈɑːr dɪˈpɑːtmənt baɪ ˈeɪprəl ˈθɜːtiəθ ənd ði ʌpˈdeɪtɪd ˈhændbʊk wɪl biː dɪˈstrɪbjuːtɪd ɪn meɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả đề xuất cải thiện sổ tay nhân viên phải được nộp cho bộ phận HR trước ngày 30 tháng 4, và sổ tay cập nhật sẽ được phân phối vào tháng 5.",
+      "kr": "직원 핸드북 개선 제안은 모두 4월 30일까지 HR 부서에 제출해야 하며 업데이트된 핸드북은 5월에 배포됩니다.",
+      "jp": "従業員ハンドブック改善提案は全て4月30日までにHR部門に提出し、更新ハンドブックは5月に配布されます。"
+    },
+    "category": "Employee Handbook Suggestions"
+  },
+  {
+    "id": 321,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company picnic has been rescheduled to Saturday, August 17th at Green Park due to bad weather forecast for the original date. Family members are welcome, and transportation will be provided. When and where has the company picnic been rescheduled?",
+    "ipa": "/ðə ˈkʌmpəni ˈpɪknɪk hæz biːn riːˈʃɛdjuːld tuː ˈsætədeɪ ˈɔːɡəst ˈsɛvənˈtiːnθ æt ɡriːn pɑːk djuː tuː bæd ˈweðər ˈfɔːkɑːst fɔːr ði əˈrɪdʒɪnl deɪt ˈfæməli ˈmɛmbərz ɑːr ˈwɛlkəm ənd ˌtrænspɔːˈteɪʃən wɪl biː prəˈvaɪdɪd wɛn ənd weər hæz ðə ˈkʌmpəni ˈpɪknɪk biːn riːˈʃɛdjuːld/",
+    "translations": {
+      "vn": "Picnic công ty đã được dời sang thứ Bảy, ngày 17 tháng 8 tại Công viên Green do dự báo thời tiết xấu cho ngày gốc. Thành viên gia đình được mời, và phương tiện di chuyển sẽ được cung cấp. Picnic công ty đã được dời sang khi nào và ở đâu?",
+      "kr": "원래 날짜의 나쁜 날씨 예보로 인해 회사 피크닉이 8월 17일 토요일 그린 파크로 변경되었습니다. 가족 구성원이 환영되며 교통이 제공됩니다. 회사 피크닉은 언제 어디로 변경되었나요?",
+      "jp": "元の日付の悪天候予報のため、会社ピクニックは8月17日土曜日にグリーンパークに変更されました。家族が歓迎され、交通が提供されます。会社ピクニックはいつどこに変更されましたか？"
+    },
+    "sampleAnswer": "The company picnic has been rescheduled to Saturday, August 17th at Green Park due to bad weather forecast, and family members are welcome with transportation provided.",
+    "sampleAnswerIpa": "/ðə ˈkʌmpəni ˈpɪknɪk hæz biːn riːˈʃɛdjuːld tuː ˈsætədeɪ ˈɔːɡəst ˈsɛvənˈtiːnθ æt ɡriːn pɑːk djuː tuː bæd ˈweðər ˈfɔːkɑːst ənd ˈfæməli ˈmɛmbərz ɑːr ˈwɛlkəm wɪð ˌtrænspɔːˈteɪʃən prəˈvaɪdɪd/",
+    "sampleAnswerTranslations": {
+      "vn": "Picnic công ty đã được dời sang thứ Bảy, ngày 17 tháng 8 tại Công viên Green do dự báo thời tiết xấu, và thành viên gia đình được mời với phương tiện di chuyển cung cấp.",
+      "kr": "나쁜 날씨 예보로 인해 회사 피크닉이 8월 17일 토요일 그린 파크로 변경되었으며 가족 구성원이 환영되고 교통이 제공됩니다.",
+      "jp": "悪天候予報のため会社ピクニックは8月17日土曜日にグリーンパークに変更され、家族が歓迎され交通が提供されます。"
+    },
+    "category": "Picnic Reschedule"
+  },
+  {
+    "id": 322,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "We are pleased to announce that the company has arranged a special team-building activity next month. It will be held on Saturday, September 21st at the Riverside Adventure Park from 9:00 AM to 5:00 PM. Lunch and transportation will be provided. Please RSVP by September 10th if you plan to attend with family members. When and where will the team-building activity take place?",
+    "ipa": "/wiː ɑːr pliːzd tuː əˈnaʊns ðæt ðə ˈkʌmpəni hæz əˈreɪndʒd ə ˈspɛʃəl tiːm ˈbɪldɪŋ ækˈtɪvəti nɛkst mʌnθ ɪt wɪl biː hɛld ɒn ˈsætədeɪ sɛpˈtɛmbə ˈtwɛnti fɜːst æt ðə ˈrɪvərsaɪd ədˈvɛntʃər pɑːk frɑːm naɪn əˈklɒk eɪˈem tuː faɪv əˈklɒk piːˈem lʌntʃ ənd ˌtrænspɔːˈteɪʃən wɪl biː prəˈvaɪdɪd pliːz ɑːr ɛs viː ˈpiː baɪ sɛpˈtɛmbə tɛnθ ɪf juː plæn tuː əˈtɛnd wɪð ˈfæməli ˈmɛmbərz wɛn ənd weər wɪl ðə tiːm ˈbɪldɪŋ ækˈtɪvəti teɪk pleɪs/",
+    "translations": {
+      "vn": "Chúng tôi vui mừng thông báo công ty đã sắp xếp hoạt động xây dựng đội nhóm đặc biệt tháng tới. Nó sẽ diễn ra vào thứ Bảy, ngày 21 tháng 9 tại Công viên Phiêu lưu Riverside từ 9 giờ sáng đến 5 giờ chiều. Bữa trưa và phương tiện di chuyển sẽ được cung cấp. Vui lòng RSVP trước ngày 10 tháng 9 nếu dự định tham gia cùng gia đình. Hoạt động xây dựng đội nhóm sẽ diễn ra khi nào và ở đâu?",
+      "kr": "다음 달 특별 팀 빌딩 활동을 마련하게 되어 기쁘게 알려드립니다. 9월 21일 토요일 오전 9시부터 오후 5시까지 리버사이드 어드벤처 파크에서 열립니다. 점심과 교통이 제공됩니다. 가족과 함께 참석할 계획이라면 9월 10일까지 RSVP 부탁드립니다. 팀 빌딩 활동은 언제 어디에서 열리나요?",
+      "jp": "来月の特別チームビルディング活動を安排したことを喜んでお知らせします。9月21日土曜日の午前9時から午後5時までリバーサイドアドベンチャーパークで開催されます。ランチと交通が提供されます。家族と参加予定の場合は9月10日までにRSVPしてください。チームビルディング活動はいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The team-building activity will take place on Saturday, September 21st at the Riverside Adventure Park from 9:00 AM to 5:00 PM, with lunch and transportation provided.",
+    "sampleAnswerIpa": "/ðə tiːm ˈbɪldɪŋ ækˈtɪvəti wɪl teɪk pleɪs ɒn ˈsætədeɪ sɛpˈtɛmbə ˈtwɛnti fɜːst æt ðə ˈrɪvərsaɪd ədˈvɛntʃər pɑːk frɑːm naɪn əˈklɒk eɪˈem tuː faɪv əˈklɒk piːˈem wɪð lʌntʃ ənd ˌtrænspɔːˈteɪʃən prəˈvaɪdɪd/",
+    "sampleAnswerTranslations": {
+      "vn": "Hoạt động xây dựng đội nhóm sẽ diễn ra vào thứ Bảy, ngày 21 tháng 9 tại Công viên Phiêu lưu Riverside từ 9 giờ sáng đến 5 giờ chiều, với bữa trưa và phương tiện di chuyển được cung cấp.",
+      "kr": "팀 빌딩 활동은 9월 21일 토요일 오전 9시부터 오후 5시까지 리버사이드 어드벤처 파크에서 열리며 점심과 교통이 제공됩니다.",
+      "jp": "チームビルディング活動は9月21日土曜日の午前9時から午後5時までリバーサイドアドベンチャーパークで開催され、ランチと交通が提供されます。"
+    },
+    "category": "Team Building Activity"
+  },
+  {
+    "id": 323,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Due to the upcoming system maintenance scheduled over the weekend, all employees are advised to save their work and log out by 5:00 PM on Friday. The system will be unavailable from Friday evening until Monday morning. When will the system be unavailable?",
+    "ipa": "/djuː tuː ði ˌʌpˈkʌmɪŋ ˈsɪstəm ˈmeɪntənəns ˈʃɛdjuːld ˈoʊvə ðə ˈwiːkɛnd ɔːl ɪmˈplɔɪiːz ɑːr ədˈvaɪzd tuː seɪv ðɛr wɜːk ənd lɒɡ aʊt baɪ faɪv əˈklɒk piːˈem ɒn ˈfraɪdeɪ ðə ˈsɪstəm wɪl biː ˌʌnəˈveɪləbl frɑːm ˈfraɪdeɪ ˈiːvnɪŋ ʌnˈtɪl ˈmʌndeɪ ˈmɔːrnɪŋ wɛn wɪl ðə ˈsɪstəm biː ˌʌnəˈveɪləbl/",
+    "translations": {
+      "vn": "Do bảo trì hệ thống sắp tới vào cuối tuần, tất cả nhân viên được khuyên lưu công việc và đăng xuất trước 5 giờ chiều thứ Sáu. Hệ thống sẽ không khả dụng từ tối thứ Sáu đến sáng thứ Hai. Hệ thống sẽ không khả dụng khi nào?",
+      "kr": "주말 예정된 시스템 유지보수로 인해 모든 직원은 금요일 오후 5시까지 작업을 저장하고 로그아웃하라는 조언을 받았습니다. 시스템은 금요일 저녁부터 월요일 아침까지 이용 불가합니다. 시스템은 언제 이용 불가하나요?",
+      "jp": "週末の予定されたシステムメンテナンスのため、全従業員は金曜日の午後5時までに作業を保存してログアウトするよう勧められています。システムは金曜日の夕方から月曜日の朝まで利用できません。システムはいつ利用できませんか？"
+    },
+    "sampleAnswer": "The system will be unavailable from Friday evening until Monday morning due to the upcoming system maintenance scheduled over the weekend.",
+    "sampleAnswerIpa": "/ðə ˈsɪstəm wɪl biː ˌʌnəˈveɪləbl frɑːm ˈfraɪdeɪ ˈiːvnɪŋ ʌnˈtɪl ˈmʌndeɪ ˈmɔːrnɪŋ djuː tuː ði ˌʌpˈkʌmɪŋ ˈsɪstəm ˈmeɪntənəns ˈʃɛdjuːld ˈoʊvə ðə ˈwiːkɛnd/",
+    "sampleAnswerTranslations": {
+      "vn": "Hệ thống sẽ không khả dụng từ tối thứ Sáu đến sáng thứ Hai do bảo trì hệ thống sắp tới vào cuối tuần.",
+      "kr": "주말 예정된 시스템 유지보수로 인해 시스템은 금요일 저녁부터 월요일 아침까지 이용 불가합니다.",
+      "jp": "週末の予定されたシステムメンテナンスのため、システムは金曜日の夕方から月曜日の朝まで利用できません。"
+    },
+    "category": "System Maintenance"
+  },
+  {
+    "id": 324,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has decided to implement a new remote work policy allowing employees to work from home up to three days per week starting October 1st. This is to promote better work-life balance and reduce commuting time. How many days per week can employees work from home starting October 1st?",
+    "ipa": "/ðə ˈkʌmpəni hæz dɪˈsaɪdɪd tuː ˈɪmplɪmənt ə nuː rɪˈmoʊt wɜːk ˈpɒləsi əˈlaʊɪŋ ɪmˈplɔɪiːz tuː wɜːk frɑːm hoʊm ʌp tuː θriː deɪz pɜːr wiːk ˈstɑːtɪŋ ɒkˈtoʊbə fɜːst ðɪs ɪz tuː prəˈmoʊt ˈbɛtər wɜːk laɪf ˈbæləns ənd rɪˈduːs kəˈmjuːtɪŋ taɪm haʊ ˈmɛni deɪz pɜːr wiːk kæn ɪmˈplɔɪiːz wɜːk frɑːm hoʊm ˈstɑːtɪŋ ɒkˈtoʊbə fɜːst/",
+    "translations": {
+      "vn": "Công ty đã quyết định áp dụng chính sách làm việc từ xa mới cho phép nhân viên làm việc tại nhà tối đa ba ngày mỗi tuần bắt đầu từ ngày 1 tháng 10. Điều này để thúc đẩy cân bằng công việc-cuộc sống tốt hơn và giảm thời gian di chuyển. Nhân viên có thể làm việc tại nhà bao nhiêu ngày mỗi tuần từ ngày 1 tháng 10?",
+      "kr": "회사는 10월 1일부터 직원들이 주당 최대 3일 재택근무를 허용하는 새로운 원격 근무 정책을 시행하기로 결정했습니다. 이는 워크라이프 밸런스를 촉진하고 통근 시간을 줄이기 위함입니다. 10월 1일부터 직원들은 주당 며칠 재택근무할 수 있나요?",
+      "jp": "会社は10月1日から従業員が週最大3日在宅勤務を許可する新しいリモートワークポリシーを実施することを決めました。これはワークライフバランスを促進し、通勤時間を減らすためです。10月1日から従業員は週何日在宅勤務できますか？"
+    },
+    "sampleAnswer": "Starting October 1st, the new remote work policy allows employees to work from home up to three days per week to promote better work-life balance and reduce commuting time.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ ɒkˈtoʊbə fɜːst ðə nuː rɪˈmoʊt wɜːk ˈpɒləsi əˈlaʊz ɪmˈplɔɪiːz tuː wɜːk frɑːm hoʊm ʌp tuː θriː deɪz pɜːr wiːk tuː prəˈmoʊt ˈbɛtər wɜːk laɪf ˈbæləns ənd rɪˈduːs kəˈmjuːtɪŋ taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Từ ngày 1 tháng 10, chính sách làm việc từ xa mới cho phép nhân viên làm việc tại nhà tối đa ba ngày mỗi tuần để thúc đẩy cân bằng công việc-cuộc sống tốt hơn và giảm thời gian di chuyển.",
+      "kr": "10월 1일부터 새로운 원격 근무 정책은 워크라이프 밸런스를 촉진하고 통근 시간을 줄이기 위해 주당 최대 3일 재택근무를 허용합니다.",
+      "jp": "10月1日から、新しいリモートワークポリシーはワークライフバランスを促進し通勤時間を減らすため、週最大3日在宅勤務を許可します。"
+    },
+    "category": "Remote Work Policy"
+  },
+  {
+    "id": 325,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The deadline for submitting nominations for the Employee Excellence Awards has been extended to November 8th due to many requests for additional time. Winners will be announced at the year-end ceremony. What is the new deadline for submitting nominations for the Employee Excellence Awards?",
+    "ipa": "/ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˌnɒmɪˈneɪʃənz fɔːr ði ɪmˈplɔɪiː ˈɛksələns əˈwɔːdz hæz biːn ɪkˈstɛndɪd tuː nəʊˈvɛmbə eɪtθ djuː tuː ˈmɛni rɪˈkwɛsts fɔːr əˈdɪʃənl taɪm ˈwɪnərz wɪl biː əˈnaʊnst æt ðə jɪr ɛnd ˈsɛrəmoʊni wɒt ɪz ðə nuː ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˌnɒmɪˈneɪʃənz fɔːr ði ɪmˈplɔɪiː ˈɛksələns əˈwɔːdz/",
+    "translations": {
+      "vn": "Hạn chót nộp đề cử Giải thưởng Xuất sắc Nhân viên đã được kéo dài đến ngày 8 tháng 11 do nhiều yêu cầu thêm thời gian. Người thắng sẽ được công bố tại lễ cuối năm. Hạn chót mới để nộp đề cử Giải thưởng Xuất sắc Nhân viên là khi nào?",
+      "kr": "추가 시간 요청이 많아 직원 우수상 후보 제출 마감일이 11월 8일로 연장되었습니다. 수상자는 연말 행사에서 발표됩니다. 직원 우수상 후보 제출 새로운 마감일은 언제인가요?",
+      "jp": "追加時間のリクエストが多く、従業員優秀賞の候補提出期限が11月8日に延長されました。受賞者は年末式典で発表されます。従業員優秀賞候補の新しい提出期限はいつですか？"
+    },
+    "sampleAnswer": "The deadline for submitting nominations for the Employee Excellence Awards has been extended to November 8th due to many requests for additional time.",
+    "sampleAnswerIpa": "/ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˌnɒmɪˈneɪʃənz fɔːr ði ɪmˈplɔɪiː ˈɛksələns əˈwɔːdz hæz biːn ɪkˈstɛndɪd tuː nəʊˈvɛmbə eɪtθ djuː tuː ˈmɛni rɪˈkwɛsts fɔːr əˈdɪʃənl taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót nộp đề cử Giải thưởng Xuất sắc Nhân viên đã được kéo dài đến ngày 8 tháng 11 do nhiều yêu cầu thêm thời gian.",
+      "kr": "추가 시간 요청이 많아 직원 우수상 후보 제출 마감일이 11월 8일로 연장되었습니다.",
+      "jp": "追加時間のリクエストが多く、従業員優秀賞の候補提出期限が11月8日に延長されました。"
+    },
+    "category": "Employee Awards"
+  },
+  {
+    "id": 326,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Starting next week, the company shuttle bus schedule has been updated to include an additional stop at the train station for employee convenience. The new schedule is posted on the intranet. What change has been made to the company shuttle bus schedule?",
+    "ipa": "/ˈstɑːtɪŋ nɛkst wiːk ðə ˈkʌmpəni ˈʃʌtl bʌs ˈʃɛdjuːl hæz biːn ʌpˈdeɪtɪd tuː ɪnˈkluːd ən əˈdɪʃənl stɒp æt ðə treɪn ˈsteɪʃən fɔːr ɪmˈplɔɪiː kənˈviːniəns ðə nuː ˈʃɛdjuːl ɪz ˈpoʊstɪd ɒn ðə ˈɪntrənɛt wɒt tʃeɪndʒ hæz biːn meɪd tuː ðə ˈkʌmpəni ˈʃʌtl bʌs ˈʃɛdjuːl/",
+    "translations": {
+      "vn": "Bắt đầu từ tuần tới, lịch xe buýt đưa đón công ty đã được cập nhật để thêm điểm dừng tại ga tàu nhằm tiện lợi cho nhân viên. Lịch mới được đăng trên intranet. Thay đổi gì đã được thực hiện với lịch xe buýt đưa đón công ty?",
+      "kr": "다음 주부터 직원 편의를 위해 기차역에 추가 정차를 포함하도록 회사 셔틀 버스 일정이 업데이트되었습니다. 새로운 일정은 인트라넷에 게시되었습니다. 회사 셔틀 버스 일정에 어떤 변경이 있었나요?",
+      "jp": "来週から、従業員の利便性のため列車駅に追加停車を含むよう会社シャトルバススケジュールが更新されました。新スケジュールはイントラネットに投稿されています。会社シャトルバススケジュールにどんな変更がありましたか？"
+    },
+    "sampleAnswer": "Starting next week, the company shuttle bus schedule has been updated to include an additional stop at the train station for employee convenience.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ nɛkst wiːk ðə ˈkʌmpəni ˈʃʌtl bʌs ˈʃɛdjuːl hæz biːn ʌpˈdeɪtɪd tuː ɪnˈkluːd ən əˈdɪʃənl stɒp æt ðə treɪn ˈsteɪʃən fɔːr ɪmˈplɔɪiː kənˈviːniəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Từ tuần tới, lịch xe buýt đưa đón công ty đã được cập nhật để thêm điểm dừng tại ga tàu nhằm tiện lợi cho nhân viên.",
+      "kr": "다음 주부터 직원 편의를 위해 회사 셔틀 버스 일정이 기차역 추가 정차를 포함하도록 업데이트되었습니다.",
+      "jp": "来週から、従業員の利便性のため会社シャトルバススケジュールが列車駅に追加停車を含むよう更新されました。"
+    },
+    "category": "Shuttle Bus Schedule"
+  },
+  {
+    "id": 327,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office will host a blood donation drive in partnership with the Red Cross on Wednesday, June 12th from 10:00 AM to 3:00 PM in the cafeteria. All donors will receive a thank-you gift and refreshments. When and where will the blood donation drive be held?",
+    "ipa": "/ði ˈɒfɪs wɪl hoʊst ə blʌd doʊˈneɪʃən draɪv ɪn ˈpɑːtnəʃɪp wɪð ðə rɛd krɒs ɒn ˈwɛnzdeɪ dʒuːn ˈtwɛlfθ frɑːm tɛn əˈklɒk eɪˈem tuː θriː əˈklɒk piːˈem ɪn ðə ˌkæfəˈtɪəriə ɔːl ˈdoʊnərz wɪl rɪˈsiːv ə θæŋk juː ɡɪft ənd rɪˈfrɛʃmənts wɛn ənd weər wɪl ðə blʌd doʊˈneɪʃən draɪv biː hɛld/",
+    "translations": {
+      "vn": "Văn phòng sẽ tổ chức chiến dịch hiến máu hợp tác với Hội Chữ thập đỏ vào thứ Tư, ngày 12 tháng 6 từ 10 giờ sáng đến 3 giờ chiều tại nhà ăn. Tất cả người hiến sẽ nhận quà cảm ơn và đồ uống nhẹ. Chiến dịch hiến máu sẽ diễn ra khi nào và ở đâu?",
+      "kr": "사무실은 6월 12일 수요일 오전 10시부터 오후 3시까지 카페테리아에서 적십자와 협력하여 헌혈 드라이브를 주최합니다. 모든 기증자는 감사 선물과 다과를 받습니다. 헌혈 드라이브는 언제 어디에서 열리나요?",
+      "jp": "オフィスは6月12日水曜日の午前10時から午後3時までカフェテリアで赤十字と提携して献血ドライブを主催します。全寄付者はお礼のギフトと軽食を受け取ります。献血ドライブはいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The blood donation drive will be held on Wednesday, June 12th from 10:00 AM to 3:00 PM in the cafeteria, in partnership with the Red Cross.",
+    "sampleAnswerIpa": "/ðə blʌd doʊˈneɪʃən draɪv wɪl biː hɛld ɒn ˈwɛnzdeɪ dʒuːn ˈtwɛlfθ frɑːm tɛn əˈklɒk eɪˈem tuː θriː əˈklɒk piːˈem ɪn ðə ˌkæfəˈtɪəriə ɪn ˈpɑːtnəʃɪp wɪð ðə rɛd krɒs/",
+    "sampleAnswerTranslations": {
+      "vn": "Chiến dịch hiến máu sẽ diễn ra vào thứ Tư, ngày 12 tháng 6 từ 10 giờ sáng đến 3 giờ chiều tại nhà ăn, hợp tác với Hội Chữ thập đỏ.",
+      "kr": "헌혈 드라이브는 적십자와 협력하여 6월 12일 수요일 오전 10시부터 오후 3시까지 카페테리아에서 열립니다.",
+      "jp": "献血ドライブは赤十字と提携して6月12日水曜日の午前10時から午後3時までカフェテリアで開催されます。"
+    },
+    "category": "Blood Donation Drive"
+  },
+  {
+    "id": 328,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "To celebrate Employee Appreciation Day, the company will provide free breakfast and coffee in the break room on Friday, May 17th from 8:00 AM to 10:00 AM. Managers are encouraged to thank their teams personally. When will the company provide free breakfast for Employee Appreciation Day?",
+    "ipa": "/tuː ˈsɛlɪbreɪt ɪmˈplɔɪiː əˌpriːʃiˈeɪʃən deɪ ðə ˈkʌmpəni wɪl prəˈvaɪd friː ˈbrɛkfəst ənd ˈkɒfi ɪn ðə breɪk ruːm ɒn ˈfraɪdeɪ meɪ ˈsɛvənˈtiːnθ frɑːm eɪt əˈklɒk eɪˈem tuː tɛn əˈklɒk eɪˈem ˈmænɪdʒərz ɑːr ɪnˈkʌrɪdʒd tuː θæŋk ðɛr tiːmz ˈpɜːrsənəli wɛn wɪl ðə ˈkʌmpəni prəˈvaɪd friː ˈbrɛkfəst fɔːr ɪmˈplɔɪiː əˌpriːʃiˈeɪʃən deɪ/",
+    "translations": {
+      "vn": "Để kỷ niệm Ngày Tri ân Nhân viên, công ty sẽ cung cấp bữa sáng và cà phê miễn phí ở phòng nghỉ vào thứ Sáu, ngày 17 tháng 5 từ 8 giờ sáng đến 10 giờ sáng. Quản lý được khuyến khích cảm ơn đội ngũ cá nhân. Công ty sẽ cung cấp bữa sáng miễn phí khi nào cho Ngày Tri ân Nhân viên?",
+      "kr": "직원 감사의 날을 기념하기 위해 회사는 5월 17일 금요일 오전 8시부터 10시까지 휴게실에서 무료 아침과 커피를 제공합니다. 관리자들은 팀에 개인적으로 감사 인사를 권장받았습니다. 직원 감사의 날을 위해 회사는 언제 무료 아침을 제공하나요?",
+      "jp": "従業員感謝デーを祝うため、会社は5月17日金曜日の午前8時から10時まで休憩室で無料朝食とコーヒーを提供します。マネージャーはチームに個人的に感謝するよう奨励されています。従業員感謝デーのために会社はいつ無料朝食を提供しますか？"
+    },
+    "sampleAnswer": "The company will provide free breakfast and coffee in the break room on Friday, May 17th from 8:00 AM to 10:00 AM to celebrate Employee Appreciation Day.",
+    "sampleAnswerIpa": "/ðə ˈkʌmpəni wɪl prəˈvaɪd friː ˈbrɛkfəst ənd ˈkɒfi ɪn ðə breɪk ruːm ɒn ˈfraɪdeɪ meɪ ˈsɛvənˈtiːnθ frɑːm eɪt əˈklɒk eɪˈem tuː tɛn əˈklɒk eɪˈem tuː ˈsɛlɪbreɪt ɪmˈplɔɪiː əˌpriːʃiˈeɪʃən deɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Công ty sẽ cung cấp bữa sáng và cà phê miễn phí ở phòng nghỉ vào thứ Sáu, ngày 17 tháng 5 từ 8 giờ sáng đến 10 giờ sáng để kỷ niệm Ngày Tri ân Nhân viên.",
+      "kr": "회사는 직원 감사의 날을 기념하기 위해 5월 17일 금요일 오전 8시부터 10시까지 휴게실에서 무료 아침과 커피를 제공합니다.",
+      "jp": "会社は従業員感謝デーを祝うため、5月17日金曜日の午前8時から10時まで休憩室で無料朝食とコーヒーを提供します。"
+    },
+    "category": "Employee Appreciation"
+  },
+  {
+    "id": 329,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The new employee training session has been rescheduled to next Wednesday, January 22nd, from 9:00 AM to 12:00 PM in the main training room on the second floor due to a conflict with the original date. When and where will the new employee training session now take place?",
+    "ipa": "/ðə nuː ɪmˈplɔɪiː ˈtreɪnɪŋ ˈsɛʃən hæz biːn riːˈʃɛdjuːld tuː nɛkst ˈwɛnzdeɪ ˈdʒænjuəri ˈtwɛnti ˈsɛkənd frɑːm naɪn əˈklɒk eɪˈem tuː twɛlv əˈklɒk piːˈem ɪn ðə meɪn ˈtreɪnɪŋ ruːm ɒn ðə ˈsɛkənd flɔːr djuː tuː ə ˈkɒnflɪkt wɪð ði əˈrɪdʒɪnl deɪt wɛn ənd weər wɪl ðə nuː ɪmˈplɔɪiː ˈtreɪnɪŋ ˈsɛʃən naʊ teɪk pleɪs/",
+    "translations": {
+      "vn": "Buổi đào tạo nhân viên mới đã được dời sang thứ Tư tuần tới, ngày 22 tháng 1, từ 9 giờ sáng đến 12 giờ trưa tại phòng đào tạo chính tầng hai do trùng lịch ngày cũ. Buổi đào tạo nhân viên mới giờ sẽ diễn ra khi nào và ở đâu?",
+      "kr": "신입 직원 교육 세션이 원래 날짜와 충돌하여 다음 주 수요일 1월 22일 오전 9시부터 정오까지 2층 메인 교육실로 변경되었습니다. 이제 신입 직원 교육 세션은 언제 어디에서 열리나요?",
+      "jp": "新入社員研修セッションは元の日にちと重複したため、来週水曜日の1月22日午前9時から正午まで2階のメイン研修室に変更されました。今、新入社員研修セッションはいつどこで行われますか？"
+    },
+    "sampleAnswer": "The new employee training session will now take place next Wednesday, January 22nd, from 9:00 AM to 12:00 PM in the main training room on the second floor.",
+    "sampleAnswerIpa": "/ðə nuː ɪmˈplɔɪiː ˈtreɪnɪŋ ˈsɛʃən wɪl naʊ teɪk pleɪs nɛkst ˈwɛnzdeɪ ˈdʒænjuəri ˈtwɛnti ˈsɛkənd frɑːm naɪn əˈklɒk eɪˈem tuː twɛlv əˈklɒk piːˈem ɪn ðə meɪn ˈtreɪnɪŋ ruːm ɒn ðə ˈsɛkənd flɔːr/",
+    "sampleAnswerTranslations": {
+      "vn": "Buổi đào tạo nhân viên mới giờ sẽ diễn ra vào thứ Tư tuần tới, ngày 22 tháng 1, từ 9 giờ sáng đến 12 giờ trưa tại phòng đào tạo chính tầng hai.",
+      "kr": "신입 직원 교육 세션은 이제 다음 주 수요일 1월 22일 오전 9시부터 정오까지 2층 메인 교육실에서 열립니다.",
+      "jp": "新入社員研修セッションは今、来週水曜日の1月22日午前9時から正午まで2階のメイン研修室で行われます。"
+    },
+    "category": "Training Reschedule"
+  },
+  {
+    "id": 330,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Because of the upcoming audit, all departments must submit their quarterly financial reports by Friday, February 28th via email to the finance team. Late submissions may delay the audit process. What is the deadline for submitting quarterly financial reports?",
+    "ipa": "/bɪˈkɒz əv ði ˌʌpˈkʌmɪŋ ˈɔːdɪt ɔːl dɪˈpɑːtmənts mʌst səbˈmɪt ðɛr ˈkwɔːtəli faɪˈnænʃəl rɪˈpɔːts baɪ ˈfraɪdeɪ ˈfɛbruəri ˈtwɛnti ˈeɪtθ vaɪə ˈiːmeɪl tuː ðə ˈfaɪnæns tiːm leɪt səbˈmɪʃənz meɪ dɪˈleɪ ði ˈɔːdɪt ˈprɑːsɛs wɒt ɪz ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ ˈkwɔːtəli faɪˈnænʃəl rɪˈpɔːts/",
+    "translations": {
+      "vn": "Do cuộc kiểm toán sắp tới, tất cả các bộ phận phải nộp báo cáo tài chính quý trước thứ Sáu, ngày 28 tháng 2 qua email cho đội tài chính. Nộp muộn có thể làm chậm quá trình kiểm toán. Hạn chót nộp báo cáo tài chính quý là khi nào?",
+      "kr": "다가오는 감사로 인해 모든 부서는 2월 28일 금요일까지 재무팀에 이메일로 분기 재무 보고서를 제출해야 합니다. 늦은 제출은 감사 과정을 지연시킬 수 있습니다. 분기 재무 보고서 제출 마감일은 언제인가요?",
+      "jp": "今後の監査のため、全部門は2月28日金曜日までに財務チームへメールで四半期財務報告を提出しなければなりません。遅れた提出は監査プロセスを遅らせる可能性があります。四半期財務報告の提出期限はいつですか？"
+    },
+    "sampleAnswer": "All departments must submit their quarterly financial reports by Friday, February 28th via email to the finance team because of the upcoming audit.",
+    "sampleAnswerIpa": "/ɔːl dɪˈpɑːtmənts mʌst səbˈmɪt ðɛr ˈkwɔːtəli faɪˈnænʃəl rɪˈpɔːts baɪ ˈfraɪdeɪ ˈfɛbruəri ˈtwɛnti ˈeɪtθ vaɪə ˈiːmeɪl tuː ðə ˈfaɪnæns tiːm bɪˈkɒz əv ði ˌʌpˈkʌmɪŋ ˈɔːdɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả các bộ phận phải nộp báo cáo tài chính quý trước thứ Sáu, ngày 28 tháng 2 qua email cho đội tài chính do cuộc kiểm toán sắp tới.",
+      "kr": "다가오는 감사로 인해 모든 부서는 2월 28일 금요일까지 재무팀에 이메일로 분기 재무 보고서를 제출해야 합니다.",
+      "jp": "今後の監査のため、全部門は2月28日金曜日までに財務チームへメールで四半期財務報告を提出しなければなりません。"
+    },
+    "category": "Financial Report Deadline"
+  },
+  {
+    "id": 331,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office will be closed on Monday, March 17th for a public holiday, and normal operations will resume on Tuesday. Employees are reminded to complete any urgent tasks before the long weekend. Why and when will the office be closed?",
+    "ipa": "/ði ˈɒfɪs wɪl biː kloʊzd ɒn ˈmʌndeɪ mɑːtʃ ˈsɛvənˈtiːnθ fɔːr ə ˈpʌblɪk ˈhɒlɪdeɪ ənd ˈnɔːməl ˌɒpəˈreɪʃənz wɪl rɪˈzjuːm ɒn ˈtjuːzdeɪ ɪmˈplɔɪiːz ɑːr rɪˈmaɪndɪd tuː kəmˈpliːt ˈɛni ˈɜːrdʒənt tæsks bɪˈfɔːr ðə lɔːŋ ˈwiːkɛnd waɪ ənd wɛn wɪl ði ˈɒfɪs biː kloʊzd/",
+    "translations": {
+      "vn": "Văn phòng sẽ đóng cửa vào thứ Hai, ngày 17 tháng 3 vì ngày lễ quốc gia, và hoạt động bình thường sẽ tiếp tục vào thứ Ba. Nhân viên được nhắc hoàn thành công việc khẩn trước kỳ nghỉ dài. Văn phòng đóng cửa vì lý do gì và khi nào?",
+      "kr": "사무실은 공휴일로 인해 3월 17일 월요일에 폐쇄되며, 정상 운영은 화요일에 재개됩니다. 직원들은 긴 주말 전에 긴급 작업을 완료하라는 알림을 받았습니다. 사무실은 왜 언제 폐쇄되나요?",
+      "jp": "オフィスは祝日のため3月17日月曜日に閉まり、通常業務は火曜日に再開されます。従業員は長い週末前に緊急タスクを完了するよう提醒されています。オフィスはなぜいつ閉まるのですか？"
+    },
+    "sampleAnswer": "The office will be closed on Monday, March 17th for a public holiday, and normal operations will resume on Tuesday.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs wɪl biː kloʊzd ɒn ˈmʌndeɪ mɑːtʃ ˈsɛvənˈtiːnθ fɔːr ə ˈpʌblɪk ˈhɒlɪdeɪ ənd ˈnɔːməl ˌɒpəˈreɪʃənz wɪl rɪˈzjuːm ɒn ˈtjuːzdeɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Văn phòng sẽ đóng cửa vào thứ Hai, ngày 17 tháng 3 vì ngày lễ quốc gia, và hoạt động bình thường sẽ tiếp tục vào thứ Ba.",
+      "kr": "사무실은 공휴일로 인해 3월 17일 월요일에 폐쇄되며 정상 운영은 화요일에 재개됩니다.",
+      "jp": "オフィスは祝日のため3月17日月曜日に閉まり、通常業務は火曜日に再開されます。"
+    },
+    "category": "Holiday Closure"
+  },
+  {
+    "id": 332,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Starting April 1st, the company cafeteria will offer a new healthy menu with more vegetarian and low-calorie options to support employee wellness initiatives. When will the new healthy menu be available in the company cafeteria?",
+    "ipa": "/ˈstɑːtɪŋ ˈeɪprəl fɜːst ðə ˈkʌmpəni ˌkæfəˈtɪəriə wɪl ˈɒfər ə nuː ˈhɛlθi ˈmɛnjuː wɪð mɔːr ˌvɛdʒɪˈtɛəriən ənd loʊ ˈkæləri ˈɒpʃənz tuː səˈpɔːt ɪmˈplɔɪiː ˈwɛlnəs ˌɪnɪʃətɪvz wɛn wɪl ðə nuː ˈhɛlθi ˈmɛnjuː biː əˈveɪləbl ɪn ðə ˈkʌmpəni ˌkæfəˈtɪəriə/",
+    "translations": {
+      "vn": "Bắt đầu từ ngày 1 tháng 4, nhà ăn công ty sẽ cung cấp thực đơn lành mạnh mới với nhiều lựa chọn chay và ít calo hơn để hỗ trợ chương trình sức khỏe nhân viên. Thực đơn lành mạnh mới sẽ có sẵn ở nhà ăn công ty khi nào?",
+      "kr": "4월 1일부터 회사 카페테리아는 직원 웰니스 이니셔티브를 지원하기 위해 더 많은 채식 및 저칼로리 옵션을 포함한 새로운 건강 메뉴를 제공합니다. 회사 카페테리아에서 새로운 건강 메뉴는 언제 이용 가능하나요?",
+      "jp": "4月1日から、会社カフェテリアは従業員ウェルネスイニシアチブを支援するため、より多くのベジタリアンと低カロリーオプションを含む新しい健康メニューを提供します。会社カフェテリアで新しい健康メニューはいつ利用可能になりますか？"
+    },
+    "sampleAnswer": "Starting April 1st, the company cafeteria will offer a new healthy menu with more vegetarian and low-calorie options.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ ˈeɪprəl fɜːst ðə ˈkʌmpəni ˌkæfəˈtɪəriə wɪl ˈɒfər ə nuː ˈhɛlθi ˈmɛnjuː wɪð mɔːr ˌvɛdʒɪˈtɛəriən ənd loʊ ˈkæləri ˈɒpʃənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Bắt đầu từ ngày 1 tháng 4, nhà ăn công ty sẽ cung cấp thực đơn lành mạnh mới với nhiều lựa chọn chay và ít calo hơn.",
+      "kr": "4월 1일부터 회사 카페테리아는 더 많은 채식 및 저칼로리 옵션을 포함한 새로운 건강 메뉴를 제공합니다.",
+      "jp": "4月1日から、会社カフェテリアはより多くのベジタリアンと低カロリーオプションを含む新しい健康メニューを提供します。"
+    },
+    "category": "Cafeteria Menu"
+  },
+  {
+    "id": 333,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The IT department is upgrading the network system this weekend, so internet access will be unavailable from Saturday evening until Monday morning. Employees working remotely should save their work locally. When will internet access be unavailable?",
+    "ipa": "/ði aɪˈtiː dɪˈpɑːtmənt ɪz ˌʌpˈɡreɪdɪŋ ðə ˈnɛtwɜːk ˈsɪstəm ðɪs ˈwiːkɛnd soʊ ˈɪntərnɛt ˈæksɛs wɪl biː ˌʌnəˈveɪləbl frɑːm ˈsætədeɪ ˈiːvnɪŋ ʌnˈtɪl ˈmʌndeɪ ˈmɔːrnɪŋ ɪmˈplɔɪiːz ˈwɜːkɪŋ rɪˈmoʊtli ʃʊd seɪv ðɛr wɜːk ˈloʊkəli wɛn wɪl ˈɪntərnɛt ˈæksɛs biː ˌʌnəˈveɪləbl/",
+    "translations": {
+      "vn": "Bộ phận IT đang nâng cấp hệ thống mạng cuối tuần này, nên truy cập internet sẽ không khả dụng từ tối thứ Bảy đến sáng thứ Hai. Nhân viên làm việc từ xa nên lưu công việc cục bộ. Truy cập internet sẽ không khả dụng khi nào?",
+      "kr": "IT 부서는 이번 주말에 네트워크 시스템을 업그레이드하므로 토요일 저녁부터 월요일 아침까지 인터넷 액세스가 불가능합니다. 원격 근무 직원은 작업을 로컬에 저장해야 합니다. 인터넷 액세스는 언제 불가능하나요?",
+      "jp": "IT部門は週末にネットワークシステムをアップグレードするため、土曜日の夕方から月曜日の朝までインターネットアクセスが利用できません。リモート勤務の従業員は作業をローカルに保存してください。インターネットアクセスはいつ利用できませんか？"
+    },
+    "sampleAnswer": "Internet access will be unavailable from Saturday evening until Monday morning due to the IT department's network system upgrade this weekend.",
+    "sampleAnswerIpa": "/ˈɪntərnɛt ˈæksɛs wɪl biː ˌʌnəˈveɪləbl frɑːm ˈsætədeɪ ˈiːvnɪŋ ʌnˈtɪl ˈmʌndeɪ ˈmɔːrnɪŋ djuː tuː ði aɪˈtiː dɪˈpɑːtmənts ˈnɛtwɜːk ˈsɪstəm ˈʌpɡreɪd ðɪs ˈwiːkɛnd/",
+    "sampleAnswerTranslations": {
+      "vn": "Truy cập internet sẽ không khả dụng từ tối thứ Bảy đến sáng thứ Hai do bộ phận IT nâng cấp hệ thống mạng cuối tuần này.",
+      "kr": "이번 주말 IT 부서의 네트워크 시스템 업그레이드로 인해 토요일 저녁부터 월요일 아침까지 인터넷 액세스가 불가능합니다.",
+      "jp": "週末のIT部門のネットワークシステムアップグレードのため、土曜日の夕方から月曜日の朝までインターネットアクセスが利用できません。"
+    },
+    "category": "IT Upgrade"
+  },
+  {
+    "id": 334,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All staff are invited to the product launch event on Thursday, May 8th at 3:00 PM in the auditorium. Light refreshments will be served, and attendance is strongly encouraged. When and where is the product launch event?",
+    "ipa": "/ɔːl stæf ɑːr ɪnˈvaɪtɪd tuː ðə ˈprɒdʌkt lɔːntʃ ɪˈvɛnt ɒn ˈθɜːzdeɪ meɪ eɪtθ æt θriː əˈklɒk piːˈem ɪn ði ˌɔːdɪˈtɔːriəm laɪt rɪˈfrɛʃmənts wɪl biː sɜːvd ənd əˈtɛndəns ɪz ˈstrɒŋli ɪnˈkʌrɪdʒd wɛn ənd weər ɪz ðə ˈprɒdʌkt lɔːntʃ ɪˈvɛnt/",
+    "translations": {
+      "vn": "Tất cả nhân viên được mời tham gia sự kiện ra mắt sản phẩm vào thứ Năm, ngày 8 tháng 5 lúc 3 giờ chiều tại hội trường. Sẽ có đồ ăn nhẹ, và khuyến khích tham gia mạnh mẽ. Sự kiện ra mắt sản phẩm diễn ra khi nào và ở đâu?",
+      "kr": "모든 직원은 5월 8일 목요일 오후 3시에 강당에서 열리는 제품 출시 행사에 초대되며, 가벼운 다과가 제공되고 참석이 강력히 권장됩니다. 제품 출시 행사는 언제 어디에서 열리나요?",
+      "jp": "全スタッフは5月8日木曜日の午後3時に講堂で開催される製品発売イベントに招待され、軽食が提供され、出席が強く奨励されます。製品発売イベントはいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The product launch event is on Thursday, May 8th at 3:00 PM in the auditorium, and light refreshments will be served.",
+    "sampleAnswerIpa": "/ðə ˈprɒdʌkt lɔːntʃ ɪˈvɛnt ɪz ɒn ˈθɜːzdeɪ meɪ eɪtθ æt θriː əˈklɒk piːˈem ɪn ði ˌɔːdɪˈtɔːriəm ənd laɪt rɪˈfrɛʃmənts wɪl biː sɜːvd/",
+    "sampleAnswerTranslations": {
+      "vn": "Sự kiện ra mắt sản phẩm diễn ra vào thứ Năm, ngày 8 tháng 5 lúc 3 giờ chiều tại hội trường, và sẽ có đồ ăn nhẹ.",
+      "kr": "제품 출시 행사는 5월 8일 목요일 오후 3시에 강당에서 열리며 가벼운 다과가 제공됩니다.",
+      "jp": "製品発売イベントは5月8日木曜日の午後3時に講堂で開催され、軽食が提供されます。"
+    },
+    "category": "Product Launch"
+  },
+  {
+    "id": 335,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Employees who wish to participate in the corporate social responsibility activity next month should sign up by emailing csr@company.com before June 20th. The activity will involve volunteering at a local charity. What is the deadline for signing up for the CSR activity?",
+    "ipa": "/ɪmˈplɔɪiːz huː wɪʃ tuː ˌpɑːtɪsɪˈpeɪt ɪn ðə ˈkɔːpərət ˈsoʊʃəl rɪˌspɑːnsəˈbɪləti ækˈtɪvəti nɛkst mʌnθ ʃʊd saɪn ʌp baɪ ˈiːmeɪlɪŋ siː ɛs ɑːr æt ˈkʌmpəni dɒt kɒm bɪˈfɔːr dʒuːn ˈtwɛntiəθ ði ækˈtɪvəti wɪl ɪnˈvɒlv ˈvɒlənˈtɪərɪŋ æt ə ˈloʊkəl ˈtʃærəti wɒt ɪz ðə ˈdɛdlaɪn fɔː ˈsaɪnɪŋ ʌp fɔːr ðə siː ɛs ɑːr ækˈtɪvəti/",
+    "translations": {
+      "vn": "Nhân viên muốn tham gia hoạt động trách nhiệm xã hội doanh nghiệp tháng tới nên đăng ký bằng cách email csr@company.com trước ngày 20 tháng 6. Hoạt động sẽ bao gồm tình nguyện tại từ thiện địa phương. Hạn chót đăng ký hoạt động CSR là khi nào?",
+      "kr": "다음 달 기업 사회 공헌 활동에 참여하고자 하는 직원은 6월 20일 전에 csr@company.com으로 이메일 등록해야 합니다. 활동은 지역 자선단체 봉사를 포함합니다. CSR 활동 등록 마감일은 언제인가요?",
+      "jp": "来月の企業社会的責任活動に参加希望の従業員は6月20日までにcsr@company.comへメールで登録してください。活動は地元慈善団体でのボランティアを含みます。CSR活動の登録期限はいつですか？"
+    },
+    "sampleAnswer": "The deadline for signing up for the corporate social responsibility activity next month is June 20th, and employees should email csr@company.com to register.",
+    "sampleAnswerIpa": "/ðə ˈdɛdlaɪn fɔː ˈsaɪnɪŋ ʌp fɔːr ðə ˈkɔːpərət ˈsoʊʃəl rɪˌspɑːnsəˈbɪləti ækˈtɪvəti nɛkst mʌnθ ɪz dʒuːn ˈtwɛntiəθ ənd ɪmˈplɔɪiːz ʃʊd ˈiːmeɪl siː ɛs ɑːr æt ˈkʌmpəni dɒt kɒm tuː ˈrɛdʒɪstər/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót đăng ký hoạt động trách nhiệm xã hội doanh nghiệp tháng tới là ngày 20 tháng 6, và nhân viên nên email csr@company.com để đăng ký.",
+      "kr": "다음 달 기업 사회 공헌 활동 등록 마감일은 6월 20일이며 직원들은 csr@company.com으로 이메일 등록해야 합니다.",
+      "jp": "来月の企業社会的責任活動の登録期限は6月20日で、従業員はcsr@company.comへメールで登録してください。"
+    },
+    "category": "CSR Activity"
+  },
+  {
+    "id": 336,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The parking lot will be repaved next week from Tuesday to Thursday, so employees are asked to park on the street or use public transportation during those days. When will the parking lot be repaved?",
+    "ipa": "/ðə ˈpɑːkɪŋ lɒt wɪl biː riːˈpeɪvd nɛkst wiːk frɑːm ˈtjuːzdeɪ tuː ˈθɜːzdeɪ soʊ ɪmˈplɔɪiːz ɑːr ɑːskt tuː pɑːk ɒn ðə striːt ɔːr juːz ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈdjʊərɪŋ ðoʊz deɪz wɛn wɪl ðə ˈpɑːkɪŋ lɒt biː riːˈpeɪvd/",
+    "translations": {
+      "vn": "Bãi đỗ xe sẽ được sửa lại tuần tới từ thứ Ba đến thứ Năm, nên nhân viên được yêu cầu đỗ xe trên đường hoặc dùng phương tiện công cộng trong những ngày đó. Bãi đỗ xe sẽ được sửa lại khi nào?",
+      "kr": "주차장은 다음 주 화요일부터 목요일까지 재포장되므로 해당 기간 동안 직원들은 길가에 주차하거나 대중교통을 이용해 달라는 요청을 받았습니다. 주차장은 언제 재포장되나요?",
+      "jp": "駐車場は来週火曜日から木曜日まで再舗装されるため、その期間中従業員は路上駐車または公共交通機関を利用するよう求められています。駐車場はいつ再舗装されますか？"
+    },
+    "sampleAnswer": "The parking lot will be repaved next week from Tuesday to Thursday, so employees should park on the street or use public transportation during those days.",
+    "sampleAnswerIpa": "/ðə ˈpɑːkɪŋ lɒt wɪl biː riːˈpeɪvd nɛkst wiːk frɑːm ˈtjuːzdeɪ tuː ˈθɜːzdeɪ soʊ ɪmˈplɔɪiːz ʃʊd pɑːk ɒn ðə striːt ɔːr juːz ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈdjʊərɪŋ ðoʊz deɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Bãi đỗ xe sẽ được sửa lại tuần tới từ thứ Ba đến thứ Năm, nên nhân viên nên đỗ xe trên đường hoặc dùng phương tiện công cộng trong những ngày đó.",
+      "kr": "주차장은 다음 주 화요일부터 목요일까지 재포장되므로 해당 기간 동안 직원들은 길가에 주차하거나 대중교통을 이용해야 합니다.",
+      "jp": "駐車場は来週火曜日から木曜日まで再舗装されるため、その期間中従業員は路上駐車または公共交通機関を利用してください。"
+    },
+    "category": "Parking Maintenance"
+  },
+  {
+    "id": 337,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "To celebrate the company's 10th anniversary, a special lunch will be provided for all employees on Friday, July 25th in the main cafeteria at noon. What will happen on Friday, July 25th?",
+    "ipa": "/tuː ˈsɛlɪbreɪt ðə ˈkʌmpəniz tɛnθ ˌænɪˈvɜːsəri ə ˈspɛʃəl lʌntʃ wɪl biː prəˈvaɪdɪd fɔːr ɔːl ɪmˈplɔɪiːz ɒn ˈfraɪdeɪ dʒuˈlaɪ ˈtwɛnti ˈfɪfθ ɪn ðə meɪn ˌkæfəˈtɪəriə æt nuːn wɒt wɪl ˈhæpən ɒn ˈfraɪdeɪ dʒuˈlaɪ ˈtwɛnti ˈfɪfθ/",
+    "translations": {
+      "vn": "Để kỷ niệm 10 năm thành lập công ty, bữa trưa đặc biệt sẽ được cung cấp cho tất cả nhân viên vào thứ Sáu, ngày 25 tháng 7 lúc trưa tại nhà ăn chính. Chuyện gì sẽ xảy ra vào thứ Sáu, ngày 25 tháng 7?",
+      "kr": "회사 창립 10주년을 기념하기 위해 7월 25일 금요일 정오에 메인 카페테리아에서 모든 직원에게 특별 점심이 제공됩니다. 7월 25일 금요일에 무슨 일이 일어나나요?",
+      "jp": "会社設立10周年を祝うため、7月25日金曜日の正午にメインカフェテリアで全従業員に特別ランチが提供されます。7月25日金曜日に何が起こりますか？"
+    },
+    "sampleAnswer": "On Friday, July 25th, a special lunch will be provided for all employees in the main cafeteria at noon to celebrate the company's 10th anniversary.",
+    "sampleAnswerIpa": "/ɒn ˈfraɪdeɪ dʒuˈlaɪ ˈtwɛnti ˈfɪfθ ə ˈspɛʃəl lʌntʃ wɪl biː prəˈvaɪdɪd fɔːr ɔːl ɪmˈplɔɪiːz ɪn ðə meɪn ˌkæfəˈtɪəriə æt nuːn tuː ˈsɛlɪbreɪt ðə ˈkʌmpəniz tɛnθ ˌænɪˈvɜːsəri/",
+    "sampleAnswerTranslations": {
+      "vn": "Vào thứ Sáu, ngày 25 tháng 7, bữa trưa đặc biệt sẽ được cung cấp cho tất cả nhân viên tại nhà ăn chính lúc trưa để kỷ niệm 10 năm thành lập công ty.",
+      "kr": "7월 25일 금요일 정오에 회사 창립 10주년을 기념하기 위해 메인 카페테리아에서 모든 직원에게 특별 점심이 제공됩니다.",
+      "jp": "7月25日金曜日の正午に、会社設立10周年を祝うためメインカフェテリアで全従業員に特別ランチが提供されます。"
+    },
+    "category": "Anniversary Celebration"
+  },
+  {
+    "id": 338,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The deadline for applying for the internal job posting in the marketing department has been extended to August 15th. Interested employees should submit their applications to HR. What is the new deadline for the internal job posting?",
+    "ipa": "/ðə ˈdɛdlaɪn fɔːr əˈplaɪɪŋ fɔːr ði ɪnˈtɜːnl dʒɒb ˈpoʊstɪŋ ɪn ðə ˈmɑːkɪtɪŋ dɪˈpɑːtmənt hæz biːn ɪkˈstɛndɪd tuː ˈɔːɡəst ˈfɪftiːnθ ɪnˈtrəstɪd ɪmˈplɔɪiːz ʃʊd səbˈmɪt ðɛr ˌæplɪˈkeɪʃənz tuː eɪtʃˈɑːr wɒt ɪz ðə nuː ˈdɛdlaɪn fɔːr ði ɪnˈtɜːnl dʒɒb ˈpoʊstɪŋ/",
+    "translations": {
+      "vn": "Hạn chót nộp đơn cho vị trí nội bộ ở bộ phận marketing đã được kéo dài đến ngày 15 tháng 8. Nhân viên quan tâm nên nộp đơn cho HR. Hạn chót mới cho vị trí nội bộ là khi nào?",
+      "kr": "마케팅 부서 내부 채용 공고 지원 마감일이 8월 15일로 연장되었습니다. 관심 있는 직원은 HR에 지원서를 제출해야 합니다. 내부 채용 공고의 새로운 마감일은 언제인가요?",
+      "jp": "マーケティング部門の社内求人の応募期限が8月15日に延長されました。興味のある従業員はHRに応募してください。社内求人の新しい期限はいつですか？"
+    },
+    "sampleAnswer": "The deadline for applying for the internal job posting in the marketing department has been extended to August 15th.",
+    "sampleAnswerIpa": "/ðə ˈdɛdlaɪn fɔːr əˈplaɪɪŋ fɔːr ði ɪnˈtɜːnl dʒɒb ˈpoʊstɪŋ ɪn ðə ˈmɑːkɪtɪŋ dɪˈpɑːtmənt hæz biːn ɪkˈstɛndɪd tuː ˈɔːɡəst ˈfɪftiːnθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót nộp đơn cho vị trí nội bộ ở bộ phận marketing đã được kéo dài đến ngày 15 tháng 8.",
+      "kr": "마케팅 부서 내부 채용 공고 지원 마감일이 8월 15일로 연장되었습니다.",
+      "jp": "マーケティング部門の社内求人の応募期限が8月15日に延長されました。"
+    },
+    "category": "Job Posting"
+  },
+  {
+    "id": 339,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Due to high demand, the deadline for registering for the advanced Excel training course has been moved forward to September 5th. Places are limited, so early registration is recommended. What is the new registration deadline for the advanced Excel training course?",
+    "ipa": "/djuː tuː haɪ dɪˈmænd ðə ˈdɛdlaɪn fɔː ˈrɛdʒɪstərɪŋ fɔːr ði ədˈvænst ˈɛksɛl ˈtreɪnɪŋ kɔːs hæz biːn muːvd ˈfɔːwəd tuː sɛpˈtɛmbə fɪfθ ˈpleɪsɪz ɑːr ˈlɪmɪtɪd soʊ ˈɜːli ˌrɛdʒɪˈstreɪʃən ɪz ˌrɛkəˈmɛndɪd wɒt ɪz ðə nuː ˌrɛdʒɪˈstreɪʃən ˈdɛdlaɪn fɔːr ði ədˈvænst ˈɛksɛl ˈtreɪnɪŋ kɔːs/",
+    "translations": {
+      "vn": "Do nhu cầu cao, hạn chót đăng ký khóa đào tạo Excel nâng cao đã được dời sớm hơn đến ngày 5 tháng 9. Số chỗ hạn chế, nên khuyến khích đăng ký sớm. Hạn chót đăng ký mới cho khóa Excel nâng cao là khi nào?",
+      "kr": "높은 수요로 인해 고급 엑셀 교육 과정 등록 마감일이 9월 5일로 앞당겨졌습니다. 자리가 제한적이므로 조기 등록을 권장합니다. 고급 엑셀 교육 과정의 새로운 등록 마감일은 언제인가요?",
+      "jp": "高い需要のため、上級Excel研修コースの登録期限が9月5日に前倒しされました。席数が限られているため、早期登録を推奨します。上級Excel研修コースの新しい登録期限はいつですか？"
+    },
+    "sampleAnswer": "Due to high demand, the registration deadline for the advanced Excel training course has been moved forward to September 5th, and early registration is recommended since places are limited.",
+    "sampleAnswerIpa": "/djuː tuː haɪ dɪˈmænd ðə ˌrɛdʒɪˈstreɪʃən ˈdɛdlaɪn fɔːr ði ədˈvænst ˈɛksɛl ˈtreɪnɪŋ kɔːs hæz biːn muːvd ˈfɔːwəd tuː sɛpˈtɛmbə fɪfθ ənd ˈɜːli ˌrɛdʒɪˈstreɪʃən ɪz ˌrɛkəˈmɛndɪd sɪns ˈpleɪsɪz ɑːr ˈlɪmɪtɪd/",
+    "sampleAnswerTranslations": {
+      "vn": "Do nhu cầu cao, hạn chót đăng ký khóa đào tạo Excel nâng cao đã được dời sớm đến ngày 5 tháng 9, và khuyến khích đăng ký sớm vì số chỗ hạn chế.",
+      "kr": "높은 수요로 인해 고급 엑셀 교육 과정 등록 마감일이 9월 5일로 앞당겨졌으며 자리가 제한적이므로 조기 등록을 권장합니다.",
+      "jp": "高い需要のため、上級Excel研修コースの登録期限が9月5日に前倒しされ、席数が限られているため早期登録を推奨します。"
+    },
+    "category": "Training Registration"
+  },
+  {
+    "id": 340,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The building's main elevator will be out of service for repairs from October 7th to October 10th. Please use the stairs or the freight elevator during this period. When will the main elevator be out of service?",
+    "ipa": "/ðə ˈbɪldɪŋz meɪn ˈɛlɪveɪtər wɪl biː aʊt əv ˈsɜːvɪs fɔːr rɪˈpeəz frɑːm ɒkˈtoʊbə ˈsɛvənθ tuː ɒkˈtoʊbə tɛnθ pliːz juːz ðə steərz ɔːr ðə freɪt ˈɛlɪveɪtər ˈdjʊərɪŋ ðɪs ˈpɪəriəd wɛn wɪl ðə meɪn ˈɛlɪveɪtər biː aʊt əv ˈsɜːvɪs/",
+    "translations": {
+      "vn": "Thang máy chính của tòa nhà sẽ ngừng hoạt động để sửa chữa từ ngày 7 đến 10 tháng 10. Vui lòng dùng cầu thang hoặc thang chở hàng trong thời gian này. Thang máy chính sẽ ngừng hoạt động khi nào?",
+      "kr": "건물 메인 엘리베이터는 10월 7일부터 10월 10일까지 수리로 인해 사용 불가합니다. 이 기간 동안 계단이나 화물 엘리베이터를 이용해주세요. 메인 엘리베이터는 언제 사용 불가하나요?",
+      "jp": "ビルのメインエレベーターは10月7日から10月10日まで修理のため使用停止です。この期間は階段または貨物エレベーターをご利用ください。メインエレベーターはいつ使用停止になりますか？"
+    },
+    "sampleAnswer": "The building's main elevator will be out of service for repairs from October 7th to October 10th, so please use the stairs or freight elevator during that time.",
+    "sampleAnswerIpa": "/ðə ˈbɪldɪŋz meɪn ˈɛlɪveɪtər wɪl biː aʊt əv ˈsɜːvɪs fɔːr rɪˈpeəz frɑːm ɒkˈtoʊbə ˈsɛvənθ tuː ɒkˈtoʊbə tɛnθ soʊ pliːz juːz ðə steərz ɔːr freɪt ˈɛlɪveɪtər ˈdjʊərɪŋ ðæt taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Thang máy chính của tòa nhà sẽ ngừng hoạt động để sửa chữa từ ngày 7 đến 10 tháng 10, nên vui lòng dùng cầu thang hoặc thang chở hàng trong thời gian đó.",
+      "kr": "건물 메인 엘리베이터는 10월 7일부터 10월 10일까지 수리로 인해 사용 불가하므로 그 기간 동안 계단이나 화물 엘리베이터를 이용해주세요.",
+      "jp": "ビルのメインエレベーターは10月7日から10月10日まで修理のため使用停止なので、その期間は階段または貨物エレベーターをご利用ください。"
+    },
+    "category": "Elevator Repair"
+  },
+  {
+    "id": 341,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All employees must complete the online data privacy training module by November 30th to comply with new regulations. The training takes approximately one hour. What is the deadline for completing the data privacy training?",
+    "ipa": "/ɔːl ɪmˈplɔɪiːz mʌst kəmˈpliːt ði ɒnˈlaɪn ˈdeɪtə ˈpraɪvəsi ˈtreɪnɪŋ ˈmɒdjuːl baɪ nəʊˈvɛmbə ˈθɜːtiəθ tuː kəmˈplaɪ wɪð nuː ˌrɛɡjəˈleɪʃənz ðə ˈtreɪnɪŋ teɪks əˌprɒksɪmətli wʌn aʊər wɒt ɪz ðə ˈdɛdlaɪn fɔː kəmˈpliːtɪŋ ðə ˈdeɪtə ˈpraɪvəsi ˈtreɪnɪŋ/",
+    "translations": {
+      "vn": "Tất cả nhân viên phải hoàn thành mô-đun đào tạo bảo mật dữ liệu trực tuyến trước ngày 30 tháng 11 để tuân thủ quy định mới. Đào tạo mất khoảng một giờ. Hạn chót hoàn thành đào tạo bảo mật dữ liệu là khi nào?",
+      "kr": "모든 직원은 새로운 규정 준수를 위해 11월 30일까지 온라인 데이터 프라이버시 교육 모듈을 완료해야 합니다. 교육은 약 1시간 소요됩니다. 데이터 프라이버시 교육 완료 마감일은 언제인가요?",
+      "jp": "全従業員は新規定遵守のため11月30日までにオンラインデータプライバシー研修モジュールを完了しなければなりません。研修は約1時間かかります。データプライバシー研修の完了期限はいつですか？"
+    },
+    "sampleAnswer": "All employees must complete the online data privacy training module by November 30th to comply with new regulations, and it takes about one hour.",
+    "sampleAnswerIpa": "/ɔːl ɪmˈplɔɪiːz mʌst kəmˈpliːt ði ɒnˈlaɪn ˈdeɪtə ˈpraɪvəsi ˈtreɪnɪŋ ˈmɒdjuːl baɪ nəʊˈvɛmbə ˈθɜːtiəθ tuː kəmˈplaɪ wɪð nuː ˌrɛɡjəˈleɪʃənz ənd ɪt teɪks əˈbaʊt wʌn aʊər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả nhân viên phải hoàn thành mô-đun đào tạo bảo mật dữ liệu trực tuyến trước ngày 30 tháng 11 để tuân thủ quy định mới, và mất khoảng một giờ.",
+      "kr": "모든 직원은 새로운 규정 준수를 위해 11월 30일까지 온라인 데이터 프라이버시 교육 모듈을 완료해야 하며 약 1시간 소요됩니다.",
+      "jp": "全従業員は新規定遵守のため11月30日までにオンラインデータプライバシー研修モジュールを完了しなければならず、約1時間かかります。"
+    },
+    "category": "Data Privacy Training"
+  },
+  {
+    "id": 342,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The quarterly team-building outing will take place at the city zoo on Saturday, December 6th starting at 10:00 AM. Tickets will be provided by the company. Where and when will the quarterly team-building outing take place?",
+    "ipa": "/ðə ˈkwɔːtəli tiːm ˈbɪldɪŋ ˈaʊtɪŋ wɪl teɪk pleɪs æt ðə ˈsɪti zuː ɒn ˈsætədeɪ dɪˈsɛmbə sɪksθ ˈstɑːtɪŋ æt tɛn əˈklɒk eɪˈem ˈtɪkɪts wɪl biː prəˈvaɪdɪd baɪ ðə ˈkʌmpəni weər ənd wɛn wɪl ðə ˈkwɔːtəli tiːm ˈbɪldɪŋ ˈaʊtɪŋ teɪk pleɪs/",
+    "translations": {
+      "vn": "Chuyến đi xây dựng đội nhóm quý sẽ diễn ra tại sở thú thành phố vào thứ Bảy, ngày 6 tháng 12 bắt đầu lúc 10 giờ sáng. Vé sẽ do công ty cung cấp. Chuyến đi xây dựng đội nhóm quý sẽ diễn ra ở đâu và khi nào?",
+      "kr": "분기 팀 빌딩 외출은 12월 6일 토요일 오전 10시에 도시 동물원에서 열리며 티켓은 회사가 제공합니다. 분기 팀 빌딩 외출은 어디서 언제 열리나요?",
+      "jp": "四半期チームビルディング外出は12月6日土曜日の午前10時に市動物園で開催され、チケットは会社が提供します。四半期チームビルディング外出はどこでいつ開催されますか？"
+    },
+    "sampleAnswer": "The quarterly team-building outing will take place at the city zoo on Saturday, December 6th starting at 10:00 AM, and tickets will be provided by the company.",
+    "sampleAnswerIpa": "/ðə ˈkwɔːtəli tiːm ˈbɪldɪŋ ˈaʊtɪŋ wɪl teɪk pleɪs æt ðə ˈsɪti zuː ɒn ˈsætədeɪ dɪˈsɛmbə sɪksθ ˈstɑːtɪŋ æt tɛn əˈklɒk eɪˈem ənd ˈtɪkɪts wɪl biː prəˈvaɪdɪd baɪ ðə ˈkʌmpəni/",
+    "sampleAnswerTranslations": {
+      "vn": "Chuyến đi xây dựng đội nhóm quý sẽ diễn ra tại sở thú thành phố vào thứ Bảy, ngày 6 tháng 12 bắt đầu lúc 10 giờ sáng, và vé do công ty cung cấp.",
+      "kr": "분기 팀 빌딩 외출은 12월 6일 토요일 오전 10시에 도시 동물원에서 열리며 티켓은 회사가 제공합니다.",
+      "jp": "四半期チームビルディング外出は12月6日土曜日の午前10時に市動物園で開催され、チケットは会社が提供します。"
+    },
+    "category": "Team Building Outing"
+  },
+  {
+    "id": 343,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Employees can now request flexible working hours by submitting a form to their manager for approval, effective immediately. The new arrangement allows up to three flexible days per month. What is the new policy regarding flexible working hours?",
+    "ipa": "/ɪmˈplɔɪiːz kæn naʊ rɪˈkwɛst ˈflɛksəbl ˈwɜːkɪŋ aʊərz baɪ səbˈmɪtɪŋ ə fɔːm tuː ðɛr ˈmænɪdʒər fɔːr əˈpruːvəl ɪˈfɛktɪv ɪˈmiːdiətli ðə nuː əˈreɪndʒmənt əˈlaʊz ʌp tuː θriː ˈflɛksəbl deɪz pɜːr mʌnθ wɒt ɪz ðə nuː ˈpɒləsi rɪˈɡɑːdɪŋ ˈflɛksəbl ˈwɜːkɪŋ aʊərz/",
+    "translations": {
+      "vn": "Nhân viên giờ có thể yêu cầu giờ làm linh hoạt bằng cách nộp biểu mẫu cho quản lý phê duyệt, có hiệu lực ngay lập tức. Thỏa thuận mới cho phép tối đa ba ngày linh hoạt mỗi tháng. Chính sách mới về giờ làm linh hoạt là gì?",
+      "kr": "직원들은 이제 관리자에게 양식을 제출하여 승인을 받아 유연 근무 시간을 요청할 수 있으며 즉시 효력 발생합니다. 새로운 제도는 월 최대 3일의 유연 근무일을 허용합니다. 유연 근무 시간에 대한 새로운 정책은 무엇인가요?",
+      "jp": "従業員は今、管理者にフォームを提出して承認を得ることで柔軟勤務時間を依頼でき、即時有効です。新安排は月最大3日の柔軟日を許可します。柔軟勤務時間に関する新ポリシーは何ですか？"
+    },
+    "sampleAnswer": "Employees can request flexible working hours by submitting a form to their manager for approval, effective immediately, and the arrangement allows up to three flexible days per month.",
+    "sampleAnswerIpa": "/ɪmˈplɔɪiːz kæn rɪˈkwɛst ˈflɛksəbl ˈwɜːkɪŋ aʊərz baɪ səbˈmɪtɪŋ ə fɔːm tuː ðɛr ˈmænɪdʒər fɔːr əˈpruːvəl ɪˈfɛktɪv ɪˈmiːdiətli ənd ði əˈreɪndʒmənt əˈlaʊz ʌp tuː θriː ˈflɛksəbl deɪz pɜːr mʌnθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Nhân viên có thể yêu cầu giờ làm linh hoạt bằng cách nộp biểu mẫu cho quản lý phê duyệt, có hiệu lực ngay, và thỏa thuận cho phép tối đa ba ngày linh hoạt mỗi tháng.",
+      "kr": "직원들은 관리자에게 양식을 제출하여 승인을 받아 유연 근무 시간을 요청할 수 있으며 즉시 효력 발생하고 월 최대 3일의 유연 근무일을 허용합니다.",
+      "jp": "従業員は管理者にフォームを提出して承認を得ることで柔軟勤務時間を依頼でき、即時有効で、月最大3日の柔軟日を許可します。"
+    },
+    "category": "Flexible Hours Policy"
+  },
+  {
+    "id": 344,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The office will have a fire drill on Wednesday, January 15th at 11:00 AM. All employees must evacuate the building when the alarm sounds and assemble at the designated meeting point in the parking lot. When will the fire drill take place?",
+    "ipa": "/ði ˈɒfɪs wɪl hæv ə faɪər drɪl ɒn ˈwɛnzdeɪ ˈdʒænjuəri ˈfɪftiːnθ æt ɪˈlɛvən əˈklɒk eɪˈem ɔːl ɪmˈplɔɪiːz mʌst ɪˈvækjueɪt ðə ˈbɪldɪŋ wɛn ði əˈlɑːm saʊndz ənd əˈsɛmbl æt ðə ˈdɛzɪɡneɪtɪd ˈmiːtɪŋ pɔɪnt ɪn ðə ˈpɑːkɪŋ lɒt wɛn wɪl ðə faɪər drɪl teɪk pleɪs/",
+    "translations": {
+      "vn": "Văn phòng sẽ có diễn tập chữa cháy vào thứ Tư, ngày 15 tháng 1 lúc 11 giờ sáng. Tất cả nhân viên phải sơ tán tòa nhà khi chuông báo động vang lên và tập trung tại điểm họp được chỉ định ở bãi đỗ xe. Diễn tập chữa cháy sẽ diễn ra khi nào?",
+      "kr": "사무실은 1월 15일 수요일 오전 11시에 화재 훈련을 실시합니다. 모든 직원은 알람이 울리면 건물을 대피하고 주차장의 지정 집합 장소에 모여야 합니다. 화재 훈련은 언제 실시되나요?",
+      "jp": "オフィスは1月15日水曜日の午前11時に防火訓練を実施します。全従業員はアラームが鳴ったら建物から避難し、駐車場の指定集合場所に集まってください。防火訓練はいつ実施されますか？"
+    },
+    "sampleAnswer": "The office will have a fire drill on Wednesday, January 15th at 11:00 AM, and all employees must evacuate and assemble at the designated point in the parking lot.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs wɪl hæv ə faɪər drɪl ɒn ˈwɛnzdeɪ ˈdʒænjuəri ˈfɪftiːnθ æt ɪˈlɛvən əˈklɒk eɪˈem ənd ɔːl ɪmˈplɔɪiːz mʌst ɪˈvækjueɪt ənd əˈsɛmbl æt ðə ˈdɛzɪɡneɪtɪd pɔɪnt ɪn ðə ˈpɑːkɪŋ lɒt/",
+    "sampleAnswerTranslations": {
+      "vn": "Văn phòng sẽ có diễn tập chữa cháy vào thứ Tư, ngày 15 tháng 1 lúc 11 giờ sáng, và tất cả nhân viên phải sơ tán và tập trung tại điểm chỉ định ở bãi đỗ xe.",
+      "kr": "사무실은 1월 15일 수요일 오전 11시에 화재 훈련을 실시하며 모든 직원은 대피하고 주차장의 지정 장소에 모여야 합니다.",
+      "jp": "オフィスは1月15日水曜日の午前11時に防火訓練を実施し、全従業員は避難して駐車場の指定場所に集まってください。"
+    },
+    "category": "Fire Drill"
+  },
+  {
+    "id": 345,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has partnered with a local gym to offer employees a 30% discount on membership fees. To take advantage of this benefit, employees need to show their company ID at the gym reception. What discount is available for gym membership?",
+    "ipa": "/ðə ˈkʌmpəni hæz ˈpɑːtnərd wɪð ə ˈloʊkəl dʒɪm tuː ˈɒfər ɪmˈplɔɪiːz ə ˈθɜːti pəˈsɛnt ˈdɪskaʊnt ɒn ˈmɛmbəʃɪp fiːz tuː teɪk ədˈvɑːntɪdʒ əv ðɪs ˈbɛnɪfɪt ɪmˈplɔɪiːz niːd tuː ʃoʊ ðɛr ˈkʌmpəni aɪˈdiː æt ðə dʒɪm rɪˈsɛpʃən wɒt ˈdɪskaʊnt ɪz əˈveɪləbl fɔːr dʒɪm ˈmɛmbəʃɪp/",
+    "translations": {
+      "vn": "Công ty đã hợp tác với phòng gym địa phương để cung cấp cho nhân viên giảm 30% phí thành viên. Để tận dụng lợi ích này, nhân viên cần xuất trình thẻ công ty tại quầy lễ tân gym. Giảm giá nào có sẵn cho phí thành viên gym?",
+      "kr": "회사는 지역 헬스장과 제휴하여 직원들에게 회원비 30% 할인을 제공합니다. 이 혜택을 받으려면 직원들은 헬스장 리셉션에서 회사 ID를 제시해야 합니다. 헬스장 회원비에 어떤 할인이 제공되나요?",
+      "jp": "会社は地元ジムと提携し、従業員に会員費30%割引を提供します。この特典を利用するには、従業員はジム受付で会社IDを提示する必要があります。ジム会員費にどんな割引が利用できますか？"
+    },
+    "sampleAnswer": "The company has partnered with a local gym to offer employees a 30% discount on membership fees, and employees need to show their company ID at the reception to get it.",
+    "sampleAnswerIpa": "/ðə ˈkʌmpəni hæz ˈpɑːtnərd wɪð ə ˈloʊkəl dʒɪm tuː ˈɒfər ɪmˈplɔɪiːz ə ˈθɜːti pəˈsɛnt ˈdɪskaʊnt ɒn ˈmɛmbəʃɪp fiːz ənd ɪmˈplɔɪiːz niːd tuː ʃoʊ ðɛr ˈkʌmpəni aɪˈdiː æt ðə rɪˈsɛpʃən tuː ɡɛt ɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Công ty đã hợp tác với phòng gym địa phương để cung cấp giảm 30% phí thành viên cho nhân viên, và nhân viên cần xuất trình thẻ công ty tại quầy lễ tân để nhận.",
+      "kr": "회사는 지역 헬스장과 제휴하여 직원들에게 회원비 30% 할인을 제공하며, 이를 받으려면 리셉션에서 회사 ID를 제시해야 합니다.",
+      "jp": "会社は地元ジムと提携し、従業員に会員費30%割引を提供し、受付で会社IDを提示すれば受けられます。"
+    },
+    "category": "Gym Discount"
+  },
+  {
+    "id": 346,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All travel bookings for business trips in the coming quarter must be made through the new approved travel agency to ensure compliance with company policy and better rates. Which agency should be used for business travel bookings?",
+    "ipa": "/ɔːl ˈtrævl ˈbʊkɪŋz fɔːr ˈbɪznɪs trɪps ɪn ðə ˈkʌmɪŋ ˈkwɔːtə mʌst biː meɪd θruː ðə nuː əˈpruːvd ˈtrævl ˈeɪdʒənsi tuː ɪnˈʃʊər kəmˈplaɪəns wɪð ˈkʌmpəni ˈpɒləsi ənd ˈbɛtər reɪts wɪtʃ ˈeɪdʒənsi ʃʊd biː juːzd fɔːr ˈbɪznɪs ˈtrævl ˈbʊkɪŋz/",
+    "translations": {
+      "vn": "Tất cả đặt chỗ du lịch cho chuyến công tác quý tới phải được thực hiện qua đại lý du lịch được phê duyệt mới để đảm bảo tuân thủ chính sách công ty và giá tốt hơn. Đại lý nào nên được sử dụng cho đặt chỗ du lịch công tác?",
+      "kr": "다가오는 분기 업무 여행 예약은 모두 회사 정책 준수와 더 나은 요금을 위해 새로 승인된 여행사를 통해 해야 합니다. 업무 여행 예약에 어떤 여행사를 사용해야 하나요?",
+      "jp": "来四半期の出張予約は全て会社ポリシー遵守とより良い料金のため、新しく承認された旅行代理店を通じて行わなければなりません。出張予約にどの代理店を使えばいいですか？"
+    },
+    "sampleAnswer": "All travel bookings for business trips in the coming quarter must be made through the new approved travel agency to ensure compliance and better rates.",
+    "sampleAnswerIpa": "/ɔːl ˈtrævl ˈbʊkɪŋz fɔːr ˈbɪznɪs trɪps ɪn ðə ˈkʌmɪŋ ˈkwɔːtə mʌst biː meɪd θruː ðə nuː əˈpruːvd ˈtrævl ˈeɪdʒənsi tuː ɪnˈʃʊər kəmˈplaɪəns ənd ˈbɛtər reɪts/",
+    "sampleAnswerTranslations": {
+      "vn": "Tất cả đặt chỗ du lịch cho chuyến công tác quý tới phải được thực hiện qua đại lý du lịch được phê duyệt mới để đảm bảo tuân thủ và giá tốt hơn.",
+      "kr": "다가오는 분기 업무 여행 예약은 모두 새로 승인된 여행사를 통해 해야 하며 정책 준수와 더 나은 요금을 보장합니다.",
+      "jp": "来四半期の出張予約は全て新しく承認された旅行代理店を通じて行い、ポリシー遵守とより良い料金を確保してください。"
+    },
+    "category": "Travel Agency Policy"
+  },
+  {
+    "id": 347,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The annual performance reviews will be conducted from February 3rd to February 14th. Managers will schedule individual meetings with their team members during this period. When will the annual performance reviews be conducted?",
+    "ipa": "/ði ˈænjuəl pəˈfɔːməns rɪˈvjuːz wɪl biː kənˈdʌktɪd frɑːm ˈfɛbruəri θɜːd tuː ˈfɛbruəri ˈfɔːˈtiːnθ ˈmænɪdʒərz wɪl ˈʃɛdjuːl ˌɪndɪˈvɪdʒuəl ˈmiːtɪŋz wɪð ðɛr tiːm ˈmɛmbərz ˈdjʊərɪŋ ðɪs ˈpɪəriəd wɛn wɪl ði ˈænjuəl pəˈfɔːməns rɪˈvjuːz biː kənˈdʌktɪd/",
+    "translations": {
+      "vn": "Đánh giá hiệu suất hàng năm sẽ được thực hiện từ ngày 3 đến 14 tháng 2. Quản lý sẽ lên lịch họp cá nhân với thành viên đội trong khoảng thời gian này. Đánh giá hiệu suất hàng năm sẽ được thực hiện khi nào?",
+      "kr": "연간 성과 평가가 2월 3일부터 2월 14일까지 실시됩니다. 관리자들은 이 기간 동안 팀원들과 개별 미팅을 예약합니다. 연간 성과 평가는 언제 실시되나요?",
+      "jp": "年次パフォーマンスレビューは2月3日から2月14日まで実施されます。マネージャーはこの期間にチームメンバーと個別ミーティングをスケジュールします。年次パフォーマンスレビューはいつ実施されますか？"
+    },
+    "sampleAnswer": "The annual performance reviews will be conducted from February 3rd to February 14th, and managers will schedule individual meetings with team members.",
+    "sampleAnswerIpa": "/ði ˈænjuəl pəˈfɔːməns rɪˈvjuːz wɪl biː kənˈdʌktɪd frɑːm ˈfɛbruəri θɜːd tuː ˈfɛbruəri ˈfɔːˈtiːnθ ənd ˈmænɪdʒərz wɪl ˈʃɛdjuːl ˌɪndɪˈvɪdʒuəl ˈmiːtɪŋz wɪð tiːm ˈmɛmbərz/",
+    "sampleAnswerTranslations": {
+      "vn": "Đánh giá hiệu suất hàng năm sẽ được thực hiện từ ngày 3 đến 14 tháng 2, và quản lý sẽ lên lịch họp cá nhân với thành viên đội.",
+      "kr": "연간 성과 평가는 2월 3일부터 2월 14일까지 실시되며 관리자들은 팀원들과 개별 미팅을 예약합니다.",
+      "jp": "年次パフォーマンスレビューは2月3日から2月14日まで実施され、マネージャーはチームメンバーと個別ミーティングをスケジュールします。"
+    },
+    "category": "Performance Review"
+  },
+  {
+    "id": 348,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "To reduce paper usage, all internal documents will now be shared electronically via the company shared drive starting March 1st. Printed copies will only be available upon special request. When will internal documents be shared electronically?",
+    "ipa": "/tuː rɪˈduːs ˈpeɪpər ˈjuːsɪdʒ ɔːl ɪnˈtɜːnl ˈdɒkjəmənts wɪl naʊ biː ʃɛrd ɪlɛkˈtrɒnɪkli vaɪə ðə ˈkʌmpəni ʃɛrd draɪv ˈstɑːtɪŋ mɑːtʃ fɜːst ˈprɪntɪd ˈkɒpiz wɪl ˈoʊnli biː əˈveɪləbl əˈpɒn ˈspɛʃəl rɪˈkwɛst wɛn wɪl ɪnˈtɜːnl ˈdɒkjəmənts biː ʃɛrd ɪlɛkˈtrɒnɪkli/",
+    "translations": {
+      "vn": "Để giảm sử dụng giấy, tất cả tài liệu nội bộ giờ sẽ được chia sẻ điện tử qua ổ đĩa chia sẻ công ty bắt đầu từ ngày 1 tháng 3. Bản in chỉ có sẵn khi yêu cầu đặc biệt. Tài liệu nội bộ sẽ được chia sẻ điện tử khi nào?",
+      "kr": "종이 사용을 줄이기 위해 3월 1일부터 모든 내부 문서는 회사 공유 드라이브를 통해 전자적으로 공유됩니다. 인쇄본은 특별 요청 시에만 제공됩니다. 내부 문서는 언제 전자적으로 공유되나요?",
+      "jp": "紙使用削減のため、3月1日から全内部文書は会社共有ドライブ経由で電子的に共有されます。印刷版は特別依頼時のみ提供されます。内部文書はいつ電子的に共有されますか？"
+    },
+    "sampleAnswer": "Starting March 1st, all internal documents will be shared electronically via the company shared drive to reduce paper usage, and printed copies will only be available upon special request.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ mɑːtʃ fɜːst ɔːl ɪnˈtɜːnl ˈdɒkjəmənts wɪl biː ʃɛrd ɪlɛkˈtrɒnɪkli vaɪə ðə ˈkʌmpəni ʃɛrd draɪv tuː rɪˈduːs ˈpeɪpər ˈjuːsɪdʒ ənd ˈprɪntɪd ˈkɒpiz wɪl ˈoʊnli biː əˈveɪləbl əˈpɒn ˈspɛʃəl rɪˈkwɛst/",
+    "sampleAnswerTranslations": {
+      "vn": "Bắt đầu từ ngày 1 tháng 3, tất cả tài liệu nội bộ sẽ được chia sẻ điện tử qua ổ đĩa chia sẻ công ty để giảm sử dụng giấy, và bản in chỉ có khi yêu cầu đặc biệt.",
+      "kr": "3월 1일부터 종이 사용을 줄이기 위해 모든 내부 문서는 회사 공유 드라이브를 통해 전자적으로 공유되며 인쇄본은 특별 요청 시에만 제공됩니다.",
+      "jp": "3月1日から紙使用削減のため全内部文書は会社共有ドライブ経由で電子的に共有され、印刷版は特別依頼時のみ提供されます。"
+    },
+    "category": "Paperless Policy"
+  },
+  {
+    "id": 349,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The new security badges must be worn at all times inside the building starting April 10th. Old badges will no longer be valid after that date. When do employees need to start wearing the new security badges?",
+    "ipa": "/ðə nuː sɪˈkjʊərəti ˈbædʒɪz mʌst biː wɔːrn æt ɔːl taɪmz ɪnˈsaɪd ðə ˈbɪldɪŋ ˈstɑːtɪŋ ˈeɪprəl tɛnθ oʊld ˈbædʒɪz wɪl ˈnoʊ ˈlɒŋɡər biː ˈvælɪd ˈæftə ðæt deɪt wɛn duː ɪmˈplɔɪiːz niːd tuː stɑːt ˈwɛrɪŋ ðə nuː sɪˈkjʊərəti ˈbædʒɪz/",
+    "translations": {
+      "vn": "Thẻ an ninh mới phải được đeo mọi lúc trong tòa nhà bắt đầu từ ngày 10 tháng 4. Thẻ cũ sẽ không còn hợp lệ sau ngày đó. Nhân viên cần bắt đầu đeo thẻ an ninh mới khi nào?",
+      "kr": "새로운 보안 배지는 4월 10일부터 건물 내에서 항상 착용해야 하며 그 날짜 이후에는 구 배지가 유효하지 않습니다. 직원들은 언제부터 새로운 보안 배지를 착용해야 하나요?",
+      "jp": "新しいセキュリティバッジは4月10日から建物内で常に着用しなければならず、その日以降は旧バッジは無効です。従業員はいつから新しいセキュリティバッジを着用する必要がありますか？"
+    },
+    "sampleAnswer": "Starting April 10th, the new security badges must be worn at all times inside the building, and old badges will no longer be valid after that date.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ ˈeɪprəl tɛnθ ðə nuː sɪˈkjʊərəti ˈbædʒɪz mʌst biː wɔːrn æt ɔːl taɪmz ɪnˈsaɪd ðə ˈbɪldɪŋ ənd oʊld ˈbædʒɪz wɪl ˈnoʊ ˈlɒŋɡər biː ˈvælɪd ˈæftə ðæt deɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Bắt đầu từ ngày 10 tháng 4, thẻ an ninh mới phải được đeo mọi lúc trong tòa nhà, và thẻ cũ sẽ không còn hợp lệ sau ngày đó.",
+      "kr": "4월 10일부터 새로운 보안 배지를 건물 내에서 항상 착용해야 하며 그 날짜 이후에는 구 배지가 유효하지 않습니다.",
+      "jp": "4月10日から新しいセキュリティバッジを建物内で常に着用しなければならず、その日以降は旧バッジは無効です。"
+    },
+    "category": "Security Badges"
+  },
+  {
+    "id": 350,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Employees interested in the leadership development program should submit their applications by May 20th. The program will begin in June and includes workshops and mentoring sessions. What is the application deadline for the leadership development program?",
+    "ipa": "/ɪmˈplɔɪiːz ˈɪntrəstɪd ɪn ðə ˈliːdəʃɪp dɪˈvɛləpmənt ˈproʊɡræm ʃʊd səbˈmɪt ðɛr ˌæplɪˈkeɪʃənz baɪ meɪ ˈtwɛntiəθ ðə ˈproʊɡræm wɪl bɪˈɡɪn ɪn dʒuːn ənd ɪnˈkluːdz ˈwɜːkʃɒps ənd ˈmɛntɔːrɪŋ ˈsɛʃənz wɒt ɪz ði ˌæplɪˈkeɪʃən ˈdɛdlaɪn fɔːr ðə ˈliːdəʃɪp dɪˈvɛləpmənt ˈproʊɡræm/",
+    "translations": {
+      "vn": "Nhân viên quan tâm đến chương trình phát triển lãnh đạo nên nộp đơn trước ngày 20 tháng 5. Chương trình sẽ bắt đầu vào tháng 6 và bao gồm hội thảo và phiên cố vấn. Hạn chót nộp đơn cho chương trình phát triển lãnh đạo là khi nào?",
+      "kr": "리더십 개발 프로그램에 관심 있는 직원은 5월 20일까지 지원서를 제출해야 합니다. 프로그램은 6월에 시작되며 워크숍과 멘토링 세션을 포함합니다. 리더십 개발 프로그램 지원 마감일은 언제인가요?",
+      "jp": "リーダーシップ開発プログラムに興味のある従業員は5月20日までに応募してください。プログラムは6月に開始され、ワークショップとメンタリングセッションを含みます。リーダーシップ開発プログラムの応募期限はいつですか？"
+    },
+    "sampleAnswer": "The application deadline for the leadership development program is May 20th, and the program will begin in June with workshops and mentoring sessions.",
+    "sampleAnswerIpa": "/ði ˌæplɪˈkeɪʃən ˈdɛdlaɪn fɔːr ðə ˈliːdəʃɪp dɪˈvɛləpmənt ˈproʊɡræm ɪz meɪ ˈtwɛntiəθ ənd ðə ˈproʊɡræm wɪl bɪˈɡɪn ɪn dʒuːn wɪð ˈwɜːkʃɒps ənd ˈmɛntɔːrɪŋ ˈsɛʃənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót nộp đơn cho chương trình phát triển lãnh đạo là ngày 20 tháng 5, và chương trình sẽ bắt đầu vào tháng 6 với hội thảo và phiên cố vấn.",
+      "kr": "리더십 개발 프로그램 지원 마감일은 5월 20일이며 프로그램은 6월에 워크숍과 멘토링 세션으로 시작됩니다.",
+      "jp": "リーダーシップ開発プログラムの応募期限は5月20日で、プログラムは6月にワークショップとメンタリングセッションで開始されます。"
+    },
+    "category": "Leadership Program"
+  },
+  {
+    "id": 351,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The staff meeting scheduled for next Tuesday has been moved to 2:00 PM in Conference Room C because the original room is under maintenance. What time and where will the meeting now take place?",
+    "ipa": "/ðə stæf ˈmiːtɪŋ ˈʃɛdjuːld fɔː nɛkst ˈtjuːzdeɪ hæz biːn muːvd tuː tuː əˈklɒk piːˈem ɪn ˈkɒnfərəns ruːm siː bɪˈkɒz ði əˈrɪdʒɪnl ruːm ɪz ˈʌndə ˈmeɪntənəns wɒt taɪm ənd weər wɪl ðə ˈmiːtɪŋ naʊ teɪk pleɪs/",
+    "translations": {
+      "vn": "Cuộc họp nhân viên dự kiến vào thứ Ba tới đã được chuyển sang 2 giờ chiều tại Phòng Hội nghị C vì phòng cũ đang bảo trì. Cuộc họp giờ sẽ diễn ra lúc mấy giờ và ở đâu?",
+      "kr": "다음 화요일로 예정된 직원 회의가 원래 회의실이 유지보수 중이어서 오후 2시에 C 회의실로 변경되었습니다. 이제 회의는 몇 시에 어디에서 열리나요?",
+      "jp": "来週火曜日のスタッフミーティングは元の部屋がメンテナンス中のため、午後2時にC会議室に変更されました。今、ミーティングは何時にどこで行われますか？"
+    },
+    "sampleAnswer": "The staff meeting will now take place at 2:00 PM in Conference Room C because the original room is under maintenance.",
+    "sampleAnswerIpa": "/ðə stæf ˈmiːtɪŋ wɪl naʊ teɪk pleɪs æt tuː əˈklɒk piːˈem ɪn ˈkɒnfərəns ruːm siː bɪˈkɒz ði əˈrɪdʒɪnl ruːm ɪz ˈʌndə ˈmeɪntənəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Cuộc họp nhân viên giờ sẽ diễn ra lúc 2 giờ chiều tại Phòng Hội nghị C vì phòng cũ đang bảo trì.",
+      "kr": "직원 회의는 이제 원래 회의실이 유지보수 중이어서 오후 2시에 C 회의실에서 열립니다.",
+      "jp": "スタッフミーティングは今、元の部屋がメンテナンス中のため、午後2時にC会議室で行われます。"
+    },
+    "category": "Meeting Change"
+  },
+  {
+    "id": 352,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "Due to the annual health and safety inspection, the office will close at 3:00 PM this Friday, and all employees are encouraged to leave by that time. When will the office close this Friday?",
+    "ipa": "/djuː tuː ði ˈænjuəl hɛlθ ənd ˈseɪfti ɪnˈspɛkʃən ði ˈɒfɪs wɪl kloʊz æt θriː əˈklɒk piːˈem ðɪs ˈfraɪdeɪ ənd ɔːl ɪmˈplɔɪiːz ɑːr ɪnˈkʌrɪdʒd tuː liːv baɪ ðæt taɪm wɛn wɪl ði ˈɒfɪs kloʊz ðɪs ˈfraɪdeɪ/",
+    "translations": {
+      "vn": "Do kiểm tra an toàn sức khỏe hàng năm, văn phòng sẽ đóng cửa lúc 3 giờ chiều thứ Sáu này, và tất cả nhân viên được khuyến khích rời đi trước giờ đó. Văn phòng sẽ đóng cửa lúc mấy giờ thứ Sáu này?",
+      "kr": "연간 건강 및 안전 점검으로 인해 이번 금요일 오후 3시에 사무실이 폐쇄되며, 모든 직원은 그 시간까지 퇴근하도록 권장됩니다. 이번 금요일 사무실은 몇 시에 폐쇄되나요?",
+      "jp": "年次の健康・安全点検のため、今週金曜日の午後3時にオフィスが閉まり、全従業員はその時間までに退社するよう奨励されています。今週金曜日、オフィスは何時に閉まりますか？"
+    },
+    "sampleAnswer": "The office will close at 3:00 PM this Friday due to the annual health and safety inspection.",
+    "sampleAnswerIpa": "/ði ˈɒfɪs wɪl kloʊz æt θriː əˈklɒk piːˈem ðɪs ˈfraɪdeɪ djuː tuː ði ˈænjuəl hɛlθ ənd ˈseɪfti ɪnˈspɛkʃən/",
+    "sampleAnswerTranslations": {
+      "vn": "Văn phòng sẽ đóng cửa lúc 3 giờ chiều thứ Sáu này do kiểm tra an toàn sức khỏe hàng năm.",
+      "kr": "연간 건강 및 안전 점검으로 인해 이번 금요일 오후 3시에 사무실이 폐쇄됩니다.",
+      "jp": "年次の健康・安全点検のため、今週金曜日の午後3時にオフィスが閉まります。"
+    },
+    "category": "Office Closing"
+  },
+  {
+    "id": 353,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The company has introduced a new policy where employees can work from home two days a week starting next month to improve work-life balance. How many days a week can employees work from home starting next month?",
+    "ipa": "/ðə ˈkʌmpəni hæz ˌɪntrəˈdjuːst ə nuː ˈpɒləsi weər ɪmˈplɔɪiːz kæn wɜːk frɑːm hoʊm tuː deɪz ə wiːk ˈstɑːtɪŋ nɛkst mʌnθ tuː ɪmˈpruːv wɜːk laɪf ˈbæləns haʊ ˈmɛni deɪz ə wiːk kæn ɪmˈplɔɪiːz wɜːk frɑːm hoʊm ˈstɑːtɪŋ nɛkst mʌnθ/",
+    "translations": {
+      "vn": "Công ty đã áp dụng chính sách mới cho phép nhân viên làm việc tại nhà hai ngày một tuần bắt đầu từ tháng tới để cải thiện cân bằng công việc-cuộc sống. Nhân viên có thể làm việc tại nhà bao nhiêu ngày một tuần từ tháng tới?",
+      "kr": "회사는 워크라이프 밸런스를 개선하기 위해 다음 달부터 주 2일 재택근무를 허용하는 새로운 정책을 도입했습니다. 다음 달부터 직원들은 일주일에 며칠 재택근무할 수 있나요?",
+      "jp": "会社はワークライフバランス向上のため、来月から週2日在宅勤務を許可する新ポリシーを導入しました。来月から従業員は週何日在宅勤務できますか？"
+    },
+    "sampleAnswer": "Starting next month, employees can work from home two days a week under the new policy introduced to improve work-life balance.",
+    "sampleAnswerIpa": "/ˈstɑːtɪŋ nɛkst mʌnθ ɪmˈplɔɪiːz kæn wɜːk frɑːm hoʊm tuː deɪz ə wiːk ˈʌndə ðə nuː ˈpɒləsi ˌɪntrəˈdjuːst tuː ɪmˈpruːv wɜːk laɪf ˈbæləns/",
+    "sampleAnswerTranslations": {
+      "vn": "Từ tháng tới, nhân viên có thể làm việc tại nhà hai ngày một tuần theo chính sách mới để cải thiện cân bằng công việc-cuộc sống.",
+      "kr": "다음 달부터 워크라이프 밸런스 개선을 위해 도입된 새로운 정책에 따라 직원들은 주 2일 재택근무할 수 있습니다.",
+      "jp": "来月から、ワークライフバランス向上のために導入された新ポリシーのもと、従業員は週2日在宅勤務できます。"
+    },
+    "category": "Remote Work Policy"
+  },
+  {
+    "id": 354,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "All expense reports for the month of November must be submitted by December 10th through the online system, and late submissions will not be reimbursed. What is the deadline for submitting November expense reports?",
+    "ipa": "/ɔːl ɪkˈspens rɪˈpɔːts fɔːr ðə mʌnθ əv nəʊˈvɛmbər mʌst biː səbˈmɪtɪd baɪ dɪˈsɛmbə ˈtɛnθ θruː ði ɒnˈlaɪn ˈsɪstəm ənd leɪt səbˈmɪʃənz wɪl nɑːt biː ˌriːɪmˈbɜːst wɒt ɪz ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ nəʊˈvɛmbər ɪkˈspens rɪˈpɔːts/",
+    "translations": {
+      "vn": "Tất cả báo cáo chi phí tháng Mười Một phải được nộp trước ngày 10 tháng Mười Hai qua hệ thống trực tuyến, và nộp muộn sẽ không được hoàn tiền. Hạn chót nộp báo cáo chi phí tháng Mười Một là khi nào?",
+      "kr": "11월 경비 보고서는 모두 12월 10일까지 온라인 시스템으로 제출해야 하며, 늦은 제출은 환급되지 않습니다. 11월 경비 보고서 제출 마감일은 언제인가요?",
+      "jp": "11月の経費報告はすべて12月10日までにオンラインシステムで提出しなければならず、遅れた提出は償還されません。11月の経費報告提出期限はいつですか？"
+    },
+    "sampleAnswer": "The deadline for submitting November expense reports is December 10th, and they must be submitted through the online system; late submissions will not be reimbursed.",
+    "sampleAnswerIpa": "/ðə ˈdɛdlaɪn fɔː səbˈmɪtɪŋ nəʊˈvɛmbər ɪkˈspens rɪˈpɔːts ɪz dɪˈsɛmbə ˈtɛnθ ənd ðeɪ mʌst biː səbˈmɪtɪd θruː ði ɒnˈlaɪn ˈsɪstəm leɪt səbˈmɪʃənz wɪl nɑːt biː ˌriːɪmˈbɜːst/",
+    "sampleAnswerTranslations": {
+      "vn": "Hạn chót nộp báo cáo chi phí tháng Mười Một là ngày 10 tháng Mười Hai, phải nộp qua hệ thống trực tuyến; nộp muộn sẽ không được hoàn tiền.",
+      "kr": "11월 경비 보고서 제출 마감일은 12월 10일이며 온라인 시스템으로 제출해야 하고 늦은 제출은 환급되지 않습니다.",
+      "jp": "11月の経費報告提出期限は12月10日で、オンラインシステムで提出しなければならず、遅れた提出は償還されません。"
+    },
+    "category": "Expense Report Deadline"
+  },
+  {
+    "id": 355,
+    "questionType": "Respond to questions using information provided",
+    "questionNumber": "Q7-9",
+    "text": "The annual company picnic will be held at Riverside Park on Saturday, June 14th from 11:00 AM to 4:00 PM, and employees are invited to bring their families. When and where will the annual company picnic be held?",
+    "ipa": "/ði ˈænjuəl ˈkʌmpəni ˈpɪknɪk wɪl biː hɛld æt ˈrɪvərsaɪd pɑːrk ɒn ˈsætədeɪ dʒuːn ˈfɔːˈtiːnθ frɑːm ɪˈlɛvən əˈklɒk eɪˈem tuː fɔːr əˈklɒk piːˈem ənd ɪmˈplɔɪiːz ɑːr ɪnˈvaɪtɪd tuː brɪŋ ðɛr ˈfæməliz wɛn ənd weər wɪl ði ˈænjuəl ˈkʌmpəni ˈpɪknɪk biː hɛld/",
+    "translations": {
+      "vn": "Picnic công ty hàng năm sẽ được tổ chức tại Công viên Riverside vào thứ Bảy, ngày 14 tháng 6 từ 11 giờ sáng đến 4 giờ chiều, và nhân viên được mời mang theo gia đình. Picnic công ty hàng năm sẽ diễn ra khi nào và ở đâu?",
+      "kr": "연례 회사 피크닉은 6월 14일 토요일 오전 11시부터 오후 4시까지 리버사이드 파크에서 열리며, 직원들은 가족을 동반할 수 있습니다. 연례 회사 피크닉은 언제 어디에서 열리나요?",
+      "jp": "年次会社ピクニックは6月14日土曜日の午前11時から午後4時までリバーサイドパークで開催され、従業員は家族を同伴できます。年次会社ピクニックはいつどこで開催されますか？"
+    },
+    "sampleAnswer": "The annual company picnic will be held at Riverside Park on Saturday, June 14th from 11:00 AM to 4:00 PM, and employees can bring their families.",
+    "sampleAnswerIpa": "/ði ˈænjuəl ˈkʌmpəni ˈpɪknɪk wɪl biː hɛld æt ˈrɪvərsaɪd pɑːrk ɒn ˈsætədeɪ dʒuːn ˈfɔːˈtiːnθ frɑːm ɪˈlɛvən əˈklɒk eɪˈem tuː fɔːr əˈklɒk piːˈem ənd ɪmˈplɔɪiːz kæn brɪŋ ðɛr ˈfæməliz/",
+    "sampleAnswerTranslations": {
+      "vn": "Picnic công ty hàng năm sẽ được tổ chức tại Công viên Riverside vào thứ Bảy, ngày 14 tháng 6 từ 11 giờ sáng đến 4 giờ chiều, và nhân viên có thể mang theo gia đình.",
+      "kr": "연례 회사 피크닉은 6월 14일 토요일 오전 11시부터 오후 4시까지 리버사이드 파크에서 열리며 직원들은 가족을 동반할 수 있습니다.",
+      "jp": "年次会社ピクニックは6月14日土曜日の午前11時から午後4時までリバーサイドパークで開催され、従業員は家族を同伴できます。"
+    },
+    "category": "Company Event"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "questionType": "Read a text aloud",
+    "text": "Welcome to the Grand Hotel. Our staff is ready to assist you with all your needs during your stay.",
+    "ipa": "/ˈwelkəm tuː ðə ɡrænd həʊˈtel aʊə stɑːf ɪz ˈredi tuː əˈsɪst juː wɪð ɔːl jɔː niːdz ˈdjʊərɪŋ jɔː steɪ/",
+    "translations": {
+      "vn": "Chào mừng đến với Grand Hotel. Nhân viên của chúng tôi sẵn sàng hỗ trợ bạn với mọi nhu cầu trong suốt kỳ nghỉ.",
+      "kr": "그랜드 호텔에 오신 것을 환영합니다. 저희 직원들은 귀하의 체류 기간 동안 모든 필요사항을 도와드릴 준비가 되어 있습니다.",
+      "jp": "グランドホテルへようこそ。私たちのスタッフは、ご滞在中のすべてのニーズをお手伝いする準備ができています。"
+    },
+    "category": "Hotel & Accommodation",
+    "instructions": "Read the text aloud clearly and naturally."
+  },
+  {
+    "id": 2,
+    "questionType": "Read a text aloud",
+    "text": "The flight to Tokyo departs from Gate 23 at 7:45 PM. Please proceed to the boarding area now.",
+    "ipa": "/ðə flaɪt tuː ˈtəʊkiəʊ dɪˈpɑːts frɒm ɡeɪt twenti θriː æt ˈsevən ˈfɔːti faɪv piːˈem/",
+    "translations": {
+      "vn": "Chuyến bay đến Tokyo khởi hành từ cổng 23 lúc 7:45 tối. Vui lòng di chuyển đến khu vực lên máy bay ngay bây giờ.",
+      "kr": "도쿄행 항공편은 23번 게이트에서 오후 7시 45분에 출발합니다. 지금 탑승 구역으로 이동해 주세요.",
+      "jp": "東京行きのフライトは23番ゲートから午後7時45分に出発します。ただいまより搭乗エリアへお進みください。"
+    },
+    "category": "Travel & Transportation",
+    "instructions": "Read the text aloud clearly and naturally."
+  },
+  {
+    "id": 3,
+    "questionType": "Read a text aloud",
+    "text": "Due to technical issues, the train to Chicago will be delayed by approximately 30 minutes.",
+    "ipa": "/duː tuː ˈteknɪkəl ˈɪʃuːz ðə treɪn tuː ʃɪˈkɑːɡəʊ wɪl bi dɪˈleɪd baɪ əˈprɒksɪmətli ˈθɜːti ˈmɪnɪts/",
+    "translations": {
+      "vn": "Do sự cố kỹ thuật, chuyến tàu đến Chicago sẽ bị trì hoãn khoảng 30 phút.",
+      "kr": "기술적인 문제로 인해 시카고행 열차가 약 30분 지연될 예정입니다.",
+      "jp": "技術的な問題により、シカゴ行きの列車は約30分遅れます。"
+    },
+    "category": "Travel & Transportation",
+    "instructions": "Read the text aloud clearly and naturally."
+  },
+  {
+    "id": 4,
+    "questionType": "Describe a picture",
+    "text": "In the picture, a young woman is sitting at a café table outside. She is drinking coffee and reading a book while the sun is shining.",
+    "ipa": "/ɪn ðə ˈpɪktʃər ə jʌŋ ˈwʊmən ɪz ˈsɪtɪŋ æt ə ˈkæfeɪ ˈteɪbl aʊtˈsaɪd/",
+    "translations": {
+      "vn": "Trong bức ảnh, một cô gái trẻ đang ngồi ở bàn ngoài trời của quán cà phê. Cô ấy đang uống cà phê và đọc sách trong khi nắng đang chiếu.",
+      "kr": "사진 속에서 젊은 여성이 야외 카페 테이블에 앉아 있습니다. 그녀는 커피를 마시며 책을 읽고 있고 햇살이 비치고 있습니다.",
+      "jp": "写真では、若い女性が屋外のカフェのテーブルに座っています。コーヒーを飲みながら本を読んでいて、太陽が輝いています。"
+    },
+    "category": "Daily Life",
+    "instructions": "Describe the picture in as much detail as possible."
+  },
+  {
+    "id": 5,
+    "questionType": "Respond to questions",
+    "text": "What time do you usually wake up on weekdays?",
+    "ipa": "/wɒt taɪm duː juː ˈjuːʒʊəli weɪk ʌp ɒn ˈwiːkdeɪz/",
+    "translations": {
+      "vn": "Bạn thường thức dậy lúc mấy giờ vào ngày thường?",
+      "kr": "평일에는 보통 몇 시에 일어나시나요?",
+      "jp": "平日は普段何時に起きますか？"
+    },
+    "sampleAnswer": "I usually wake up at 6:30 AM on weekdays so I can have enough time to exercise and eat breakfast before work.",
+    "sampleAnswerIpa": "/aɪ ˈjuːʒʊəli weɪk ʌp æt sɪks ˈθɜːti eɪˈem ɒn ˈwiːkdeɪz səʊ aɪ kæn hæv ɪˈnʌf taɪm tuː ˈeksəsaɪz ænd iːt ˈbrekfəst bɪˈfɔː wɜːk/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thường thức dậy lúc 6:30 sáng vào ngày thường để có đủ thời gian tập thể dục và ăn sáng trước khi đi làm.",
+      "kr": "저는 평일에 보통 오전 6시 30분에 일어나서 출근 전에 운동하고 아침을 먹을 충분한 시간을 갖습니다.",
+      "jp": "平日は通常午前6時30分に起きて、仕事の前に運動と朝食をとる十分な時間を確保します。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 6,
+    "questionType": "Respond to questions",
+    "text": "Where is the best place you have ever traveled to?",
+    "ipa": "/weər ɪz ðə best pleɪs juː hæv ˈevə ˈtrævld tuː/",
+    "translations": {
+      "vn": "Nơi nào là địa điểm du lịch tuyệt nhất mà bạn từng đến?",
+      "kr": "지금까지 여행했던 곳 중 가장 좋았던 곳은 어디인가요?",
+      "jp": "これまで旅行した中で一番良かった場所はどこですか？"
+    },
+    "sampleAnswer": "The best place I've ever traveled to is Kyoto in Japan. I love the combination of ancient temples, beautiful gardens, and delicious traditional food.",
+    "sampleAnswerIpa": "/ðə best pleɪs aɪv ˈevə ˈtrævld tuː ɪz kiˈəʊtəʊ ɪn dʒəˈpæn aɪ lʌv ðə ˌkɒmbɪˈneɪʃən ɒv ˈeɪnʃənt ˈtemplz ˈbjuːtɪfəl ˈɡɑːdnz ænd dɪˈlɪʃəs trəˈdɪʃənəl fuːd/",
+    "sampleAnswerTranslations": {
+      "vn": "Nơi tuyệt nhất tôi từng đi du lịch là Kyoto ở Nhật Bản. Tôi yêu sự kết hợp của những ngôi đền cổ, khu vườn đẹp và món ăn truyền thống ngon.",
+      "kr": "제가 여행한 곳 중 가장 좋았던 곳은 일본 교토입니다. 고대 사원, 아름다운 정원, 맛있는 전통 음식의 조합을 좋아합니다.",
+      "jp": "私が今まで旅行した中で最高の場所は日本の京都です。古代の寺院、美しい庭園、美味しい伝統料理の組み合わせが大好きです。"
+    },
+    "category": "Travel"
+  },
+  {
+    "id": 7,
+    "questionType": "Respond to questions using information provided",
+    "text": "According to the memo, when is the deadline for submitting expense reports this month?",
+    "ipa": "/əˈkɔːdɪŋ tuː ðə ˈmeməʊ wen ɪz ðə ˈdedlaɪn fɔː səbˈmɪtɪŋ ɪkˈspens rɪˈpɔːts ðɪs mʌnθ/",
+    "translations": {
+      "vn": "Theo biên bản, hạn chót nộp báo cáo chi phí trong tháng này là khi nào?",
+      "kr": "메모에 따르면 이번 달 경비 보고서 제출 마감일은 언제인가요?",
+      "jp": "メモによると、今月の経費報告書の提出期限はいつですか？"
+    },
+    "sampleAnswer": "According to the memo, the deadline for submitting expense reports this month is Friday, March 28th.",
+    "sampleAnswerIpa": "/əˈkɔːdɪŋ tuː ðə ˈmeməʊ ðə ˈdedlaɪn fɔː səbˈmɪtɪŋ ɪkˈspens rɪˈpɔːts ðɪs mʌnθ ɪz ˈfraɪdeɪ mɑːtʃ ˈtwenti eɪtθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Theo biên bản, hạn chót nộp báo cáo chi phí trong tháng này là thứ Sáu, ngày 28 tháng 3.",
+      "kr": "메모에 따르면 이번 달 경비 보고서 제출 마감일은 3월 28일 금요일입니다.",
+      "jp": "メモによると、今月の経費報告書の提出期限は3月28日金曜日です。"
+    },
+    "category": "Business Communication"
+  },
+  {
+    "id": 8,
+    "questionType": "Propose a solution",
+    "text": "Many customers have complained that the store's parking lot is always full. What solution would you suggest?",
+    "ipa": "/ˈmeni ˈkʌstəməz hæv kəmˈpleɪnd ðæt ðə stɔːz ˈpɑːkɪŋ lɒt ɪz ˈɔːlweɪz fʊl/",
+    "translations": {
+      "vn": "Nhiều khách hàng phàn nàn rằng bãi đỗ xe của cửa hàng luôn đầy. Bạn sẽ đề xuất giải pháp gì?",
+      "kr": "많은 고객들이 매장 주차장이 항상 만차라고 불평하고 있습니다. 어떤 해결책을 제안하시겠습니까?",
+      "jp": "多くの顧客が店舗の駐車場がいつも満車だと苦情を言っています。どのような解決策を提案しますか？"
+    },
+    "sampleAnswer": "I would suggest expanding the parking lot or creating a partnership with a nearby parking facility to provide additional spaces. We could also implement a reservation system during peak hours to better manage capacity.",
+    "sampleAnswerIpa": "/aɪ wʊd səˈdʒest ɪkˈspændɪŋ ðə ˈpɑːkɪŋ lɒt ɔː kriˈeɪtɪŋ ə ˈpɑːtnəʃɪp wɪð ə ˈnɪəbaɪ ˈpɑːkɪŋ fəˈsɪləti tuː prəˈvaɪd əˈdɪʃənəl ˈspeɪsɪz wiː kʊd ˈɔːlsəʊ ˈɪmplɪment ə ˌrezəˈveɪʃən ˈsɪstəm ˈdjʊərɪŋ piːk ˈaʊəz tuː ˈbetə ˈmænɪdʒ kəˈpæsəti/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi sẽ đề xuất mở rộng bãi đỗ xe hoặc tạo quan hệ đối tác với cơ sở đỗ xe gần đó để cung cấp thêm chỗ. Chúng tôi cũng có thể triển khai hệ thống đặt chỗ trong giờ cao điểm để quản lý năng lực tốt hơn.",
+      "kr": "주차장을 확장하거나 인근 주차 시설과 제휴하여 추가 공간을 제공할 것을 제안합니다. 또한 피크 시간대에 예약 시스템을 구현하여 용량을 더 잘 관리할 수 있습니다.",
+      "jp": "駐車場を拡張するか、近くの駐車施設と提携して追加スペースを提供することを提案します。また、ピーク時間帯に予約システムを導入して容量をより適切に管理することもできます。"
+    },
+    "category": "Problem Solving"
+  }
+]

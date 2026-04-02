@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 201,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite season and why?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt ˈsiːzən ænd waɪ/",
+    "translations": {
+      "vn": "Mùa nào là mùa yêu thích của bạn và tại sao?",
+      "kr": "가장 좋아하는 계절은 무엇이며 왜인가요?",
+      "jp": "好きな季節は何ですか、そしてなぜですか？"
+    },
+    "sampleAnswer": "My favorite season is spring. The weather is mild and pleasant, flowers bloom everywhere, making everything look colorful and fresh. It's also a great time for outdoor activities like picnics or walking in the park, which helps me feel energized after the long winter.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt ˈsiːzən ɪz sprɪŋ ðə ˈweðər ɪz maɪld ənd ˈplɛzənt ˈflaʊərz bluːm ˈɛvrɪweər ˈmeɪkɪŋ ˈɛvrɪθɪŋ lʊk ˈkʌlərfəl ənd frɛʃ ɪts ˈɔːlsoʊ ə ɡreɪt taɪm fɔːr ˈaʊtdɔːr ækˈtɪvətiz laɪk ˈpɪknɪks ɔːr ˈwɔːkɪŋ ɪn ðə pɑːrk wɪtʃ hɛlps miː fiːl ˈɛnərˌdʒaɪzd ˈæftər ðə lɔːŋ ˈwɪntər/",
+    "sampleAnswerTranslations": {
+      "vn": "Mùa yêu thích của tôi là mùa xuân. Thời tiết ôn hòa dễ chịu, hoa nở khắp nơi khiến mọi thứ trông rực rỡ và tươi mới. Đây cũng là thời gian tuyệt vời cho các hoạt động ngoài trời như picnic hoặc đi dạo công viên, giúp tôi cảm thấy tràn đầy năng lượng sau mùa đông dài.",
+      "kr": "제가 가장 좋아하는 계절은 봄입니다. 날씨가 온화하고 쾌적하며, 꽃이 사방에 피어 모든 것이 화려하고 신선해 보입니다. 피크닉이나 공원 산책 같은 야외 활동에 좋은 시기이기도 해서 긴 겨울 후에 에너지를 충전하는 데 도움이 됩니다.",
+      "jp": "好きな季節は春です。天気が穏やかで快適で、花があちこちに咲いてすべてが色鮮やかで新鮮に見えます。ピクニックや公園の散歩などの屋外活動にも最適な時期で、長い冬の後にエネルギーを感じさせてくれます。"
+    },
+    "category": "Seasons & Weather"
+  },
+  {
+    "id": 202,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you usually spend your weekends?",
+    "ipa": "/haʊ duː juː ˈjuːʒʊəli spɛnd jɔːr ˈwiːkɛndz/",
+    "translations": {
+      "vn": "Bạn thường dành cuối tuần như thế nào?",
+      "kr": "주말은 보통 어떻게 보내시나요?",
+      "jp": "週末は普段どのように過ごしますか？"
+    },
+    "sampleAnswer": "On weekends, I usually sleep in a bit longer to catch up on rest, then spend time with my family having breakfast together. In the afternoon, I might go shopping or meet friends for coffee, and in the evening, I relax by watching movies or reading books at home.",
+    "sampleAnswerIpa": "/ɒn ˈwiːkɛndz aɪ ˈjuːʒʊəli sliːp ɪn ə bɪt ˈlɒŋɡər tuː kætʃ ʌp ɒn rɛst ðɛn spɛnd taɪm wɪð maɪ ˈfæməli ˈhævɪŋ ˈbrɛkfəst təˈɡɛðər ɪn ði ˌɑːftərˈnuːn aɪ maɪt ɡoʊ ˈʃɑːpɪŋ ɔːr miːt frɛndz fɔːr ˈkɔːfi ənd ɪn ði ˈiːvnɪŋ aɪ rɪˈlæks baɪ ˈwɑːtʃɪŋ ˈmuːviz ɔːr ˈriːdɪŋ bʊks æt hoʊm/",
+    "sampleAnswerTranslations": {
+      "vn": "Vào cuối tuần, tôi thường ngủ nướng một chút để bù đắp giấc ngủ, sau đó dành thời gian với gia đình ăn sáng cùng nhau. Buổi chiều, tôi có thể đi mua sắm hoặc gặp bạn bè uống cà phê, và buổi tối tôi thư giãn bằng cách xem phim hoặc đọc sách ở nhà.",
+      "kr": "주말에는 보통 조금 더 자서 휴식을 취하고, 가족과 함께 아침을 먹으며 시간을 보냅니다. 오후에는 쇼핑을 가거나 친구들과 커피를 마시며 만나고, 저녁에는 집에서 영화 보거나 책을 읽으며 쉬곤 합니다.",
+      "jp": "週末は普段、少し長く寝て休息を取り、家族と一緒に朝食を食べます。午後は買い物に行ったり友達とコーヒーを飲んだりして、夕方は家で映画を見たり本を読んだりしてリラックスします。"
+    },
+    "category": "Weekend Activities"
+  },
+  {
+    "id": 203,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What kind of food do you like the most?",
+    "ipa": "/wɒt kaɪnd əv fuːd duː juː laɪk ðə moʊst/",
+    "translations": {
+      "vn": "Bạn thích loại thức ăn nào nhất?",
+      "kr": "가장 좋아하는 음식 종류는 무엇인가요?",
+      "jp": "一番好きな食べ物の種類は何ですか？"
+    },
+    "sampleAnswer": "I like Japanese food the most. Sushi and ramen are incredibly delicious, and many dishes use fresh seafood and vegetables, making them healthy. I also enjoy the variety of flavors, from sweet to savory, and the beautiful presentation of the meals.",
+    "sampleAnswerIpa": "/aɪ laɪk dʒəˈpæniːz fuːd ðə moʊst ˈsuːʃi ənd ˈrɑːmən ɑːr ɪnˈkrɛdəbli dɪˈlɪʃəs ənd ˈmɛni ˈdɪʃɪz juːz frɛʃ ˈsiːfuːd ənd ˈvɛdʒtəbəlz ˈmeɪkɪŋ ðɛm ˈhɛlθi aɪ ˈɔːlsoʊ ɪnˈdʒɔɪ ðə vəˈraɪəti əv ˈfleɪvərz frɑːm swiːt tuː ˈseɪvəri ənd ðə ˈbjuːtɪfl ˌprɛzənˈteɪʃən əv ðə miːlz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích món Nhật nhất. Sushi và ramen cực kỳ ngon, và nhiều món dùng hải sản tươi cùng rau củ, khiến chúng lành mạnh. Tôi cũng thích sự đa dạng hương vị từ ngọt đến mặn, và cách trình bày món ăn đẹp mắt.",
+      "kr": "저는 일본 음식을 가장 좋아합니다. 스시와 라멘이 엄청 맛있고, 많은 요리가 신선한 해산물과 채소를 사용해 건강합니다. 단맛부터 짠맛까지 다양한 맛과 아름다운 플레이팅도 즐깁니다.",
+      "jp": "一番好きなのは日本料理です。寿司とラーメンがとてもおいしく、多くの料理が新鮮なシーフードと野菜を使っていて健康的です。甘いものから塩辛いものまで味の多様性と、美しい盛り付けも楽しめます。"
+    },
+    "category": "Food Preferences"
+  },
+  {
+    "id": 204,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer living in the city or the countryside? Why?",
+    "ipa": "/duː juː prɪˈfɜːr ˈlɪvɪŋ ɪn ðə ˈsɪti ɔːr ðə ˈkʌntrisaɪd waɪ/",
+    "translations": {
+      "vn": "Bạn thích sống ở thành phố hay nông thôn hơn? Tại sao?",
+      "kr": "도시와 시골 중 어디에 사는 것을 더 선호하시나요? 왜인가요?",
+      "jp": "都市と田舎、どちらに住むのを好みますか？なぜですか？"
+    },
+    "sampleAnswer": "I prefer living in the city. There are more job opportunities, better public transportation, and lots of entertainment options like theaters, restaurants, and shopping malls. Although it's noisy, the convenience and vibrant lifestyle make it worth it for me.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈlɪvɪŋ ɪn ðə ˈsɪti ðɛr ɑːr mɔːr dʒɑːb ˌɑːpərˈtuːnətiz ˈbɛtər ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ənd lɑːts əv ˌɛntərˈteɪnmənt ˈɑːpʃənz laɪk ˈθiːətərz ˈrɛstərɑːnts ənd ˈʃɑːpɪŋ mɔːlz ɔːlˈðoʊ ɪts ˈnɔɪzi ðə kənˈviːniəns ənd ˈvaɪbrənt ˈlaɪfstaɪl meɪk ɪt wɜːrθ ɪt fɔːr miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích sống ở thành phố hơn. Có nhiều cơ hội việc làm, giao thông công cộng tốt hơn, và nhiều lựa chọn giải trí như rạp hát, nhà hàng, trung tâm mua sắm. Dù ồn ào, nhưng sự tiện lợi và lối sống sôi động khiến nó đáng giá với tôi.",
+      "kr": "저는 도시 생활을 선호합니다. 일자리가 많고 대중교통이 좋으며 극장, 레스토랑, 쇼핑몰 같은 엔터테인먼트 옵션이 많습니다. 시끄럽지만 편리함과 활기찬 라이프스타일이 그만한 가치가 있습니다.",
+      "jp": "都市に住むのを好みます。仕事の機会が多く、公共交通が良く、劇場、レストラン、ショッピングモールなどのエンターテイメントが多いです。うるさいですが、便利さと活気ある生活スタイルがそれだけの価値があります。"
+    },
+    "category": "Living Preferences"
+  },
+  {
+    "id": 205,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite hobby?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt ˈhɑːbi/",
+    "translations": {
+      "vn": "Sở thích yêu thích của bạn là gì?",
+      "kr": "가장 좋아하는 취미는 무엇인가요?",
+      "jp": "好きな趣味は何ですか？"
+    },
+    "sampleAnswer": "My favorite hobby is photography. I love capturing beautiful moments and landscapes with my camera. It allows me to be creative, explore new places, and preserve memories that I can look back on later. Sharing my photos with others also brings me joy.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt ˈhɑːbi ɪz fəˈtɑːɡrəfi aɪ lʌv ˈkæptʃərɪŋ ˈbjuːtɪfl ˈmoʊmənts ənd ˈlændˌskeɪps wɪð maɪ ˈkæmərə ɪt əˈlaʊz miː tuː biː kriˈeɪtɪv ɪkˈsplɔːr nuː ˈpleɪsɪz ənd prɪˈzɜːrv ˈmɛməriz ðæt aɪ kæn lʊk bæk ɒn ˈleɪtər ˈʃɛrɪŋ maɪ ˈfoʊtoʊz wɪð ˈʌðərz ˈɔːlsoʊ brɪŋz miː dʒɔɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Sở thích yêu thích của tôi là nhiếp ảnh. Tôi thích chụp những khoảnh khắc đẹp và phong cảnh bằng máy ảnh. Nó cho phép tôi sáng tạo, khám phá nơi mới và lưu giữ kỷ niệm để xem lại sau này. Chia sẻ ảnh với người khác cũng mang lại niềm vui cho tôi.",
+      "kr": "제가 가장 좋아하는 취미는 사진 촬영입니다. 카메라로 아름다운 순간과 풍경을 포착하는 것을 좋아합니다. 창의력을 발휘하고 새로운 장소를 탐험하며 나중에 돌아볼 수 있는 추억을 보존할 수 있습니다. 사진을 다른 사람들과 공유하는 것도 기쁩니다。",
+      "jp": "好きな趣味は写真撮影です。カメラで美しい瞬間や風景を捉えるのが好きです。創造性を発揮でき、新しい場所を探検し、後で振り返られる思い出を保存できます。写真を他人と共有するのも喜びです。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 206,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How often do you exercise?",
+    "ipa": "/haʊ ˈɒfən duː juː ˈɛksəsaɪz/",
+    "translations": {
+      "vn": "Bạn tập thể dục bao lâu một lần?",
+      "kr": "운동은 얼마나 자주 하시나요?",
+      "jp": "運動はどのくらいの頻度でしますか？"
+    },
+    "sampleAnswer": "I exercise four times a week. I go to the gym twice for weight training and run in the park twice. This routine helps me stay fit, manage stress from work, and have more energy throughout the day. It's become an important part of my lifestyle.",
+    "sampleAnswerIpa": "/aɪ ˈɛksəsaɪz fɔːr taɪmz ə wiːk aɪ ɡoʊ tuː ðə dʒɪm twaɪs fɔːr weɪt ˈtreɪnɪŋ ənd rʌn ɪn ðə pɑːrk twaɪs ðɪs ruːˈtiːn hɛlps miː steɪ fɪt ˈmænɪdʒ strɛs frɑːm wɜːrk ənd hæv mɔːr ˈɛnərdʒi θruːˈaʊt ðə deɪ ɪts bɪˈkʌm ən ɪmˈpɔːrtənt pɑːrt əv maɪ ˈlaɪfstaɪl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tập thể dục bốn lần một tuần. Tôi đến phòng gym hai lần để tập tạ và chạy bộ ở công viên hai lần. Thói quen này giúp tôi giữ dáng, kiểm soát stress từ công việc và có nhiều năng lượng hơn trong ngày. Nó đã trở thành phần quan trọng trong lối sống của tôi.",
+      "kr": "저는 일주일에 4번 운동합니다. 헬스장에서 웨이트 트레이닝을 두 번 하고 공원에서 러닝을 두 번 합니다. 이 루틴은 건강을 유지하고 직장 스트레스를 관리하며 하루 종일 더 많은 에너지를 갖게 해줍니다. 제 라이프스타일의 중요한 부분이 되었습니다.",
+      "jp": "週に4回運動します。ジムでウェイトトレーニングを2回、公園でランニングを2回します。このルーチンは体力を維持し、仕事のストレスを管理し、一日中エネルギーを与えてくれます。私のライフスタイルの重要な一部になりました。"
+    },
+    "category": "Health & Exercise"
+  },
+  {
+    "id": 207,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you usually do to relax after work?",
+    "ipa": "/wɒt duː juː ˈjuːʒʊəli duː tuː rɪˈlæks ˈæftər wɜːrk/",
+    "translations": {
+      "vn": "Bạn thường làm gì để thư giãn sau giờ làm?",
+      "kr": "퇴근 후에는 보통 어떻게 휴식을 취하시나요?",
+      "jp": "仕事の後、普段どのようにリラックスしますか？"
+    },
+    "sampleAnswer": "After work, I usually take a warm shower, cook a simple dinner, and then sit on the sofa listening to my favorite music or watching a light TV show. This routine helps me unwind from the day's pressure and prepare for a good night's sleep.",
+    "sampleAnswerIpa": "/ˈæftər wɜːrk aɪ ˈjuːʒʊəli teɪk ə wɔːrm ˈʃaʊər kʊk ə ˈsɪmpl ˈdɪnər ənd ðɛn sɪt ɒn ðə ˈsoʊfə ˈlɪsənɪŋ tuː maɪ ˈfeɪvərɪt ˈmjuːzɪk ɔːr ˈwɑːtʃɪŋ ə laɪt tiːˈviː ʃoʊ ðɪs ruːˈtiːn hɛlps miː ʌnˈwaɪnd frɑːm ðə deɪz ˈprɛʃər ənd prɪˈpɛr fɔːr ə ɡʊd naɪts sliːp/",
+    "sampleAnswerTranslations": {
+      "vn": "Sau giờ làm, tôi thường tắm nước ấm, nấu bữa tối đơn giản, rồi ngồi trên sofa nghe nhạc yêu thích hoặc xem chương trình TV nhẹ nhàng. Thói quen này giúp tôi giải tỏa áp lực trong ngày và chuẩn bị cho giấc ngủ ngon.",
+      "kr": "퇴근 후에는 보통 따뜻한 샤워를 하고 간단한 저녁을 요리한 후 소파에 앉아서 좋아하는 음악을 듣거나 가벼운 TV 프로그램을 봅니다. 이 루틴은 하루의 압박에서 벗어나고 좋은 밤잠을 준비하는 데 도움이 됩니다。",
+      "jp": "仕事の後は普段、温かいシャワーを浴びて簡単な夕食を作り、ソファに座って好きな音楽を聴いたり軽いテレビ番組を見たりします。このルーチンは1日のプレッシャーから解放され、良い睡眠の準備になります。"
+    },
+    "category": "Relaxation"
+  },
+  {
+    "id": 208,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like cooking? Why or why not?",
+    "ipa": "/duː juː laɪk ˈkʊkɪŋ waɪ ɔːr waɪ nɑːt/",
+    "translations": {
+      "vn": "Bạn có thích nấu ăn không? Tại sao có hoặc không?",
+      "kr": "요리를 좋아하시나요? 왜 좋아하거나 좋아하지 않나요?",
+      "jp": "料理は好きですか？なぜ好きか、または好きではないですか？"
+    },
+    "sampleAnswer": "Yes, I really like cooking. It's a creative process where I can experiment with different ingredients and flavors. Cooking for my family or friends makes me happy because I see their enjoyment, and it's also a good way to relax after a busy day.",
+    "sampleAnswerIpa": "/jɛs aɪ ˈrɪəli laɪk ˈkʊkɪŋ ɪts ə kriˈeɪtɪv ˈprɑːsɛs weər aɪ kæn ɪkˈspɛrɪmənt wɪð ˈdɪfrənt ɪnˈɡriːdiənts ənd ˈfleɪvərz ˈkʊkɪŋ fɔːr maɪ ˈfæməli ɔːr frɛndz meɪks miː ˈhæpi bɪˈkɒz aɪ siː ðɛr ɪnˈdʒɔɪmənt ənd ɪts ˈɔːlsoʊ ə ɡʊd weɪ tuː rɪˈlæks ˈæftər ə ˈbɪzi deɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi rất thích nấu ăn. Đó là quá trình sáng tạo nơi tôi có thể thử nghiệm các nguyên liệu và hương vị khác nhau. Nấu ăn cho gia đình hoặc bạn bè khiến tôi hạnh phúc vì thấy họ thích thú, và đó cũng là cách tốt để thư giãn sau ngày bận rộn.",
+      "kr": "네, 요리를 정말 좋아합니다. 다양한 재료와 맛을 실험할 수 있는 창의적인 과정입니다. 가족이나 친구들을 위해 요리하면 그들이 즐기는 모습을 보고 행복하고, 바쁜 하루 후에 휴식을 취하는 좋은 방법이기도 합니다。",
+      "jp": "はい、料理がとても好きです。さまざまな材料と味を試せる創造的なプロセスです。家族や友達のために料理すると彼らの喜ぶ顔が見られて幸せで、忙しい1日の後にリラックスする良い方法でもあります。"
+    },
+    "category": "Cooking"
+  },
+  {
+    "id": 209,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your dream job?",
+    "ipa": "/wɒt ɪz jɔːr driːm dʒɑːb/",
+    "translations": {
+      "vn": "Công việc mơ ước của bạn là gì?",
+      "kr": "꿈의 직업은 무엇인가요?",
+      "jp": "夢の仕事は何ですか？"
+    },
+    "sampleAnswer": "My dream job is to be a wildlife documentary filmmaker. I love animals and nature, and traveling to different parts of the world to film them would be amazing. It combines adventure, creativity, and the chance to raise awareness about conservation issues.",
+    "sampleAnswerIpa": "/maɪ driːm dʒɑːb ɪz tuː biː ə ˈwaɪldlaɪf ˌdɑːkjuˈmɛntəri ˈfɪlmˌmeɪkər aɪ lʌv ˈænɪmlz ənd ˈneɪtʃər ənd ˈtrævəlɪŋ tuː ˈdɪfrənt pɑːrts əv ðə wɜːrld tuː fɪlm ðɛm wʊd biː əˈmeɪzɪŋ ɪt kəmˈbaɪnz ədˈvɛntʃər kriˈeɪˈtɪvɪti ənd ðə tʃæns tuː reɪz əˈwɛrnəs əˈbaʊt kənˌsɜːrˈveɪʃən ˈɪʃuːz/",
+    "sampleAnswerTranslations": {
+      "vn": "Công việc mơ ước của tôi là làm nhà làm phim tài liệu về động vật hoang dã. Tôi yêu động vật và thiên nhiên, và được du lịch đến nhiều nơi trên thế giới để quay phim chúng sẽ tuyệt vời. Nó kết hợp phiêu lưu, sáng tạo và cơ hội nâng cao nhận thức về vấn đề bảo tồn.",
+      "kr": "꿈의 직업은 야생동물 다큐멘터리 영화 제작자입니다. 동물과 자연을 사랑하고, 세계 여러 곳을 여행하며 촬영하는 것은 놀라울 것입니다. 모험, 창의성, 보전 문제에 대한 인식을 높이는 기회를 결합합니다。",
+      "jp": "夢の仕事は野生動物ドキュメンタリー映画制作者です。動物と自然が大好きで、世界のさまざまな場所を旅行して撮影するのは素晴らしいでしょう。冒険、創造性、保全問題への意識向上のチャンスを組み合わせます。"
+    },
+    "category": "Career & Dreams"
+  },
+  {
+    "id": 210,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you get to work or school every day?",
+    "ipa": "/haʊ duː juː ɡɛt tuː wɜːrk ɔːr skuːl ˈɛvri deɪ/",
+    "translations": {
+      "vn": "Bạn đi làm hoặc đi học hàng ngày như thế nào?",
+      "kr": "매일 출근이나 등교는 어떻게 하나요?",
+      "jp": "毎日仕事や学校にはどのように通いますか？"
+    },
+    "sampleAnswer": "I drive my car to work every day. It's more convenient than public transportation because I can leave at any time, listen to music or podcasts, and avoid crowded buses or trains during rush hour.",
+    "sampleAnswerIpa": "/aɪ draɪv maɪ kɑːr tuː wɜːrk ˈɛvri deɪ ɪts mɔːr kənˈviːniənt ðæn ˈpʌblɪk ˌtrænspɔːrˈteɪʃən bɪˈkɒz aɪ kæn liːv æt ˈɛni taɪm ˈlɪsən tuː ˈmjuːzɪk ɔːr ˈpɑːdkæsts ənd əˈvɔɪd ˈkraʊdɪd ˈbʌsɪz ɔːr treɪnz ˈdjʊərɪŋ rʌʃ aʊər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi lái xe hơi đi làm hàng ngày. Nó tiện lợi hơn giao thông công cộng vì tôi có thể xuất phát bất cứ lúc nào, nghe nhạc hoặc podcast, và tránh xe buýt hoặc tàu đông đúc vào giờ cao điểm.",
+      "kr": "저는 매일 차를 운전해서 출근합니다. 대중교통보다 편리하고 언제든 출발할 수 있으며 음악이나 팟캐스트를 듣고 러시아워 때 붐비는 버스나 기차를 피할 수 있기 때문입니다。",
+      "jp": "毎日車を運転して通勤します。公共交通より便利で、いつでも出発でき、音楽やポッドキャストを聴け、ラッシュアワーの混雑したバスや電車を避けられるからです。"
+    },
+    "category": "Commuting"
+  },
+  {
+    "id": 211,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite movie or TV show?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt ˈmuːvi ɔːr tiːˈviː ʃoʊ/",
+    "translations": {
+      "vn": "Bộ phim hoặc chương trình truyền hình yêu thích của bạn là gì?",
+      "kr": "가장 좋아하는 영화나 TV 프로그램은 무엇인가요?",
+      "jp": "好きな映画やテレビ番組は何ですか？"
+    },
+    "sampleAnswer": "My favorite TV show is 'The Office' because it's hilarious, the characters are awkward in a relatable way, and it perfectly captures everyday office life. I can watch episodes multiple times and still laugh at the jokes.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt tiːˈviː ʃoʊ ɪz ði ˈɔːfɪs bɪˈkɒz ɪts hɪˈlɛriəs ðə ˈkærɪktərz ɑːr ˈɔːkwərd ɪn ə rɪˈleɪtəbl weɪ ənd ɪt ˈpɜːrfɪktli ˈkæptʃərz ˈɛvrɪdeɪ ˈɔːfɪs laɪf aɪ kæn wɑːtʃ ˈɛpɪsoʊdz ˈmʌltɪpl taɪmz ənd stɪl læf æt ðə dʒoʊks/",
+    "sampleAnswerTranslations": {
+      "vn": "Chương trình truyền hình yêu thích của tôi là 'The Office' vì nó cực kỳ hài hước, các nhân vật vụng về một cách dễ đồng cảm, và tái hiện hoàn hảo cuộc sống văn phòng hàng ngày. Tôi có thể xem nhiều lần mà vẫn cười với các câu đùa.",
+      "kr": "제가 가장 좋아하는 TV 프로그램은 '디 오피스'입니다. 엄청 재미있고 캐릭터들이 공감 가는 방식으로 어색하며, 일상적인 오피스 생활을 완벽하게 포착합니다. 에피소드를 여러 번 봐도 여전히 웃깁니다。",
+      "jp": "好きなテレビ番組は『ザ・オフィス』です。とても面白く、キャラクターが共感できるようなぎこちない感じで、日常のオフィス生活を完璧に捉えています。何度見てもジョークで笑えます。"
+    },
+    "category": "Movies & TV Shows"
+  },
+  {
+    "id": 212,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you prefer to spend your holidays?",
+    "ipa": "/haʊ duː juː prɪˈfɜːr tuː spɛnd jɔːr ˈhɑːlɪdeɪz/",
+    "translations": {
+      "vn": "Bạn thích dành kỳ nghỉ như thế nào?",
+      "kr": "휴일은 어떻게 보내는 것을 선호하시나요?",
+      "jp": "休日はどのように過ごすのを好みますか？"
+    },
+    "sampleAnswer": "I prefer to spend my holidays relaxing at the beach. Lying in the sun, swimming in the sea, reading books, and eating fresh seafood make me feel completely recharged and ready to return to daily life with new energy.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr tuː spɛnd maɪ ˈhɑːlɪdeɪz rɪˈlæksɪŋ æt ðə biːtʃ ˈlaɪɪŋ ɪn ðə sʌn ˈswɪmɪŋ ɪn ðə siː ˈriːdɪŋ bʊks ənd ˈiːtɪŋ frɛʃ ˈsiːfuːd meɪk miː fiːl kəmˈpliːtli riːˈtʃɑːrdʒd ənd ˈrɛdi tuː rɪˈtɜːrn tuː ˈdeɪli laɪf wɪð nuː ˈɛnərdʒi/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích dành kỳ nghỉ để thư giãn ở bãi biển. Nằm phơi nắng, bơi ở biển, đọc sách và ăn hải sản tươi khiến tôi cảm thấy hoàn toàn nạp lại năng lượng và sẵn sàng trở lại cuộc sống hàng ngày với sức sống mới.",
+      "kr": "저는 휴일을 해변에서 휴식하며 보내는 것을 선호합니다. 햇볕에 누워 있고 바다에서 수영하고 책을 읽고 신선한 해산물을 먹는 것이 완전히 재충전된 느낌을 주고 새로운 에너지로 일상에 돌아갈 준비를 하게 합니다。",
+      "jp": "休日はビーチでリラックスするのが好きです。日光浴をし、海で泳ぎ、本を読み、新鮮なシーフードを食べることで完全にリチャージされ、新しいエネルギーで日常に戻る準備ができます。"
+    },
+    "category": "Holidays"
+  },
+  {
+    "id": 213,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer shopping online or in physical stores? Why?",
+    "ipa": "/duː juː prɪˈfɜːr ˈʃɑːpɪŋ ɑːnˈlaɪn ɔːr ɪn ˈfɪzɪkl stɔːrz waɪ/",
+    "translations": {
+      "vn": "Bạn thích mua sắm trực tuyến hay tại cửa hàng truyền thống hơn? Tại sao?",
+      "kr": "온라인 쇼핑과 오프라인 매장 쇼핑 중 어느 쪽을 더 선호하시나요? 왜인가요?",
+      "jp": "オンラインショッピングと実店舗でのショッピング、どちらを好みますか？なぜですか？"
+    },
+    "sampleAnswer": "I prefer shopping in physical stores because I can try on clothes to check the fit and quality, touch fabrics, and get immediate satisfaction by taking items home right away. Online shopping is convenient, but returns can be troublesome.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈʃɑːpɪŋ ɪn ˈfɪzɪkl stɔːrz bɪˈkɒz aɪ kæn traɪ ɒn kloʊðz tuː tʃɛk ðə fɪt ənd ˈkwɑːləti tʌtʃ ˈfæbrɪks ənd ɡɛt ɪˈmiːdiət ˌsætɪsˈfækʃən baɪ ˈteɪkɪŋ ˈaɪtəmz hoʊm raɪt əˈweɪ ɑːnˈlaɪn ˈʃɑːpɪŋ ɪz kənˈviːniənt bʌt rɪˈtɜːrnz kæn biː ˈtrʌblsəm/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích mua sắm ở cửa hàng truyền thống hơn vì tôi có thể thử quần áo để kiểm tra kích cỡ và chất lượng, sờ vải và có sự thỏa mãn ngay lập tức khi mang hàng về nhà. Mua sắm online tiện lợi nhưng việc đổi trả có thể phiền phức.",
+      "kr": "저는 오프라인 매장 쇼핑을 선호합니다. 옷을 입어보고 핏과 품질을 확인할 수 있고 원단을 만져보고 바로 집으로 가져갈 수 있어 즉각적인 만족감을 얻기 때문입니다. 온라인 쇼핑은 편리하지만 반품이 번거로울 수 있습니다。",
+      "jp": "実店舗でのショッピングを好みます。服を試着してサイズと品質を確認でき、生地に触れ、すぐに持ち帰って満足感を得られるからです。オンラインは便利ですが返品が面倒です。"
+    },
+    "category": "Shopping"
+  },
+  {
+    "id": 214,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What sports do you enjoy watching or playing?",
+    "ipa": "/wɒt spɔːrts duː juː ɪnˈdʒɔɪ ˈwɑːtʃɪŋ ɔːr ˈpleɪɪŋ/",
+    "translations": {
+      "vn": "Bạn thích xem hoặc chơi môn thể thao nào?",
+      "kr": "어떤 스포츠를 보는 것 또는 하는 것을 즐기시나요?",
+      "jp": "どんなスポーツを見るまたはするのを楽しんでいますか？"
+    },
+    "sampleAnswer": "I enjoy watching soccer and playing tennis. Soccer matches are exciting with the team strategies and dramatic moments, while playing tennis is great exercise and helps me improve my focus and reflexes on the court.",
+    "sampleAnswerIpa": "/aɪ ɪnˈdʒɔɪ ˈwɑːtʃɪŋ ˈsɑːkər ənd ˈpleɪɪŋ ˈtɛnɪs ˈsɑːkər ˈmætʃɪz ɑːr ɪkˈsaɪtɪŋ wɪð ðə tiːm ˈstrætədʒiz ənd drəˈmætɪk ˈmoʊmənts waɪl ˈpleɪɪŋ ˈtɛnɪs ɪz ɡreɪt ˈɛksəsaɪz ənd hɛlps miː ɪmˈpruːv maɪ ˈfoʊkəs ənd ˈriːflɛksɪz ɒn ðə kɔːrt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích xem bóng đá và chơi tennis. Các trận bóng đá hấp dẫn với chiến thuật đội nhóm và khoảnh khắc kịch tính, còn chơi tennis là bài tập tuyệt vời và giúp tôi cải thiện sự tập trung cùng phản xạ trên sân.",
+      "kr": "저는 축구 관람과 테니스 치는 것을 즐깁니다. 축구 경기는 팀 전략과 드라마틱한 순간으로 흥미롭고, 테니스는 좋은 운동이며 코트에서 집중력과 반사신경을 향상시켜줍니다。",
+      "jp": "サッカー観戦とテニスをするのが好きです。サッカーの試合はチーム戦略と劇的な瞬間でワクワクし、テニスは良い運動で、コートでの集中力と反射神経を向上させてくれます。"
+    },
+    "category": "Sports"
+  },
+  {
+    "id": 215,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you usually stay in touch with your friends?",
+    "ipa": "/haʊ duː juː ˈjuːʒʊəli steɪ ɪn tʌtʃ wɪð jɔːr frɛndz/",
+    "translations": {
+      "vn": "Bạn thường giữ liên lạc với bạn bè như thế nào?",
+      "kr": "보통 친구들과 어떻게 연락을 유지하시나요?",
+      "jp": "普段、友達とどのように連絡を取り合っていますか？"
+    },
+    "sampleAnswer": "I stay in touch with my friends mainly through social media apps and group chats. We share daily updates, photos, and memes. Once or twice a month, we also try to meet in person for meals or activities to catch up properly.",
+    "sampleAnswerIpa": "/aɪ steɪ ɪn tʌtʃ wɪð maɪ frɛndz ˈmeɪnli θruː ˈsoʊʃəl ˈmiːdiə æps ənd ɡruːp tʃæts wiː ʃɛr ˈdeɪli ʌpˈdeɪts ˈfoʊtoʊz ənd miːmz wʌns ɔːr twaɪs ə mʌnθ wiː ˈɔːlsoʊ traɪ tuː miːt ɪn ˈpɜːrsən fɔːr miːlz ɔːr ækˈtɪvətiz tuː kætʃ ʌp ˈprɑːpərli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi giữ liên lạc với bạn bè chủ yếu qua ứng dụng mạng xã hội và nhóm chat. Chúng tôi chia sẻ cập nhật hàng ngày, ảnh và meme. Một hoặc hai lần mỗi tháng, chúng tôi cũng cố gắng gặp trực tiếp để ăn uống hoặc hoạt động để trò chuyện thoải mái.",
+      "kr": "저는 주로 소셜 미디어 앱과 그룹 채팅으로 친구들과 연락을 유지합니다. 일상 업데이트, 사진, 밈을 공유합니다. 한 달에 한두 번은 직접 만나 식사하거나 활동하며 제대로 이야기를 나눕니다。",
+      "jp": "友達とは主にソーシャルメディアアプリやグループチャットで連絡を取ります。日常の更新、写真、ミームを共有します。月に1～2回は直接会って食事や活動をし、しっかり話します。"
+    },
+    "category": "Social Connections"
+  },
+  {
+    "id": 216,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite type of music?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt taɪp əv ˈmjuːzɪk/",
+    "translations": {
+      "vn": "Thể loại nhạc yêu thích của bạn là gì?",
+      "kr": "가장 좋아하는 음악 장르는 무엇인가요?",
+      "jp": "好きな音楽のジャンルは何ですか？"
+    },
+    "sampleAnswer": "My favorite type of music is jazz. I love the smooth melodies, improvisation, and relaxing atmosphere it creates. Listening to jazz in the evening with a cup of tea helps me unwind and feel sophisticated after a long day.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt taɪp əv ˈmjuːzɪk ɪz dʒæz aɪ lʌv ðə smuːð ˈmɛlədiz ˌɪmprəvaɪˈzeɪʃən ənd rɪˈlæksɪŋ ˈætməsfɪr ɪt kriˈeɪts ˈlɪsənɪŋ tuː dʒæz ɪn ði ˈiːvnɪŋ wɪð ə kʌp əv tiː hɛlps miː ʌnˈwaɪnd ənd fiːl səˈfɪstɪkeɪtɪd ˈæftər ə lɔːŋ deɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Thể loại nhạc yêu thích của tôi là jazz. Tôi yêu giai điệu mượt mà, sự ngẫu hứng và không khí thư giãn mà nó tạo ra. Nghe jazz vào buổi tối với tách trà giúp tôi thư giãn và cảm thấy tinh tế sau ngày dài.",
+      "kr": "제가 가장 좋아하는 음악 장르는 재즈입니다. 부드러운 멜로디, 즉흥 연주, 편안한 분위기를 사랑합니다. 저녁에 차 한 잔과 함께 재즈를 들으며 긴 하루 후에 긴장을 풀고 세련된 느낌을 받습니다。",
+      "jp": "好きな音楽ジャンルはジャズです。滑らかなメロディー、即興演奏、リラックスした雰囲気を作り出すのが好きです。夕方にティーを飲みながらジャズを聴くと、長かった1日の後にリラックスでき洗練された気分になります。"
+    },
+    "category": "Music"
+  },
+  {
+    "id": 217,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer tea or coffee in the morning?",
+    "ipa": "/duː juː prɪˈfɜːr tiː ɔːr ˈkɔːfi ɪn ðə ˈmɔːrnɪŋ/",
+    "translations": {
+      "vn": "Buổi sáng bạn thích uống trà hay cà phê hơn?",
+      "kr": "아침에 차와 커피 중 어느 쪽을 더 선호하시나요?",
+      "jp": "朝は紅茶とコーヒー、どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer tea in the morning. Green tea or herbal tea wakes me up gently without the strong jolt from coffee, and it feels healthier. It has become a calm ritual that starts my day on a peaceful note.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr tiː ɪn ðə ˈmɔːrnɪŋ ɡriːn tiː ɔːr ˈhɜːrbəl tiː weɪks miː ʌp ˈdʒɛntli wɪˈðaʊt ðə strɔːŋ dʒoʊlt frɑːm ˈkɔːfi ənd ɪt fiːlz ˈhɛlθiər ɪt hæz bɪˈkʌm ə kɑːm ˈrɪtʃuəl ðæt stɑːrts maɪ deɪ ɒn ə ˈpiːsfəl noʊt/",
+    "sampleAnswerTranslations": {
+      "vn": "Buổi sáng tôi thích trà hơn. Trà xanh hoặc trà thảo mộc đánh thức tôi nhẹ nhàng mà không có cú sốc mạnh từ cà phê, và cảm giác lành mạnh hơn. Nó đã trở thành nghi thức bình yên khởi đầu ngày mới của tôi.",
+      "kr": "아침에는 차를 선호합니다. 녹차나 허브티가 커피의 강한 자극 없이 부드럽게 깨워주고 더 건강하게 느껴집니다. 평온한 하루를 시작하는 의식이 되었습니다。",
+      "jp": "朝は紅茶を好みます。緑茶やハーブティーがコーヒーの強い刺激なく優しく目覚めさせてくれ、より健康的です。穏やかな1日を始める儀式になりました。"
+    },
+    "category": "Beverages"
+  },
+  {
+    "id": 218,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you usually do on rainy days?",
+    "ipa": "/wɒt duː juː ˈjuːʒʊəli duː ɒn ˈreɪni deɪz/",
+    "translations": {
+      "vn": "Vào những ngày mưa bạn thường làm gì?",
+      "kr": "비 오는 날에는 보통 무엇을 하나요?",
+      "jp": "雨の日は普段何をしますか？"
+    },
+    "sampleAnswer": "On rainy days, I love staying home and baking cookies or cakes. The smell fills the house with warmth, and I can enjoy the fresh treats with hot drinks while listening to the rain outside. It's cozy and therapeutic for me.",
+    "sampleAnswerIpa": "/ɒn ˈreɪni deɪz aɪ lʌv ˈsteɪɪŋ hoʊm ənd ˈbeɪkɪŋ ˈkʊkiz ɔːr keɪks ðə smɛl fɪlz ðə haʊs wɪð wɔːrmθ ənd aɪ kæn ɪnˈdʒɔɪ ðə frɛʃ triːts wɪð hɑːt drɪŋks waɪl ˈlɪsənɪŋ tuː ðə reɪn aʊtˈsaɪd ɪts ˈkoʊzi ənd ˌθɛrəˈpjuːtɪk fɔːr miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Vào ngày mưa, tôi thích ở nhà nướng bánh quy hoặc bánh ngọt. Mùi thơm lan tỏa khắp nhà tạo cảm giác ấm áp, và tôi có thể thưởng thức món mới nướng với đồ uống nóng trong khi nghe tiếng mưa ngoài trời. Nó ấm cúng và chữa lành với tôi.",
+      "kr": "비 오는 날에는 집에서 쿠키나 케이크를 굽는 것을 좋아합니다. 냄새가 집안을 따뜻함으로 채우고, 바깥 비 소리를 들으며 뜨거운 음료와 함께 갓 구운 간식을 즐길 수 있습니다. 아늑하고 치유적입니다。",
+      "jp": "雨の日は家でクッキーやケーキを焼くのが好きです。香りが家を温かさで満たし、外の雨音を聞きながらホットドリンクと一緒に焼きたてのお菓子を楽しめます。居心地が良く癒されます。"
+    },
+    "category": "Weather & Activities"
+  },
+  {
+    "id": 219,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite holiday or festival?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt ˈhɑːlɪdeɪ ɔːr ˈfɛstɪvl/",
+    "translations": {
+      "vn": "Kỳ nghỉ hoặc lễ hội yêu thích của bạn là gì?",
+      "kr": "가장 좋아하는 휴일이나 축제는 무엇인가요?",
+      "jp": "好きな祝日や祭りはなんですか？"
+    },
+    "sampleAnswer": "My favorite holiday is Christmas. I love decorating the tree, exchanging gifts with loved ones, enjoying special meals, and the overall festive atmosphere with lights and music. It brings a sense of joy and togetherness every year.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt ˈhɑːlɪdeɪ ɪz ˈkrɪsməs aɪ lʌv ˈdɛkəreɪtɪŋ ðə triː ɪksˈtʃeɪndʒɪŋ ɡɪfts wɪð lʌvd wʌnz ɪnˈdʒɔɪɪŋ ˈspɛʃəl miːlz ənd ði ˌoʊvərˈɔːl ˈfɛstɪv ˈætməsfɪr wɪð laɪts ənd ˈmjuːzɪk ɪt brɪŋz ə sɛns əv dʒɔɪ ənd təˈɡɛðərnəs ˈɛvri jɪr/",
+    "sampleAnswerTranslations": {
+      "vn": "Kỳ nghỉ yêu thích của tôi là Giáng sinh. Tôi thích trang trí cây thông, trao quà với người thân, thưởng thức bữa ăn đặc biệt và không khí lễ hội tổng thể với đèn và nhạc. Nó mang lại cảm giác vui vẻ và sum họp mỗi năm.",
+      "kr": "제가 가장 좋아하는 휴일은 크리스마스입니다. 트리를 장식하고 사랑하는 사람들과 선물을 교환하며 특별한 식사를 즐기고 조명과 음악이 있는 전체적인 축제 분위기를 좋아합니다. 매년 기쁨과 함께함을 가져다줍니다。",
+      "jp": "好きな祝日はクリスマスです。ツリーを飾り、愛する人たちとプレゼントを交換し、特別な食事を楽しみ、ライトと音楽のある全体的なお祭り気分が好きです。毎年喜びと一体感をもたらします。"
+    },
+    "category": "Holidays & Festivals"
+  },
+  {
+    "id": 220,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you think learning foreign languages is important? Why?",
+    "ipa": "/duː juː θɪŋk ˈlɜːrnɪŋ ˈfɔːrən ˈlæŋɡwɪdʒɪz ɪz ɪmˈpɔːrtənt waɪ/",
+    "translations": {
+      "vn": "Bạn có nghĩ học ngoại ngữ là quan trọng không? Tại sao?",
+      "kr": "외국어를 배우는 것이 중요하다고 생각하시나요? 왜인가요?",
+      "jp": "外国語を学ぶことは重要だと思いますか？なぜですか？"
+    },
+    "sampleAnswer": "Yes, learning foreign languages is very important in today's global world. It improves job prospects, makes international travel more enjoyable, helps understand different cultures, and even enhances brain function and memory skills.",
+    "sampleAnswerIpa": "/jɛs ˈlɜːrnɪŋ ˈfɔːrən ˈlæŋɡwɪdʒɪz ɪz ˈvɛri ɪmˈpɔːrtənt ɪn təˈdeɪz ˈɡloʊbəl wɜːrld ɪt ɪmˈpruːvz dʒɑːb ˈprɑːspɛkts meɪks ˌɪntərˈnæʃənl ˈtrævl mɔːr ɪnˈdʒɔɪəbl hɛlps ˌʌndərˈstænd ˈdɪfrənt ˈkʌltʃərz ənd ˈiːvən ɪnˈhænsɪz breɪn ˈfʌŋkʃən ənd ˈmɛməri skɪlz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, học ngoại ngữ rất quan trọng trong thế giới toàn cầu hóa ngày nay. Nó cải thiện triển vọng việc làm, khiến du lịch quốc tế thú vị hơn, giúp hiểu văn hóa khác nhau và thậm chí tăng cường chức năng não bộ cùng kỹ năng ghi nhớ.",
+      "kr": "네, 오늘날의 글로벌 세계에서 외국어를 배우는 것은 매우 중요합니다. 취업 전망을 개선하고 국제 여행을 더 즐겁게 만들며 다양한 문화를 이해하는 데 도움이 되고 뇌 기능과 기억력을 향상시킵니다。",
+      "jp": "はい、今日のグローバルな世界では外国語を学ぶことはとても重要です。仕事の見通しを良くし、国際旅行をより楽しめ、異なる文化を理解し、脳機能と記憶力を向上させます。"
+    },
+    "category": "Language Learning"
+  },
+  {
+    "id": 221,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you like to do in your free time?",
+    "ipa": "/wɒt duː juː laɪk tuː duː ɪn jɔːr friː taɪm/",
+    "translations": {
+      "vn": "Bạn thích làm gì trong thời gian rảnh rỗi?",
+      "kr": "여가 시간에는 무엇을 좋아하시나요?",
+      "jp": "自由時間には何をするのが好きですか？"
+    },
+    "sampleAnswer": "In my free time, I enjoy hiking in the mountains or along trails near my home. It’s a great way to stay active, enjoy beautiful nature, clear my mind after a busy week, and sometimes I take photos of the scenery to remember the peaceful moments.",
+    "sampleAnswerIpa": "/ɪn maɪ friː taɪm aɪ ɪnˈdʒɔɪ ˈhaɪkɪŋ ɪn ðə ˈmaʊntənz ɔːr əˈlɔːŋ treɪlz nɪr maɪ hoʊm ɪts ə ɡreɪt weɪ tuː steɪ ˈæktɪv ɪnˈdʒɔɪ ˈbjuːtɪfl ˈneɪtʃər klɪr maɪ maɪnd ˈæftər ə ˈbɪzi wiːk ənd ˈsʌmtaɪmz aɪ teɪk ˈfoʊtoʊz əv ðə ˈsiːnəri tuː rɪˈmɛmbər ðə ˈpiːsfəl ˈmoʊmənts/",
+    "sampleAnswerTranslations": {
+      "vn": "Trong thời gian rảnh, tôi thích đi bộ đường dài ở núi hoặc dọc các con đường mòn gần nhà. Đó là cách tuyệt vời để giữ hoạt động, tận hưởng thiên nhiên đẹp, làm đầu óc thư giãn sau tuần bận rộn, và đôi khi tôi chụp ảnh cảnh vật để nhớ những khoảnh khắc yên bình.",
+      "kr": "여가 시간에는 집 근처 산이나 트레일을 하이킹하는 것을 좋아합니다. 활동적으로 지내고 아름다운 자연을 즐기며 바쁜 한 주 후에 마음을 정리하는 좋은 방법이며, 때때로 풍경 사진을 찍어 평화로운 순간을 기억합니다.",
+      "jp": "自由時間には山や自宅近くのトレイルをハイキングするのが好きです。活動的に過ごせ、美しい自然を楽しめ、忙しい1週間の後に頭をクリアでき、時々景色を写真に撮って穏やかな瞬間を思い出します。"
+    },
+    "category": "Free Time"
+  },
+  {
+    "id": 222,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you enjoy eating out or cooking at home more?",
+    "ipa": "/duː juː ɪnˈdʒɔɪ ˈiːtɪŋ aʊt ɔːr ˈkʊkɪŋ æt hoʊm mɔːr/",
+    "translations": {
+      "vn": "Bạn thích ăn ngoài hay nấu ăn ở nhà hơn?",
+      "kr": "외식과 집에서 요리하는 것 중 어느 쪽을 더 즐기시나요?",
+      "jp": "外食と家で料理、どちらをより楽しんでいますか？"
+    },
+    "sampleAnswer": "I enjoy eating out more because I can try different cuisines and flavors without the effort of preparing and cleaning up. It’s also a nice way to spend time with friends or family in a relaxed atmosphere, celebrating special occasions or just enjoying good company.",
+    "sampleAnswerIpa": "/aɪ ɪnˈdʒɔɪ ˈiːtɪŋ aʊt mɔːr bɪˈkɒz aɪ kæn traɪ ˈdɪfrənt kwɪˈziːnz ənd ˈfleɪvərz wɪˈðaʊt ði ˈɛfərt əv prɪˈpɛrɪŋ ənd ˈkliːnɪŋ ʌp ɪts ˈɔːlsoʊ ə naɪs weɪ tuː spɛnd taɪm wɪð frɛndz ɔːr ˈfæməli ɪn ə rɪˈlækst ˈætməsfɪr ˈsɛlɪbreɪtɪŋ ˈspɛʃəl əˈkeɪʒənz ɔːr dʒʌst ɪnˈdʒɔɪɪŋ ɡʊd ˈkʌmpəni/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích ăn ngoài hơn vì có thể thử các món ăn và hương vị khác nhau mà không phải chuẩn bị hay dọn dẹp. Đó cũng là cách hay để dành thời gian với bạn bè hoặc gia đình trong không khí thoải mái, kỷ niệm dịp đặc biệt hoặc chỉ đơn giản là tận hưởng sự đồng hành tốt đẹp.",
+      "kr": "외식을 더 즐깁니다. 다양한 요리와 맛을 노력 없이 시도할 수 있고, 준비와 청소가 필요 없기 때문입니다. 친구나 가족과 편안한 분위기에서 시간을 보내고 특별한 날을 축하하거나 좋은 동반자를 즐기는 좋은 방법이기도 합니다.",
+      "jp": "外食の方をより楽しんでいます。さまざまな料理と味を努力せずに試せ、準備と片付けが必要ないからです。友達や家族とリラックスした雰囲気で時間を過ごし、特別な機会を祝ったり良い会社を楽しんだりする良い方法です。"
+    },
+    "category": "Eating Habits"
+  },
+  {
+    "id": 223,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What kind of books do you like to read?",
+    "ipa": "/wɒt kaɪnd əv bʊks duː juː laɪk tuː riːd/",
+    "translations": {
+      "vn": "Bạn thích đọc thể loại sách nào?",
+      "kr": "어떤 종류의 책을 읽는 것을 좋아하시나요?",
+      "jp": "どんな種類の本を読むのが好きですか？"
+    },
+    "sampleAnswer": "I like to read science fiction books the most. They have imaginative stories about future technology, space exploration, and different worlds. Reading them stimulates my creativity, makes me think about possibilities, and provides an exciting escape from everyday reality.",
+    "sampleAnswerIpa": "/aɪ laɪk tuː riːd ˈsaɪəns ˈfɪkʃən bʊks ðə moʊst ðeɪ hæv ɪˈmædʒɪnətɪv ˈstɔːriz əˈbaʊt ˈfjuːtʃər tɛkˈnɑːlədʒi speɪs ˌɛkspləˈreɪʃən ənd ˈdɪfrənt wɜːrldz ˈriːdɪŋ ðɛm ˈstɪmjəleɪts maɪ ˌkriːeɪˈtɪvɪti meɪks miː θɪŋk əˈbaʊt ˌpɑːsəˈbɪlətiz ənd prəˈvaɪdz ən ɪkˈsaɪtɪŋ ɪˈskeɪp frɑːm ˈɛvrɪdeɪ riˈæləti/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích đọc sách khoa học viễn tưởng nhất. Chúng có những câu chuyện tưởng tượng về công nghệ tương lai, khám phá vũ trụ và các thế giới khác nhau. Đọc chúng kích thích sự sáng tạo của tôi, khiến tôi suy nghĩ về khả năng và mang lại sự trốn thoát thú vị khỏi thực tế hàng ngày.",
+      "kr": "저는 SF 책을 가장 좋아합니다. 미래 기술, 우주 탐험, 다른 세계에 대한 상상력 있는 이야기들이 있습니다. 읽으면서 창의력이 자극되고 가능성에 대해 생각하게 되며 일상 현실에서 흥미로운 탈출을 제공합니다.",
+      "jp": "一番好きなのはSF本です。未来技術、宇宙探査、異なる世界についての想像力豊かな物語があります。それらを読むと創造性が刺激され、可能性について考えさせられ、日常の現実からエキサイティングな逃避を与えてくれます。"
+    },
+    "category": "Reading"
+  },
+  {
+    "id": 224,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer summer or winter? Why?",
+    "ipa": "/duː juː prɪˈfɜːr ˈsʌmər ɔːr ˈwɪntər waɪ/",
+    "translations": {
+      "vn": "Bạn thích mùa hè hay mùa đông hơn? Tại sao?",
+      "kr": "여름과 겨울 중 어느 계절을 더 선호하시나요? 왜인가요?",
+      "jp": "夏と冬、どちらを好みますか？なぜですか？"
+    },
+    "sampleAnswer": "I prefer summer because the days are longer, the weather is warm for beach trips and barbecues, and I can wear light clothes. It's also the season for vacations, festivals, and enjoying outdoor activities with friends and family without worrying about the cold.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈsʌmər bɪˈkɒz ðə deɪz ɑːr ˈlɒŋɡər ðə ˈweðər ɪz wɔːrm fɔːr biːtʃ trɪps ənd ˈbɑːrbɪkjuːz ənd aɪ kæn wɛr laɪt kloʊðz ɪts ˈɔːlsoʊ ðə ˈsiːzən fɔːr veɪˈkeɪʃənz ˈfɛstɪvlz ənd ɪnˈdʒɔɪɪŋ ˈaʊtdɔːr ækˈtɪvətiz wɪð frɛndz ənd ˈfæməli wɪˈðaʊt ˈwʌriɪŋ əˈbaʊt ðə koʊld/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích mùa hè hơn vì ngày dài hơn, thời tiết ấm áp để đi biển và nướng thịt, và có thể mặc quần áo nhẹ. Đó cũng là mùa của kỳ nghỉ, lễ hội và tận hưởng hoạt động ngoài trời với bạn bè gia đình mà không lo lạnh.",
+      "kr": "여름을 선호합니다. 낮이 길고 날씨가 따뜻해서 해변 여행과 바비큐를 즐기고 가벼운 옷을 입을 수 있기 때문입니다. 휴가, 축제, 친구와 가족과 함께 야외 활동을 즐기는 계절이기도 해서 추위 걱정 없이 보낼 수 있습니다.",
+      "jp": "夏を好みます。日が長く、天気が暖かくてビーチ旅行やバーベキューができ、軽い服を着られます。休暇、祭り、友達や家族と屋外活動を楽しむ季節でもあり、寒さを気にせずに過ごせます。"
+    },
+    "category": "Seasons"
+  },
+  {
+    "id": 225,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you relieve stress?",
+    "ipa": "/haʊ duː juː rɪˈliːv strɛs/",
+    "translations": {
+      "vn": "Bạn giảm stress như thế nào?",
+      "kr": "스트레스를 어떻게 푸시나요?",
+      "jp": "ストレスはどうやって解消しますか？"
+    },
+    "sampleAnswer": "To relieve stress, I practice deep breathing exercises or go for a long walk in nature. These activities help calm my mind, reduce tension in my body, and give me time to think clearly without distractions from work or daily responsibilities.",
+    "sampleAnswerIpa": "/tuː rɪˈliːv strɛs aɪ ˈpræktɪs diːp ˈbriːðɪŋ ˈɛksərsaɪzɪz ɔːr ɡoʊ fɔːr ə lɔːŋ wɔːk ɪn ˈneɪtʃər ðiːz ækˈtɪvətiz hɛlp kɑːm maɪ maɪnd rɪˈduːs ˈtɛnʃən ɪn maɪ ˈbɑːdi ənd ɡɪv miː taɪm tuː θɪŋk ˈklɪrli wɪˈðaʊt dɪˈstrækʃənz frɑːm wɜːrk ɔːr ˈdeɪli rɪˌspɑːnsəˈbɪlətiz/",
+    "sampleAnswerTranslations": {
+      "vn": "Để giảm stress, tôi thực hành bài tập hít thở sâu hoặc đi dạo dài trong thiên nhiên. Những hoạt động này giúp bình tĩnh đầu óc, giảm căng thẳng cơ thể và cho tôi thời gian suy nghĩ rõ ràng mà không bị phân tâm bởi công việc hay trách nhiệm hàng ngày.",
+      "kr": "스트레스를 풀기 위해 깊은 호흡 운동을 하거나 자연 속에서 오래 산책합니다. 이러한 활동은 마음을 진정시키고 몸의 긴장을 줄이며 일이나 일상 책임에서 벗어나 명확하게 생각할 시간을 줍니다.",
+      "jp": "ストレス解消には深呼吸エクササイズをしたり、自然の中で長く散歩したりします。これらの活動は心を落ち着かせ、体内の緊張を減らし、仕事や日常の責任から離れて明確に考える時間をくれます。"
+    },
+    "category": "Stress Management"
+  },
+  {
+    "id": 226,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is the most memorable trip you have taken?",
+    "ipa": "/wɒt ɪz ðə moʊst məˈmɔːrəbl trɪp juː hæv ˈteɪkən/",
+    "translations": {
+      "vn": "Chuyến đi đáng nhớ nhất của bạn là chuyến nào?",
+      "kr": "가장 기억에 남는 여행은 어떤 것이었나요?",
+      "jp": "これまでで最も思い出に残る旅行は何でしたか？"
+    },
+    "sampleAnswer": "The most memorable trip was to Thailand with my best friends. We explored ancient temples in Bangkok, relaxed on beautiful beaches in Phuket, tried amazing street food, and had unforgettable adventures like snorkeling and riding elephants in the jungle.",
+    "sampleAnswerIpa": "/ðə moʊst məˈmɔːrəbl trɪp wʌz tuː ˈtaɪlænd wɪð maɪ bɛst frɛndz wiː ɪkˈsplɔːrd ˈeɪnʃənt ˈtɛmplz ɪn bæŋˈkɑːk rɪˈlækst ɒn ˈbjuːtɪfl biːtʃɪz ɪn puːˈkɛt traɪd əˈmeɪzɪŋ striːt fuːd ənd hæd ˌʌnfərˈɡɛtəbl ədˈvɛntʃərz laɪk ˈsnɔːrkəlɪŋ ənd ˈraɪdɪŋ ˈɛlɪfənts ɪn ðə ˈdʒʌŋɡl/",
+    "sampleAnswerTranslations": {
+      "vn": "Chuyến đi đáng nhớ nhất là đến Thái Lan với bạn thân. Chúng tôi khám phá đền cổ ở Bangkok, thư giãn trên bãi biển đẹp ở Phuket, thử đồ ăn đường phố tuyệt vời và có những cuộc phiêu lưu khó quên như lặn ngắm san hô và cưỡi voi trong rừng.",
+      "kr": "가장 기억에 남는 여행은 친한 친구들과 태국이었습니다. 방콕의 고대 사원을 탐험하고 푸켓의 아름다운 해변에서 휴식을 취하며 놀라운 길거리 음식을 먹고 스노클링과 정글에서 코끼리 타기 같은 잊을 수 없는 모험을 했습니다.",
+      "jp": "最も思い出に残る旅行は親友とタイでした。バンコクの古代寺院を探検し、プーケットの美しいビーチでリラックスし、素晴らしいストリートフードを試し、スノーケリングやジャングルでの象乗りなどの忘れられない冒険をしました。"
+    },
+    "category": "Travel Memories"
+  },
+  {
+    "id": 227,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like working alone or in a team?",
+    "ipa": "/duː juː laɪk ˈwɜːrkɪŋ əˈloʊn ɔːr ɪn ə tiːm/",
+    "translations": {
+      "vn": "Bạn thích làm việc một mình hay theo nhóm?",
+      "kr": "혼자 일하는 것과 팀으로 일하는 것 중 어느 쪽을 좋아하시나요?",
+      "jp": "一人で働くのとチームで働くの、どちらが好きですか？"
+    },
+    "sampleAnswer": "I like working in a team more because brainstorming with colleagues generates better ideas, we can divide tasks efficiently, support each other when needed, and celebrate successes together. It makes the work environment more enjoyable and productive overall.",
+    "sampleAnswerIpa": "/aɪ laɪk ˈwɜːrkɪŋ ɪn ə tiːm mɔːr bɪˈkɒz ˈbreɪnˌstɔːrmɪŋ wɪð ˈkɑːliːɡz ˈdʒɛnəreɪts ˈbɛtər aɪˈdiːəz wiː kæn dɪˈvaɪd tæsks ɪˈfɪʃəntli səˈpɔːrt iːtʃ ˈʌðər wɛn ˈniːdɪd ənd ˈsɛlɪbreɪt səkˈsɛsɪz təˈɡɛðər ɪt meɪks ðə wɜːrk ɪnˈvaɪrənmənt mɔːr ɪnˈdʒɔɪəbl ənd prəˈdʌktɪv ˌoʊvərˈɔːl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích làm việc nhóm hơn vì brainstorm với đồng nghiệp tạo ra ý tưởng tốt hơn, chúng ta có thể phân chia nhiệm vụ hiệu quả, hỗ trợ nhau khi cần và cùng ăn mừng thành công. Nó làm môi trường làm việc vui vẻ và hiệu quả hơn tổng thể.",
+      "kr": "팀으로 일하는 것을 더 좋아합니다. 동료들과 브레인스토밍하면 더 나은 아이디어가 나오고 작업을 효율적으로 분담하며 필요할 때 서로 지원하고 성공을 함께 축하할 수 있기 때문입니다. 전체적으로 작업 환경을 더 즐겁고 생산적으로 만듭니다.",
+      "jp": "チームで働く方が好きです。同僚とブレインストーミングするとより良いアイデアが生まれ、タスクを効率的に分け、必要時に互いにサポートし、成功を一緒に祝えます。全体的に仕事環境をより楽しく生産的にします。"
+    },
+    "category": "Work Style"
+  },
+  {
+    "id": 228,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What healthy habits do you have?",
+    "ipa": "/wɒt ˈhɛlθi ˈhæbɪts duː juː hæv/",
+    "translations": {
+      "vn": "Bạn có những thói quen lành mạnh nào?",
+      "kr": "어떤 건강한 습관을 가지고 계신가요?",
+      "jp": "どんな健康的な習慣がありますか？"
+    },
+    "sampleAnswer": "I have several healthy habits like waking up early to exercise, drinking green smoothies for breakfast, avoiding sugary snacks, and meditating for ten minutes daily. These habits keep me energetic, focused, and help maintain my physical and mental well-being throughout the week.",
+    "sampleAnswerIpa": "/aɪ hæv ˈsɛvrəl ˈhɛlθi ˈhæbɪts laɪk ˈweɪkɪŋ ʌp ˈɜːrli tuː ˈɛksəsaɪz ˈdrɪŋkɪŋ ɡriːn ˈsmuːðiz fɔːr ˈbrɛkfəst əˈvɔɪdɪŋ ˈʃʊɡəri snæks ənd ˈmɛdɪteɪtɪŋ fɔːr tɛn ˈmɪnɪts ˈdeɪli ðiːz ˈhæbɪts kiːp miː ˌɛnərˈdʒɛtɪk ˈfoʊkəst ənd hɛlp meɪnˈteɪn maɪ ˈfɪzɪkl ənd ˈmɛntl wɛlˈbiːɪŋ θruːˈaʊt ðə wiːk/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi có một số thói quen lành mạnh như dậy sớm để tập thể dục, uống sinh tố xanh vào bữa sáng, tránh đồ ăn vặt ngọt và thiền 10 phút mỗi ngày. Những thói quen này giữ tôi tràn năng lượng, tập trung và giúp duy trì sức khỏe thể chất lẫn tinh thần suốt tuần.",
+      "kr": "저는 여러 건강한 습관이 있습니다. 일찍 일어나 운동하고 아침에 그린 스무디를 마시며 설탕 많은 스낵을 피하고 매일 10분 명상합니다. 이러한 습관은 에너지를 유지하고 집중력을 높이며 일주일 내내 신체적·정신적 웰빙을 유지하는 데 도움이 됩니다.",
+      "jp": "いくつかの健康的な習慣があります。早起きして運動し、朝食にグリーンスムージーを飲み、甘いスナックを避け、毎日10分瞑想します。これらの習慣はエネルギーを保ち、集中力を高め、週を通じて身体的・精神的なウェルビーイングを維持します。"
+    },
+    "category": "Health Habits"
+  },
+  {
+    "id": 229,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you use public transportation or drive a car?",
+    "ipa": "/duː juː juːz ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ɔːr draɪv ə kɑːr/",
+    "translations": {
+      "vn": "Bạn sử dụng phương tiện công cộng hay lái xe hơi?",
+      "kr": "대중교통을 이용하시나요 아니면 차를 운전하시나요?",
+      "jp": "公共交通機関を使いますか、それとも車を運転しますか？"
+    },
+    "sampleAnswer": "I usually drive my car because it gives me flexibility in schedule, especially with unpredictable work hours. It's more comfortable, I can listen to podcasts, and I don't have to wait for buses or trains in bad weather conditions.",
+    "sampleAnswerIpa": "/aɪ ˈjuːʒʊəli draɪv maɪ kɑːr bɪˈkɒz ɪt ɡɪvz miː ˌflɛksəˈbɪləti ɪn ˈskɛdʒuːl ɪˈspɛʃəli wɪð ˌʌnprɪˈdɪktəbl wɜːrk aʊərz ɪts mɔːr ˈkʌmfərtəbl aɪ kæn ˈlɪsən tuː ˈpɑːdkæsts ənd aɪ doʊnt hæv tuː weɪt fɔːr ˈbʌsɪz ɔːr treɪnz ɪn bæd ˈweðər kənˈdɪʃənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thường lái xe hơi vì nó cho tôi sự linh hoạt về lịch trình, đặc biệt với giờ làm việc không đoán trước. Nó thoải mái hơn, tôi có thể nghe podcast và không phải chờ xe buýt hoặc tàu trong thời tiết xấu.",
+      "kr": "저는 보통 차를 운전합니다. 특히 예측 불가능한 근무 시간에 일정의 유연성을 주기 때문입니다. 더 편안하고 팟캐스트를 들을 수 있으며 악천후에서 버스나 기차를 기다릴 필요가 없습니다.",
+      "jp": "普段車を運転します。特に予測不能な勤務時間にスケジュールの柔軟性を与えてくれるからです。より快適でポッドキャストを聴け、悪天候でバスや電車を待つ必要がありません。"
+    },
+    "category": "Transportation"
+  },
+  {
+    "id": 230,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you think is the best way to learn English?",
+    "ipa": "/wɒt duː juː θɪŋk ɪz ðə bɛst weɪ tuː lɜːrn ˈɪŋɡlɪʃ/",
+    "translations": {
+      "vn": "Bạn nghĩ cách học tiếng Anh tốt nhất là gì?",
+      "kr": "영어를 배우는 가장 좋은 방법은 무엇이라고 생각하시나요?",
+      "jp": "英語を学ぶ最良の方法は何だと思いますか？"
+    },
+    "sampleAnswer": "The best way to learn English is through immersion, such as watching English movies without subtitles, listening to podcasts, and practicing conversations with native speakers. This method improves listening, speaking, and natural understanding much faster than just studying grammar books.",
+    "sampleAnswerIpa": "/ðə bɛst weɪ tuː lɜːrn ˈɪŋɡlɪʃ ɪz θruː ɪˈmɜːrʒən sʌtʃ æz ˈwɑːtʃɪŋ ˈɪŋɡlɪʃ ˈmuːviz wɪˈðaʊt ˈsʌbtaɪtlz ˈlɪsənɪŋ tuː ˈpɑːdkæsts ənd ˈpræktɪsɪŋ ˌkɑːnvərˈseɪʃənz wɪð ˈneɪtɪv ˈspiːkərz ðɪs ˈmɛθəd ɪmˈpruːvz ˈlɪsənɪŋ ˈspiːkɪŋ ənd ˈnætʃərəl ˌʌndərˈstændɪŋ mʌtʃ ˈfæstər ðæn dʒʌst ˈstʌdiɪŋ ˈɡræmər bʊks/",
+    "sampleAnswerTranslations": {
+      "vn": "Cách học tiếng Anh tốt nhất là qua immersion, như xem phim tiếng Anh không phụ đề, nghe podcast và luyện hội thoại với người bản ngữ. Phương pháp này cải thiện nghe, nói và hiểu tự nhiên nhanh hơn nhiều so với chỉ học sách ngữ pháp.",
+      "kr": "영어를 배우는 가장 좋은 방법은 몰입입니다. 자막 없이 영어 영화를 보고 팟캐스트를 듣고 원어민과 대화를 연습하는 것입니다. 이 방법은 듣기, 말하기, 자연스러운 이해를 문법 책만 공부하는 것보다 훨씬 빠르게 향상시킵니다.",
+      "jp": "英語を学ぶ最良の方法はイマージョンです。字幕なしで英語映画を見たり、ポッドキャストを聞いたり、ネイティブスピーカーと会話を練習したりします。この方法は文法書だけ勉強するより聴く・話す・自然な理解をはるかに速く向上させます。"
+    },
+    "category": "Language Learning"
+  },
+  {
+    "id": 231,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer big cities or small towns?",
+    "ipa": "/duː juː prɪˈfɜːr bɪɡ ˈsɪtiz ɔːr smɔːl taʊnz/",
+    "translations": {
+      "vn": "Bạn thích thành phố lớn hay thị trấn nhỏ hơn?",
+      "kr": "대도시와 작은 마을 중 어느 쪽을 더 선호하시나요?",
+      "jp": "大都市と小さな町、どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer big cities because of the diverse culture, numerous dining and entertainment options, better career prospects, and efficient public services. The energy and opportunities in cities excite me more than the quiet life in small towns, even though cities can be crowded.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr bɪɡ ˈsɪtiz bɪˈkɒz əv ðə daɪˈvɜːrs ˈkʌltʃər ˈnuːmərəs ˈdaɪnɪŋ ənd ˌɛntərˈteɪnmənt ˈɑːpʃənz ˈbɛtər kəˈrɪr ˈprɑːspɛkts ənd ɪˈfɪʃənt ˈpʌblɪk ˈsɜːrvɪsɪz ði ˈɛnərdʒi ənd ˌɑːpərˈtuːnətiz ɪn ˈsɪtiz ɪkˈsaɪt miː mɔːr ðæn ðə ˈkwaɪət laɪf ɪn smɔːl taʊnz ˈiːvn ðoʊ ˈsɪtiz kæn biː ˈkraʊdɪd/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích thành phố lớn hơn vì văn hóa đa dạng, nhiều lựa chọn ăn uống và giải trí, triển vọng nghề nghiệp tốt hơn và dịch vụ công cộng hiệu quả. Năng lượng và cơ hội ở thành phố khiến tôi hào hứng hơn cuộc sống yên tĩnh ở thị trấn nhỏ, dù thành phố có thể đông đúc.",
+      "kr": "대도시를 선호합니다. 다양한 문화, 수많은 식사와 엔터테인먼트 옵션, 더 나은 경력 전망, 효율적인 공공 서비스 때문입니다. 작은 마을의 조용한 삶보다 도시의 에너지와 기회가 더 흥분되며, 도시가 붐비더라도 그렇습니다.",
+      "jp": "大都市を好みます。多様な文化、数多くの飲食・エンターテイメントオプション、より良いキャリアの見通し、効率的な公共サービスのためです。小さな町の静かな生活より都市のエネルギーと機会の方がワクワクし、混雑していてもそうです。"
+    },
+    "category": "Living Preferences"
+  },
+  {
+    "id": 232,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What pets do you have or would like to have?",
+    "ipa": "/wɒt pɛts duː juː hæv ɔːr wʊd laɪk tuː hæv/",
+    "translations": {
+      "vn": "Bạn nuôi hoặc muốn nuôi thú cưng gì?",
+      "kr": "어떤 반려동물을 키우고 있거나 키우고 싶으신가요?",
+      "jp": "どんなペットを飼っていますか、または飼いたいですか？"
+    },
+    "sampleAnswer": "I would like to have a dog in the future. Dogs are loyal companions, great for exercise because they need walks, and they bring so much joy and unconditional love to the home. A medium-sized breed like a Golden Retriever would be perfect for me.",
+    "sampleAnswerIpa": "/aɪ wʊd laɪk tuː hæv ə dɔːɡ ɪn ðə ˈfjuːtʃər dɔːɡz ɑːr ˈlɔɪəl kəmˈpænjənz ɡreɪt fɔːr ˈɛksəsaɪz bɪˈkɒz ðeɪ niːd wɔːks ənd ðeɪ brɪŋ soʊ mʌtʃ dʒɔɪ ənd ˌʌnkənˈdɪʃənl lʌv tuː ðə hoʊm ə ˈmiːdiəm saɪzd briːd laɪk ə ˈɡoʊldən rɪˈtriːvər wʊd biː ˈpɜːrfɪkt fɔːr miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi muốn nuôi chó trong tương lai. Chó là bạn đồng hành trung thành, tốt cho tập thể dục vì cần dắt đi dạo, và chúng mang lại niềm vui cùng tình yêu vô điều kiện cho ngôi nhà. Giống chó cỡ trung như Golden Retriever sẽ hoàn hảo với tôi.",
+      "kr": "미래에 개를 키우고 싶습니다. 개는 충성스러운 동반자이고 산책이 필요해서 운동에 좋으며, 집에 많은 기쁨과 무조건적인 사랑을 가져다줍니다. 골든 리트리버 같은 중형견이 제게 딱일 것입니다.",
+      "jp": "将来、犬を飼いたいです。犬は忠実な伴侶で、散歩が必要なので運動に良く、家にたくさんの喜びと無条件の愛をもたらします。ゴールデンレトリバーみたいな中型犬が私にぴったりです。"
+    },
+    "category": "Pets"
+  },
+  {
+    "id": 233,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "How do you celebrate your birthday?",
+    "ipa": "/haʊ duː juː ˈsɛlɪbreɪt jɔːr ˈbɜːrθdeɪ/",
+    "translations": {
+      "vn": "Bạn ăn mừng sinh nhật như thế nào?",
+      "kr": "생일은 어떻게 축하하시나요?",
+      "jp": "誕生日はどのように祝いますか？"
+    },
+    "sampleAnswer": "I celebrate my birthday quietly with a dinner at my favorite restaurant with close family and a few friends. We enjoy good food, share stories, and have cake. It's simple but meaningful, focusing on quality time rather than big parties.",
+    "sampleAnswerIpa": "/aɪ ˈsɛlɪbreɪt maɪ ˈbɜːrθdeɪ ˈkwaɪətli wɪð ə ˈdɪnər æt maɪ ˈfeɪvərɪt ˈrɛstərɑːnt wɪð kloʊs ˈfæməli ənd ə fjuː frɛndz wiː ɪnˈdʒɔɪ ɡʊd fuːd ʃɛr ˈstɔːriz ənd hæv keɪk ɪts ˈsɪmpl bʌt ˈmiːnɪŋfəl ˈfoʊkəsɪŋ ɒn ˈkwɑːləti taɪm ˈræðər ðæn bɪɡ ˈpɑːrtiz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi ăn mừng sinh nhật một cách yên bình bằng bữa tối tại nhà hàng yêu thích với gia đình thân và vài người bạn. Chúng tôi thưởng thức món ngon, chia sẻ câu chuyện và ăn bánh. Đơn giản nhưng ý nghĩa, tập trung vào thời gian chất lượng hơn là tiệc lớn.",
+      "kr": "생일은 좋아하는 레스토랑에서 가까운 가족과 몇몇 친구들과 조용히 저녁 식사로 축하합니다. 좋은 음식을 즐기고 이야기를 나누며 케이크를 먹습니다. 간단하지만 의미 있으며 큰 파티보다 질 높은 시간을 중시합니다.",
+      "jp": "誕生日はお気に入りのレストランで親しい家族と数人の友達と静かにディナーで祝います。おいしい食事を楽しみ、話を共有し、ケーキを食べます。シンプルですが意味があり、大パーティーより質の高い時間を重視します。"
+    },
+    "category": "Birthdays"
+  },
+  {
+    "id": 234,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you enjoy gardening?",
+    "ipa": "/duː juː ɪnˈdʒɔɪ ˈɡɑːrdnɪŋ/",
+    "translations": {
+      "vn": "Bạn có thích làm vườn không?",
+      "kr": "정원 가꾸기를 즐기시나요?",
+      "jp": "ガーデニングは楽しんでいますか？"
+    },
+    "sampleAnswer": "No, I don't enjoy gardening much because I live in an apartment without much space, and I don't have a green thumb. However, I appreciate beautiful gardens and plants in parks, and I keep a few easy-care houseplants to add some greenery indoors.",
+    "sampleAnswerIpa": "/noʊ aɪ doʊnt ɪnˈdʒɔɪ ˈɡɑːrdnɪŋ mʌtʃ bɪˈkɒz aɪ lɪv ɪn ən əˈpɑːrtmənt wɪˈðaʊt mʌtʃ speɪs ənd aɪ doʊnt hæv ə ɡriːn θʌm haʊˈɛvər aɪ əˈpriːʃieɪt ˈbjuːtɪfl ˈɡɑːrdnz ənd plænts ɪn pɑːrks ənd aɪ kiːp ə fjuː ˈiːzi kɛr ˈhaʊsplænts tuː æd sʌm ˈɡriːnəri ɪnˈdɔːrz/",
+    "sampleAnswerTranslations": {
+      "vn": "Không, tôi không thích làm vườn lắm vì sống ở căn hộ không có nhiều không gian và tôi không khéo tay với cây cối. Tuy nhiên, tôi đánh giá cao vườn đẹp và cây cối ở công viên, và tôi nuôi vài cây trong nhà dễ chăm để thêm chút xanh mát trong nhà.",
+      "kr": "아니요, 정원 가꾸기를 별로 즐기지 않습니다. 아파트에 살아서 공간이 많지 않고 식물 키우는 손이 없기 때문입니다. 하지만 공원의 아름다운 정원과 식물을 좋아하고, 실내에 약간의 녹색을 더하기 위해 관리 쉬운 실내 식물을 몇 개 키웁니다.",
+      "jp": "いいえ、ガーデニングはあまり楽しんでいません。アパートに住んでいてスペースが少なく、植物を育てるのが苦手だからです。でも公園の美しい庭や植物は欣赏し、室内に少し緑を加えるために手入れの簡単な観葉植物をいくつか置いています。"
+    },
+    "category": "Gardening"
+  },
+  {
+    "id": 235,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What social media platforms do you use?",
+    "ipa": "/wɒt ˈsoʊʃəl ˈmiːdiə ˈplætfɔːrmz duː juː juːz/",
+    "translations": {
+      "vn": "Bạn sử dụng nền tảng mạng xã hội nào?",
+      "kr": "어떤 소셜 미디어 플랫폼을 사용하시나요?",
+      "jp": "どのソーシャルメディアプラットフォームを使っていますか？"
+    },
+    "sampleAnswer": "I mainly use LinkedIn for professional networking and keeping up with industry news, and Instagram for personal life to share travel photos and stay connected with friends. I avoid too much time on social media to maintain a healthy balance.",
+    "sampleAnswerIpa": "/aɪ ˈmeɪnli juːz ˈlɪŋktɪn fɔːr prəˈfɛʃənl ˈnɛtwɜːrkɪŋ ənd ˈkiːpɪŋ ʌp wɪð ˈɪndəstri nuːz ənd ˈɪnstəɡræm fɔːr ˈpɜːrsənl laɪf tuː ʃɛr ˈtrævl ˈfoʊtoʊz ənd steɪ kəˈnɛktɪd wɪð frɛndz aɪ əˈvɔɪd tuː mʌtʃ taɪm ɒn ˈsoʊʃəl ˈmiːdiə tuː meɪnˈteɪn ə ˈhɛlθi ˈbæləns/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi chủ yếu dùng LinkedIn để kết nối nghề nghiệp và cập nhật tin ngành, và Instagram cho cuộc sống cá nhân để chia sẻ ảnh du lịch và giữ liên lạc với bạn bè. Tôi tránh dành quá nhiều thời gian trên mạng xã hội để duy trì sự cân bằng lành mạnh.",
+      "kr": "저는 주로 LinkedIn을 직업적 네트워킹과 산업 뉴스 업데이트에 사용하고, Instagram은 개인 생활에서 여행 사진 공유와 친구들과 연결 유지에 씁니다. 건강한 균형을 유지하기 위해 소셜 미디어에 너무 많은 시간을 피합니다.",
+      "jp": "主にLinkedInをプロフェッショナルなネットワーキングと業界ニュースの更新に使い、Instagramは個人生活で旅行写真を共有し友達とつながるために使います。健全なバランスを保つためにソーシャルメディアにあまり時間をかけません。"
+    },
+    "category": "Social Media"
+  },
+  {
+    "id": 236,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like going to museums or art galleries?",
+    "ipa": "/duː juː laɪk ˈɡoʊɪŋ tuː mjuːˈziːəmz ɔːr ɑːrt ˈɡæləriz/",
+    "translations": {
+      "vn": "Bạn có thích đi bảo tàng hoặc phòng trưng bày nghệ thuật không?",
+      "kr": "박물관이나 미술관에 가는 것을 좋아하시나요?",
+      "jp": "博物館や美術館に行くのが好きですか？"
+    },
+    "sampleAnswer": "Yes, I really like going to museums and art galleries on weekends. They are peaceful places where I can learn about history, admire beautiful paintings and sculptures, and get inspiration for my own creative hobbies like drawing or photography.",
+    "sampleAnswerIpa": "/jɛs aɪ ˈrɪəli laɪk ˈɡoʊɪŋ tuː mjuːˈziːəmz ənd ɑːrt ˈɡæləriz ɒn ˈwiːkɛndz ðeɪ ɑːr ˈpiːsfəl ˈpleɪsɪz weər aɪ kæn lɜːrn əˈbaʊt ˈhɪstəri ədˈmaɪər ˈbjuːtɪfl ˈpeɪntɪŋz ənd ˈskʌlptʃərz ənd ɡɛt ˌɪnspəˈreɪʃən fɔːr maɪ oʊn kriˈeɪtɪv ˈhɑːbiz laɪk ˈdrɔːɪŋ ɔːr fəˈtɑːɡrəfi/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi rất thích đi bảo tàng và phòng trưng bày nghệ thuật vào cuối tuần. Đó là những nơi yên bình để học về lịch sử, ngắm tranh và tượng đẹp, và lấy cảm hứng cho sở thích sáng tạo của mình như vẽ hoặc chụp ảnh.",
+      "kr": "네, 주말에 박물관과 미술관 가는 것을 정말 좋아합니다. 역사에 대해 배우고 아름다운 그림과 조각을 감상하며 드로잉이나 사진 같은 제 창의적 취미에 영감을 얻을 수 있는 평화로운 장소입니다.",
+      "jp": "はい、週末に博物館や美術館に行くのがとても好きです。歴史を学び、美しい絵画や彫刻を鑑賞し、描画や写真などの自分の創造的な趣味にインスピレーションを得られる平和な場所です。"
+    },
+    "category": "Culture & Museums"
+  },
+  {
+    "id": 237,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite way to keep fit?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt weɪ tuː kiːp fɪt/",
+    "translations": {
+      "vn": "Cách yêu thích của bạn để giữ dáng là gì?",
+      "kr": "체력을 유지하는 가장 좋아하는 방법은 무엇인가요?",
+      "jp": "体力を維持する好きな方法は何ですか？"
+    },
+    "sampleAnswer": "My favorite way to keep fit is cycling around the city or in parks. It's enjoyable, eco-friendly, allows me to explore new areas, and provides good cardiovascular exercise without putting too much strain on my joints like running does.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt weɪ tuː kiːp fɪt ɪz ˈsaɪklɪŋ əˈraʊnd ðə ˈsɪti ɔːr ɪn pɑːrks ɪts ɪnˈdʒɔɪəbl ˈiːkoʊ ˈfrɛndli əˈlaʊz miː tuː ɪkˈsplɔːr nuː ˈɛriəz ənd prəˈvaɪdz ɡʊd ˌkɑːrdioʊˈvæskjələr ˈɛksəsaɪz wɪˈðaʊt ˈpʊtɪŋ tuː mʌtʃ streɪn ɒn maɪ dʒɔɪnts laɪk ˈrʌnɪŋ dʌz/",
+    "sampleAnswerTranslations": {
+      "vn": "Cách yêu thích của tôi để giữ dáng là đạp xe quanh thành phố hoặc công viên. Nó vui vẻ, thân thiện với môi trường, cho phép khám phá khu vực mới và cung cấp bài tập tim mạch tốt mà không gây áp lực nhiều lên khớp như chạy bộ.",
+      "kr": "체력 유지에 가장 좋아하는 방법은 도시나 공원에서 자전거 타기입니다. 즐겁고 친환경적이며 새로운 지역을 탐험할 수 있고 러닝처럼 관절에 큰 부담을 주지 않으면서 좋은 심혈관 운동을 제공합니다.",
+      "jp": "体力を維持する好きな方法は街や公園をサイクリングすることです。楽しくエコで、新しいエリアを探検でき、ランニングのように関節に大きな負担をかけずに良い心血管運動になります。"
+    },
+    "category": "Fitness"
+  },
+  {
+    "id": 238,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you prefer mornings or evenings?",
+    "ipa": "/duː juː prɪˈfɜːr ˈmɔːrnɪŋz ɔːr ˈiːvnɪŋz/",
+    "translations": {
+      "vn": "Bạn thích buổi sáng hay buổi tối hơn?",
+      "kr": "아침과 저녁 중 어느 쪽을 더 선호하시나요?",
+      "jp": "朝と夕方、どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer evenings because the day is winding down, I can relax after finishing work, enjoy dinner with family, and have time for hobbies like reading or watching shows without rushing to bed early.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈiːvnɪŋz bɪˈkɒz ðə deɪ ɪz ˈwaɪndɪŋ daʊn aɪ kæn rɪˈlæks ˈæftər ˈfɪnɪʃɪŋ wɜːrk ɪnˈdʒɔɪ ˈdɪnər wɪð ˈfæməli ənd hæv taɪm fɔːr ˈhɑːbiz laɪk ˈriːdɪŋ ɔːr ˈwɑːtʃɪŋ ʃoʊz wɪˈðaʊt ˈrʌʃɪŋ tuː bɛd ˈɜːrli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích buổi tối hơn vì ngày đã kết thúc, tôi có thể thư giãn sau khi hoàn thành công việc, ăn tối với gia đình và có thời gian cho sở thích như đọc sách hoặc xem chương trình mà không phải vội đi ngủ sớm.",
+      "kr": "저녁을 선호합니다. 하루가 마무리되고 일 끝난 후 휴식을 취하며 가족과 저녁을 먹고 독서나 프로그램 보기 같은 취미에 시간을 보낼 수 있으며 일찍 자야 하는 압박이 없기 때문입니다.",
+      "jp": "夕方を好みます。1日が終わり、仕事を終えてリラックスでき、家族と夕食を楽しめ、読書や番組視聴などの趣味に時間をかけられ、早く寝る必要がないからです。"
+    },
+    "category": "Daily Preferences"
+  },
+  {
+    "id": 239,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What volunteer work have you done or would like to do?",
+    "ipa": "/wɒt ˌvɑːlənˈtɪr wɜːrk hæv juː dʌn ɔːr wʊd laɪk tuː duː/",
+    "translations": {
+      "vn": "Bạn đã làm hoặc muốn làm công việc tình nguyện nào?",
+      "kr": "어떤 봉사활동을 했거나 하고 싶으신가요?",
+      "jp": "どんなボランティア活動をしたことがありますか、またはしたいですか？"
+    },
+    "sampleAnswer": "I have done volunteer work at an animal shelter, helping feed and care for abandoned pets. In the future, I would like to volunteer teaching English to underprivileged children because sharing knowledge can make a real difference in their lives and future opportunities.",
+    "sampleAnswerIpa": "/aɪ hæv dʌn ˌvɑːlənˈtɪr wɜːrk æt ən ˈænɪml ˈʃɛltər ˈhɛlpɪŋ fiːd ənd kɛr fɔːr əˈbændənd pɛts ɪn ðə ˈfjuːtʃər aɪ wʊd laɪk tuː ˌvɑːlənˈtɪr ˈtiːtʃɪŋ ˈɪŋɡlɪʃ tuː ˌʌndərˈprɪvəlɪdʒd ˈtʃɪldrən bɪˈkɒz ˈʃɛrɪŋ ˈnɑːlɪdʒ kæn meɪk ə rɪəl ˈdɪfrəns ɪn ðɛr laɪvz ənd ˈfjuːtʃər ˌɑːpərˈtuːnətiz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đã làm tình nguyện tại trại động vật, giúp cho ăn và chăm sóc thú cưng bị bỏ rơi. Trong tương lai, tôi muốn tình nguyện dạy tiếng Anh cho trẻ em nghèo vì chia sẻ kiến thức có thể tạo sự khác biệt thực sự trong cuộc sống và cơ hội tương lai của các em.",
+      "kr": "동물 보호소에서 봉사활동을 했습니다. 버려진 반려동물을 먹이고 돌보는 데 도왔습니다. 미래에는 불우한 아이들에게 영어를 가르치는 봉사를 하고 싶습니다. 지식을 공유하면 그들의 삶과 미래 기회에 실질적인 차이를 만들 수 있기 때문입니다.",
+      "jp": "動物シェルターでボランティアをしました。捨てられたペットの餌やりと世話を手伝いました。将来的には恵まれない子供たちに英語を教えるボランティアをしたいです。知識を共有すれば彼らの人生と将来の機会に本当の違いを生めるからです。"
+    },
+    "category": "Volunteer Work"
+  },
+  {
+    "id": 240,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like spicy food?",
+    "ipa": "/duː juː laɪk ˈspaɪsi fuːd/",
+    "translations": {
+      "vn": "Bạn có thích đồ ăn cay không?",
+      "kr": "매운 음식을 좋아하시나요?",
+      "jp": "辛い食べ物は好きですか？"
+    },
+    "sampleAnswer": "No, I don't like spicy food very much because it makes my mouth burn and sometimes causes stomach discomfort. I prefer milder flavors that let me enjoy the natural taste of ingredients without overwhelming heat from chili or peppers.",
+    "sampleAnswerIpa": "/noʊ aɪ doʊnt laɪk ˈspaɪsi fuːd ˈvɛri mʌtʃ bɪˈkɒz ɪt meɪks maɪ maʊθ bɜːrn ənd ˈsʌmtaɪmz ˈkɔːzɪz ˈstʌmək dɪsˈkʌmfərt aɪ prɪˈfɜːr ˈmaɪldər ˈfleɪvərz ðæt lɛt miː ɪnˈdʒɔɪ ðə ˈnætʃərəl teɪst əv ɪnˈɡriːdiənts wɪˈðaʊt ˌoʊvərˈwɛlmɪŋ hiːt frɑːm ˈtʃɪli ɔːr ˈpɛpərz/",
+    "sampleAnswerTranslations": {
+      "vn": "Không, tôi không thích đồ ăn cay lắm vì nó làm miệng bỏng rát và đôi khi gây khó chịu dạ dày. Tôi thích hương vị nhẹ hơn để thưởng thức vị tự nhiên của nguyên liệu mà không bị át bởi độ cay từ ớt.",
+      "kr": "아니요, 매운 음식을 별로 좋아하지 않습니다. 입이 타고 때때로 위가 불편해지기 때문입니다. 고추나 페퍼의 압도적인 매움 없이 재료의 자연스러운 맛을 즐길 수 있는 순한 맛을 선호합니다.",
+      "jp": "いいえ、辛い食べ物はあまり好きではありません。口が熱くなり、時々胃が不快になるからです。唐辛子やペッパーの圧倒的な辛さなく、材料の自然な味を楽しめるマイルドな味を好みます。"
+    },
+    "category": "Food Preferences"
+  },
+  {
+    "id": 241,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite place to relax at home?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt pleɪs tuː rɪˈlæks æt hoʊm/",
+    "translations": {
+      "vn": "Nơi yêu thích của bạn để thư giãn ở nhà là đâu?",
+      "kr": "집에서 휴식을 취하는 가장 좋아하는 장소는 어디인가요?",
+      "jp": "家でリラックスする好きな場所はどこですか？"
+    },
+    "sampleAnswer": "My favorite place to relax at home is my reading nook in the living room with a comfortable armchair and good lighting. I can sit there with a cup of tea, read books or magazines, and completely escape from daily worries for a while.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt pleɪs tuː rɪˈlæks æt hoʊm ɪz maɪ ˈriːdɪŋ nʊk ɪn ðə ˈlɪvɪŋ ruːm wɪð ə ˈkʌmfərtəbl ˈɑːrmtʃɛr ənd ɡʊd ˈlaɪtɪŋ aɪ kæn sɪt ðɛr wɪð ə kʌp əv tiː riːd bʊks ɔːr ˌmæɡəˈziːnz ənd kəmˈpliːtli ɪˈskeɪp frɑːm ˈdeɪli ˈwʌriz fɔːr ə waɪl/",
+    "sampleAnswerTranslations": {
+      "vn": "Nơi yêu thích để thư giãn ở nhà của tôi là góc đọc sách ở phòng khách với ghế bành thoải mái và ánh sáng tốt. Tôi có thể ngồi đó với tách trà, đọc sách hoặc tạp chí và hoàn toàn thoát khỏi lo lắng hàng ngày một lúc.",
+      "kr": "집에서 휴식을 취하는 가장 좋아하는 장소는 거실의 독서 코너로 편안한 안락의자와 좋은 조명이 있습니다. 차 한 잔과 함께 앉아서 책이나 잡지를 읽으며 일상 걱정에서 완전히 벗어날 수 있습니다.",
+      "jp": "家でリラックスする好きな場所はリビングの読書コーナーで、快適なアームチェアと良い照明があります。お茶を飲みながら座って本や雑誌を読み、日常の心配からしばらく完全に逃れられます。"
+    },
+    "category": "Home Relaxation"
+  },
+  {
+    "id": 242,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you enjoy taking photos?",
+    "ipa": "/duː juː ɪnˈdʒɔɪ ˈteɪkɪŋ ˈfoʊtoʊz/",
+    "translations": {
+      "vn": "Bạn có thích chụp ảnh không?",
+      "kr": "사진 찍는 것을 즐기시나요?",
+      "jp": "写真を撮るのを楽しんでいますか？"
+    },
+    "sampleAnswer": "Yes, I really enjoy taking photos, especially during trips or family events. It helps me document memories, notice beautiful details I might miss otherwise, and later I can create albums or share them online with loved ones who couldn't be there.",
+    "sampleAnswerIpa": "/jɛs aɪ ˈrɪəli ɪnˈdʒɔɪ ˈteɪkɪŋ ˈfoʊtoʊz ɪˈspɛʃəli ˈdjʊərɪŋ trɪps ɔːr ˈfæməli ɪˈvɛnts ɪt hɛlps miː ˈdɑːkjəmənt ˈmɛməriz ˈnoʊtɪs ˈbjuːtɪfl ˈdiːteɪlz aɪ maɪt mɪs ˈʌðərwaɪz ənd ˈleɪtər aɪ kæn kriˈeɪt ˈælbəmz ɔːr ʃɛr ðɛm ɑːnˈlaɪn wɪð lʌvd wʌnz huː ˈkʊdnt biː ðɛr/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi rất thích chụp ảnh, đặc biệt trong chuyến đi hoặc sự kiện gia đình. Nó giúp tôi ghi lại kỷ niệm, chú ý chi tiết đẹp mà có thể bỏ lỡ, và sau này tôi có thể tạo album hoặc chia sẻ online với người thân không thể có mặt.",
+      "kr": "네, 특히 여행이나 가족 행사에서 사진 찍는 것을 정말 즐깁니다. 추억을 기록하고 놓칠 수 있는 아름다운 디테일을 알아채며, 나중에 앨범을 만들거나 그 자리에 없던 사랑하는 사람들과 온라인으로 공유할 수 있습니다.",
+      "jp": "はい、特に旅行や家族イベントで写真を撮るのをとても楽しんでいます。思い出の記録になり、普段見逃すかもしれない美しいディテールに気づけ、後でアルバムを作ったり、そこにいられなかった愛する人たちとオンラインで共有できます。"
+    },
+    "category": "Photography"
+  },
+  {
+    "id": 243,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you do when you can't sleep at night?",
+    "ipa": "/wɒt duː juː duː wɛn juː kænt sliːp æt naɪt/",
+    "translations": {
+      "vn": "Khi không ngủ được vào ban đêm bạn làm gì?",
+      "kr": "밤에 잠이 오지 않을 때는 무엇을 하나요?",
+      "jp": "夜に眠れない時は何をしますか？"
+    },
+    "sampleAnswer": "When I can't sleep at night, I get up and do some light stretching or drink herbal tea to relax my body. Then I listen to soft music or podcasts with calming stories until I feel sleepy again and can drift off peacefully.",
+    "sampleAnswerIpa": "/wɛn aɪ kænt sliːp æt naɪt aɪ ɡɛt ʌp ənd duː sʌm laɪt ˈstrɛtʃɪŋ ɔːr drɪŋk ˈhɜːrbəl tiː tuː rɪˈlæks maɪ ˈbɑːdi ðɛn aɪ ˈlɪsən tuː sɔːft ˈmjuːzɪk ɔːr ˈpɑːdkæsts wɪð ˈkɑːmɪŋ ˈstɔːriz ʌnˈtɪl aɪ fiːl ˈsliːpi əˈɡɛn ənd kæn drɪft ɒf ˈpiːsfəli/",
+    "sampleAnswerTranslations": {
+      "vn": "Khi không ngủ được vào ban đêm, tôi dậy làm vài động tác giãn cơ nhẹ hoặc uống trà thảo mộc để thư giãn cơ thể. Sau đó tôi nghe nhạc nhẹ hoặc podcast với câu chuyện êm dịu đến khi buồn ngủ trở lại và có thể chìm vào giấc ngủ yên bình.",
+      "kr": "밤에 잠이 오지 않을 때는 일어나 가벼운 스트레칭을 하거나 허브티를 마셔 몸을 이완합니다. 그 후 부드러운 음악이나 진정되는 이야기를 가진 팟캐스트를 듣다가 다시 졸릴 때까지 기다려 평화롭게 잠듭니다。",
+      "jp": "夜眠れない時は起きて軽いストレッチをしたりハーブティーを飲んだりして体をリラックスします。それから柔らかい音楽や落ち着くストーリーのポッドキャストを聴き、再び眠くなるまで待って穏やかに眠りにつきます。"
+    },
+    "category": "Sleep Habits"
+  },
+  {
+    "id": 244,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like to plan your day in advance?",
+    "ipa": "/duː juː laɪk tuː plæn jɔːr deɪ ɪn ədˈvæns/",
+    "translations": {
+      "vn": "Bạn có thích lập kế hoạch cho ngày của mình trước không?",
+      "kr": "하루를 미리 계획하는 것을 좋아하시나요?",
+      "jp": "1日を事前に計画するのが好きですか？"
+    },
+    "sampleAnswer": "No, I don't like to plan my day too strictly in advance because unexpected things often happen, and I prefer flexibility. However, I do make a short to-do list in the morning to prioritize important tasks and feel accomplished as I check them off.",
+    "sampleAnswerIpa": "/noʊ aɪ doʊnt laɪk tuː plæn maɪ deɪ tuː ˈstrɪktli ɪn ədˈvæns bɪˈkɒz ˌʌnɪkˈspɛktɪd θɪŋz ˈɒfən ˈhæpən ənd aɪ prɪˈfɜːr ˌflɛksəˈbɪləti haʊˈɛvər aɪ duː meɪk ə ʃɔːrt tuː duː lɪst ɪn ðə ˈmɔːrnɪŋ tuː praɪˈɔːrətaɪz ɪmˈpɔːrtənt tæsks ənd fiːl əˈkʌmplɪʃt æz aɪ tʃɛk ðɛm ɒf/",
+    "sampleAnswerTranslations": {
+      "vn": "Không, tôi không thích lập kế hoạch ngày quá nghiêm ngặt trước vì thường có việc bất ngờ xảy ra và tôi thích sự linh hoạt. Tuy nhiên, tôi làm danh sách việc cần làm ngắn vào buổi sáng để ưu tiên nhiệm vụ quan trọng và cảm thấy hoàn thành khi đánh dấu chúng.",
+      "kr": "아니요, 하루를 너무 엄격하게 미리 계획하는 것은 좋아하지 않습니다. 예상치 못한 일이 자주 발생하고 유연성을 선호하기 때문입니다. 하지만 아침에 짧은 할 일 목록을 만들어 중요한 작업을 우선순위화하고 체크하면서 성취감을 느낍니다.",
+      "jp": "いいえ、1日をあまり厳密に事前に計画するのは好きではありません。予期せぬことがよく起こり、柔軟性を好むからです。でも朝に短いToDoリストを作って重要なタスクを優先し、チェックしていくと達成感を感じます。"
+    },
+    "category": "Planning"
+  },
+  {
+    "id": 245,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What is your favorite dessert?",
+    "ipa": "/wɒt ɪz jɔːr ˈfeɪvərɪt dɪˈzɜːrt/",
+    "translations": {
+      "vn": "Món tráng miệng yêu thích của bạn là gì?",
+      "kr": "가장 좋아하는 디저트는 무엇인가요?",
+      "jp": "好きなデザートは何ですか？"
+    },
+    "sampleAnswer": "My favorite dessert is tiramisu because the combination of coffee-soaked ladyfingers, creamy mascarpone, and cocoa powder is heavenly. It's not too sweet, has a rich flavor, and always feels like a special treat after a good meal.",
+    "sampleAnswerIpa": "/maɪ ˈfeɪvərɪt dɪˈzɜːrt ɪz ˌtɪrəmɪˈsuː bɪˈkɒz ðə ˌkɑːmbɪˈneɪʃən əv ˈkɔːfi soʊkt ˈleɪdɪˌfɪŋɡərz ˈkriːmi mæskɑːrˈpoʊni ənd ˈkoʊkoʊ ˈpaʊdər ɪz ˈhɛvənli ɪts nɑːt tuː swiːt hæz ə rɪtʃ ˈfleɪvər ənd ˈɔːlweɪz fiːlz laɪk ə ˈspɛʃəl triːt ˈæftər ə ɡʊd miːl/",
+    "sampleAnswerTranslations": {
+      "vn": "Món tráng miệng yêu thích của tôi là tiramisu vì sự kết hợp của bánh ladyfingers ngấm cà phê, mascarpone kem và bột cacao thật tuyệt vời. Nó không quá ngọt, có hương vị đậm đà và luôn cảm giác như món đặc biệt sau bữa ăn ngon.",
+      "kr": "제가 가장 좋아하는 디저트는 티라미수입니다. 커피에 적신 레이디핑거, 크리미한 마스카포네, 코코아 파우더의 조합이 천국 같습니다. 너무 달지 않고 풍부한 맛이 있으며 좋은 식사 후 특별한 대접 같은 느낌입니다.",
+      "jp": "好きなデザートはティラミスです。コーヒーに浸したレディフィンガー、クリーミーなマスカルポーネ、ココアパウダーの組み合わせが天国みたいです。甘すぎず豊かな味で、良い食事の後に特別なおやつと感じます。"
+    },
+    "category": "Desserts"
+  },
+  {
+    "id": 246,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you enjoy meeting new people?",
+    "ipa": "/duː juː ɪnˈdʒɔɪ ˈmiːtɪŋ nuː ˈpiːpl/",
+    "translations": {
+      "vn": "Bạn có thích gặp gỡ người mới không?",
+      "kr": "새로운 사람들을 만나는 것을 즐기시나요?",
+      "jp": "新しい人に出会うのを楽しんでいますか？"
+    },
+    "sampleAnswer": "No, I'm a bit introverted, so meeting new people can be tiring for me. I prefer spending time with close friends I already know well. However, when I do meet someone new through common interests, it can be rewarding and lead to meaningful connections.",
+    "sampleAnswerIpa": "/noʊ aɪm ə bɪt ˌɪntrəˈvɜːrtɪd soʊ ˈmiːtɪŋ nuː ˈpiːpl kæn biː ˈtaɪərɪŋ fɔːr miː aɪ prɪˈfɜːr ˈspɛndɪŋ taɪm wɪð kloʊs frɛndz aɪ ˈɔːlredi noʊ wɛl haʊˈɛvər wɛn aɪ duː miːt ˈsʌmwʌn nuː θruː ˈkɑːmən ˈɪntrəsts ɪt kæn biː rɪˈwɔːrdɪŋ ənd liːd tuː ˈmiːnɪŋfəl kəˈnɛkʃənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Không, tôi hơi hướng nội nên gặp người mới có thể mệt mỏi với tôi. Tôi thích dành thời gian với bạn thân đã quen biết tốt. Tuy nhiên, khi gặp ai đó mới qua sở thích chung, nó có thể thú vị và dẫn đến mối quan hệ ý nghĩa.",
+      "kr": "아니요, 저는 약간 내향적이어서 새로운 사람들을 만나는 것이 피곤할 수 있습니다. 이미 잘 아는 가까운 친구들과 시간을 보내는 것을 선호합니다. 하지만 공통 관심사를 통해 새로운 사람을 만나면 보람 있고 의미 있는 연결로 이어질 수 있습니다。",
+      "jp": "いいえ、少し内向的なので新しい人に出会うのは疲れます。すでに良く知っている親しい友達と過ごす方を好みます。でも共通の関心事で新しい人に会うとやりがいがあり、意味のあるつながりにつながることもあります。"
+    },
+    "category": "Socializing"
+  },
+  {
+    "id": 247,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What do you usually have for breakfast?",
+    "ipa": "/wɒt duː juː ˈjuːʒʊəli hæv fɔːr ˈbrɛkfəst/",
+    "translations": {
+      "vn": "Bạn thường ăn sáng gì?",
+      "kr": "아침 식사는 보통 무엇을 드시나요?",
+      "jp": "朝食は普段何を食べますか？"
+    },
+    "sampleAnswer": "For breakfast, I usually have oatmeal with fresh fruits, nuts, and a boiled egg on the side. It's nutritious, keeps me full until lunch, provides steady energy for the morning, and is quick to prepare before heading to work.",
+    "sampleAnswerIpa": "/fɔːr ˈbrɛkfəst aɪ ˈjuːʒʊəli hæv ˈoʊtmiːl wɪð frɛʃ fruːts nʌts ənd ə bɔɪld ɛɡ ɒn ðə saɪd ɪts nuːˈtrɪʃəs kiːps miː fʊl ʌnˈtɪl lʌntʃ prəˈvaɪdz ˈstɛdi ˈɛnərdʒi fɔːr ðə ˈmɔːrnɪŋ ənd ɪz kwɪk tuː prɪˈpɛr bɪˈfɔːr ˈhɛdɪŋ tuː wɜːrk/",
+    "sampleAnswerTranslations": {
+      "vn": "Bữa sáng, tôi thường ăn yến mạch với trái cây tươi, hạt và một quả trứng luộc kèm theo. Nó dinh dưỡng, giữ no đến trưa, cung cấp năng lượng ổn định cho buổi sáng và nhanh chóng chuẩn bị trước khi đi làm.",
+      "kr": "아침으로는 보통 오트밀에 신선한 과일, 견과류, 삶은 계란을 곁들여 먹습니다. 영양가 있고 점심까지 포만감을 유지하며 아침에 안정적인 에너지를 주고 출근 전에 빠르게 준비할 수 있습니다。",
+      "jp": "朝食は普段、オートミールに新鮮なフルーツ、ナッツ、ゆで卵を添えて食べます。栄養があり、お昼まで満腹感を保ち、朝に安定したエネルギーを与え、出勤前に素早く準備できます。"
+    },
+    "category": "Breakfast"
+  },
+  {
+    "id": 248,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you like to travel alone or with others?",
+    "ipa": "/duː juː laɪk tuː ˈtrævl əˈloʊn ɔːr wɪð ˈʌðərz/",
+    "translations": {
+      "vn": "Bạn thích du lịch một mình hay cùng người khác?",
+      "kr": "혼자 여행하는 것과 다른 사람과 함께 여행하는 것 중 어느 쪽을 좋아하시나요?",
+      "jp": "一人で旅行するのが好きですか、それとも他人と一緒ですか？"
+    },
+    "sampleAnswer": "I like to travel alone sometimes because I can set my own schedule, go at my own pace, discover places spontaneously, and have time for self-reflection. However, for longer trips, I prefer with friends to share the excitement and create shared memories.",
+    "sampleAnswerIpa": "/aɪ laɪk tuː ˈtrævl əˈloʊn ˈsʌmtaɪmz bɪˈkɒz aɪ kæn sɛt maɪ oʊn ˈskɛdʒuːl ɡoʊ æt maɪ oʊn peɪs dɪˈskʌvər ˈpleɪsɪz spɑːnˈteɪniəsli ənd hæv taɪm fɔːr sɛlf rɪˈflɛkʃən haʊˈɛvər fɔːr ˈlɒŋɡər trɪps aɪ prɪˈfɜːr wɪð frɛndz tuː ʃɛr ði ɪkˈsaɪtmənt ənd kriˈeɪt ʃɛrd ˈmɛməriz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích du lịch một mình đôi khi vì có thể tự đặt lịch trình, đi theo nhịp độ riêng, khám phá nơi chốn ngẫu hứng và có thời gian tự suy ngẫm. Tuy nhiên, với chuyến dài, tôi thích cùng bạn bè để chia sẻ sự hào hứng và tạo kỷ niệm chung.",
+      "kr": "때때로 혼자 여행하는 것을 좋아합니다. 자신의 일정을 정하고 페이스를 맞추며 장소를 즉흥적으로 발견하고 자기 성찰 시간을 가질 수 있기 때문입니다. 하지만 장기 여행에는 친구들과 함께 해서 흥분을 공유하고 공유된 추억을 만드는 것을 선호합니다。",
+      "jp": "時々一人旅が好きです。自分のスケジュールを決め、自分のペースで進め、場所を即興で発見し、自己反省の時間を取れるからです。でも長い旅行には友達と一緒にして興奮を共有し、共有の思い出を作る方を好みます。"
+    },
+    "category": "Travel Style"
+  },
+  {
+    "id": 249,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "What apps do you use the most on your phone?",
+    "ipa": "/wɒt æps duː juː juːz ðə moʊst ɒn jɔːr foʊn/",
+    "translations": {
+      "vn": "Bạn sử dụng ứng dụng nào nhiều nhất trên điện thoại?",
+      "kr": "휴대폰에서 가장 많이 사용하는 앱은 무엇인가요?",
+      "jp": "スマホで最もよく使うアプリは何ですか？"
+    },
+    "sampleAnswer": "I use navigation apps like Google Maps the most on my phone because I commute daily and explore new places on weekends. They help me find the fastest routes, avoid traffic, and discover nearby restaurants or attractions easily.",
+    "sampleAnswerIpa": "/aɪ juːz ˌnævɪˈɡeɪʃən æps laɪk ˈɡuːɡl mæps ðə moʊst ɒn maɪ foʊn bɪˈkɒz aɪ kəˈmjuːt ˈdeɪli ənd ɪkˈsplɔːr nuː ˈpleɪsɪz ɒn ˈwiːkɛndz ðeɪ hɛlp miː faɪnd ðə ˈfæstɪst ruːts əˈvɔɪd ˈtræfɪk ənd dɪˈskʌvər ˈnɪrbaɪ ˈrɛstərɑːnts ɔːr əˈtrækʃənz ˈiːzɪli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi dùng ứng dụng định vị như Google Maps nhiều nhất trên điện thoại vì đi làm hàng ngày và khám phá nơi mới vào cuối tuần. Chúng giúp tôi tìm tuyến đường nhanh nhất, tránh tắc đường và dễ dàng khám phá nhà hàng hoặc điểm tham quan gần đó.",
+      "kr": "휴대폰에서 Google Maps 같은 내비게이션 앱을 가장 많이 사용합니다. 매일 통근하고 주말에 새로운 장소를 탐험하기 때문입니다. 가장 빠른 경로를 찾고 교통을 피하며 근처 레스토랑이나 명소를 쉽게 발견할 수 있습니다.",
+      "jp": "スマホではGoogle Mapsのようなナビゲーションアプリを最もよく使います。毎日通勤し、週末に新しい場所を探検するからです。最速ルートを見つけ、交通を避け、近くのレストランやアトラクションを簡単に発見できます。"
+    },
+    "category": "Technology & Apps"
+  },
+  {
+    "id": 250,
+    "questionType": "Respond to questions",
+    "questionNumber": "Q5-6",
+    "text": "Do you think working from home is better than going to the office?",
+    "ipa": "/duː juː θɪŋk ˈwɜːrkɪŋ frɑːm hoʊm ɪz ˈbɛtər ðæn ˈɡoʊɪŋ tuː ði ˈɔːfɪs/",
+    "translations": {
+      "vn": "Bạn nghĩ làm việc tại nhà có tốt hơn đi đến văn phòng không?",
+      "kr": "재택근무가 사무실 출근보다 낫다고 생각하시나요?",
+      "jp": "在宅勤務はオフィス通勤より良いと思いますか？"
+    },
+    "sampleAnswer": "Yes, I think working from home is better for me because there's no commute time wasted, I can create a comfortable workspace, manage my schedule more flexibly, and maintain better work-life balance without office distractions.",
+    "sampleAnswerIpa": "/jɛs aɪ θɪŋk ˈwɜːrkɪŋ frɑːm hoʊm ɪz ˈbɛtər fɔːr miː bɪˈkɒz ðɛrz noʊ kəˈmjuːt taɪm ˈweɪstɪd aɪ kæn kriˈeɪt ə ˈkʌmfərtəbl ˈwɜːrkˌspeɪs ˈmænɪdʒ maWith ˈskɛdʒuːl mɔːr ˌflɛksəˈbɪləti ənd meɪnˈteɪn ˈbɛtər wɜːrk laɪf ˈbæləns wɪˈðaʊt ˈɔːfɪs dɪˈstrækʃənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi nghĩ làm việc tại nhà tốt hơn với tôi vì không mất thời gian di chuyển, có thể tạo không gian làm việc thoải mái, quản lý lịch trình linh hoạt hơn và duy trì cân bằng công việc-cuộc sống tốt hơn mà không bị phân tâm văn phòng.",
+      "kr": "네, 재택근무가 제게 더 좋다고 생각합니다. 통근 시간이 낭비되지 않고 편안한 작업 공간을 만들 수 있으며 일정을 더 유연하게 관리하고 사무실 방해 없이 더 나은 워크라이프 밸런스를 유지할 수 있기 때문입니다.",
+      "jp": "はい、在宅勤務の方が私には良いと思います。通勤時間が無駄にならず、快適なワークスペースを作れ、スケジュールをより柔軟に管理でき、オフィスの気晴らしなくワークライフバランスを良く保てるからです。"
+    },
+    "category": "Work from Home"
+  }
+]

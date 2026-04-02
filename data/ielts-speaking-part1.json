@@ -1,0 +1,1961 @@
+[
+  {
+    "id": 1,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Could you please tell me your full name?",
+    "ipa": "/kʊd juː pliːz tel mi jɔː fʊl neɪm/",
+    "translations": {
+      "vn": "Bạn có thể cho tôi biết tên đầy đủ của bạn không?",
+      "kr": "성함을 알려주시겠어요?",
+      "jp": "フルネームを教えてください。"
+    },
+    "sampleAnswer": "My full name is Nguyen Thi Lan. It's a common Vietnamese name, with 'Nguyen' being my family name, which is shared by about 40% of the population here, and 'Thi Lan' as my given name, meaning 'fairy orchid' – quite poetic, don't you think? I appreciate it because it connects me to my roots and has a gentle, feminine ring to it.",
+    "sampleAnswerIpa": "/maɪ fʊl neɪm ɪz ŋʊjən θi læn ɪts ə ˈkɒmən vɪɛtnəˈmiːz neɪm wɪð ŋʊjən ˈbiːɪŋ maɪ ˈfæmɪli neɪm wɪtʃ ɪz ʃeəd baɪ əˈbaʊt ˈfɔːti pəˈsɛnt ɒv ðə ˌpɒpjʊˈleɪʃn hɪər ənd θi læn æz maɪ ˈɡɪvn neɪm ˈmiːnɪŋ ˈfeəri ˈɔːkɪd ˈkwaɪt pəʊˈɛtɪk dəʊnt juː θɪŋk aɪ əˈpriːʃieɪt ɪt bɪˈkɒz ɪt kəˈnɛkts miː tuː maɪ ruːts ənd hæz ə ˈdʒɛntl ˈfɛmɪnɪn rɪŋ tuː ɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tên đầy đủ của tôi là Nguyễn Thị Lan. Đây là một tên rất phổ biến ở Việt Nam, 'Nguyễn' là họ của tôi – khoảng 40% dân số dùng họ này, còn 'Thị Lan' là tên gọi, nghĩa là 'lan tiên' – khá thơ mộng phải không? Tôi thích tên này vì nó gắn kết tôi với cội nguồn và có âm hưởng nhẹ nhàng, nữ tính.",
+      "kr": "제 이름은 응우옌 티 란입니다. 베트남에서 아주 흔한 이름인데, '응우옌'은 제 성으로 여기 인구의 약 40%가 사용하는 성이고, '티 란'은 이름으로 '요정 난초'라는 뜻이에요 – 꽤 시적이죠? 뿌리와 연결해주고 부드럽고 여성스러운 울림이 있어서 좋아해요.",
+      "jp": "私のフルネームはグエン・ティ・ランです。ベトナムではとても一般的な名前で、『グエン』は私の姓で人口の約40%が共有しています。『ティ・ラン』は名前で「妖精の蘭」という意味です – かなり詩的ですよね？この名前が好きです。なぜなら自分のルーツとつながり、優しく女性らしい響きがあるからです。"
+    },
+    "category": "Personal Information"
+  },
+  {
+    "id": 2,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Where are you from?",
+    "ipa": "/weər ɑːr juː frɒm/",
+    "translations": {
+      "vn": "Bạn đến từ đâu?",
+      "kr": "어디 출신이세요?",
+      "jp": "どこ出身ですか?"
+    },
+    "sampleAnswer": "I'm from Ho Chi Minh City, the bustling heart of southern Vietnam. It's a vibrant metropolis known for its street food scene and non-stop energy, but I grew up in a quieter suburb on the outskirts, which gave me the best of both worlds – easy access to the city's excitement without the constant chaos.",
+    "sampleAnswerIpa": "/aɪm frɒm həʊ tʃiː mɪn ˈsɪti ðə ˈbʌslɪŋ hɑːt ɒv ˈsaʊðən vɪɛtˈnæm ɪts ə ˈvaɪbrənt ˌmɛtrəˈpɒlɪs nəʊn fɔːr ɪts striːt fuːd siːn ənd nɒn-stɒp ˈɛnədʒi bʌt aɪ ɡruː ʌp ɪn ə ˈkwaɪətə ˈsʌbɜːb ɒn ði ˈaʊtskɜːts wɪtʃ ɡeɪv miː ðə bɛst ɒv bəʊθ wɜːldz ˈiːzi ˈæksɛs tuː ðə ˈsɪtiz ɪkˈsaɪtmənt wɪˈðaʊt ðə ˈkɒnstənt ˈkeɪɒs/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đến từ Thành phố Hồ Chí Minh, trung tâm nhộn nhịp của miền Nam Việt Nam. Đó là một đô thị sôi động nổi tiếng với ẩm thực đường phố và năng lượng không ngừng nghỉ, nhưng tôi lớn lên ở một vùng ngoại ô yên tĩnh hơn, nhờ vậy tôi có được cả hai thế giới – dễ dàng tiếp cận sự sôi nổi của thành phố mà không phải chịu cảnh hỗn loạn liên tục.",
+      "kr": "저는 호치민시 출신입니다. 베트남 남부의 번화한 중심지죠. 길거리 음식과 끊임없는 에너지로 유명한 활기찬 대도시인데, 저는 외곽의 조용한 교외에서 자랐어요. 그래서 도시의 흥분에 쉽게 접근하면서도 지속적인 혼란은 피할 수 있는 최고의 환경이었어요.",
+      "jp": "私はホーチミン市出身です。ベトナム南部の賑やかな中心地です。ストリートフードと止まらないエネルギーで知られる活気ある大都市ですが、私は郊外の静かな住宅地で育ちました。それのおかげで都市の興奮に簡単にアクセスできつつ、絶え間ない混沌からは逃れられる最高の両方の世界を手に入れました。"
+    },
+    "category": "Hometown"
+  },
+  {
+    "id": 3,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are you working or studying at the moment?",
+    "ipa": "/ɑːr juː ˈwɜːkɪŋ ɔːr ˈstʌdiɪŋ æt ðə ˈməʊmənt/",
+    "translations": {
+      "vn": "Bạn đang làm việc hay học tập lúc này?",
+      "kr": "현재 직장인이세요, 아니면 학생이세요?",
+      "jp": "今、働いていますか、それとも勉強中ですか?"
+    },
+    "sampleAnswer": "I'm currently pursuing a degree in international business at a university in the city center. It's challenging with all the group projects and late-night study sessions, but I find it rewarding because it opens doors to global opportunities, and I'm passionate about how trade shapes our world.",
+    "sampleAnswerIpa": "/aɪm ˈkʌrəntli pəˈsjuːɪŋ ə dɪˈɡriː ɪn ˌɪntəˈnæʃənl ˈbɪznɪs æt ə ˌjuːnɪˈvɜːsəti ɪn ðə ˈsɪti ˈsɛntər ɪts ˈtʃælɪndʒɪŋ wɪð ɔːl ðə ɡruːp ˈprɒdʒɛkts ənd leɪt-naɪt ˈstʌdi ˈsɛʃnz bʌt aɪ faɪnd ɪt rɪˈwɔːdɪŋ bɪˈkɒz ɪt ˈəʊpənz dɔːz tuː ˈɡləʊbl ˌɒpəˈtjuːnətiz ənd aɪm ˈpæʃənət əˈbaʊt haʊ treɪd ʃeɪps aʊə wɜːld/",
+    "sampleAnswerTranslations": {
+      "vn": "Hiện tại tôi đang theo học ngành kinh doanh quốc tế tại một trường đại học ở trung tâm thành phố. Khá thử thách với hàng loạt dự án nhóm và những buổi học khuya, nhưng tôi thấy rất đáng giá vì nó mở ra nhiều cơ hội toàn cầu, và tôi đam mê cách thương mại định hình thế giới của chúng ta.",
+      "kr": "현재 도시 중심에 있는 대학에서 국제 비즈니스 학위를 공부하고 있어요. 그룹 프로젝트와 밤늦게까지 공부하는 세션 때문에 도전적이지만, 글로벌 기회의 문을 열어주고 무역이 우리 세상을 어떻게 형성하는지에 열정적이어서 보람을 느껴요.",
+      "jp": "現在、市中心の大学で国際ビジネスを専攻しています。グループプロジェクトや深夜の勉強会が多くて大変ですが、グローバルな機会への扉を開いてくれるし、貿易が私たちの世界をどう形作るかに情熱を持っているのでやりがいを感じます。"
+    },
+    "category": "Work & Study"
+  },
+  {
+    "id": 4,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What do you particularly enjoy about your hometown?",
+    "ipa": "/wɒt duː juː pəˈtɪkjʊləli ɪnˈdʒɔɪ əˈbaʊt jɔː ˈhəʊmtaʊn/",
+    "translations": {
+      "vn": "Bạn đặc biệt thích gì ở quê hương mình?",
+      "kr": "고향에서 특별히 좋아하는 점은 무엇인가요?",
+      "jp": "故郷で特に楽しんでいることは何ですか?"
+    },
+    "sampleAnswer": "What I love most about my hometown is its incredible culinary diversity – you can wander down any alleyway and stumble upon a hidden gem serving authentic pho or banh mi. The sense of community is palpable too; neighbors still chat over morning coffee, which feels like a refreshing escape from the impersonal hustle of bigger cities.",
+    "sampleAnswerIpa": "/wɒt aɪ lʌv məʊst əˈbaʊt maɪ ˈhəʊmtaʊn ɪz ɪts ɪnˈkrɛdəbl ˌkʌlɪˈnɛri daɪˈvɜːsəti juː kən ˈwɒndə daʊn ˈɛni ˈælɪweɪ ənd ˈstʌmbl əˈpɒn ə ˈhɪdn dʒɛm ˈsɜːvɪŋ ɔːˈθɛntɪk fəʊ ɔːr bæŋ mi ðə sɛns ɒv kəˈmjuːnəti ɪz ˈpælpəbl tuː ˈneɪbəz stɪl tʃæt ˈəʊvə ˈmɔːnɪŋ ˈkɒfi wɪtʃ fiːlz laɪk ə rɪˈfrɛʃɪŋ ɪˈskeɪp frɒm ði ɪmˈpɜːsənl ˈhʌsl ɒv ˈbɪɡə ˈsɪtiz/",
+    "sampleAnswerTranslations": {
+      "vn": "Điều tôi yêu thích nhất ở quê hương là sự đa dạng ẩm thực tuyệt vời – chỉ cần lang thang bất kỳ con hẻm nào cũng có thể tình cờ tìm thấy một quán ẩn phục vụ phở hay bánh mì chính hiệu. Cảm giác cộng đồng cũng rất rõ nét; hàng xóm vẫn trò chuyện bên tách cà phê sáng, điều đó như một lối thoát tươi mới khỏi sự lạnh lùng hối hả của các thành phố lớn.",
+      "kr": "제 고향에서 가장 좋아하는 것은 놀라운 요리의 다양성입니다 – 골목을 거닐다 보면 정통 포나 반미를 파는 숨겨진 보석 같은 곳을 우연히 발견할 수 있어요. 공동체 의식도 강하게 느껴져요. 이웃들이 아침 커피를 마시며 여전히 수다를 떨죠. 더 큰 도시의 비인간적인 바쁨에서 벗어나 상쾌한 탈출구처럼 느껴져요.",
+      "jp": "故郷で一番好きなのは驚くほどの料理の多様性です – どんな路地を歩いていても、本格的なフォーやバインミーを出す隠れた名店に偶然出会えます。コミュニティの感覚も強く感じられ、近所の人々が朝のコーヒーを飲みながらまだおしゃべりしています。それは大都市の無個性な忙しさから爽やかな逃避のように感じられます。"
+    },
+    "category": "Hometown"
+  },
+  {
+    "id": 5,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you live in a house or an apartment?",
+    "ipa": "/duː juː lɪv ɪn ə haʊs ɔːr ən əˈpɑːtmənt/",
+    "translations": {
+      "vn": "Bạn sống trong nhà riêng hay căn hộ?",
+      "kr": "집에 사세요, 아니면 아파트에 사세요?",
+      "jp": "一軒家に住んでいますか、それともアパートですか?"
+    },
+    "sampleAnswer": "I'm living in a cozy apartment in a high-rise building downtown. It's modern with all the amenities like a gym and pool, but the best part is the balcony where I can sip tea while overlooking the city lights – it makes the daily grind feel a bit more glamorous.",
+    "sampleAnswerIpa": "/aɪm ˈlɪvɪŋ ɪn ə ˈkəʊzi əˈpɑːtmənt ɪn ə haɪ-raɪz ˈbɪldɪŋ daʊnˈtaʊn ɪts ˈmɒdən wɪð ɔːl ði əˈmɛnətiz laɪk ə dʒɪm ənd puːl bʌt ðə bɛst pɑːt ɪz ðə ˈbælkəni weər aɪ kən sɪp tiː waɪl ˌəʊvəˈlʊkɪŋ ðə ˈsɪti laɪts ɪt meɪks ðə ˈdeɪli ɡraɪnd fiːl ə bɪt mɔː ˈɡlæmərəs/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đang sống trong một căn hộ ấm cúng ở tòa nhà cao tầng trung tâm thành phố. Căn hộ hiện đại với đầy đủ tiện ích như phòng gym và hồ bơi, nhưng phần tuyệt nhất là ban công – nơi tôi có thể nhấm nháp trà trong khi ngắm ánh đèn thành phố, khiến cuộc sống hàng ngày trở nên lung linh hơn một chút.",
+      "kr": "저는 도심의 고층 건물에 있는 아늑한 아파트에 살고 있어요. 헬스장과 수영장 같은 모든 편의시설이 현대적이에요. 하지만 가장 좋은 부분은 발코니예요 – 차를 마시며 도시 불빛을 내려다볼 수 있어서 일상의 고단함이 조금 더 화려하게 느껴져요.",
+      "jp": "私は市中心の高層ビルにある居心地の良いアパートに住んでいます。ジムやプールなどの設備が整ったモダンな建物ですが、一番気に入っているのはバルコニーです – お茶を飲みながら街の明かりを見下ろせます。それが毎日のルーチンを少し華やかに感じさせてくれます。"
+    },
+    "category": "Accommodation"
+  },
+  {
+    "id": 6,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What do you typically do to unwind on weekends?",
+    "ipa": "/wɒt duː juː ˈtɪpɪkli duː tuː ʌnˈwaɪnd ɒn ˈwiːkendz/",
+    "translations": {
+      "vn": "Bạn thường làm gì để thư giãn vào cuối tuần?",
+      "kr": "주말에 휴식을 취하기 위해 보통 무엇을 하나요?",
+      "jp": "週末にリラックスするために普段何をしますか?"
+    },
+    "sampleAnswer": "Weekends are my recharge time – I usually start with a leisurely brunch, then head to a nearby cafe to read a novel or catch up with friends over iced coffee. If the weather's nice, a stroll in the park with my earbuds in, listening to a podcast, is the perfect way to reset before the week ahead.",
+    "sampleAnswerIpa": "/ˈwiːkɛndz ɑː maɪ riːˈtʃɑːdʒ taɪm aɪ ˈjuːʒʊəli stɑːt wɪð ə ˈlɛʒəli brʌntʃ ðɛn hɛd tuː ə ˈnɪəbaɪ kæˈfeɪ tuː riːd ə ˈnɒvl ɔːr kætʃ ʌp wɪð frɛndz ˈəʊvə aɪst ˈkɒfi ɪf ðə ˈwɛðəz naɪs ə strəʊl ɪn ðə pɑːk wɪð maɪ ˈɪəbʌdz ɪn ˈlɪsnɪŋ tuː ə ˈpɒdkɑːst ɪz ðə ˈpɜːfɪkt weɪ tuː riːˈsɛt bɪˈfɔː ðə wiːk əˈhɛd/",
+    "sampleAnswerTranslations": {
+      "vn": "Cuối tuần là thời gian nạp năng lượng của tôi – thường bắt đầu bằng bữa brunch thư thả, sau đó đến quán cà phê gần nhà để đọc tiểu thuyết hoặc gặp gỡ bạn bè bên ly cà phê đá. Nếu thời tiết đẹp, đi dạo công viên với tai nghe và nghe podcast là cách hoàn hảo để reset trước tuần mới.",
+      "kr": "주말은 제 재충전 시간이에요 – 보통 여유로운 브런치로 시작하고, 근처 카페로 가서 소설을 읽거나 아이스 커피를 마시며 친구들과 수다를 떨어요. 날씨가 좋으면 이어폰 끼고 공원을 산책하며 팟캐스트를 듣는 게 다음 주를 앞두고 완벽한 리셋 방법이에요.",
+      "jp": "週末は私の充電時間です – 通常はのんびりしたブランチから始め、近くのカフェに行って小説を読んだり、アイスコーヒーを飲みながら友達と近況を話したりします。天気が良ければイヤホンをして公園を散歩しながらポッドキャストを聞くのが、次の週に向けて完璧なリセット方法です。"
+    },
+    "category": "Leisure"
+  },
+  {
+    "id": 7,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Would you say you prefer curling up with a good book or binge-watching a series?",
+    "ipa": "/wʊd juː seɪ juː prɪˈfɜː ˈkɜːlɪŋ ʌp wɪð ə ɡʊd bʊk ɔːr ˈbɪndʒ ˈwɒtʃɪŋ ə ˈsɪəriːz/",
+    "translations": {
+      "vn": "Bạn thích cuộn tròn với một cuốn sách hay xem loạt phim dài hơn?",
+      "kr": "좋은 책 읽기와 시리즈 몰아보기 중 어느 것을 더 좋아하세요?",
+      "jp": "良い本をくつろいで読むか、シリーズを一気見するかのどちらが好きですか?"
+    },
+    "sampleAnswer": "I'm a bit of a bookworm at heart, so I'd lean towards diving into a captivating novel – there's something magical about getting lost in the author's world without distractions. That said, on rainy days, nothing beats the escapism of a gripping series like 'The Crown,' where the visuals and plot twists keep me hooked for hours.",
+    "sampleAnswerIpa": "/aɪm ə bɪt ɒv ə ˈbʊkwɜːm æt hɑːt səʊ aɪd liːn təˈwɔːdz ˈdaɪvɪŋ ˈɪntu ə ˈkæptɪveɪtɪŋ ˈnɒvl ðɛəz ˈsʌmθɪŋ ˈmædʒɪkl əˈbaʊt ˈɡɛtɪŋ lɒst ɪn ði ˈɔːθəz wɜːld wɪˈðaʊt dɪˈstrækʃnz ðæt sɛd ɒn ˈreɪni deɪz ˈnʌθɪŋ biːts ði ˈɛskəpɪzəm ɒv ə ˈɡrɪpɪŋ ˈsɪəriːz laɪk ðə kraʊn weər ðə ˈvɪʒʊəlz ənd plɒt twɪsts kiːp miː hʊkt fɔːr aʊəz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi là một mọt sách chính hiệu, nên tôi nghiêng về việc đắm chìm trong một cuốn tiểu thuyết hấp dẫn – có điều gì đó kỳ diệu khi lạc vào thế giới của tác giả mà không bị phân tâm. Tuy nhiên, vào những ngày mưa, không gì sánh bằng việc trốn tránh thực tế với một series gay cấn như 'The Crown', nơi hình ảnh và những cú twist tình tiết khiến tôi dán mắt hàng giờ.",
+      "kr": "마음속으로는 책벌레이기 때문에 매력적인 소설에 푹 빠지는 쪽을 선호해요 – 방해받지 않고 작가의 세계에 빠져드는 마법 같은 느낌이 있죠. 그래도 비오는 날에는 '더 크라운' 같은 몰입감 있는 시리즈의 탈출감이 최고예요. 영상과 플롯 반전이 몇 시간 동안 저를 사로잡아요.",
+      "jp": "心の中では本の虫なので、魅力的な小説に没頭する方を好みます – 邪魔されずに作者の世界に迷い込む魔法のような感覚があります。ただ、雨の日には『ザ・クラウン』のような引き込まれるシリーズの逃避感に勝るものはありません。映像とプロットのひねりが何時間も私を引きつけます。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 8,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What genre of music tends to lift your spirits the most?",
+    "ipa": "/wɒt ˈʒɒnrə ɒv ˈmjuːzɪk tendz tuː lɪft jɔː ˈspɪrɪts ðə məʊst/",
+    "translations": {
+      "vn": "Thể loại nhạc nào thường làm bạn phấn chấn nhất?",
+      "kr": "어떤 장르의 음악이 가장 기분을 좋게 하나요?",
+      "jp": "どのジャンルの音楽が一番気分を高揚させますか?"
+    },
+    "sampleAnswer": "Indie pop always does the trick for me – artists like Tame Impala with their dreamy melodies and introspective lyrics have this uncanny ability to turn a mundane commute into a personal soundtrack. It's upbeat yet thoughtful, striking the perfect balance to energize me without overwhelming my senses.",
+    "sampleAnswerIpa": "/ˈɪndi pɒp ˈɔːlweɪz dʌz ðə trɪk fɔː miː ˈɑːtɪsts laɪk teɪm ɪmˈpɑːlə wɪð ðɛə ˈdriːmi ˈmɛlədiz ənd ˌɪntrəˈspɛktɪv ˈlɪrɪks hæv ðɪs ʌnˈkæni əˈbɪləti tuː tɜːn ə mʌnˈdeɪn kəˈmjuːt ˈɪntu ə ˈpɜːsənl ˈsaʊndtræk ɪts ʌpˈbiːt jɛt ˈθɔːtfəl ˈstraɪkɪŋ ðə ˈpɜːfɪkt ˈbæləns tuː ˈɛnədʒaɪz miː wɪˈðaʊt ˌəʊvəˈwɛlmɪŋ maɪ ˈsɛnsɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Indie pop luôn hiệu quả với tôi – những nghệ sĩ như Tame Impala với giai điệu mơ màng và lời ca nội tâm có khả năng kỳ diệu biến chuyến đi làm nhàm chán thành bản nhạc riêng tư. Vui tươi nhưng sâu sắc, tạo sự cân bằng hoàn hảo để tiếp thêm năng lượng mà không làm tôi quá tải.",
+      "kr": "인디 팝이 항상 제게 통하죠 – 테임 임팔라 같은 아티스트의 몽환적인 멜로디와 내성적인 가사가 평범한 출퇴근을 개인 사운드트랙으로 바꿔놓는 묘한 능력이 있어요. 업비트하면서도 사색적이라, 감각을 압도하지 않고 에너지를 주는 완벽한 밸런스예요.",
+      "jp": "インディーポップがいつも効きます – テーム・インパラのようなアーティストの夢のようなメロディと内省的な歌詞は、平凡な通勤を個人的なサウンドトラックに変える不思議な能力があります。アップビートでありながら思慮深く、私をエネルギッシュにしつつ感覚を圧倒しない完璧なバランスです。"
+    },
+    "category": "Music"
+  },
+  {
+    "id": 9,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How frequently do you incorporate physical activity into your routine?",
+    "ipa": "/haʊ ˈfriːkwəntli duː juː ɪnˈkɔːpəreɪt ˈfɪzɪkl ækˈtɪvəti ˈɪntu jɔː ruːˈtiːn/",
+    "translations": {
+      "vn": "Bạn thường xuyên kết hợp hoạt động thể chất vào thói quen như thế nào?",
+      "kr": "일상에 신체 활동을 얼마나 자주 포함하나요?",
+      "jp": "ルーチンに身体活動をどのくらい頻繁に取り入れますか?"
+    },
+    "sampleAnswer": "I aim for four sessions a week, mixing yoga for flexibility with brisk runs to clear my head – it's not just about staying fit; it's my mental reset button after a hectic day. On busier weeks, even a quick 20-minute home workout keeps the momentum going, and I always feel more focused afterward.",
+    "sampleAnswerIpa": "/aɪ eɪm fɔː fɔː ˈsɛʃnz ə wiːk ˈmɪksɪŋ ˈjəʊɡə fɔː ˌflɛksəˈbɪləti wɪð brɪsk rʌnz tuː klɪə maɪ hɛd ɪts nɒt dʒʌst əˈbaʊt ˈsteɪɪŋ fɪt ɪts maɪ ˈmɛntl riːˈsɛt ˈbʌtn ˈɑːftər ə ˈhɛktɪk deɪ ɒn ˈbɪziə wiːks ˈiːvn ə kwɪk ˈtwɛnti ˈmɪnɪt həʊm ˈwɜːkaʊt kiːps ðə məʊˈmɛntəm ˈɡəʊɪŋ ənd aɪ ˈɔːlweɪz fiːl mɔː ˈfəʊkəst ˈɑːftəwəd/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi nhắm đến 4 buổi một tuần, kết hợp yoga để tăng độ dẻo dai với chạy bộ nhanh để giải tỏa đầu óc – không chỉ để giữ dáng mà còn là nút reset tinh thần sau một ngày bận rộn. Vào những tuần bận hơn, thậm chí chỉ 20 phút tập tại nhà cũng giúp duy trì đà, và sau đó tôi luôn cảm thấy tập trung hơn.",
+      "kr": "일주일에 네 번을 목표로 해요. 유연성을 위한 요가와 머리를 비우기 위한 빠른 러닝을 섞어서요 – 단순히 몸매 유지뿐 아니라 바쁜 하루 후 정신적 리셋 버튼이에요. 더 바쁜 주에는 집에서 20분 빠른 운동만 해도 흐름을 유지하고, 항상 그 후에 더 집중이 잘 돼요.",
+      "jp": "週に4回のセッションを目指しています。柔軟性のためのヨガと頭をクリアにするための速いランニングを混ぜて – ただフィットネスを保つだけでなく、忙しい一日の後のメンタルリセットボタンです。忙しい週でも、家で20分のクイックワークアウトで勢いを保ち、その後いつもより集中できるようになります。"
+    },
+    "category": "Sports"
+  },
+  {
+    "id": 10,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you find joy in preparing meals from scratch?",
+    "ipa": "/duː juː faɪnd dʒɔɪ ɪn prɪˈpeərɪŋ miːlz frɒm skrætʃ/",
+    "translations": {
+      "vn": "Bạn có tìm thấy niềm vui khi chuẩn bị bữa ăn từ nguyên liệu thô không?",
+      "kr": "요리를 처음부터 만드는 것을 즐기나요?",
+      "jp": "ゼロから食事を作ることに喜びを感じますか?"
+    },
+    "sampleAnswer": "Absolutely, cooking is my creative outlet – chopping fresh herbs and simmering spices transforms the kitchen into a little haven of aromas. There's something deeply satisfying about nourishing loved ones with a homemade stir-fry or pho, especially when they rave about that perfect balance of flavors I've tweaked over time.",
+    "sampleAnswerIpa": "/ˈæbsəluːtli ˈkʊkɪŋ ɪz maɪ kriˈeɪtɪv ˈaʊtlɛt ˈtʃɒpɪŋ frɛʃ hɜːbz ənd ˈsɪmərɪŋ ˈspaɪsɪz trænsˈfɔːmz ðə ˈkɪtʃɪn ˈɪntu ə ˈlɪtl ˈheɪvn ɒv əˈrəʊməz ðɛəz ˈsʌmθɪŋ ˈdiːpli ˈsætɪsfaɪɪŋ əˈbaʊt ˈnʌrɪʃɪŋ lʌvd wʌnz wɪð ə ˌhəʊmˈmeɪd stɜː-fraɪ ɔːr fəʊ ɪˈspɛʃəli wɛn ðeɪ reɪv əˈbaʊt ðæt ˈpɜːfɪkt ˈbæləns ɒv ˈfleɪvəz aɪv twiːkt ˈəʊvə taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Chắc chắn rồi, nấu ăn là lối thoát sáng tạo của tôi – thái rau thơm tươi và đun sôi gia vị biến bếp thành một thiên đường nhỏ đầy hương thơm. Có điều gì đó rất thỏa mãn khi nuôi dưỡng người thân bằng món xào tự làm hay phở, đặc biệt khi họ khen ngợi sự cân bằng hương vị hoàn hảo mà tôi đã điều chỉnh qua thời gian.",
+      "kr": "절대적으로요, 요리는 제 창의적 출구예요 – 신선한 허브를 썰고 향신료를 끓이면 부엌이 아늑한 향기의 천국으로 변하죠. 집에서 만든 볶음요리나 퍼로 사랑하는 사람들을 먹이는 깊은 만족감이 있어요. 특히 제가 오랜 시간 조정한 완벽한 맛의 밸런스를 칭찬할 때요.",
+      "jp": "もちろんです、料理は私の創造的な出口です – 新鮮なハーブを刻み、スパイスを煮込むとキッチンが香りの小さな楽園に変わります。手作りの炒め物やフォーで愛する人を養うことに深い満足感があり、特に長年調整した完璧な味のバランスを絶賛されるときです。"
+    },
+    "category": "Food & Drink"
+  },
+  {
+    "id": 11,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's one dish that always hits the spot for you?",
+    "ipa": "/wɒts wʌn dɪʃ ðæt ˈɔːlweɪz hɪts ðə spɒt fɔː juː/",
+    "translations": {
+      "vn": "Món ăn nào luôn làm bạn hài lòng?",
+      "kr": "항상 만족스러운 한 음식은 무엇인가요?",
+      "jp": "いつも満足できる一品は何ですか?"
+    },
+    "sampleAnswer": "Hands down, it's a steaming bowl of bun cha – the smoky grilled pork patties swimming in nuoc cham, topped with fresh herbs and noodles. It's not just comfort food; it's a symphony of textures and tangy-sweet notes that transports me back to Hanoi street stalls, evoking childhood memories every single time.",
+    "sampleAnswerIpa": "/hændz daʊn ɪts ə ˈstiːmɪŋ bəʊl ɒv bʌn tʃɑː ðə ˈsməʊki ɡrɪld pɔːk ˈpætiz ˈswɪmɪŋ ɪn nʊək tʃæm tɒpt wɪð frɛʃ hɜːbz ənd ˈnuːdlz ɪts nɒt dʒʌst ˈkʌmfət fuːd ɪts ə ˈsɪmfəni ɒv ˈtɛkstʃəz ənd ˈtæŋi swiːt nəʊts ðæt ˈtrænspɔːts miː bæk tuː həˈnɔɪ striːt stɔːlz ɪˈvəʊkɪŋ ˈtʃaɪldhʊd ˈmɛməriz ˈɛvri ˈsɪŋɡl taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Không gì khác, chính là tô bún chả nghi ngút khói – những miếng chả nướng thơm lừng ngập trong nước mắm, topping rau thơm tươi và bún. Không chỉ là món ăn vỗ về, mà còn là bản giao hưởng của kết cấu và vị chua ngọt đưa tôi về lại những hàng quán vỉa hè Hà Nội, gợi nhớ kỷ niệm tuổi thơ mỗi lần ăn.",
+      "kr": "단연코 분짜 한 그릇이에요 – 연기 자욱한 그릇에 누옥참에 잠긴 훈제 구운 돼지고기 패티, 신선한 허브와 국수가 올려져 있죠. 단순한 위로 음식이 아니라, 질감과 새콤달콤한 노트의 교향곡으로 하노이 길거리 노점을 떠올리게 해 매번 어린 시절 추억을 불러일으켜요.",
+      "jp": "間違いなくブンチャー一皿です – 湯気が立ち上るボウルに、ヌクチャムに泳ぐスモーキーな焼き豚のパティ、新鮮なハーブと麺がトッピングされています。ただのコンフォートフードではなく、食感と酸甘いノートのシンフォニーで、ハノイの屋台に連れ戻し、毎回子供時代の思い出を呼び起こします。"
+    },
+    "category": "Food & Drink"
+  },
+  {
+    "id": 12,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Would you describe yourself as a travel enthusiast?",
+    "ipa": "/wʊd juː dɪˈskraɪb jɔːˈself æz ə ˈtrævl ɪnˈθjuːziæst/",
+    "translations": {
+      "vn": "Bạn có phải là người đam mê du lịch không?",
+      "kr": "여행 애호가라고 할 수 있나요?",
+      "jp": "あなたは旅行好きですか?"
+    },
+    "sampleAnswer": "Oh, without a doubt – wandering through unfamiliar streets, tasting local delicacies, and chatting with strangers in broken phrases is pure adrenaline for me. Last year's backpacking trip through Europe, from the canals of Amsterdam to the vineyards of Tuscany, left me with stories that still spark envy among friends.",
+    "sampleAnswerIpa": "/əʊ wɪˈðaʊt ə daʊt ˈwɒndərɪŋ θruː ʌnˈfəˈmɪliə striːts ˈteɪstɪŋ ˈləʊkl ˈdɛlɪkəsiz ənd ˈtʃætɪŋ wɪð ˈstreɪndʒəz ɪn ˈbrəʊkən ˈfreɪzɪz ɪz pjʊər əˈdrɛnəlɪn fɔː miː lɑːst jɪəz ˈbækpækɪŋ trɪp θruː ˈjʊərəp frɒm ðə kəˈnælz ɒv ˌæmstəˈdæm tuː ðə ˈvɪnjədz ɒv ˈtʌskəni lɛft miː wɪð ˈstɔːriz ðæt stɪl spɑːk ˈɛnvi əˈmʌŋ frɛndz/",
+    "sampleAnswerTranslations": {
+      "vn": "Ồ, chắc chắn rồi – lang thang trên những con phố lạ, nếm thử đặc sản địa phương và trò chuyện với người lạ bằng thứ tiếng bập bẹ là nguồn adrenaline thuần túy đối với tôi. Chuyến du lịch bụi qua châu Âu năm ngoái, từ kênh đào Amsterdam đến những vườn nho Tuscany, để lại cho tôi những câu chuyện vẫn khiến bạn bè ghen tị.",
+      "kr": "오, 틀림없이요 – 낯선 거리를 헤매고 현지 별미를 맛보고, 엉성한 문장으로 낯선 사람들과 수다떠는 게 순수한 아드레날린이에요. 작년 유럽 배낭여행, 암스테르담 운하부터 투스카니 포도밭까지, 친구들 사이에서 여전히 부러움을 자아내는 이야기들을 남겼어요.",
+      "jp": "ああ、間違いなく – 知らない通りを歩き回り、地元の珍味を味わい、ぎこちないフレーズで知らない人と話すのは私にとって純粋なアドレナリンです。去年のヨーロッパバックパック旅行、アムステルダムの運河からトスカーナのブドウ園まで、友達の間で今でも羨望を呼ぶストーリーを残しました。"
+    },
+    "category": "Travel"
+  },
+  {
+    "id": 13,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your go-to mode of transport for daily commutes?",
+    "ipa": "/wɒts jɔː ˈɡəʊ tuː məʊd ɒv ˈtrænspɔːt fɔː ˈdeɪli kəˈmjuːts/",
+    "translations": {
+      "vn": "Phương tiện di chuyển yêu thích của bạn cho việc đi lại hàng ngày là gì?",
+      "kr": "일상 통근에 주로 사용하는 교통 수단은 무엇인가요?",
+      "jp": "毎日の通勤で主に使う交通手段は何ですか?"
+    },
+    "sampleAnswer": "My trusty motorbike is indispensable – weaving through traffic like a pro saves precious time in this chaotic city sprawl. It's liberating too, with the wind in my hair and city lights blurring by, turning what could be a drag into a mini-adventure each morning.",
+    "sampleAnswerIpa": "/maɪ ˈtrʌsti ˈməʊtəbaɪk ɪz ˌɪndɪˈspɛnsəbl ˈwiːvɪŋ θruː ˈtræfɪk laɪk ə prəʊ seɪvz ˈprɛʃəs taɪm ɪn ðɪs keɪˈɒtɪk ˈsɪti sprɔːl ɪts ˌlɪbəˈreɪtɪŋ tuː wɪð ðə wɪnd ɪn maɪ heər ənd ˈsɪti laɪts ˈblɜːrɪŋ baɪ ˈtɜːnɪŋ wɒt kʊd biː ə dræɡ ˈɪntu ə ˈmɪni ədˈvɛntʃə iːtʃ ˈmɔːnɪŋ/",
+    "sampleAnswerTranslations": {
+      "vn": "Chiếc xe máy đáng tin cậy của tôi là không thể thiếu – luồn lách qua dòng xe cộ như dân chuyên nghiệp giúp tiết kiệm thời gian quý báu trong thành phố hỗn loạn này. Nó còn mang lại cảm giác tự do, gió thổi qua tóc và ánh đèn thành phố lướt qua, biến việc đi lại nhàm chán thành một cuộc phiêu lưu nhỏ mỗi sáng.",
+      "kr": "제 믿음직한 오토바이가 필수예요 – 교통 체증을 프로처럼 헤치며 이 혼란한 도시에서 귀중한 시간을 아껴줘요. 머리카락에 바람을 느끼고 도시 불빛이 스치며 지나가는 자유로움도 있고, 지루할 수 있는 출근을 매일 아침 미니 모험으로 바꿔줘요.",
+      "jp": "私の信頼できるバイクは欠かせません – プロのように交通を縫うように走ることで、この混沌とした都市で貴重な時間を節約できます。髪に風を感じ、街の明かりがぼやけて過ぎ去る解放感もあり、退屈になりがちな通勤を毎朝のミニアドベンチャーに変えてくれます。"
+    },
+    "category": "Transport"
+  },
+  {
+    "id": 14,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you have any siblings, and if so, how would you describe your relationship with them?",
+    "ipa": "/duː juː hæv ˈeni ˈsɪblɪŋz, ənd ɪf səʊ haʊ wʊd juː dɪˈskraɪb jɔː rɪˈleɪʃnʃɪp wɪð ðem/",
+    "translations": {
+      "vn": "Bạn có anh chị em không, nếu có thì bạn mô tả mối quan hệ với họ như thế nào?",
+      "kr": "형제자매가 있나요? 있다면 그들과의 관계를 어떻게 묘사하시겠어요?",
+      "jp": "兄弟姉妹はいますか？いれば彼らとの関係をどう表現しますか?"
+    },
+    "sampleAnswer": "I've got an older brother who's my built-in confidant and occasional sparring partner – we share everything from movie marathons to heated debates over politics. Growing up, he was the one teaching me to ride a bike or covering for my mischief; even now, living apart, our late-night calls keep that unbreakable bond alive.",
+    "sampleAnswerIpa": "/aɪv ɡɒt ən ˈəʊldə ˈbrʌðə huz maɪ bɪlt-ɪn ˈkɒnfɪdænt ənd əˈkeɪʒənl ˈspɑːrɪŋ ˈpɑːtnə wiː ʃeər ˈɛvrɪθɪŋ frɒm ˈmuːvi ˈmærəθɒnz tuː ˈhiːtɪd dɪˈbeɪts ˈəʊvə pəˈlɪtɪks ˈɡrəʊɪŋ ʌp hiː wəz ðə wʌn ˈtiːtʃɪŋ miː tuː raɪd ə baɪk ɔːr ˈkʌvərɪŋ fɔː maɪ ˈmɪstʃɪf iːvn naʊ ˈlɪvɪŋ əˈpɑːt aʊə leɪt-naɪt kɔːlz kiːp ðæt ʌnˈbreɪkəbl bɒnd əˈlaɪv/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi có một anh trai lớn hơn – người bạn tâm giao bẩm sinh và đôi khi là đối thủ tranh luận. Chúng tôi chia sẻ mọi thứ từ marathon phim đến những cuộc tranh cãi nảy lửa về chính trị. Khi lớn lên, anh ấy là người dạy tôi đạp xe hay bao che cho những trò nghịch ngợm; ngay cả bây giờ sống xa nhau, những cuộc gọi khuya vẫn giữ mối liên kết bất diệt ấy sống động.",
+      "kr": "저는 큰오빠가 있어요 – 타고난 절친이자 가끔 스파링 파트너죠. 영화 마라톤부터 정치에 대한 열띤 토론까지 모든 걸 공유해요. 자라면서 자전거 타는 법을 가르쳐주거나 장난을 덮어주던 사람이었어요. 지금은 떨어져 살아도 심야 통화가 그 끊을 수 없는 유대를 살려줘요.",
+      "jp": "兄が一人います – 生まれつきの相談相手で時々スパーリングパートナーです。映画マラソンから政治についての熱い議論まで何でも共有します。育ち盛りに自転車に乗るのを教えてくれたり、私のいたずらをカバーしてくれた人です。今は離れて暮らしていても、深夜の電話がその壊れない絆を生き続けさせてくれます。"
+    },
+    "category": "Family"
+  },
+  {
+    "id": 15,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What subject are you specializing in, and what drew you to it?",
+    "ipa": "/wɒt ˈsʌbdʒɪkt ɑːr juː ˈspɛʃəlaɪzɪŋ ɪn, ənd wɒt drɔː juː tuː ɪt/",
+    "translations": {
+      "vn": "Bạn đang chuyên ngành gì, và điều gì thu hút bạn đến với nó?",
+      "kr": "무엇을 전공하고 있으며, 무엇이 당신을 그쪽으로 이끌었나요?",
+      "jp": "どの科目を専攻していますか？何があなたを引きつけましたか?"
+    },
+    "sampleAnswer": "I'm majoring in environmental science, captivated by the urgency of climate issues and the chance to make tangible change. A documentary on ocean plastic pollution during high school flipped a switch for me – suddenly, concepts like sustainability weren't abstract but calls to action that aligned with my passion for nature.",
+    "sampleAnswerIpa": "/aɪm ˈmeɪdʒərɪŋ ɪn ɪnˌvaɪrənˈmɛntl ˈsaɪəns ˈkæptɪveɪtɪd baɪ ði ˈɜːdʒənsi ɒv ˈklaɪmɪt ˈɪʃuːz ənd ðə tʃɑːns tuː meɪk ˈtændʒəbl tʃeɪndʒ ə ˌdɒkjʊˈmɛntəri ɒn ˈəʊʃən ˈplæstɪk pəˈluːʃn ˈdjʊərɪŋ haɪ skuːl flɪpt ə swɪtʃ fɔː miː ˈsʌdnli ˈkɒnsɛpts laɪk səˌsteɪnəˈbɪləti wɜːnt ˈæbstrækt bʌt kɔːlz tuː ˈækʃn ðæt əˈlaɪnd wɪð maɪ ˈpæʃən fɔː ˈneɪtʃə/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đang chuyên ngành khoa học môi trường, bị cuốn hút bởi tính cấp bách của vấn đề khí hậu và cơ hội tạo ra thay đổi thực tế. Một bộ phim tài liệu về ô nhiễm nhựa đại dương thời cấp 3 đã bật công tắc trong tôi – đột nhiên, những khái niệm như bền vững không còn trừu tượng mà trở thành lời kêu gọi hành động phù hợp với đam mê thiên nhiên của tôi.",
+      "kr": "환경과학을 전공하고 있어요. 기후 문제의 긴급성과 실질적인 변화를 만들 기회에 매료됐어요. 고등학교 때 바다 플라스틱 오염 다큐멘터리가 제게 스위치를 켰어요 – 지속가능성 같은 개념이 갑자기 추상적이지 않고 자연에 대한 제 열정과 맞아떨어지는 행동 촉구가 됐어요.",
+      "jp": "環境科学を専攻しています。気候問題の緊急性と具体的な変化を生むチャンスに魅了されました。高校時代の海洋プラスチック汚染のドキュメンタリーが私の中でスイッチを入れました – 突然、持続可能性のような概念が抽象的ではなく、自然への情熱と一致する行動の呼びかけになりました。"
+    },
+    "category": "Study"
+  },
+  {
+    "id": 16,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are there any sports you actively participate in?",
+    "ipa": "/ɑːr ðeər ˈeni spɔːrts juː ˈæktɪvli pɑːˈtɪsɪpeɪt ɪn/",
+    "translations": {
+      "vn": "Bạn có tham gia tích cực vào môn thể thao nào không?",
+      "kr": "적극적으로 참여하는 스포츠가 있나요?",
+      "jp": "積極的に参加しているスポーツはありますか?"
+    },
+    "sampleAnswer": "Swimming is my go-to – slicing through the water clears my mind like nothing else, and it's a full-body workout that leaves me invigorated. I joined a local club last year, and now training three times a week has not only boosted my endurance but also introduced me to a fantastic circle of like-minded friends.",
+    "sampleAnswerIpa": "/ˈswɪmɪŋ ɪz maɪ ɡəʊ-tuː ˈslaɪsɪŋ θruː ðə ˈwɔːtə klɪəz maɪ maɪnd laɪk ˈnʌθɪŋ ɛls ənd ɪts ə fʊl-ˈbɒdi ˈwɜːkaʊt ðæt liːvz miː ɪnˈvɪɡəreɪtɪd aɪ dʒɔɪnd ə ˈləʊkl klʌb lɑːst jɪər ənd naʊ ˈtreɪnɪŋ θriː taɪmz ə wiːk hæz nɒt ˈəʊnli buːstɪd maɪ ɪnˈdjʊərəns bʌt ˈɔːlsəʊ ˌɪntrəˈdjuːst miː tuː ə fænˈtæstɪk ˈsɜːkl ɒv laɪk-ˈmaɪndɪd frɛndz/",
+    "sampleAnswerTranslations": {
+      "vn": "Bơi lội là môn tôi chọn – lướt qua mặt nước giúp đầu óc tôi thông thoáng như không gì khác, và đó là bài tập toàn thân khiến tôi tràn đầy sức sống. Tôi gia nhập câu lạc bộ địa phương năm ngoái, giờ tập ba buổi một tuần không chỉ tăng sức bền mà còn giới thiệu tôi với một nhóm bạn tuyệt vời có cùng sở thích.",
+      "kr": "수영이 제 선택이에요 – 물을 가르며 나아가는 게 다른 어떤 것보다 머리를 맑게 해주고, 전신 운동으로 활력을 주죠. 작년에 지역 클럽에 가입했는데, 이제 주 3회 훈련이 지구력을 높여줄 뿐 아니라 비슷한 생각을 가진 멋진 친구들을 소개해줬어요.",
+      "jp": "水泳が私の定番です – 水を切り進むのが他の何よりも頭をクリアにしてくれ、全身ワークアウトで活力が湧きます。去年地元のクラブに入り、今は週3回のトレーニングが持久力を上げただけでなく、同じ考えの素晴らしい友人サークルを紹介してくれました。"
+    },
+    "category": "Sports"
+  },
+  {
+    "id": 17,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What kind of weather gets you in the best mood?",
+    "ipa": "/wɒt kaɪnd ɒv ˈweðə ɡets juː ɪn ðə best muːd/",
+    "translations": {
+      "vn": "Thời tiết nào làm bạn vui vẻ nhất?",
+      "kr": "어떤 날씨가 기분을 가장 좋게 하나요?",
+      "jp": "どんな天気が一番良い気分にさせますか?"
+    },
+    "sampleAnswer": "A crisp autumn day with golden leaves crunching underfoot and a gentle breeze – it's invigorating without being oppressive, perfect for a long walk that sparks creativity. Back home, those rare cool evenings after a humid summer feel like nature's gift, drawing everyone outdoors for impromptu gatherings.",
+    "sampleAnswerIpa": "/ə krɪsp ˈɔːtəm deɪ wɪð ˈɡəʊldən liːvz ˈkrʌntʃɪŋ ˌʌndəˈfʊt ənd ə ˈdʒɛntl briːz ɪts ɪnˈvɪɡəreɪtɪŋ wɪˈðaʊt ˈbiːɪŋ əˈprɛsɪv ˈpɜːfɪkt fɔːr ə lɒŋ wɔːk ðæt spɑːks ˌkriːeɪˈtɪvəti bæk həʊm ðəʊz reə kuːl ˈiːvnɪŋz ˈɑːftər ə ˈhjuːmɪd ˈsʌmə fiːl laɪk ˈneɪtʃəz ɡɪft ˈdrɔːɪŋ ˈɛvrɪwʌn ˈaʊtdɔːz fɔːr ˌɪmprɒmptˈuː ˈɡæðərɪŋz/",
+    "sampleAnswerTranslations": {
+      "vn": "Một ngày thu giòn tan với lá vàng xào xạc dưới chân và làn gió nhẹ – nó tiếp thêm sinh lực mà không ngột ngạt, hoàn hảo cho một buổi đi dạo dài khơi dậy sáng tạo. Ở quê nhà, những buổi tối mát mẻ hiếm hoi sau mùa hè ẩm ướt như món quà của thiên nhiên, kéo mọi người ra ngoài cho những buổi tụ họp bất chợt.",
+      "kr": "황금빛 잎이 발밑에서 바스락거리고 부드러운 바람이 부는 선선한 가을 날이에요 – 압박감 없이 활력을 주고, 창의력을 자극하는 긴 산책에 딱이죠. 고향에서는 습한 여름 후 드문 시원한 저녁이 자연의 선물처럼 느껴져 모두를 즉석 모임으로 밖으로 끌어내요.",
+      "jp": "足元で金色の葉がカサカサ鳴り、穏やかな風が吹く爽やかな秋の日 – 圧迫感なく活力を与え、創造性を刺激する長い散歩にぴったりです。故郷では湿気の多い夏の後の珍しい涼しい夕方が自然の贈り物のようで、みんなを即興の集まりのために屋外へ誘います。"
+    },
+    "category": "Weather"
+  },
+  {
+    "id": 18,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "To what extent do you rely on digital devices in your daily life?",
+    "ipa": "/tuː wɒt ɪkˈstent duː juː rɪˈlaɪ ɒn ˈdɪdʒɪtl dɪˈvaɪsɪz ɪn jɔː ˈdeɪli laɪf/",
+    "translations": {
+      "vn": "Bạn phụ thuộc vào thiết bị số trong cuộc sống hàng ngày đến mức nào?",
+      "kr": "일상생활에서 디지털 기기에 얼마나 의존하나요?",
+      "jp": "日常生活でデジタルデバイスにどの程度依存していますか?"
+    },
+    "sampleAnswer": "They're woven into the fabric of my routine – from scrolling news over coffee to navigating the city via apps, it's hard to imagine a day without them. Yet, I make a point to unplug for an hour each evening, swapping screens for a book, which surprisingly sharpens my focus the next day.",
+    "sampleAnswerIpa": "/ðɛə ˈwəʊvn ˈɪntu ðə ˈfæbrɪk ɒv maɪ ruːˈtiːn frɒm ˈskrəʊlɪŋ njuːz ˈəʊvə ˈkɒfi tuː ˈnævɪɡeɪtɪŋ ðə ˈsɪti ˈvaɪə æps ɪts hɑːd tuː ɪˈmædʒɪn ə deɪ wɪˈðaʊt ðem jɛt aɪ meɪk ə pɔɪnt tuː ʌnˈplʌɡ fɔːr ən ˈaʊə iːtʃ ˈiːvnɪŋ ˈswɒpɪŋ skriːnz fɔːr ə bʊk wɪtʃ səˈpraɪzɪŋli ˈʃɑːpənz maɪ ˈfəʊkəs ðə nɛkst deɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Chúng đã len lỏi vào cấu trúc cuộc sống thường ngày của tôi – từ lướt tin tức bên tách cà phê đến định vị thành phố qua app, khó mà tưởng tượng một ngày thiếu chúng. Tuy nhiên, tôi luôn cố gắng ngắt kết nối một giờ mỗi tối, đổi màn hình lấy sách, điều này bất ngờ giúp tôi tập trung sắc bén hơn vào ngày hôm sau.",
+      "kr": "제 일상의 구조에 짜여 있어요 – 커피 마시며 뉴스 스크롤부터 앱으로 도시 탐색까지, 없이 하루를 상상하기 어려워요. 그래도 매일 저녁 한 시간은 연결을 끊고 화면 대신 책으로 바꿔요. 놀랍게도 다음 날 집중력이 날카로워져요.",
+      "jp": "私のルーチンの生地に織り込まれています – コーヒーを飲みながらニュースをスクロールしたり、アプリで街をナビゲートしたり、それなしでは一日を想像しにくいです。それでも毎晩1時間はプラグを抜き、スクリーンを本に替えます。それが驚くほど次の日の集中力を鋭くします。"
+    },
+    "category": "Technology"
+  },
+  {
+    "id": 19,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Which season do you look forward to the most, and why?",
+    "ipa": "/wɪtʃ ˈsiːzn duː juː lʊk ˈfɔːwəd tuː ðə məʊst, ənd waɪ/",
+    "translations": {
+      "vn": "Mùa nào bạn mong chờ nhất, và tại sao?",
+      "kr": "가장 기대하는 계절은 무엇이며 왜인가요?",
+      "jp": "どの季節を一番楽しみにしていますか？なぜですか?"
+    },
+    "sampleAnswer": "Spring has my heart – the world awakens with blooming jacarandas painting streets purple and a freshness in the air that banishes winter blues. It's the season of renewal, where festivals like cherry blossom viewing remind me to savor fleeting beauty, much like life's transient joys.",
+    "sampleAnswerIpa": "/sprɪŋ hæz maɪ hɑːt ðə wɜːld əˈweɪkənz wɪð ˈbluːmɪŋ ˌdʒækəˈrændəz ˈpeɪntɪŋ striːts ˈpɜːpl ənd ə ˈfrɛʃnəs ɪn ði eə ðæt ˈbænɪʃɪz ˈwɪntə bluːz ɪts ðə ˈsiːzn ɒv rɪˈnjuːəl weər ˈfɛstɪvlz laɪk ˈtʃɛri ˈblɒsəm ˈvjuːɪŋ rɪˈmaɪnd miː tuː ˈsævə ˈfliːtɪŋ ˈbjuːti mʌtʃ laɪk laɪfs ˈtrænziənt dʒɔɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Mùa xuân chiếm trọn trái tim tôi – thế giới thức tỉnh với những cây phượng tím nở rộ nhuộm phố tím và không khí tươi mới xua tan nỗi buồn mùa đông. Đó là mùa tái sinh, nơi các lễ hội ngắm hoa anh đào nhắc tôi trân trọng vẻ đẹp thoáng qua, giống như những niềm vui ngắn ngủi của cuộc đời.",
+      "kr": "봄이 제 마음을 사로잡았어요 – 세계가 깨어나 자카란다가 거리를 보라색으로 물들이고 공기 중 신선함이 겨울 우울을 쫓아내요. 재생의 계절로, 벚꽃 구경 같은 축제가 삶의 덧없는 기쁨처럼 순간적인 아름다움을 음미하라고 상기시켜줘요.",
+      "jp": "春が私の心を掴んでいます – 世界が目覚め、ジャカランダが咲いて通りを紫に染め、空気の新鮮さが冬の憂鬱を追い払います。再生の季節で、桜見物のような祭りが、人生の儚い喜びのように、はかない美しさを味わうよう思い出させてくれます。"
+    },
+    "category": "Weather"
+  },
+  {
+    "id": 20,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you enjoy the occasional trip to the cinema?",
+    "ipa": "/duː juː ɪnˈdʒɔɪ ði əˈkeɪʒnəl trɪp tuː ðə ˈsɪnəmə/",
+    "translations": {
+      "vn": "Bạn có thích thỉnh thoảng đi xem phim ở rạp không?",
+      "kr": "가끔 영화관에 가는 것을 좋아하나요?",
+      "jp": "時々映画館に行くのが好きですか?"
+    },
+    "sampleAnswer": "I adore it – the thrill of a big-screen blockbuster with surround sound and buttery popcorn elevates the experience to something magical. Sharing laughs or gasps with strangers in the dark creates this communal vibe that's impossible to replicate at home, making it my perfect escape from reality.",
+    "sampleAnswerIpa": "/aɪ əˈdɔːr ɪt ðə θrɪl ɒv ə bɪɡ-skriːn ˈblɒkbʌstə wɪð səˈraʊnd saʊnd ənd ˈbʌtəri ˈpɒpkɔːn ˈɛlɪveɪts ði ɪkˈspɪəriəns tuː ˈsʌmθɪŋ ˈmædʒɪkl ˈʃeərɪŋ lɑːfz ɔːr ɡɑːsps wɪð ˈstreɪndʒəz ɪn ðə dɑːk kriˈeɪts ðɪs kəˈmjuːnl vaɪb ðæts ɪmˈpɒsəbl tuː ˈrɛplɪkeɪt æt həʊm ˈmeɪkɪŋ ɪt maɪ ˈpɜːfɪkt ɪˈskeɪp frɒm riˈæləti/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi mê mẩn điều đó – cảm giác hồi hộp của bom tấn màn hình lớn với âm thanh vòm và bắp rang bơ khiến trải nghiệm trở nên kỳ diệu. Cùng cười hay giật mình với người lạ trong bóng tối tạo nên không khí cộng đồng không thể tái tạo ở nhà, biến nó thành lối thoát hoàn hảo khỏi thực tế.",
+      "kr": "그걸 정말 좋아해요 – 대형 스크린 블록버스터의 스릴과 서라운드 사운드, 버터 향 팝콘은 경험을 마법처럼 끌어올려요. 어둠 속에서 낯선 이들과 웃음이나 놀라움을 공유하는 공동체 분위기가 집에서는 재현 불가능해서, 현실 탈출의 완벽한 방법이에요.",
+      "jp": "大好きです – 大画面ブロックバスターのスリルとサラウンドサウンド、バターたっぷりのポップコーンが体験を魔法のように高めてくれます。暗闇の中で見知らぬ人たちと笑いや驚きを共有する共同体的な雰囲気が家では再現不可能で、現実からの完璧な逃避になります。"
+    },
+    "category": "Entertainment"
+  },
+  {
+    "id": 21,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you share your home with any pets?",
+    "ipa": "/duː juː ʃeər jɔː həʊm wɪð ˈeni pets/",
+    "translations": {
+      "vn": "Bạn có cùng sống với thú cưng nào không?",
+      "kr": "집에 애완동물이 있나요?",
+      "jp": "家にペットを飼っていますか?"
+    },
+    "sampleAnswer": "Yes, my cheeky little tabby cat, Whiskers, is the undisputed boss of the household – she's equal parts cuddly companion and mischievous hunter, pouncing on shadows at dawn. Adopting her during lockdown turned solitary days into playful adventures, teaching me patience and the joys of unconditional love.",
+    "sampleAnswerIpa": "/jɛs maɪ ˈtʃiːki ˈlɪtl ˈtæbi kæt ˈwɪskəz ɪz ði ˌʌndɪˈspjuːtɪd bɒs ɒv ðə ˈhaʊshəʊld ʃiz ˈiːkwəl pɑːts ˈkʌdli kəmˈpæniən ənd ˈmɪstʃɪvəs ˈhʌntə ˈpaʊnsɪŋ ɒn ˈʃædəʊz æt dɔːn əˈdɒptɪŋ hə ˈdjʊərɪŋ ˈlɒkdaʊn tɜːnd ˈsɒlɪtəri deɪz ˈɪntu ˈpleɪfl ədˈvɛntʃəz ˈtiːtʃɪŋ miː ˈpeɪʃns ənd ðə dʒɔɪz ɒv ˌʌnkənˈdɪʃənl lʌv/",
+    "sampleAnswerTranslations": {
+      "vn": "Có chứ, chú mèo tam thể nghịch ngợm Whiskers của tôi là ông chủ thực thụ của ngôi nhà – vừa là bạn ôm ấp đáng yêu vừa là thợ săn tinh quái, nhảy bổ vào bóng tối lúc bình minh. Nhận nuôi cô ấy trong thời gian lockdown đã biến những ngày cô đơn thành cuộc phiêu lưu vui nhộn, dạy tôi kiên nhẫn và niềm vui của tình yêu vô điều kiện.",
+      "kr": "네, 제 장난기 많은 작은 줄무늬 고양이 위스커스가 집의 절대적 보스예요 – 똑같이 애교쟁이 동반자이자 장난꾸러기 사냥꾼으로, 새벽에 그림자를 덮쳐요. 락다운 중에 입양하면서 고독한 날들이 장난스러운 모험으로 변했고, 인내심과 무조건적인 사랑의 기쁨을 가르쳐줬어요.",
+      "jp": "はい、私のいたずらっぽい小さなトラ猫のウィスカーズが家の中の絶対ボスです – 同じくらい抱きしめたくなる仲間であり、いたずら好きのハンターで、夜明けに影に飛びかかります。ロックダウン中に彼女を飼い始めて孤独な日々が遊び心あふれる冒険に変わり、忍耐と無条件の愛の喜びを教えてくれました。"
+    },
+    "category": "Animals"
+  },
+  {
+    "id": 22,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your usual bedtime, and how does it vary?",
+    "ipa": "/wɒts jɔː ˈjuːʒuəl ˈbedtaɪm, ənd haʊ dʌz ɪt ˈveəri/",
+    "translations": {
+      "vn": "Giờ đi ngủ thường của bạn là khi nào, và nó thay đổi như thế nào?",
+      "kr": "보통 몇 시에 자나요? 어떻게 변하나요?",
+      "jp": "普段の就寝時間は何時ですか？どのように変わりますか?"
+    },
+    "sampleAnswer": "I wind down around 11 PM most nights, with a ritual of herbal tea and a chapter from a thriller to ease into dreams. Weekends might stretch it to midnight for a late-night movie, but I prioritize those seven hours – skimping leaves me foggy-headed and craving naps by afternoon.",
+    "sampleAnswerIpa": "/aɪ waɪnd daʊn əˈraʊnd ɪˈlɛvn piːˈɛm məʊst naɪts wɪð ə ˈrɪtʃuəl ɒv ˈhɜːbəl tiː ənd ə ˈtʃæptə frɒm ə ˈθrɪlə tuː iːz ˈɪntu driːmz ˈwiːkɛndz maɪt strɛtʃ ɪt tuː ˈmɪdnaɪt fɔːr ə leɪt-naɪt ˈmuːvi bʌt aɪ ˌpraɪˈɒrətaɪz ðəʊz ˈsɛvn ˈaʊəz ˈskɪmpɪŋ liːvz miː ˈfɒɡi-ˈhɛdɪd ənd ˈkreɪvɪŋ næps baɪ ˈɑːftəˈnuːn/",
+    "sampleAnswerTranslations": {
+      "vn": "Hầu hết các đêm tôi thư giãn vào khoảng 11 giờ, với nghi thức trà thảo mộc và một chương tiểu thuyết kinh dị để dễ chìm vào giấc mơ. Cuối tuần có thể kéo dài đến nửa đêm để xem phim khuya, nhưng tôi ưu tiên ngủ đủ 7 tiếng – thiếu ngủ khiến đầu óc mụ mị và thèm ngủ trưa vào buổi chiều.",
+      "kr": "대부분의 밤은 11시쯤 잠자리에 들어요. 허브티와 스릴러 한 챕터로 꿈속으로 쉽게 들어가는 의식이에요. 주말에는 심야 영화 때문에 자정까지 늘어날 수 있지만, 7시간 수면을 우선해요 – 줄이면 오후에 머리가 멍하고 낮잠이 간절해져요.",
+      "jp": "ほとんどの夜は11時頃にリラックスします。ハーブティーとスリラー小説の一章という儀式で夢に入りやすくします。週末は深夜映画で午前0時まで伸びることもありますが、7時間の睡眠を優先します – 削ると午後には頭がぼんやりして昼寝が欲しくなります。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 23,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Would you call yourself a keen shopper?",
+    "ipa": "/wʊd juː kɔːl jɔːˈself ə kiːn ˈʃɒpər/",
+    "translations": {
+      "vn": "Bạn có phải là người thích mua sắm không?",
+      "kr": "쇼핑을 좋아하나요?",
+      "jp": "あなたは熱心なショッピング好きですか?"
+    },
+    "sampleAnswer": "I'm more of a strategic browser than a spree enthusiast – I love hunting for unique finds in quirky boutiques or online sales, but only if they spark joy or solve a need. That thrift store vintage jacket I snagged last month? Best impulse buy ever, adding flair to my wardrobe without breaking the bank.",
+    "sampleAnswerIpa": "/aɪm mɔːr ɒv ə strəˈtiːdʒɪk ˈbraʊzə ðæn ə spriː ɪnˈθjuːziæst aɪ lʌv ˈhʌntɪŋ fɔː juːˈniːk faɪndz ɪn ˈkwɜːki buːˈtiːks ɔːr ˈɒnlaɪn seɪlz bʌt ˈəʊnli ɪf ðeɪ spɑːk dʒɔɪ ɔːr sɒlv ə niːd ðæt θrɪft stɔː ˈvɪntɪdʒ ˈdʒækɪt aɪ snæɡd lɑːst mʌnθ bɛst ˈɪmpʌls baɪ ˈɛvə ˈædɪŋ fleə tuː maɪ ˈwɔːdrəʊb wɪˈðaʊt ˈbreɪkɪŋ ðə bæŋk/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thiên về kiểu duyệt chiến lược hơn là mua sắm điên cuồng – tôi thích săn lùng những món độc lạ ở các boutique kỳ quặc hoặc sale online, nhưng chỉ khi chúng khơi dậy niềm vui hoặc đáp ứng nhu cầu. Chiếc áo khoác vintage ở tiệm đồ cũ tháng trước? Mua ngẫu hứng hay nhất từ trước đến nay, thêm phong cách cho tủ đồ mà không tốn kém.",
+      "kr": "저는 폭주 쇼퍼라기보다는 전략적 브라우저예요 – 독특한 부티크나 온라인 세일에서 독특한 아이템을 사냥하는 걸 좋아하지만, 기쁨을 주거나 필요를 해결할 때만요. 지난달 중고 가게에서 낚은 빈티지 재킷? 지금까지 최고의 충동 구매로, 지갑 부담 없이 옷장에 멋을 더해줬어요.",
+      "jp": "私は爆買い派ではなく戦略的なブラウザ派です – 変わったブティックやオンラインセールでユニークな掘り出し物を探すのが好きですが、喜びを呼び起こすか必要を満たすものだけです。先月中古店で手に入れたビンテージジャケット？これまで最高の衝動買いです。財布を痛めずワードローブに華を添えてくれました。"
+    },
+    "category": "Shopping"
+  },
+  {
+    "id": 24,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How often do you catch up with close friends?",
+    "ipa": "/haʊ ˈɒfən duː juː kætʃ ʌp wɪð kləʊs frendz/",
+    "translations": {
+      "vn": "Bạn gặp gỡ bạn bè thân thiết bao lâu một lần?",
+      "kr": "가까운 친구들과 얼마나 자주 만나나요?",
+      "jp": "親しい友人たちとどのくらい頻繁に会いますか?"
+    },
+    "sampleAnswer": "We make it a point to meet bi-weekly for coffee or hikes, turning routine check-ins into laughter-filled debriefs on life's quirks. Those moments are gold – venting about work woes or celebrating small wins recharges my social battery like nothing else.",
+    "sampleAnswerIpa": "/wiː meɪk ɪt ə pɔɪnt tuː miːt baɪ-ˈwiːkli fɔːr ˈkɒfi ɔːr haɪks ˈtɜːnɪŋ ruːˈtiːn tʃɛk-ɪnz ˈɪntu ˈlɑːftə-fɪld diːˈbriːfs ɒn laɪfs kwɜːks ðəʊz ˈməʊmənts ɑː ɡəʊld ˈvɛntɪŋ əˈbaʊt wɜːk wəʊz ɔːr ˈsɛlɪbreɪtɪŋ smɔːl wɪnz riːˈtʃɑːdʒɪz maɪ ˈsəʊʃl ˈbætəri laɪk ˈnʌθɪŋ ɛls/",
+    "sampleAnswerTranslations": {
+      "vn": "Chúng tôi cố gắng gặp nhau hai tuần một lần để uống cà phê hoặc đi bộ đường dài, biến những buổi gặp thông thường thành những buổi cười nghiêng ngả kể về những chuyện kỳ quặc của cuộc sống. Những khoảnh khắc ấy quý như vàng – xả stress công việc hay ăn mừng chiến thắng nhỏ giúp nạp lại năng lượng xã hội như không gì khác.",
+      "kr": "격주로 커피나 하이킹으로 만나기로 해요. 일상 체크인을 삶의 기묘함에 대한 웃음 가득한 디브리핑으로 바꿔요. 그 순간들이 금이에요 – 일의 고충을 털어놓거나 작은 승리를 축하하는 게 다른 어떤 것보다 사회적 배터리를 재충전해줘요.",
+      "jp": "2週間に一度、コーヒーやハイキングで会うようにしています。日常のチェックインを人生の妙な出来事についての笑いいっぱいの報告会に変えます。あの瞬間は金です – 仕事の悩みを吐き出したり小さな勝利を祝ったりするのが、他の何よりも社会的バッテリーを充電してくれます。"
+    },
+    "category": "Social Life"
+  },
+  {
+    "id": 25,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Summer or winter – which season suits your lifestyle better?",
+    "ipa": "/ˈsʌmər ɔːr ˈwɪntə – wɪtʃ ˈsiːzn suːts jɔː ˈlaɪfstaɪl ˈbetər/",
+    "translations": {
+      "vn": "Mùa hè hay mùa đông – mùa nào phù hợp với lối sống của bạn hơn?",
+      "kr": "여름과 겨울 중 어느 계절이 생활 방식에 더 적합하나요?",
+      "jp": "夏か冬か、どちらの季節があなたのライフスタイルに適していますか?"
+    },
+    "sampleAnswer": "Winter wins for me – curling up with hot chocolate amid the chill, wrapped in a cozy sweater, feels like a hug from the universe. Summer's heat waves turn me into a hermit, but winter's crisp air invites festive gatherings and reflective evenings by the fire.",
+    "sampleAnswerIpa": "/ˈwɪntə wɪnz fɔː miː ˈkɜːlɪŋ ʌp wɪð hɒt ˈtʃɒklət əˈmɪd ðə tʃɪl ræpt ɪn ə ˈkəʊzi ˈswɛtə fiːlz laɪk ə hʌɡ frɒm ðə ˈjuːnɪvɜːs ˈsʌməz hiːt weɪvz tɜːn miː ˈɪntu ə ˈhɜːmɪt bʌt ˈwɪntəz krɪsp eə ɪnˈvaɪts ˈfɛstɪv ˈɡæðərɪŋz ənd rɪˈflɛktɪv ˈiːvnɪŋz baɪ ðə faɪə/",
+    "sampleAnswerTranslations": {
+      "vn": "Mùa đông thắng đối với tôi – cuộn tròn với cốc sô cô la nóng giữa cái lạnh, quấn trong áo len ấm áp, cảm giác như cái ôm từ vũ trụ. Sóng nhiệt mùa hè biến tôi thành ẩn sĩ, nhưng không khí giòn tan mùa đông mời gọi những buổi tụ họp lễ hội và những buổi tối suy tư bên lò sưởi.",
+      "kr": "겨울이 제게 승리예요 – 추위 속에 따뜻한 핫초코와 함께 몸을 웅크리고 포근한 스웨터에 싸이면 우주의 포옹 같아요. 여름 더위는 저를 은둔자로 만들지만, 겨울의 상쾌한 공기는 축제 모임과 벽난로 옆 사색적인 저녁을 초대해요.",
+      "jp": "冬が私に勝ちます – 寒さの中でホットチョコレートを抱えて丸くなり、居心地の良いセーターに包まれると宇宙からのハグのようです。夏の熱波は私を隠者に変えますが、冬の澄んだ空気は祝宴の集まりと暖炉のそばの内省的な夕べを誘います。"
+    },
+    "category": "Weather"
+  },
+  {
+    "id": 26,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your favorite way to de-stress after a long day?",
+    "ipa": "/wɒts jɔː ˈfeɪvrɪt weɪ tuː diːˈstres ˈɑːftər ə lɒŋ deɪ/",
+    "translations": {
+      "vn": "Cách yêu thích của bạn để giảm stress sau một ngày dài là gì?",
+      "kr": "긴 하루 후 스트레스를 푸는 가장 좋아하는 방법은 무엇인가요?",
+      "jp": "長い一日の後にリラックスするお気に入りの方法は何ですか?"
+    },
+    "sampleAnswer": "A bubble bath with essential oils and soft jazz is my ultimate ritual – the warm water melts away tension, and the melodies transport me to a serene escape. It's not just relaxation; it's self-care that reminds me to nurture my inner calm amid the storm.",
+    "sampleAnswerIpa": "/ə ˈbʌbl bɑːθ wɪð ɪˈsɛnʃl ɔɪlz ənd sɒft dʒæz ɪz maɪ ˈʌltɪmət ˈrɪtʃuəl ðə wɔːm ˈwɔːtə mɛlts əˈweɪ ˈtɛnʃn ənd ðə ˈmɛlədiz ˈtrænspɔːt miː tuː ə səˈriːn ɪˈskeɪp ɪts nɒt dʒʌst ˌrɪlækˈseɪʃn ɪts sɛlf-keə ðæt rɪˈmaɪndz miː tuː ˈnɜːtʃə maɪ ˈɪnə kɑːm əˈmɪd ðə stɔːm/",
+    "sampleAnswerTranslations": {
+      "vn": "Tắm bồn với tinh dầu và jazz nhẹ nhàng là nghi thức tối thượng của tôi – nước ấm làm tan biến căng thẳng, giai điệu đưa tôi đến lối thoát bình yên. Không chỉ thư giãn; đó là tự chăm sóc nhắc tôi nuôi dưỡng sự bình tĩnh bên trong giữa cơn bão.",
+      "kr": "에센셜 오일과 부드러운 재즈가 있는 거품 목욕이 제 궁극적 의식이에요 – 따뜻한 물이 긴장을 녹이고 멜로디가 고요한 탈출구로 데려가죠. 단순한 휴식이 아니라, 폭풍 속에서도 내면의 평온을 키우라는 자가 케어예요.",
+      "jp": "エッセンシャルオイルとソフトジャズのバブルバスが私の究極の儀式です – 温かいお湯が緊張を溶かし、メロディーが穏やかな逃避へ運んでくれます。ただのリラクゼーションではなく、嵐の中で内なる平穏を育むセルフケアです。"
+    },
+    "category": "Leisure"
+  },
+  {
+    "id": 27,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "On a scale of 1 to 10, how much do you love hitting the road for a trip?",
+    "ipa": "/ɒn ə skeɪl ɒv wʌn tuː ten, haʊ mʌtʃ duː juː lʌv ˈhɪtɪŋ ðə rəʊd fɔːr ə trɪp/",
+    "translations": {
+      "vn": "Trên thang điểm từ 1 đến 10, bạn yêu thích việc lên đường du lịch đến mức nào?",
+      "kr": "1에서 10까지, 여행을 떠나는 것을 얼마나 좋아하나요?",
+      "jp": "1から10のスケールで、旅行に出かけるのがどれほど好きですか?"
+    },
+    "sampleAnswer": "A solid 9 – the thrill of new horizons, spontaneous detours, and roadside discoveries fuels my wanderlust like nothing else. That road trip to the central highlands last year, with pit stops for fresh coffee and misty mountain views, was pure bliss.",
+    "sampleAnswerIpa": "/ə ˈsɒlɪd naɪn ðə θrɪl ɒv njuː həˈraɪznz ˌspɒntəˈneɪəs ˈdiːtʊəz ənd ˈrəʊdsaɪd dɪsˈkʌvəriz ˈfjuːəlz maɪ ˈwɒndəlʌst laɪk ˈnʌθɪŋ ɛls ðæt rəʊd trɪp tuː ðə ˈsɛntrəl ˈhaɪləndz lɑːst jɪər wɪð pɪt stɒps fɔː frɛʃ ˈkɒfi ənd ˈmɪsti ˈmaʊntɪn vjuːz wəz pjʊə blɪs/",
+    "sampleAnswerTranslations": {
+      "vn": "Chắc chắn 9 điểm – cảm giác hồi hộp của chân trời mới, những ngả rẽ bất chợt và khám phá ven đường nuôi dưỡng niềm đam mê du lịch của tôi như không gì khác. Chuyến road trip lên Tây Nguyên năm ngoái, với những điểm dừng uống cà phê tươi và ngắm núi mù sương, là hạnh phúc thuần túy.",
+      "kr": "단단한 9점이에요 – 새로운 지평의 스릴, 즉흥적인 우회, 길가 발견이 다른 어떤 것보다 제 배낭여행 욕구를 불태워요. 작년 중앙 고원 로드 트립, 신선한 커피와 안개 낀 산 전망을 위한 피트 스톱이 포함된, 순수한 행복이었어요.",
+      "jp": "しっかり9点です – 新しい地平線のスリル、即興の寄り道、道端の発見が他の何よりも私の放浪欲を燃やします。去年の中央高原へのロードトリップ、新鮮なコーヒーと霧の山の景色のためのピットストップ付きで、純粋な至福でした。"
+    },
+    "category": "Travel"
+  },
+  {
+    "id": 28,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "If you could pick one color to represent your personality, what would it be?",
+    "ipa": "/ɪf juː kʊd pɪk wʌn ˈkʌlər tuː ˌreprɪˈzent jɔː ˌpɜːsəˈnæləti, wɒt wʊd ɪt biː/",
+    "translations": {
+      "vn": "Nếu bạn có thể chọn một màu sắc đại diện cho tính cách, đó sẽ là màu gì?",
+      "kr": "성격을 나타내는 색을 하나 선택한다면 무엇일까요?",
+      "jp": "性格を表す色を一つ選べたら何ですか?"
+    },
+    "sampleAnswer": "Teal – that mesmerizing blend of blue's calm depth and green's vibrant energy mirrors my balanced yet adventurous spirit. It's soothing like ocean waves but bold enough to stand out, much like how I navigate life's ebbs and flows with quiet confidence.",
+    "sampleAnswerIpa": "/tiːl ðæt ˈmɛzməraɪzɪŋ blɛnd ɒv bluːz kɑːm dɛpθ ənd ɡriːnz ˈvaɪbrənt ˈɛnədʒi ˈmɪrəz maɪ ˈbælənst jɛt ədˈvɛntʃərəs ˈspɪrɪt ɪts ˈsuːðɪŋ laɪk ˈəʊʃən weɪvz bʌt bəʊld ɪˈnʌf tuː stænd aʊt mʌtʃ laɪk haʊ aɪ ˈnævɪɡeɪt laɪfs ɛbz ənd fləʊz wɪð ˈkwaɪət ˈkɒnfɪdəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Màu teal – sự pha trộn mê hoặc giữa chiều sâu bình yên của xanh dương và năng lượng sống động của xanh lá phản ánh tinh thần cân bằng nhưng phiêu lưu của tôi. Nó dịu dàng như sóng biển nhưng đủ nổi bật, giống như cách tôi điều hướng những thăng trầm cuộc sống với sự tự tin thầm lặng.",
+      "kr": "틸 컬러예요 – 블루의 차분한 깊이와 그린의 생생한 에너지의 매혹적인 블렌드가 제 균형 잡히면서도 모험적인 영혼을 반영해요. 바다 파도처럼 진정되면서도 돋보일 만큼 대담해서, 삶의 기복을 조용한 자신감으로 헤쳐나가는 제 모습과 비슷해요.",
+      "jp": "ティールです – 青の穏やかな深さと緑の活気あるエネルギーの魅惑的なブレンドが、私のバランスの取れた冒険的な精神を映します。海の波のように癒やしつつも目立つほど大胆で、人生の浮き沈みを静かな自信で乗り切る私のようです。"
+    },
+    "category": "Preferences"
+  },
+  {
+    "id": 29,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How much time do you spend glued to the TV these days?",
+    "ipa": "/haʊ mʌtʃ taɪm duː juː spend ɡluːd tuː ðə tiːˈviː ðiːz deɪz/",
+    "translations": {
+      "vn": "Bạn dành bao nhiêu thời gian dán mắt vào TV những ngày này?",
+      "kr": "요즘 TV에 얼마나 많은 시간을 보내나요?",
+      "jp": "最近、テレビにどれくらい時間を費やしていますか?"
+    },
+    "sampleAnswer": "Not as much as I'd like – maybe a couple of hours on weekends for documentaries or series marathons, but weekdays are for podcasts during chores. It's a guilty pleasure that sparks ideas, though I prefer the freedom of on-demand streaming over scheduled broadcasts.",
+    "sampleAnswerIpa": "/nɒt æz mʌtʃ æz aɪd laɪk ˈmeɪbi ə ˈkʌpl ɒv ˈaʊəz ɒn ˈwiːkɛndz fɔːr ˌdɒkjʊˈmɛntəriz ɔːr ˈsɪəriːz ˈmærəθɒnz bʌt ˈwiːkdeɪz ɑː fɔː ˈpɒdkɑːsts ˈdjʊərɪŋ tʃɔːz ɪts ə ˈɡɪlti ˈplɛʒə ðæt spɑːks aɪˈdɪəz ðəʊ aɪ prɪˈfɜː ðə ˈfriːdəm ɒv ɒn-dɪˈmɑːnd ˈstriːmɪŋ ˈəʊvə ˈʃɛdjuːld ˈbrɔːdkɑːsts/",
+    "sampleAnswerTranslations": {
+      "vn": "Không nhiều như tôi muốn – có lẽ vài tiếng cuối tuần cho phim tài liệu hoặc marathon series, nhưng ngày thường dành cho podcast khi làm việc nhà. Đó là thú vui tội lỗi khơi dậy ý tưởng, dù tôi thích sự tự do của streaming theo yêu cầu hơn phát sóng theo lịch.",
+      "kr": "원하는 만큼은 아니에요 – 주말에 다큐나 시리즈 마라톤으로 몇 시간 정도, 평일은 집안일 중 팟캐스트예요. 아이디어를 촉발하는 죄책감 있는 쾌락이지만, 예정된 방송보다 주문형 스트리밍의 자유를 선호해요.",
+      "jp": "望むほどではありません – 週末にドキュメンタリーやシリーズマラソンで数時間くらいですが、平日は家事中にポッドキャストです。アイデアを刺激する罪悪感のある楽しみですが、スケジュール放送よりオンデマンドストリーミングの自由を好みます。"
+    },
+    "category": "Media"
+  },
+  {
+    "id": 30,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What type of films really capture your imagination?",
+    "ipa": "/wɒt taɪp ɒv fɪlmz ˈrɪəli ˈkæptʃər jɔː ɪˌmædʒɪˈneɪʃn/",
+    "translations": {
+      "vn": "Loại phim nào thực sự khơi dậy trí tưởng tượng của bạn?",
+      "kr": "상상력을 자극하는 영화 유형은 무엇인가요?",
+      "jp": "想像力を刺激する映画のタイプは何ですか?"
+    },
+    "sampleAnswer": "Sci-fi epics like 'Dune' – the sweeping visuals, intricate world-building, and philosophical undertones whisk me to alternate realities where I ponder humanity's place in the cosmos. They ignite my curiosity, leaving me googling theories long after the credits roll.",
+    "sampleAnswerIpa": "/ˈsaɪ-faɪ ˈɛpɪks laɪk duːn ðə ˈswiːpɪŋ ˈvɪʒʊəlz ˌɪntrɪkət wɜːld-ˈbɪldɪŋ ənd ˌfɪləˈsɒfɪkl ˈʌndətəʊnz wɪsk miː tuː ɔːlˈtɜːnət riˈælətiz weər aɪ ˈpɒndə hjuːˈmænətiz pleɪs ɪn ðə ˈkɒzmɒs ðeɪ ɪɡˈnaɪt maɪ ˌkjʊəriˈɒsəti ˈliːvɪŋ miː ˈɡuːɡlɪŋ ˈθɪəriz lɒŋ ˈɑːftə ðə ˈkrɛdɪts rəʊl/",
+    "sampleAnswerTranslations": {
+      "vn": "Những sử thi khoa học viễn tưởng như 'Dune' – hình ảnh bao la, xây dựng thế giới phức tạp và tầng ý nghĩa triết học đưa tôi đến những thực tại khác nơi tôi suy ngẫm vị trí của nhân loại trong vũ trụ. Chúng khơi dậy sự tò mò, khiến tôi google lý thuyết mãi sau khi credit chạy hết.",
+      "kr": "듄 같은 SF 대서사시예요 – 휘몰아치는 영상, 복잡한 세계 구축, 철학적 뉘앙스가 저를 대체 현실로 데려가 우주 속 인류의 위치를 고민하게 해요. 호기심을 불태우고, 크레딧이 끝난 후에도 오랫동안 이론을 구글링하게 만들어요.",
+      "jp": "『デューン』のようなSF大作です – 壮大なビジュアル、複雑な世界構築、哲学的な含意が私を代替現実へ連れ去り、宇宙における人類の位置を考えさせます。好奇心を点火し、エンドロールが終わった後も長く理論をググらせます。"
+    },
+    "category": "Entertainment"
+  },
+  {
+    "id": 31,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are rainy days more of a blessing or a curse for you?",
+    "ipa": "/ɑː ˈreɪni deɪz mɔːr ɒv ə ˈblesɪŋ ɔːr ə kɜːrs fɔː juː/",
+    "translations": {
+      "vn": "Những ngày mưa đối với bạn là phước lành hay lời nguyền?",
+      "kr": "비오는 날은 축복인가요, 저주인가요?",
+      "jp": "雨の日はあなたにとって祝福か呪いですか?"
+    },
+    "sampleAnswer": "A cozy blessing – the patter on the window lulls me into a productive haze, ideal for curling up with tea and tackling that novel I've postponed. Sure, it dampens outdoor plans, but it forces a delicious pause in our always-on world.",
+    "sampleAnswerIpa": "/ə ˈkəʊzi ˈblɛsɪŋ ðə ˈpætə ɒn ðə ˈwɪndəʊ lʌlz miː ˈɪntu ə prəˈdʌktɪv heɪz aɪˈdiːəl fɔːr ˈkɜːlɪŋ ʌp wɪð tiː ənd ˈtæklɪŋ ðæt ˈnɒvl aɪv pəʊstˈpəʊnd ʃʊə ɪt ˈdæmpənz ˈaʊtdɔː plænz bʌt ɪt fɔːsɪz ə dɪˈlɪʃəs pɔːz ɪn aʊə ˈɔːlweɪz-ɒn wɜːld/",
+    "sampleAnswerTranslations": {
+      "vn": "Một phước lành ấm cúng – tiếng mưa lộp độp trên cửa sổ ru tôi vào trạng thái làm việc hiệu quả mơ màng, lý tưởng để cuộn tròn với trà và xử lý cuốn tiểu thuyết đã trì hoãn. Chắc chắn nó làm hỏng kế hoạch ngoài trời, nhưng buộc phải có một khoảng dừng ngon lành trong thế giới luôn bật của chúng ta.",
+      "kr": "아늑한 축복이에요 – 창문에 떨어지는 빗소리가 생산적인 몽롱함으로 유도하고, 차와 함께 웅크려 미뤄둔 소설을 처리하기 딱이죠. 야외 계획을 축축하게 만들지만, 항상 켜져 있는 세상에서 맛있는 멈춤을 강제해줘요.",
+      "jp": "居心地の良い祝福です – 窓を叩く雨音が私を生産的なぼんやり状態に誘い、お茶を抱えて先延ばしにした小説に取り組むのに理想的です。屋外計画を湿らせますが、常にオンな世界で美味しい一時停止を強いてくれます。"
+    },
+    "category": "Weather"
+  },
+  {
+    "id": 32,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "On average, how many hours of shut-eye do you get per night?",
+    "ipa": "/ɒn ˈævərɪdʒ, haʊ ˈmeni ˈaʊəz ɒv ʃʌt-aɪ duː juː ɡet pə naɪt/",
+    "translations": {
+      "vn": "Trung bình, bạn ngủ bao nhiêu tiếng mỗi đêm?",
+      "kr": "평균적으로 밤에 몇 시간 자나요?",
+      "jp": "平均して一晩に何時間寝ますか?"
+    },
+    "sampleAnswer": "I clock in about seven hours, aiming for that sweet spot where I'm refreshed without grogginess. Weeknights are sacred for early lights-out, but a lazy Sunday lie-in stretches it to eight, complete with dreams that feel like mini-vacations.",
+    "sampleAnswerIpa": "/aɪ klɒk ɪn əˈbaʊt ˈsɛvn ˈaʊəz ˈeɪmɪŋ fɔː ðæt swiːt spɒt weər aɪm rɪˈfrɛʃt wɪˈðaʊt ˈɡrɒɡɪnəs ˈwiːknaɪts ɑː ˈseɪkrɪd fɔːr ˈɜːli laɪts-aʊt bʌt ə ˈleɪzi ˈsʌndi laɪ-ɪn strɛtʃɪz ɪt tuː eɪt kəmˈpliːt wɪð driːmz ðæt fiːl laɪk ˈmɪni væˈkeɪʃnz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi ngủ khoảng 7 tiếng, nhắm đến điểm ngọt ngào để tỉnh táo mà không mụ mị. Đêm ngày thường là thời gian thiêng liêng để tắt đèn sớm, nhưng chủ nhật lười biếng thì kéo dài đến 8 tiếng, kèm những giấc mơ như kỳ nghỉ mini.",
+      "kr": "평균 7시간 정도 자요. 졸음 없이 상쾌한 스위트 스팟을 목표로요. 평일 밤은 일찍 불 끄는 신성한 시간인데, 게으른 일요일에는 8시간으로 늘어나고 미니 휴가 같은 꿈까지 꿔요.",
+      "jp": "平均7時間くらいです。眠気なく爽快になるスイートスポットを狙っています。平日の夜は早めに消灯する神聖な時間ですが、怠惰な日曜日には8時間に伸び、ミニバカンスのような夢まで見ます。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 33,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is there anything you make a habit of collecting?",
+    "ipa": "/ɪz ðeər ˈeniθɪŋ juː meɪk ə ˈhæbɪt ɒv kəˈlektɪŋ/",
+    "translations": {
+      "vn": "Bạn có thói quen sưu tầm gì không?",
+      "kr": "무언가를 수집하는 습관이 있나요?",
+      "jp": "何かコレクションする習慣はありますか?"
+    },
+    "sampleAnswer": "Vintage postcards from travels – each one a tangible snapshot of forgotten alleys or sunsets, pinned to my wall like a patchwork map of memories. It's not about value; it's the stories they whisper, turning ordinary trips into cherished tales.",
+    "sampleAnswerIpa": "/ˈvɪntɪdʒ ˈpəʊstkɑːdz frɒm ˈtrævlz iːtʃ wʌn ə ˈtændʒəbl ˈsnæpʃɒt ɒv fəˈɡɒtn ˈæliz ɔːr ˈsʌnsɛts pɪnd tuː maɪ wɔːl laɪk ə ˈpætʃwɜːk mæp ɒv ˈmɛməriz ɪts nɒt əˈbaʊt ˈvæljuː ɪts ðə ˈstɔːriz ðeɪ ˈwɪspə ˈtɜːnɪŋ ˈɔːdnri trɪps ˈɪntu ˈtʃɛrɪʃt teɪlz/",
+    "sampleAnswerTranslations": {
+      "vn": "Thiệp bưu thiếp vintage từ các chuyến đi – mỗi tấm là ảnh chụp thực tế của con hẻm quên lãng hay hoàng hôn, ghim lên tường như bản đồ chắp vá kỷ niệm. Không phải về giá trị; mà là những câu chuyện chúng thì thầm, biến chuyến đi bình thường thành những câu chuyện trân quý.",
+      "kr": "여행에서 얻은 빈티지 엽서예요 – 잊힌 골목이나 일몰의 실체적인 스냅샷으로, 벽에 붙여 추억의 패치워크 지도처럼요. 가치가 아니라 그들이 속삭이는 이야기예요. 평범한 여행을 소중한 이야기로 바꿔줘요.",
+      "jp": "旅行からのビンテージポストカードです – 忘れられた路地や夕陽の実体的なスナップショットで、壁にピン留めして記憶のパッチワークマップのようにしています。価値ではなく、彼らがささやくストーリーです。普通の旅行を大切な物語に変えてくれます。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 34,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Walk me through your typical morning routine.",
+    "ipa": "/wɔːk mi θruː jɔː ˈtɪpɪkl ˈmɔːnɪŋ ruːˈtiːn/",
+    "translations": {
+      "vn": "Hãy kể tôi nghe về thói quen buổi sáng điển hình của bạn.",
+      "kr": "평소 아침 루틴을 설명해주세요.",
+      "jp": "典型的な朝のルーチンを教えてください。"
+    },
+    "sampleAnswer": "It kicks off with a 6:30 alarm to sunlight stretching across the room, followed by a quick stretch and meditation to center my thoughts. Then, a nutrient-packed smoothie while journaling three gratitudes – it's this mindful start that sets a positive tone, propelling me through the day with intention rather than autopilot.",
+    "sampleAnswerIpa": "/ɪt kɪks ɒf wɪð ə sɪks-ˈθɜːti əˈlɑːm tuː ˈsʌnlaɪt ˈstrɛtʃɪŋ əˈkrɒs ðə ruːm ˈfɒləʊd baɪ ə kwɪk strɛtʃ ənd ˌmɛdɪˈteɪʃn tuː ˈsɛntə maɪ θɔːts ðɛn ə ˈnjuːtriənt-pækt ˈsmuːði waɪl ˈdʒɜːnlɪŋ θriː ˈɡrætɪtjuːdz ɪts ðɪs ˈmaɪndfl stɑːt ðæt sɛts ə ˈpɒzətɪv təʊn prəˈpɛlɪŋ miː θruː ðə deɪ wɪð ɪnˈtɛnʃn ˈrɑːðə ðæn ˈɔːtəʊpaɪlət/",
+    "sampleAnswerTranslations": {
+      "vn": "Bắt đầu bằng chuông báo thức 6:30 khi ánh nắng lan khắp phòng, tiếp theo là vươn vai nhanh và thiền để tập trung suy nghĩ. Sau đó là ly sinh tố đầy dưỡng chất trong khi ghi nhật ký ba điều biết ơn – chính khởi đầu chánh niệm này tạo tông màu tích cực, đẩy tôi qua ngày với ý định thay vì tự động.",
+      "kr": "6:30 알람과 방 안에 퍼지는 햇빛으로 시작해요. 빠른 스트레칭과 명상으로 생각을 중심에 놓고요. 그다음 영양 듬뿍 스무디를 마시며 세 가지 감사 일기를 쓰죠 – 이 마인드풀한 시작이 긍정적인 톤을 설정하고, 오토파일럿 대신 의도로 하루를 밀어줘요.",
+      "jp": "6:30のアラームと部屋に広がる日光でキックオフします。素早いストレッチと瞑想で思考をセンターに、次に栄養たっぷりのスムージーを飲みながら3つの感謝をジャーナリングします – このマインドフルなスタートがポジティブなトーンを設定し、オートパイロットではなく意図で一日を推進します。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 35,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do museums hold much appeal for you?",
+    "ipa": "/duː mjuːˈziːəmz həʊld mʌtʃ əˈpiːl fɔː juː/",
+    "translations": {
+      "vn": "Bảo tàng có hấp dẫn bạn lắm không?",
+      "kr": "박물관이 매력적으로 느껴지나요?",
+      "jp": "博物館はあなたにとって魅力的ですか?"
+    },
+    "sampleAnswer": "They're a treasure trove of time travel – wandering through galleries of ancient artifacts or modern abstracts stirs a profound sense of connection to human ingenuity. Last month's visit to the Fine Arts Museum left me pondering Warhol's pop art for days, questioning consumerism in ways a textbook never could.",
+    "sampleAnswerIpa": "/ðɛər ə ˈtrɛʒə trəʊv ɒv taɪm ˈtrævl ˈwɒndərɪŋ θruː ˈɡæləriz ɒv ˈeɪnʃənt ˈɑːtɪfækts ɔːr ˈmɒdn ˈæbstrækts stɜːz ə prəˈfaʊnd sɛns ɒv kəˈnɛkʃn tuː ˈhjuːmən ɪnˈdʒɛnjuːəti lɑːst mʌnθs ˈvɪzɪt tuː ðə faɪn ɑːts mjuːˈziːəm lɛft miː ˈpɒndərɪŋ ˈwɔːhɒlz pɒp ɑːt fɔː deɪz ˈkwɛstʃənɪŋ kənˈsjuːmərɪzəm ɪn weɪz ə ˈtɛkstbʊk ˈnɛvə kʊd/",
+    "sampleAnswerTranslations": {
+      "vn": "Chúng là kho báu du hành thời gian – lang thang qua các phòng trưng bày cổ vật hoặc tranh trừu tượng hiện đại khơi dậy cảm giác kết nối sâu sắc với sự khéo léo của con người. Chuyến thăm Bảo tàng Mỹ thuật tháng trước khiến tôi suy ngẫm về nghệ thuật pop của Warhol hàng ngày, đặt câu hỏi về chủ nghĩa tiêu dùng theo cách sách giáo khoa không bao giờ làm được.",
+      "kr": "시간 여행의 보물창고예요 – 고대 유물이나 현대 추상 갤러리를 헤매다 인간의 독창성에 깊은 연결감을 불러일으켜요. 지난달 미술관 방문이 워홀의 팝아트를 며칠 동안 고민하게 했고, 교과서로는 절대 안 될 소비주의 질문을 던지게 했어요.",
+      "jp": "時間旅行の宝庫です – 古代の遺物や現代の抽象画のギャラリーを歩き回ることで、人間の創意工夫への深いつながりをかき立てます。先月の美術館訪問がウォーホルのポップアートを何日も考えさせ、教科書では決してできなかった消費主義への疑問を投げかけました。"
+    },
+    "category": "Arts & Culture"
+  },
+  {
+    "id": 36,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Which holiday stands out as your absolute favorite?",
+    "ipa": "/wɪtʃ ˈhɒlədeɪ stændz aʊt æz jɔː ˈæbsəluːt ˈfeɪvrɪt/",
+    "translations": {
+      "vn": "Kỳ nghỉ nào nổi bật là yêu thích tuyệt đối của bạn?",
+      "kr": "절대적인 좋아하는 휴일은 무엇인가요?",
+      "jp": "絶対のお気に入りの休日は何ですか?"
+    },
+    "sampleAnswer": "Tet, our Lunar New Year, without question – the air buzzes with fireworks and family feasts, where sticky rice cakes symbolize abundance and forgiveness mends old rifts. It's a cultural heartbeat, blending reverence for ancestors with unbridled joy that rekindles my spirit annually.",
+    "sampleAnswerIpa": "/tɛt aʊə ˈluːnə njuː jɪə wɪˈðaʊt ˈkwɛstʃən ði eə ˈbʌzɪz wɪð ˈfaɪəwɜːks ənd ˈfæməli fiːsts weər ˈstɪki raɪs keɪks ˈsɪmbəlaɪz əˈbʌndəns ənd fəˈɡɪvnəs mɛndz əʊld rɪfts ɪts ə ˈkʌltʃərəl ˈhɑːtbiːt ˈblɛndɪŋ ˈrɛvərəns fɔː ˈænsɛstəz wɪð ʌnˈbraɪdld dʒɔɪ ðæt riːˈkɪndlz maɪ ˈspɪrɪt əˈnjuːəli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tết Âm lịch của chúng tôi, không cần bàn cãi – không khí rộn ràng pháo hoa và tiệc gia đình, bánh chưng tượng trưng cho sự sung túc và tha thứ hàn gắn vết nứt cũ. Đó là nhịp tim văn hóa, hòa quyện kính trọng tổ tiên với niềm vui bung tỏa tái sinh tinh thần tôi hàng năm.",
+      "kr": "테트, 우리 음력 설날요, 의심의 여지 없이요 – 공기가 폭죽과 가족 잔치로 윙윙거리고, 찹쌀떡이 풍요를 상징하며 용서가 오랜 갈등을 치유해요. 조상에 대한 경외와 억제되지 않은 기쁨을 블렌딩한 문화적 심장 박동으로 매년 제 영혼을 재점화해요.",
+      "jp": "テト、私たちの旧正月です、疑問の余地なく – 空気が花火と家族の宴でざわめき、もち米ケーキが豊かさを象徴し、許しが古い溝を修復します。先祖への敬意と抑えきれない喜びをブレンドした文化的鼓動で、毎年私の精神を再燃させてくれます。"
+    },
+    "category": "Festivals"
+  },
+  {
+    "id": 37,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are you behind the wheel of a car regularly?",
+    "ipa": "/ɑːr juː bɪˈhaɪnd ðə wiːl ɒv ə kɑːr ˈreɡjʊləli/",
+    "translations": {
+      "vn": "Bạn có thường xuyên lái xe hơi không?",
+      "kr": "자동차를 정기적으로 운전하나요?",
+      "jp": "車を定期的に運転しますか?"
+    },
+    "sampleAnswer": "Not yet – I stick to public transport for its eco-friendliness and the people-watching bonus, but I'm eyeing lessons soon. The freedom of road trips beckons, imagining coastal drives with the windows down and playlists blasting.",
+    "sampleAnswerIpa": "/nɒt jɛt aɪ stɪk tuː ˈpʌblɪk ˈtrænspɔːt fɔːr ɪts ˈiːkəʊ-ˈfrɛndlinəs ənd ðə ˈpiːpl-ˈwɒtʃɪŋ ˈbəʊnəs bʌt aɪm ˈaɪɪŋ ˈlɛsnz suːn ðə ˈfriːdəm ɒv rəʊd trɪps ˈbɛkənz ɪˈmædʒɪnɪŋ ˈkəʊstl draɪvz wɪð ðə ˈwɪndəʊz daʊn ənd ˈpleɪlɪsts ˈblɑːstɪŋ/",
+    "sampleAnswerTranslations": {
+      "vn": "Chưa – tôi vẫn dùng giao thông công cộng vì thân thiện môi trường và bonus ngắm người, nhưng sắp học lái rồi. Tự do của road trip vẫy gọi, tưởng tượng lái dọc bờ biển với kính hạ xuống và playlist oang oang.",
+      "kr": "아직요 – 환경 친화성과 사람 구경 보너스로 대중교통을 고수하지만, 곧 운전 레슨을 받을 계획이에요. 로드 트립의 자유가 손짓하고, 창문을 내리고 플레이리스트를 크게 틀며 해안 드라이브를 상상해요.",
+      "jp": "まだです – エコフレンドリーさと人観察ボーナスで公共交通を続けていますが、そろそろレッスンを受けようかと思っています。ロードトリップの自由が誘い、窓を下げてプレイリストを爆音で海岸ドライブを想像します。"
+    },
+    "category": "Transport"
+  },
+  {
+    "id": 38,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Which apps do you find yourself opening most frequently?",
+    "ipa": "/wɪtʃ æps duː juː faɪnd jɔːˈself ˈəʊpnɪŋ məʊst ˈfriːkwəntli/",
+    "translations": {
+      "vn": "Ứng dụng nào bạn mở thường xuyên nhất?",
+      "kr": "가장 자주 여는 앱은 무엇인가요?",
+      "jp": "一番頻繁に開くアプリは何ですか?"
+    },
+    "sampleAnswer": "Spotify for mood-lifting tunes and Duolingo for bite-sized language lessons – they're seamless lifelines that fit my on-the-go vibe. Spotify's personalized playlists feel like a DJ in my pocket, while Duolingo's gamified streaks keep my French practice consistent without the dread of formal classes.",
+    "sampleAnswerIpa": "/ˈspɒtɪfaɪ fɔː muːd-ˈlɪftɪŋ tjuːnz ənd ˌdjuːəˈlɪŋɡəʊ fɔː baɪt-saɪzd ˈlæŋɡwɪdʒ ˈlɛsnz ðɛə ˈsiːmləs ˈlaɪflaɪnz ðæt fɪt maɪ ɒn-ðə-ɡəʊ vaɪb ˈspɒtɪfaɪz ˌpɜːsənəlaɪzd ˈpleɪlɪsts fiːl laɪk ə diːˈdʒeɪ ɪn maɪ ˈpɒkɪt waɪl ˌdjuːəˈlɪŋɡəʊz ˈɡeɪmɪfaɪd striːks kiːp maɪ frɛntʃ ˈpræktɪs kənˈsɪstənt wɪˈðaʊt ðə drɛd ɒv ˈfɔːml ˈklɑːsɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Spotify cho những bản nhạc nâng tâm trạng và Duolingo cho bài học ngôn ngữ cắn miếng – chúng là dây cứu sinh mượt mà phù hợp lối sống di chuyển của tôi. Playlist cá nhân hóa của Spotify như DJ trong túi, trong khi streak gamified của Duolingo giữ việc luyện tiếng Pháp đều đặn mà không sợ lớp học chính quy.",
+      "kr": "기분 전환 멜로디에 스포티파이와 한 입 크기 언어 레슨에 듀오링고예요 – 이동 중 바이브에 딱 맞는 원활한 생명줄이죠. 스포티파이의 개인화 플레이리스트는 주머니 속 DJ 같고, 듀오링고의 게임화 스트릭이 정규 수업 공포 없이 프랑스어 연습을 일관되게 유지해줘요.",
+      "jp": "気分を上げる曲にSpotifyと一口サイズの言語レッスンにDuolingoです – 移動中の私のバイブにぴったりなシームレスなライフラインです。Spotifyのパーソナライズドプレイリストはポケットの中のDJのようで、Duolingoのゲーミフィケーションされたストリークが正式授業の恐怖なくフランス語練習を一貫させてくれます。"
+    },
+    "category": "Technology"
+  },
+  {
+    "id": 39,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do flowers brighten your day in any particular way?",
+    "ipa": "/duː ˈflaʊəz ˈbraɪtn jɔː deɪ ɪn ˈeni pəˈtɪkjʊlər weɪ/",
+    "translations": {
+      "vn": "Hoa làm sáng ngày của bạn theo cách nào đặc biệt?",
+      "kr": "꽃이 하루를 특별하게 밝혀주나요?",
+      "jp": "花は一日を特別な方法で明るくしますか?"
+    },
+    "sampleAnswer": "Sunflowers, with their bold golden faces turning toward the light, never fail to inject optimism – a single vase on my desk turns mundane tasks into something cheerful. Gifting a bouquet to a friend recently sparked an impromptu picnic, proving their power to bloom unexpected joy.",
+    "sampleAnswerIpa": "/ˈsʌnflaʊəz wɪð ðɛə bəʊld ˈɡəʊldən feɪsɪz ˈtɜːnɪŋ təˈwɔːd ðə laɪt ˈnɛvə feɪl tuː ɪnˈdʒɛkt ˈɒptɪmɪzəm ə ˈsɪŋɡl vɑːz ɒn maɪ dɛsk tɜːnz mʌnˈdeɪn tɑːsks ˈɪntu ˈsʌmθɪŋ ˈtʃɪəfl ˈɡɪftɪŋ ə buˈkeɪ tuː ə frɛnd ˈriːsntli spɑːkt ən ˌɪmprɒmptˈuː ˈpɪknɪk ˈpruːvɪŋ ðɛə ˈpaʊə tuː bluːm ʌnɪkˈspɛktɪd dʒɔɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Hoa hướng dương, với khuôn mặt vàng rực rỡ hướng về ánh sáng, luôn tiêm nhiễm lạc quan – chỉ một bình trên bàn làm biến công việc nhàm chán thành vui vẻ. Gần đây tặng bó hoa cho bạn đã khơi mào picnic bất chợt, chứng minh sức mạnh nở rộ niềm vui bất ngờ của chúng.",
+      "kr": "해바라기, 대담한 황금빛 얼굴이 빛을 향해 돌려 항상 낙관을 주입해요 – 책상 위 단 한 병이 평범한 업무를 유쾌하게 바꿔요. 최근 친구에게 꽃다발을 선물하며 즉석 피크닉이 시작됐고, 예상치 못한 기쁨을 피워내는 힘을 증명했어요.",
+      "jp": "ヒマワリ、その大胆な黄金の顔が光に向かって向き、決して楽観を注入するのを失敗しません – 机の上に一輪挿しだけで平凡なタスクを陽気なものに変えます。最近友達に花束を贈ったら即興ピクニックが始まり、意外な喜びを咲かせる力を証明しました。"
+    },
+    "category": "Nature"
+  },
+  {
+    "id": 40,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your all-time favorite fruit, and what draws you to it?",
+    "ipa": "/wɒts jɔː ˈɔːl-taɪm ˈfeɪvrɪt fruːt, ənd wɒt drɔːz juː tuː ɪt/",
+    "translations": {
+      "vn": "Trái cây yêu thích mọi thời đại của bạn là gì, và điều gì thu hút bạn?",
+      "kr": "역대 좋아하는 과일은 무엇이며, 무엇이 끌리나요?",
+      "jp": "これまでの好きな果物は何ですか？何が魅力的ですか?"
+    },
+    "sampleAnswer": "Mangoes, hands down – their juicy explosion of tropical sweetness, with that velvety texture, is like summer in every bite. Sourced from my uncle's orchard, they're not just a treat but a family ritual, evoking lazy afternoons under the mango tree with sticky fingers and endless stories.",
+    "sampleAnswerIpa": "/ˈmæŋɡəʊz hændz daʊn ðɛə ˈdʒuːsi ɪkˈspləʊʒən ɒv ˈtrɒpɪkl ˈswiːtnəs wɪð ðæt ˈvɛlvɪti ˈtɛkstʃə ɪz laɪk ˈsʌmə ɪn ˈɛvri baɪt sɔːst frɒm maɪ ˈʌŋklz ˈɔːtʃəd ðɛə nɒt dʒʌst ə triːt bʌt ə ˈfæməli ˈrɪtʃuəl ɪˈvəʊkɪŋ ˈleɪzi ˌɑːftəˈnuːnz ˌʌndə ðə ˈmæŋɡəʊ triː wɪð ˈstɪki ˈfɪŋɡəz ənd ˈɛndləs ˈstɔːriz/",
+    "sampleAnswerTranslations": {
+      "vn": "Xoài, chắc chắn rồi – vụ nổ đa nước ngọt nhiệt đới với kết cấu mịn màng như mùa hè trong từng miếng cắn. Lấy từ vườn của chú tôi, chúng không chỉ là món ngon mà còn nghi thức gia đình, gợi nhớ những buổi chiều lười biếng dưới cây xoài với ngón tay dính nhựa và những câu chuyện bất tận.",
+      "kr": "망고, 단연코요 – 열대적인 단맛의 폭발적인 즙과 벨벳 같은 텍스처가 매 입에 여름 같아요. 삼촌 과수원에서 온 거라 단순한 간식이 아니라 가족 의식으로, 끈적한 손가락과 끝없는 이야기 속 망고 나무 아래 게으른 오후를 떠올려요.",
+      "jp": "マンゴー、間違いなく – トロピカルな甘さのジューシーな爆発とベルベットのようなテクスチャーが、毎口に夏のようです。おじさんの果樹園から取れたものなので、ただのおやつではなく家族の儀式で、べたつく指と果てしない話の中のマンゴーの木の下の怠惰な午後を呼び起こします。"
+    },
+    "category": "Food & Drink"
+  },
+  {
+    "id": 41,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you rely on glasses or contacts for better vision?",
+    "ipa": "/duː juː rɪˈlaɪ ɒn ˈɡlɑːsɪz ɔːr ˈkɒntækts fɔː ˈbetə ˈvɪʒn/",
+    "translations": {
+      "vn": "Bạn có dùng kính hoặc kính áp tròng để nhìn rõ hơn không?",
+      "kr": "시야를 좋게 하기 위해 안경이나 콘택트렌즈를 사용하나요?",
+      "jp": "より良い視力のためにメガネやコンタクトを使いますか?"
+    },
+    "sampleAnswer": "Rimless glasses are my daily ally – they sharpen the world without the fuss of contacts, and I love how a chic frame adds a subtle edge to my look. Swapping to contacts for swims or formal events feels liberating, like shedding a familiar skin for a fresh perspective.",
+    "sampleAnswerIpa": "/ˈrɪmləs ˈɡlɑːsɪz ɑː maɪ ˈdeɪli ˈælaɪ ðeɪ ˈʃɑːpən ðə wɜːld wɪˈðaʊt ðə fʌs ɒv ˈkɒntækts ənd aɪ lʌv haʊ ə ʃiːk freɪm ædz ə ˈsʌtl ɛdʒ tuː maɪ lʊk ˈswɒpɪŋ tuː ˈkɒntækts fɔː swɪmz ɔːr ˈfɔːml ɪˈvɛnts fiːlz ˌlɪbəˈreɪtɪŋ laɪk ˈʃɛdɪŋ ə fəˈmɪliə skɪn fɔːr ə frɛʃ pəˈspɛktɪv/",
+    "sampleAnswerTranslations": {
+      "vn": "Kính không gọng là đồng minh hàng ngày của tôi – làm sắc nét thế giới mà không phiền phức như lens, và tôi thích cách gọng kính chic thêm chút sắc sảo cho diện mạo. Đổi sang lens khi bơi hoặc sự kiện trang trọng mang cảm giác giải phóng, như lột bỏ lớp da quen thuộc để có góc nhìn mới.",
+      "kr": "림리스 안경이 제 일상 동맹이에요 – 콘택트의 번거로움 없이 세상을 선명하게 하고, 시크한 프레임이 룩에 미묘한 에지를 더해요. 수영이나 공식 행사에 콘택트로 바꾸면 익숙한 껍질을 벗고 신선한 관점처럼 자유로워요.",
+      "jp": "リムレスメガネが私の日常の味方です – コンタクトの面倒なく世界を鮮明にし、シックなフレームがルックに微妙なエッジを加えます。泳ぎやフォーマルイベントでコンタクトに替えるのは、馴染みの皮を脱いで新鮮な視点を得るような解放感です。"
+    },
+    "category": "Appearance"
+  },
+  {
+    "id": 42,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What aspects of studying English appeal to you the most?",
+    "ipa": "/wɒt ˈæspekts ɒv ˈstʌdiɪŋ ˈɪŋɡlɪʃ əˈpiːl tuː juː ðə məʊst/",
+    "translations": {
+      "vn": "Những khía cạnh nào của việc học tiếng Anh hấp dẫn bạn nhất?",
+      "kr": "영어 공부에서 가장 매력적인 부분은 무엇인가요?",
+      "jp": "英語学習のどの側面が一番魅力的ですか?"
+    },
+    "sampleAnswer": "The gateway to global stories – devouring literature from Austen to Adichie or debating TED Talks hones not just language but empathy and worldview. Mastering idioms like 'raining cats and dogs' adds that delightful layer of cultural nuance, making conversations sparkle with authenticity.",
+    "sampleAnswerIpa": "/ðə ˈɡeɪtweɪ tuː ˈɡləʊbl ˈstɔːriz dɪˈvaʊərɪŋ ˈlɪtərətʃə frɒm ˈɔːstɪn tuː əˈdɪtʃeɪ ɔːr dɪˈbeɪtɪŋ tɛd tɔːks həʊnz nɒt dʒʌst ˈlæŋɡwɪdʒ bʌt ˈɛmpəθi ənd ˈwɜːldvjuː ˈmɑːstərɪŋ ˈɪdiəmz laɪk ˈreɪnɪŋ kæts ənd dɒɡz ædz ðæt dɪˈlaɪtfəl ˈleɪə ɒv ˈkʌltʃərəl ˈnjuːɑːns ˈmeɪkɪŋ ˌkɒnvəˈseɪʃnz ˈspɑːkl wɪð ɔːˈθɛntɪsəti/",
+    "sampleAnswerTranslations": {
+      "vn": "Cổng vào những câu chuyện toàn cầu – ngấu nghiến văn học từ Austen đến Adichie hay tranh luận TED Talks rèn luyện không chỉ ngôn ngữ mà còn đồng cảm và thế giới quan. Nắm vững thành ngữ như 'raining cats and dogs' thêm tầng văn hóa thú vị, khiến cuộc trò chuyện lấp lánh chân thực.",
+      "kr": "글로벌 스토리로의 관문이에요 – 오스틴부터 아디치에까지 문학을 탐독하거나 TED 토크를 토론하며 언어뿐 아니라 공감과 세계관을 연마해요. 'raining cats and dogs' 같은 관용구 마스터가 문화적 뉘앙스의 즐거운 레이어를 더하고, 대화를 진정성으로 반짝이게 해요.",
+      "jp": "グローバルストーリーへの玄関口です – オースティンからアディチエまでの文学を貪り読んだりTEDトークを議論したりするのは言語だけでなく共感と世界観を磨きます。「raining cats and dogs」のようなイディオムをマスターすると文化的なニュアンスの楽しいレイヤーが加わり、会話を本物らしく輝かせます。"
+    },
+    "category": "Education"
+  },
+  {
+    "id": 43,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is dancing something that comes naturally to you?",
+    "ipa": "/ɪz ˈdɑːnsɪŋ ˈsʌmθɪŋ ðæt kʌmz ˈnætʃərəli tuː juː/",
+    "translations": {
+      "vn": "Nhảy múa có phải là thứ tự nhiên đối với bạn không?",
+      "kr": "춤추는 것이 자연스럽게 되나요?",
+      "jp": "ダンスはあなたにとって自然なことですか?"
+    },
+    "sampleAnswer": "I'm no pro, but I sway with abandon at weddings or K-pop marathons – it's less about perfection and more about shedding inhibitions to the rhythm. Lessons might polish my moves, but for now, it's pure joy in motion, connecting me to the music's pulse.",
+    "sampleAnswerIpa": "/aɪm nəʊ prəʊ bʌt aɪ sweɪ wɪð əˈbændən æt ˈwɛdɪŋz ɔːr keɪ-pɒp ˈmærəθɒnz ɪts lɛs əˈbaʊt pəˈfɛkʃn ənd mɔːr əˈbaʊt ˈʃɛdɪŋ ˌɪnhɪˈbɪʃnz tuː ðə ˈrɪðəm ˈlɛsnz maɪt ˈpɒlɪʃ maɪ muːvz bʌt fɔː naʊ ɪts pjʊə dʒɔɪ ɪn ˈməʊʃn kəˈnɛktɪŋ miː tuː ðə ˈmjuːzɪks pʌls/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi khôn phải pro, nhưng tôi lắc lư thoải mái ở đám cưới hay marathon K-pop – ít về hoàn hảo mà nhiều về buông bỏ e ngại theo nhịp điệu. Lớp học có thể mài giũa động tác, nhưng giờ thì đó là niềm vui thuần khiết trong chuyển động, kết nối tôi với nhịp đập âm nhạc.",
+      "kr": "프로는 아니지만 결혼식이나 K-팝 마라톤에서 자유롭게 흔들어요 – 완벽함보다 리듬에 억제를 벗는 게 더 중요해요. 레슨이 동작을 다듬을 수 있지만, 지금은 움직임 속 순수한 기쁨으로 음악의 펄스와 연결돼요.",
+      "jp": "プロではありませんが、結婚式やK-popマラソンで自由に揺れます – 完璧さよりリズムに抑制を脱ぐ方が大事です。レッスンで動きを磨けるかもしれませんが、今は動きの中の純粋な喜びで、音楽のパルスとつながっています。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 44,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "If you could wave a magic wand, what career would you pursue?",
+    "ipa": "/ɪf juː kʊd weɪv ə ˈmædʒɪk wɒnd, wɒt kəˈrɪər wʊd juː pəˈsjuː/",
+    "translations": {
+      "vn": "Nếu bạn có thể vẫy đũa thần, bạn sẽ theo đuổi sự nghiệp nào?",
+      "kr": "마법 지팡이를 휘두를 수 있다면 어떤 직업을 추구할까요?",
+      "jp": "魔法の杖を振れたら、どんなキャリアを追求しますか?"
+    },
+    "sampleAnswer": "A wildlife conservationist in Borneo, tracking endangered orangutans through lush rainforests – blending adventure with purpose, I'd advocate for habitats while uncovering nature's secrets. It's the fusion of passion for animals and environmental justice that lights a fire under me.",
+    "sampleAnswerIpa": "/ə ˈwaɪldlaɪf ˌkɒnsəˈveɪʃənɪst ɪn bɔːˈnɪəʊ ˈtrækɪŋ ɪnˈdeɪndʒəd ˌɔːræŋʊˈtænz θruː lʌʃ ˈreɪnfɒrɪsts ˈblɛndɪŋ ədˈvɛntʃə wɪð ˈpɜːpəs aɪd ədˈvəkeɪt fɔː ˈhæbɪtæts waɪl ʌnˈkʌvərɪŋ ˈneɪtʃəz ˈsiːkrɪts ɪts ðə ˈfjuːʒn ɒv ˈpæʃən fɔː ˈænɪmlz ənd ɪnˌvaɪrənˈmɛntl ˈdʒʌstɪs ðæt laɪts ə faɪər ˈʌndə miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Một nhà bảo tồn động vật hoang dã ở Borneo, theo dõi đười ươi nguy cấp qua những khu rừng mưa nhiệt đới tươi tốt – kết hợp phiêu lưu với mục đích, tôi sẽ đấu tranh cho môi trường sống trong khi khám phá bí mật của thiên nhiên. Chính sự hòa quyện giữa đam mê động vật và công lý môi trường đã thắp lửa trong tôi.",
+      "kr": "보르네오의 야생동물 보호 전문가요, 멸종 위기 오랑우탄을 울창한 열대우림에서 추적하며 – 모험과 목적을 섞어 서식지를 옹호하고 자연의 비밀을 파헤치죠. 동물에 대한 열정과 환경 정의의 융합이 제게 불을 지펴요.",
+      "jp": "ボルネオの野生生物保護活動家です。絶滅危惧種のオランウータンを豊かな熱帯雨林で追跡し – 冒険と目的をブレンドし、生息地を擁護しながら自然の秘密を解き明かします。動物への情熱と環境正義の融合が私に火を灯します。"
+    },
+    "category": "Work"
+  },
+  {
+    "id": 45,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Does the beach call to you for relaxation?",
+    "ipa": "/dʌz ðə biːtʃ kɔːl tuː juː fɔːr ˌrɪlækˈseɪʃn/",
+    "translations": {
+      "vn": "Bãi biển có thu hút bạn để thư giãn không?",
+      "kr": "해변은 휴식을 위해 부르나요?",
+      "jp": "ビーチはリラックスにあなたを呼んでいますか?"
+    },
+    "sampleAnswer": "Irresistibly – the symphony of waves crashing and salty breeze caressing my skin melts stress away like sandcastles at high tide. Digging toes into warm grains while devouring a novel is my zen zone, far from urban clamor.",
+    "sampleAnswerIpa": "/ɪrɪˈzɪstəbli ðə ˈsɪmfəni ɒv weɪvz ˈkræʃɪŋ ənd ˈsɔːlti briːz kəˈrɛsɪŋ maɪ skɪn mɛlts strɛs əˈweɪ laɪk ˈsændkɑːslz æt haɪ taɪd ˈdɪɡɪŋ təʊz ˈɪntu wɔːm ɡreɪnz waɪl dɪˈvaʊərɪŋ ə ˈnɒvl ɪz maɪ zɛn zəʊn fɑː frɒm ˈɜːbən ˈklæmə/",
+    "sampleAnswerTranslations": {
+      "vn": "Không thể cưỡng lại – bản giao hưởng sóng vỗ và gió biển mặn mòi vuốt ve da thịt làm tan chảy stress như lâu đài cát khi thủy triều lên. Vùi ngón chân vào cát ấm trong khi ngấu nghiến tiểu thuyết là vùng thiền của tôi, xa hẳn tiếng ồn đô thị.",
+      "kr": "저항할 수 없어요 – 파도 소리의 교향곡과 짠 바닷바람이 피부를 어루만지며 스트레스를 만조 때 모래성처럼 녹여줘요. 따뜻한 모래에 발가락을 파묻고 소설을 탐독하는 게 제 젠 존이에요, 도시 소음에서 멀리 떨어져요.",
+      "jp": "抗えません – 波のシンフォニーと塩辛い風が肌を撫で、ストレスを満潮時の砂の城のように溶かします。温かい砂に足の指を埋めながら小説を貪り読むのが私の禅ゾーンで、都市の喧騒から遠く離れています。"
+    },
+    "category": "Travel"
+  },
+  {
+    "id": 46,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How regularly do you leaf through a newspaper?",
+    "ipa": "/haʊ ˈreɡjʊləli duː juː liːf θruː ə ˈnjuːzpeɪpər/",
+    "translations": {
+      "vn": "Bạn đọc báo bao lâu một lần?",
+      "kr": "신문을 얼마나 자주 읽나요?",
+      "jp": "新聞をどのくらい定期的に読みますか?"
+    },
+    "sampleAnswer": "I skim the headlines online daily for a quick global pulse, but a physical paper's weekend ritual with coffee lingers longer, savoring editorials that provoke thought. It's a mindful pause in our scroll-saturated era.",
+    "sampleAnswerIpa": "/aɪ skɪm ðə ˈhɛdlaɪnz ˈɒnlaɪn ˈdeɪli fɔːr ə kwɪk ˈɡləʊbl pʌls bʌt ə ˈfɪzɪkl ˈpeɪpəz ˈwiːkɛnd ˈrɪtʃuəl wɪð ˈkɒfi ˈlɪŋɡəz ˈlɒŋɡə ˈseɪvərɪŋ ˌɛdɪˈtɔːriəlz ðæt prəˈvəʊk θɔːt ɪts ə ˈmaɪndfl pɔːz ɪn aʊə skrəʊl-ˈsætʃəreɪtɪd ˈɪərə/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi lướt tiêu đề online hàng ngày để nắm nhịp toàn cầu nhanh chóng, nhưng nghi thức cuối tuần với báo giấy và cà phê kéo dài hơn, thưởng thức các bài xã luận khơi gợi suy nghĩ. Đó là khoảng dừng chánh niệm trong thời đại tràn ngập lướt màn hình của chúng ta.",
+      "kr": "온라인으로 헤드라인을 매일 훑으며 빠른 글로벌 펄스를 잡지만, 주말에 종이 신문과 커피 의식은 더 길게 이어져 사색을 자극하는 사설을 음미해요. 스크롤 포화 시대의 마인드풀한 멈춤이에요.",
+      "jp": "オンラインでヘッドラインを毎日流し読みして素早いグローバルパルスを掴みますが、週末の物理的な新聞とコーヒーの儀式は長く続き、思考を刺激する社説を味わいます。スクロール飽和時代でのマインドフルな一時停止です。"
+    },
+    "category": "Media"
+  },
+  {
+    "id": 47,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are video games a staple in your leisure lineup?",
+    "ipa": "/ɑː ˈvɪdiəʊ ɡeɪmz ə ˈsteɪpl ɪn jɔː ˈleʒə laɪnʌp/",
+    "translations": {
+      "vn": "Game điện tử có phải là phần chính trong giải trí của bạn không?",
+      "kr": "비디오 게임이 여가 활동의 주된 부분인가요?",
+      "jp": "ビデオゲームはあなたのレジャーの定番ですか?"
+    },
+    "sampleAnswer": "Occasionally, yes – diving into 'The Legend of Zelda' for its epic quests scratches that exploratory itch without leaving the couch. It's a clever unwind, honing strategy skills while weaving immersive tales that rival any novel.",
+    "sampleAnswerIpa": "/əˈkeɪʒənəli jɛs ˈdaɪvɪŋ ˈɪntu ðə ˈlɛdʒənd ɒv ˈzɛldə fɔːr ɪts ˈɛpɪk kwɛsts skrætʃɪz ðæt ˌɛkspləˈreɪtəri ɪtʃ wɪˈðaʊt ˈliːvɪŋ ðə kaʊtʃ ɪts ə ˈklɛvər ʌnˈwaɪnd ˈhəʊnɪŋ ˈstrætədʒi skɪlz waɪl ˈwiːvɪŋ ɪˈmɜːsɪv teɪlz ðæt ˈraɪvl ˈɛni ˈnɒvl/",
+    "sampleAnswerTranslations": {
+      "vn": "Thỉnh thoảng thôi – lao vào 'The Legend of Zelda' với những nhiệm vụ sử thi gãi đúng ngứa khám phá mà không cần rời ghế sofa. Đó là cách thư giãn thông minh, rèn luyện kỹ năng chiến lược trong khi dệt nên những câu chuyện đắm chìm sánh ngang bất kỳ tiểu thuyết nào.",
+      "kr": "가끔요 – 에픽 퀘스트 때문에 '젤다의 전설'에 뛰어들면 소파를 떠나지 않고 탐험 욕구를 긁어줘요. 전략 스킬을 갈고 몰입감 있는 이야기를 짜는 영리한 휴식이죠, 어떤 소설과도 견줄 만해요.",
+      "jp": "時々です – エピックなクエストのために『ゼルダの伝説』に飛び込むと、ソファから離れずに探検のかゆみを掻いてくれます。戦略スキルを磨きながら没入感のある物語を織りなす賢いリラックスで、どんな小説にも匹敵します。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 48,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Which animal fascinates you the most, and why?",
+    "ipa": "/wɪtʃ ˈænɪml ˈfæsɪneɪts juː ðə məʊst, ənd waɪ/",
+    "translations": {
+      "vn": "Con vật nào mê hoặc bạn nhất, và tại sao?",
+      "kr": "가장 매혹적인 동물은 무엇이며 왜인가요?",
+      "jp": "どの動物が一番魅力的ですか？なぜですか?"
+    },
+    "sampleAnswer": "The elusive snow leopard – its ghostly grace navigating Himalayan crags embodies resilient beauty in harsh realms. Documentaries reveal their solitary wisdom, mirroring how we all carve paths through life's wild terrains.",
+    "sampleAnswerIpa": "/ði ɪˈluːsɪv snəʊ ˈlɛpəd ɪts ˈɡəʊstli ɡreɪs ˈnævɪɡeɪtɪŋ ˌhɪməˈleɪən kræɡz ɪmˈbɒdiz rɪˈzɪlɪənt ˈbjuːti ɪn hɑːʃ rɛlmz ˌdɒkjʊˈmɛntəriz rɪˈviːl ðɛə ˈsɒlɪtəri ˈwɪzdəm ˈmɪrərɪŋ haʊ wiː ɔːl kɑːv pɑːθs θruː laɪfs waɪld təˈreɪnz/",
+    "sampleAnswerTranslations": {
+      "vn": "Báo tuyết khó tìm – sự duyên dáng ma quái di chuyển trên những vách đá Himalaya thể hiện vẻ đẹp kiên cường trong môi trường khắc nghiệt. Phim tài liệu hé lộ trí tuệ cô độc của chúng, phản chiếu cách tất cả chúng ta khắc lối qua địa hình hoang dã của cuộc đời.",
+      "kr": "은둔적인 스노우 레오파드예요 – 히말라야 암벽을 헤치는 유령 같은 우아함이 혹독한 환경 속 회복력 있는 아름다움을 구현해요. 다큐가 그들의 고독한 지혜를 드러내죠, 우리 모두 삶의 야생 지형을 헤쳐나가는 방식을 비춰요.",
+      "jp": "幻のユキヒョウです – ヒマラヤの岩場を幽霊のような優雅さで移動する姿が、過酷な領域での回復力ある美しさを体現します。ドキュメンタリーが彼らの孤独な叡智を明らかにし、私たち全員が人生の荒野の地形を切り開く様子を映します。"
+    },
+    "category": "Animals"
+  },
+  {
+    "id": 49,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is snapping photos a passion of yours?",
+    "ipa": "/ɪz ˈsnæpɪŋ ˈfəʊtəʊz ə ˈpæʃn ɒv jɔːz/",
+    "translations": {
+      "vn": "Chụp ảnh có phải là đam mê của bạn không?",
+      "kr": "사진 찍는 것이 열정인가요?",
+      "jp": "写真を撮るのが情熱ですか?"
+    },
+    "sampleAnswer": "Passion ignited – framing fleeting moments through my lens, from dew-kissed petals to candid street smiles, captures life's poetry. Instagram's my gallery, but the real thrill is preserving those 'aha' instants that words alone can't convey.",
+    "sampleAnswerIpa": "/ˈpæʃn ɪɡˈnaɪtɪd ˈfreɪmɪŋ ˈfliːtɪŋ ˈməʊmənts θruː maɪ lɛnz frɒm djuː-kɪst ˈpɛtlz tuː ˈkændɪd striːt smaɪlz ˈkæptʃəz laɪfs ˈpəʊɪtri ˌɪnstəˈɡræmz maɪ ˈɡæləri bʌt ðə rɪəl θrɪl ɪz prɪˈzɜːvɪŋ ðəʊz əˈhɑː ˈɪnstənts ðæt wɜːdz əˈləʊn kænt kənˈveɪ/",
+    "sampleAnswerTranslations": {
+      "vn": "Đam mê bùng cháy – đóng khung những khoảnh khắc thoáng qua qua ống kính, từ cánh hoa ướt sương đến nụ cười đường phố tự nhiên, bắt trọn thơ ca cuộc sống. Instagram là gallery của tôi, nhưng cảm giác phấn khích thực sự là lưu giữ những khoảnh khắc 'aha' mà lời nói không thể truyền tải.",
+      "kr": "열정이 불타올라요 – 렌즈로 덧없는 순간을 프레임에 담죠, 이슬 맺힌 꽃잎부터 자연스러운 거리 미소까지, 삶의 시를 포착해요. 인스타가 제 갤러리지만 진짜 스릴은 말만으로는 전달 못 할 '아하' 순간을 보존하는 거예요.",
+      "jp": "情熱が点火されました – レンズを通して儚い瞬間をフレーミングし、露に濡れた花びらから自然な街の笑顔まで、人生の詩を捉えます。Instagramが私のギャラリーですが、本当のスリルは言葉だけでは伝えられない「あはっ」の瞬間を保存することです。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 50,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "If you had to name one beverage you couldn't live without, what would it be?",
+    "ipa": "/ɪf juː hæd tuː neɪm wʌn ˈbevərɪdʒ juː ˈkʊdnt lɪv wɪˈðaʊt, wɒt wʊd ɪt biː/",
+    "translations": {
+      "vn": "Nếu phải chọn một đồ uống bạn không thể sống thiếu, đó sẽ là gì?",
+      "kr": "살 수 없는 음료 하나를 꼽는다면 무엇인가요?",
+      "jp": "生きていけない飲み物を一つ挙げるとしたら何ですか?"
+    },
+    "sampleAnswer": "Vietnamese drip coffee, bold and aromatic, its slow pour a meditative ritual that kick-starts my mornings with earthy warmth. Sweetened with condensed milk, it's a creamy hug in a cup, evoking cafe corners where ideas brew as freely as the brew itself.",
+    "sampleAnswerIpa": "/ˌvɪɛtnəˈmiːz drɪp ˈkɒfi bəʊld ənd ˌærəˈmætɪk ɪts sləʊ pɔːr ə ˌmɛdɪˈteɪtɪv ˈrɪtʃuəl ðæt kɪk-stɑːts maɪ ˈmɔːnɪŋz wɪð ˈɜːθi wɔːmθ swiːtnd wɪð kənˈdɛnst mɪlk ɪts ə ˈkriːmi hʌɡ ɪn ə kʌp ɪˈvəʊkɪŋ kæˈfeɪ ˈkɔːnəz weər aɪˈdɪəz bruː æz ˈfriːli æz ðə bruː ɪtˈsɛlf/",
+    "sampleAnswerTranslations": {
+      "vn": "Cà phê phin Việt Nam, đậm đà và thơm lừng, quá trình nhỏ giọt chậm rãi là nghi thức thiền định khởi động buổi sáng với hơi ấm đất trời. Ngọt bằng sữa đặc, nó như cái ôm kem trong ly, gợi nhớ góc quán cà phê nơi ý tưởng nảy nở tự do như chính ly cà phê.",
+      "kr": "베트남 드립 커피, 대담하고 향기로운, 느린 드립이 명상적 의식으로 아침을 흙내음 따뜻함으로 시작해줘요. 연유로 달게 하면 컵 속 크리미한 포옹 같고, 아이디어가 커피처럼 자유롭게 끓는 카페 코너를 떠올리게 해요.",
+      "jp": "ベトナム式ドリップコーヒー、大胆で香ばしく、ゆっくり滴るのが瞑想的な儀式で朝を土の温かさでキックスタートします。コンデンスミルクで甘くするとカップの中のクリーミーなハグで、アイデアがコーヒー自体のように自由に醸成されるカフェの隅を呼び起こします。"
+    },
+    "category": "Food & Drink"
+  },
+  {
+    "id": 51,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do the mountains hold a special allure for you?",
+    "ipa": "/duː ðə ˈmaʊntɪnz həʊld ə ˈspeʃl əˈljʊər fɔː juː/",
+    "translations": {
+      "vn": "Núi non có sức hút đặc biệt với bạn không?",
+      "kr": "산이 특별한 매력을 주나요?",
+      "jp": "山はあなたに特別な魅力を感じさせますか?"
+    },
+    "sampleAnswer": "Their majestic silence beckons – hiking mist-shrouded trails, breathing pine-scented air, I feel grounded yet infinite. A recent trek to Sapa's peaks, with terraced rice fields unfolding like emerald stairs, reaffirmed nature's humbling grandeur.",
+    "sampleAnswerIpa": "/ðɛə məˈdʒɛstɪk ˈsaɪləns ˈbɛkənz ˈhaɪkɪŋ mɪst-ˈʃraʊdɪd treɪlz ˈbriːðɪŋ paɪn-ˈsɛntɪd eə aɪ fiːl ˈɡraʊndɪd jɛt ˈɪnfɪnət ə ˈriːsnt trɛk tuː ˈsɑːpəz piːks wɪð ˈtɛrəst raɪs fiːldz ʌnˈfəʊldɪŋ laɪk ˈɛmərəld steəz ˌriːəˈfɜːmd ˈneɪtʃəz ˈhʌmblɪŋ ˈɡrændjə/",
+    "sampleAnswerTranslations": {
+      "vn": "Sự im lặng hùng vĩ của chúng vẫy gọi – đi bộ đường mòn phủ sương, hít thở không khí thơm thông, tôi cảm thấy vững chãi nhưng vô tận. Chuyến trek gần đây lên đỉnh Sapa, với ruộng bậc thang trải ra như cầu thang ngọc lục bảo, khẳng định lại sự vĩ đại khiêm nhường của thiên nhiên.",
+      "kr": "그들의 장엄한 침묵이 손짓해요 – 안개 덮인 트레일을 하이킹하며 소나무 향 공기를 마시면 뿌리 깊으면서도 무한하게 느껴져요. 최근 사파 정상 트레킹, 에메랄드 계단처럼 펼쳐진 계단식 논이 자연의 겸손한 웅장함을 재확인해줬어요.",
+      "jp": "その荘厳な静けさが手招きします – 霧に覆われたトレイルをハイキングし、松の香りの空気を吸うと、地に足がつきつつ無限を感じます。最近のサパの峰へのトレッキング、エメラルドの階段のように広がる棚田が自然の謙虚な壮大さを再確認させてくれました。"
+    },
+    "category": "Nature"
+  },
+  {
+    "id": 52,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How do you make the most of your holidays?",
+    "ipa": "/haʊ duː juː meɪk ðə məʊst ɒv jɔː ˈhɒlədeɪz/",
+    "translations": {
+      "vn": "Bạn tận dụng kỳ nghỉ như thế nào?",
+      "kr": "휴일을 어떻게 최대한 활용하나요?",
+      "jp": "休日をどのように最大限に活用しますか?"
+    },
+    "sampleAnswer": "I chase serendipity – whether volunteering at a coastal cleanup or road-tripping to forgotten temples, it's about unplugging and letting curiosity lead. Last holiday's spontaneous island hop revealed hidden beaches that felt like private paradises, recharging my soul.",
+    "sampleAnswerIpa": "/aɪ tʃeɪs ˌsɛrənˈdɪpɪti ˈwɛðə vɒlənˈtɪərɪŋ æt ə ˈkəʊstl ˈkliːnʌp ɔːr rəʊd-ˈtrɪpɪŋ tuː fəˈɡɒtn ˈtɛmplz ɪts əˈbaʊt ʌnˈplʌɡɪŋ ənd ˈlɛtɪŋ ˌkjʊəriˈɒsəti liːd lɑːst ˈhɒlədeɪz ˌspɒntəˈneɪəs ˈaɪlənd hɒp rɪˈviːld ˈhɪdn biːtʃɪz ðæt fɛlt laɪk ˈpraɪvɪt ˈpærədaɪzɪz riːˈtʃɑːdʒɪŋ maɪ səʊl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi theo đuổi những điều bất ngờ – dù tình nguyện dọn rác bờ biển hay road-trip đến những ngôi chùa bị lãng quên, tất cả là ngắt kết nối và để sự tò mò dẫn dắt. Kỳ nghỉ trước với chuyến nhảy đảo ngẫu hứng đã lộ ra những bãi biển ẩn cảm giác như thiên đường riêng, nạp đầy linh hồn tôi.",
+      "kr": "우연을 쫓아요 – 해안 청소 자원봉사든 잊힌 사원 로드트립이든, 연결을 끊고 호기심이 이끄는 거예요. 지난 휴가의 즉흥 섬 호핑이 숨겨진 해변을 드러내 개인 낙원처럼 느껴져 제 영혼을 재충전했어요.",
+      "jp": "偶然を追いかけます – 海岸クリーンアップのボランティアでも忘れられた寺へのロードトリップでも、プラグを抜いて好奇心に導かれることです。先回の休日の即興アイランドホッピングが隠れたビーチを明らかにし、私有の楽園のように感じて魂を充電しました。"
+    },
+    "category": "Leisure"
+  },
+  {
+    "id": 53,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Does the world of art resonate with you personally?",
+    "ipa": "/dʌz ðə wɜːld ɒv ɑːt ˈrezəneɪt wɪð juː ˈpɜːsənəli/",
+    "translations": {
+      "vn": "Thế giới nghệ thuật có cộng hưởng với bạn cá nhân không?",
+      "kr": "예술 세계가 개인적으로 공감이 가나요?",
+      "jp": "芸術の世界は個人的に響きますか?"
+    },
+    "sampleAnswer": "Deeply – whether it's the raw emotion in a Van Gogh swirl or the subtle satire in street murals, art mirrors the human condition in ways words falter. Sketching in my journal has become a therapeutic dialogue with my inner self.",
+    "sampleAnswerIpa": "/ˈdiːpli ˈwɛðər ɪts ðə rɔː ɪˈməʊʃn ɪn ə væn ɡɒɡ swɜːl ɔːr ðə ˈsʌtl ˈsætaɪə ɪn striːt ˈmjʊərəlz ɑːt ˈmɪrəz ðə ˈhjuːmən kənˈdɪʃn ɪn weɪz wɜːdz ˈfɔːltə ˈskɛtʃɪŋ ɪn maɪ ˈdʒɜːnl hæz bɪˈkʌm ə ˌθɛrəˈpjuːtɪk ˈdaɪəlɒɡ wɪð maɪ ˈɪnə sɛlf/",
+    "sampleAnswerTranslations": {
+      "vn": "Rất sâu sắc – dù là cảm xúc thô ráp trong vòng xoáy Van Gogh hay sự châm biếm tinh tế trong tranh tường đường phố, nghệ thuật phản chiếu tình trạng con người theo cách lời nói không thể. Phác thảo trong nhật ký đã trở thành đối thoại trị liệu với bản ngã bên trong tôi.",
+      "kr": "깊이 공감돼요 – 반 고흐의 소용돌이 속 날것의 감정이든 거리 벽화의 미묘한 풍자든, 예술은 말이 부족한 방식으로 인간 조건을 비춰요. 저널에 스케치하는 게 내면과의 치료적 대화가 됐어요.",
+      "jp": "深く響きます – ヴァン・ゴッホの渦巻きの中の生の感情でもストリートミューラルの微妙な風刺でも、芸術は言葉が躓くような方法で人間の状態を映します。ジャーナルにスケッチするのが内なる自己との治療的な対話になりました。"
+    },
+    "category": "Arts"
+  },
+  {
+    "id": 54,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What time do you usually rise and shine?",
+    "ipa": "/wɒt taɪm duː juː ˈjuːʒuəli raɪz ənd ʃaɪn/",
+    "translations": {
+      "vn": "Bạn thường thức dậy lúc mấy giờ?",
+      "kr": "보통 몇 시에 일어나나요?",
+      "jp": "普段何時に起きますか?"
+    },
+    "sampleAnswer": "Around 6:30 AM, when the first light filters in – a gentle nudge from my alarm, followed by deep breaths of fresh dawn air. It's my golden hour for yoga and planning, setting a serene sail for the day's voyage.",
+    "sampleAnswerIpa": "/əˈraʊnd sɪks-ˈθɜːti eɪˈɛm wɛn ðə fɜːst laɪt ˈfɪltəz ɪn ə ˈdʒɛntl nʌdʒ frɒm maɪ əˈlɑːm ˈfɒləʊd baɪ diːp brɛθz ɒv frɛʃ dɔːn eə ɪts maɪ ˈɡəʊldən aʊə fɔːr ˈjəʊɡə ənd ˈplænɪŋ ˈsɛtɪŋ ə səˈriːn seɪl fɔː ðə deɪz ˈvɔɪɪdʒ/",
+    "sampleAnswerTranslations": {
+      "vn": "Khoảng 6:30 sáng, khi ánh sáng đầu tiên len vào – tiếng chuông báo thức nhẹ nhàng, tiếp theo là những hơi thở sâu không khí bình minh tươi mới. Đó là giờ vàng của tôi cho yoga và lập kế hoạch, đặt buồm bình yên cho hành trình ngày mới.",
+      "kr": "오전 6시 30분쯤, 첫 빛이 스며들 때예요 – 알람의 부드러운 넛지 후 새벽 신선한 공기를 깊게 들이마셔요. 요가와 계획을 위한 제 골든 아워로, 하루 항해를 고요하게 출발시켜줘요.",
+      "jp": "午前6時30分頃、最初の光が差し込むときです – アラームの優しい促しに続き、新鮮な夜明けの空気を深く呼吸します。ヨガと計画のための私のゴールデンアワーで、一日の航海に穏やかな帆を張ります。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 55,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Does belting out a tune come easily to you?",
+    "ipa": "/dʌz ˈbeltɪŋ aʊt ə tjuːn kʌm ˈiːzɪli tuː juː/",
+    "translations": {
+      "vn": "Hát vang có dễ dàng với bạn không?",
+      "kr": "노래 부르는 것이 쉬운가요?",
+      "jp": "歌を大声で歌うのはあなたにとって簡単ですか?"
+    },
+    "sampleAnswer": "In the shower, absolutely – channeling my inner Adele, the acoustics turn mundane scrubs into concert highs. Karaoke nights with friends unleash even more, where off-key notes blend into hilarious harmony, proving laughter's the best accompaniment.",
+    "sampleAnswerIpa": "/ɪn ðə ˈʃaʊə ˈæbsəluːtli ˈtʃænəlɪŋ maɪ ˈɪnə əˈdɛl ði əˈkuːstɪks tɜːn mʌnˈdeɪn skrʌbz ˈɪntu ˈkɒnsət haɪz ˈkæriəˈki neɪts wɪð frɛndz ʌnˈliːʃ ˈiːvn mɔː weər ɒf-kiː nəʊts blɛnd ˈɪntu hɪˈleəriəs ˈhɑːməni ˈpruːvɪŋ ˈlɑːftəz ðə bɛst əˈkʌmpənɪmənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Trong phòng tắm thì tuyệt đối – hóa thân thành Adele bên trong, âm học biến việc kỳ cọ thường ngày thành đỉnh cao concert. Đêm karaoke với bạn bè còn bung xõa hơn, nơi nốt lệch tông hòa quyện thành hài hước hài hòa, chứng minh tiếng cười là phần đệm hay nhất.",
+      "kr": "샤워실에서는 절대적으로요 – 내면의 아델을 채널링하면 음향이 평범한 때빨이를 콘서트 하이로 바꿔요. 친구들과의 노래방 밤은 더 풀어놓고, 음정 틀린 노트가 웃음 섞인 하모니로 섞여 웃음이 최고의 반주임을 증명해요.",
+      "jp": "シャワーの中では絶対です – 内なるアデルをチャネリングし、音響が平凡なボディスクラブをコンサートハイに変えます。友達とのカラオケナイトはさらに解き放ち、音外れのノートが笑いたっぷりのハーモニーに溶け、笑いが最高の伴奏だと証明します。"
+    },
+    "category": "Music"
+  },
+  {
+    "id": 56,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How do you get along with your neighbors?",
+    "ipa": "/haʊ duː juː ɡet əˈlɒŋ wɪð jɔː ˈneɪbəz/",
+    "translations": {
+      "vn": "Bạn hòa hợp với hàng xóm như thế nào?",
+      "kr": "이웃과 어떻게 지내나요?",
+      "jp": "近所の人たちとどうやっていますか?"
+    },
+    "sampleAnswer": "Famously well – our building's like a mini-village, with shared barbecues and quick chats over laundry swaps. Mrs. Kim next door's kimchi recipe swaps for my baking experiments have turned strangers into surrogate aunts and uncles.",
+    "sampleAnswerIpa": "/ˈfeɪməsli wɛl aʊə ˈbɪldɪŋz laɪk ə ˈmɪni-ˈvɪlɪdʒ wɪð ʃeəd ˈbɑːbɪkjuːz ənd kwɪk tʃæts ˈəʊvə ˈlɔːndri swɒps mɪsɪz kɪm nɛkst dɔːz ˈkɪmtʃi ˈrɛsɪpi swɒps fɔː maɪ ˈbeɪkɪŋ ɪkˈspɛrɪmənts hæv tɜːnd ˈstreɪndʒəz ˈɪntu ˈsɜːrəɡɪt ɑːnts ənd ˈʌŋklz/",
+    "sampleAnswerTranslations": {
+      "vn": "Rất nổi tiếng tốt – tòa nhà chúng tôi như một làng nhỏ, với barbecue chung và trò chuyện nhanh khi đổi đồ giặt. Công thức kimchi của bà Kim bên cạnh đổi lấy thí nghiệm nướng bánh của tôi đã biến người lạ thành cô chú thay thế.",
+      "kr": "유명하게 잘 지내요 – 우리 건물이 미니 마을 같아요, 공동 바비큐와 세탁물 교환하며 빠른 수다로요. 옆집 김 아줌마의 김치 레시피를 제 베이킹 실험과 바꾸며 낯선 이들이 대리 이모·삼촌이 됐어요.",
+      "jp": "有名なくらいよくやっています – 私たちの建物はミニ村のようで、共有バーベキューと洗濯物の交換時のクイックチャットがあります。隣のキムさんのキムチレシピを私のベーキング実験と交換し、見知らぬ人を代理の叔母叔父に変えました。"
+    },
+    "category": "Neighbors"
+  },
+  {
+    "id": 57,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What outfit do you gravitate toward for outings?",
+    "ipa": "/wɒt ˈaʊtfɪt duː juː ˈɡrævɪteɪt təˈwɔːd fɔːr ˈaʊtɪŋz/",
+    "translations": {
+      "vn": "Bộ đồ nào bạn hay chọn cho các buổi đi chơi?",
+      "kr": "외출 시 어떤 옷을 선호하나요?",
+      "jp": "外出時にどんな服を選びますか?"
+    },
+    "sampleAnswer": "Effortless chic: high-waisted jeans, a flowy blouse, and loafers – comfortable yet polished, allowing me to flit from cafe hops to impromptu gallery visits. It's my uniform for urban adventures, blending practicality with a whisper of style.",
+    "sampleAnswerIpa": "/ˈɛfətləs ʃiːk haɪ-ˈweɪstɪd dʒiːnz ə ˈfləʊi blaʊz ənd ˈləʊfəz ˈkʌmfətəbl jɛt ˈpɒlɪʃt əˈlaʊɪŋ miː tuː flɪt frɒm kæˈfeɪ hɒps tuː ˌɪmprɒmptˈuː ˈɡæləri ˈvɪzɪts ɪts maɪ ˈjuːnɪfɔːm fɔːr ˈɜːbən ədˈvɛntʃəz ˈblɛndɪŋ ˌpræktɪˈkæləti wɪð ə ˈwɪspə ɒv staɪl/",
+    "sampleAnswerTranslations": {
+      "vn": "Phong cách chic dễ dàng: quần jeans cạp cao, áo blouse bay bổng và giày lười – thoải mái nhưng chỉn chu, cho phép tôi lướt từ quán cà phê này sang thăm gallery bất chợt. Đó là đồng phục cho những cuộc phiêu lưu đô thị, kết hợp thực tế với chút thì thầm phong cách.",
+      "kr": "노력 없는 시크: 하이웨이스트 진, 플로이 블라우스, 로퍼 – 편안하면서도 세련돼 카페 호핑에서 즉흥 갤러리 방문까지 오갈 수 있어요. 실용성과 스타일의 속삭임을 블렌딩한 도시 모험 유니폼이에요.",
+      "jp": "エフォートレスシック：ハイウエストジーンズ、流れるようなブラウス、ローファー – 快適でありながら磨かれていて、カフェホッピングから即興のギャラリービジットまで飛び回れます。実用性とスタイルのささやきをブレンドした都市冒険のユニフォームです。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 58,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Formal attire or casual vibes – which do you lean toward?",
+    "ipa": "/ˈfɔːml əˈtaɪər ɔːr ˈkæʒuəl vaɪbz – wɪtʃ duː juː liːn təˈwɔːd/",
+    "translations": {
+      "vn": "Đồ trang trọng hay phong cách thoải mái – bạn nghiêng về bên nào?",
+      "kr": "정장과 캐주얼 중 어느 쪽을 더 좋아하나요?",
+      "jp": "フォーマルな服装かカジュアルな雰囲気か、どちらに傾きますか?"
+    },
+    "sampleAnswer": "Casual all the way – a breezy sundress or tailored joggers let me breathe easy, prioritizing movement over stiffness. Formal events call for elegant exceptions, but daily life thrives on that relaxed authenticity that invites serendipitous connections.",
+    "sampleAnswerTranslations": {
+      "vn": "Thoải mái hoàn toàn – váy hè thoáng mát hay quần jogger may đo giúp tôi thở dễ dàng, ưu tiên chuyển động hơn cứng nhắc. Sự kiện trang trọng cần ngoại lệ thanh lịch, nhưng cuộc sống hàng ngày phát triển nhờ sự chân thực thư thái mời gọi những kết nối bất ngờ.",
+      "kr": "캐주얼 완전 정복이에요 – 산들바람 부는 선드레스나 테일러드 조거가 쉽게 숨쉬게 해주고, 뻣뻣함보다 움직임을 우선해요. 공식 행사는 우아한 예외지만, 일상은 즉흥적 연결을 초대하는 편안한 진정성에서 번성해요.",
+      "jp": "カジュアル一択です – そよ風のようなサマードレスやテーラードジョガーが楽に呼吸させてくれ、硬さより動きを優先します。フォーマルイベントは優雅な例外を求めますが、日常生活はそのリラックスした本物さが偶然のつながりを誘うところで繁栄します。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 59,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Got a bag that's become your trusty sidekick?",
+    "ipa": "/ɡɒt ə bæɡ ðæts bɪˈkʌm jɔː ˈtrʌsti ˈsaɪdkɪk/",
+    "translations": {
+      "vn": "Bạn có chiếc túi trở thành người bạn đồng hành đáng tin cậy không?",
+      "kr": "믿음직한 가방이 있나요?",
+      "jp": "信頼できるバッグはありますか?"
+    },
+    "sampleAnswer": "My weathered leather tote – spacious for laptops and lunch, yet chic enough for evenings out, it's weathered storms from boardrooms to beach reads. Souvenirs from travels peek from its depths, each zipper pull a memento of journeys past.",
+    "sampleAnswerIpa": "/maɪ ˈwɛðəd ˈlɛðə təʊt ˈspeɪʃəs fɔː ˈlæptɒps ənd lʌntʃ jɛt ʃiːk ɪˈnʌf fɔːr ˈiːvnɪŋz aʊt ɪts ˈwɛðəd stɔːmz frɒm ˈbɔːdruːmz tuː biːtʃ riːdz suːvəˈnɪəz frɒm ˈtrævlz piːk frɒm ɪts dɛpθs iːtʃ ˈzɪpə pʊl ə ˈmɛməntəʊ ɒv ˈdʒɜːniz pɑːst/",
+    "sampleAnswerTranslations": {
+      "vn": "Chiếc tote da phong sương của tôi – rộng rãi cho laptop và bữa trưa, nhưng vẫn chic cho buổi tối ra ngoài, nó đã trải qua bão tố từ phòng họp đến đọc sách bãi biển. Đồ lưu niệm du lịch ló ra từ đáy túi, mỗi đầu khóa kéo là kỷ niệm của những hành trình cũ.",
+      "kr": "제 풍화된 가죽 토트백이에요 – 노트북과 점심을 넣을 만큼 넓으면서도 저녁 외출에 충분히 시크하고, 회의실부터 해변 독서까지 폭풍을 견뎠어요. 여행 기념품이 깊숙이 숨어 있고, 지퍼 손잡이마다 과거 여정의 기념품이에요.",
+      "jp": "私の風化したレザートートです – ラップトップとランチを入れるのに広々としておりながら夜のお出かけにもシックで、会議室からビーチリーディングまで嵐を乗り越えました。旅行のお土産が奥から覗き、各ジッパープルが過去の旅の記念品です。"
+    },
+    "category": "Bags"
+  },
+  {
+    "id": 60,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What style of footwear feels like a perfect fit for your day-to-day?",
+    "ipa": "/wɒt staɪl ɒv ˈfʊtweə fiːlz laɪk ə ˈpɜːfɪkt fɪt fɔː jɔː deɪ-tuː-deɪ/",
+    "translations": {
+      "vn": "Phong cách giày dép nào cảm thấy hoàn hảo cho ngày thường của bạn?",
+      "kr": "일상에 딱 맞는 신발 스타일은 무엇인가요?",
+      "jp": "日常にぴったりの靴のスタイルは何ですか?"
+    },
+    "sampleAnswer": "Chunky sneakers all the way – supportive for miles of exploring, with a pop of color that lifts my step. They bridge casual strolls and city sprints seamlessly, proving comfort needn't sacrifice flair.",
+    "sampleAnswerIpa": "/ˈtʃʌŋki ˈsniːkəz ɔːl ðə weɪ səˈpɔːtɪv fɔː maɪlz ɒv ɪkˈsplɔːrɪŋ wɪð ə pɒp ɒv ˈkʌlə ðæt lɪfts maɪ stɛp ðeɪ brɪdʒ ˈkæʒuəl strəʊlz ənd ˈsɪti sprɪnts ˈsiːmləsli ˈpruːvɪŋ ˈkʌmfət ˈniːdnt ˈsækrɪfaɪs fleə/",
+    "sampleAnswerTranslations": {
+      "vn": "Giày sneaker chunky hoàn toàn – hỗ trợ cho hàng dặm khám phá, với chút màu sắc nổi bật nâng bước chân tôi. Chúng nối liền dạo chơi thoải mái và chạy nhanh thành phố mượt mà, chứng minh thoải mái không cần hy sinh phong cách.",
+      "kr": "청키 스니커즈 완전 정복이에요 – 수 마일 탐험을 지지해주고 색상 팝이 걸음을 가볍게 해줘요. 캐주얼 산책과 도시 스프린트를 원활히 연결하며, 편안함이 멋을 희생할 필요 없음을 증명해요.",
+      "jp": "チャンキースニーカー一択です – マイル単位の探検をサポートし、カラーのポップが私のステップを上げてくれます。カジュアルな散歩と都市スプリントをシームレスに繋ぎ、快適さがスタイルを犠牲にする必要がないことを証明します。"
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": 61,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you tend to chase the latest fashion waves?",
+    "ipa": "/duː juː tend tuː tʃeɪs ðə ˈleɪtɪst ˈfæʃn weɪvz/",
+    "translations": {
+      "vn": "Bạn có hay chạy theo xu hướng thời trang mới nhất không?",
+      "kr": "최신 패션 트렌드를 쫓나요?",
+      "jp": "最新のファッショントレンドを追いかけますか?"
+    },
+    "sampleAnswer": "Selectively – I dip into trends that resonate, like sustainable fabrics, but my wardrobe's timeless core avoids fleeting fads. It's about curating pieces that echo my vibe, not conforming to seasonal whims.",
+    "sampleAnswerIpa": "/sɪˈlɛktɪvli aɪ dɪp ˈɪntu trɛndz ðæt ˈrɛzəneɪt laɪk səˈsteɪnəbl ˈfæbrɪks bʌt maɪ ˈwɔːdrəʊbz ˈtaɪmləs kɔːr əˈvɔɪdz ˈfliːtɪŋ fædz ɪts əˈbaʊt ˈkjʊəreɪtɪŋ piːsɪz ðæt ˈɛkəʊ maɪ vaɪb nɒt kənˈfɔːmɪŋ tuː ˈsiːzənl wɪmz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có chọn lọc – tôi nhúng vào những xu hướng cộng hưởng, như vải bền vững, nhưng lõi tủ đồ vượt thời gian tránh những mốt thoáng qua. Đó là việc tuyển chọn món đồ vang vọng vibe của tôi, không tuân theo ý thích theo mùa.",
+      "kr": "선택적으로요 – 지속가능한 원단 같은 공감 가는 트렌드에 살짝 담그지만, 옷장의 타임리스 코어는 덧없는 유행을 피해요. 제 바이브를 에코하는 피스를 큐레이팅하는 거지, 시즌별 변덕에 따르는 게 아니에요.",
+      "jp": "選択的にです – 持続可能な生地のような響くトレンドに浸かりますが、ワードローブのタイムレスなコアは一過性の流行を避けます。私のバイブをエコーするピースをキュレーションすることであり、季節の気まぐれに従うことではありません。"
+    },
+    "category": "Fashion"
+  },
+  {
+    "id": 62,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Which hues dominate your wardrobe, and for what reason?",
+    "ipa": "/wɪtʃ hjuːz ˈdɒmɪneɪt jɔː ˈwɔːdrəʊb, ənd fɔː wɒt ˈriːzn/",
+    "translations": {
+      "vn": "Những màu sắc nào thống trị tủ quần áo của bạn, và lý do là gì?",
+      "kr": "옷장에 지배적인 색상은 무엇이며 이유는 무엇인가요?",
+      "jp": "ワードローブを支配する色は何ですか？理由は何ですか?"
+    },
+    "sampleAnswer": "Earthy neutrals like olive and terracotta – versatile for mixing, they ground my outfits in warmth and wanderlust. Vibrant accents for special days add that spark, mirroring my grounded yet spirited essence.",
+    "sampleAnswerIpa": "/ˈɜːθi ˈnjuːtrəlz laɪk ˈɒlɪv ənd ˌtɛrəˈkɒtə ˈvɜːsətaɪl fɔː ˈmɪksɪŋ ðeɪ ɡraʊnd maɪ ˈaʊtfɪts ɪn wɔːmθ ənd ˈwɒndəlʌst ˈvaɪbrənt ˈæksɛnts fɔː ˈspɛʃl deɪz æd ðæt spɑːk ˈmɪrərɪŋ maɪ ˈɡraʊndɪd jɛt ˈspɪrɪtɪd ˈɛsəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Những tông trung tính đất như olive và terracotta – linh hoạt để phối, chúng neo trang phục tôi trong hơi ấm và niềm khao khát du hành. Điểm nhấn rực rỡ cho ngày đặc biệt thêm tia lửa, phản chiếu bản chất vững chãi nhưng đầy tinh thần của tôi.",
+      "kr": "올리브와 테라코타 같은 어스톤 뉴트럴이에요 – 믹스에 다재다능하고, 옷차림을 따뜻함과 방랑욕으로 고정해줘요. 특별한 날의 생생한 액센트가 스파크를 더하고, 뿌리 깊으면서도 활기찬 제 에센스를 반영해요.",
+      "jp": "オリーブやテラコッタのようなアーストーンニュートラルです – ミックスに汎用性があり、服を温かさと放浪欲で接地します。特別な日のビブラントなアクセントがスパークを加え、地に足がつきつつ活気ある私のエッセンスを映します。"
+    },
+    "category": "Colors"
+  },
+  {
+    "id": 63,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is a watch a staple accessory for you?",
+    "ipa": "/ɪz ə wɒtʃ ə ˈsteɪpl əkˈsesəri fɔː juː/",
+    "translations": {
+      "vn": "Đồng hồ có phải phụ kiện cơ bản của bạn không?",
+      "kr": "시계가 필수 액세서리인가요?",
+      "jp": "時計はあなたの定番アクセサリーですか?"
+    },
+    "sampleAnswer": "My minimalist leather-strap timepiece is – it's not just functional but a subtle statement of punctuality. Glancing at it mid-conversation keeps me grounded, a quiet reminder to savor every ticking moment.",
+    "sampleAnswerIpa": "/maɪ ˈmɪnɪməlɪst ˈlɛðə-stræp ˈtaɪmpiːs ɪz ɪts nɒt dʒʌst ˈfʌŋkʃənl bʌt ə ˈsʌtl ˈsteɪtmənt ɒv ˌpʌŋktʃuˈæləti ˈɡlɑːnsɪŋ æt ɪt mɪd-ˌkɒnvəˈseɪʃn kiːps miː ˈɡraʊndɪd ə ˈkwaɪət rɪˈmaɪndə tuː ˈsævə ˈɛvri ˈtɪkɪŋ ˈməʊmənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Chiếc đồng hồ dây da tối giản của tôi là vậy – không chỉ chức năng mà còn tuyên ngôn tinh tế về sự đúng giờ. Liếc nhìn giữa cuộc trò chuyện giữ tôi vững chãi, nhắc nhở thầm lặng hãy thưởng thức từng khoảnh khắc tích tắc.",
+      "kr": "제 미니멀리스트 가죽 스트랩 시계예요 – 단순 기능뿐 아니라 시간 엄수의 미묘한 선언이죠. 대화 중에 힐끗 보는 게 저를 안정시키고, 매 틱택 순간을 음미하라는 조용한 알림이에요.",
+      "jp": "私のミニマリストレザーストラップの時計です – ただ機能的ではなく、時間厳守の微妙な声明です。会話の途中でチラ見するのが私を接地し、毎チクタクの瞬間を味わう静かなリマインダーです。"
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": 64,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's the first thing you do when you open your eyes each morning?",
+    "ipa": "/wɒts ðə fɜːst θɪŋ juː duː wen juː ˈəʊpn jɔː aɪz iːtʃ ˈmɔːnɪŋ/",
+    "translations": {
+      "vn": "Điều đầu tiên bạn làm khi mở mắt mỗi buổi sáng là gì?",
+      "kr": "아침에 눈을 뜨자마자 가장 먼저 하는 일은 무엇인가요?",
+      "jp": "毎朝目を開けたら最初に何をしますか?"
+    },
+    "sampleAnswer": "A deep breath and gratitude whisper – thanking the universe for another dawn, then slipping into stretches to awaken body and mind. It's this intentional spark that ignites my day with purpose rather than autopilot.",
+    "sampleAnswerIpa": "/ə diːp brɛθ ənd ˈɡrætɪtjuːd ˈwɪspə ˈθæŋkɪŋ ðə ˈjuːnɪvɜːs fɔːr əˈnʌðə dɔːn ðɛn ˈslɪpɪŋ ˈɪntu strɛtʃɪz tuː əˈweɪkən ˈbɒdi ənd maɪnd ɪts ðɪs ɪnˈtɛnʃənl spɑːk ðæt ɪɡˈnaɪts maɪ deɪ wɪð ˈpɜːpəs ˈrɑːðə ðæn ˈɔːtəʊpaɪlət/",
+    "sampleAnswerTranslations": {
+      "vn": "Hơi thở sâu và thì thầm biết ơn – cảm ơn vũ trụ vì một bình minh nữa, rồi chuyển sang vươn vai đánh thức cơ thể và tâm trí. Chính tia lửa có chủ đích này thắp sáng ngày tôi bằng mục đích thay vì chế độ tự động.",
+      "kr": "깊은 숨과 감사 속삭임이에요 – 또 다른 새벽에 우주에 감사하고, 몸과 마음을 깨우기 위해 스트레칭으로 넘어가요. 이 의도적 스파크가 오토파일럿 대신 목적으로 제 하루를 점화해줘요.",
+      "jp": "深い息と感謝のささやきです – また一つの夜明けに宇宙に感謝し、ストレッチに移って体と心を目覚めさせます。この意図的なスパークがオートパイロットではなく目的で私の日を点火します。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 65,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Roughly how long does your morning prep take from start to finish?",
+    "ipa": "/ˈrʌfli haʊ lɒŋ dʌz jɔː ˈmɔːnɪŋ prep teɪk frɒm stɑːt tuː ˈfɪnɪʃ/",
+    "translations": {
+      "vn": "Chuẩn bị buổi sáng của bạn mất khoảng bao lâu từ đầu đến cuối?",
+      "kr": "아침 준비는 처음부터 끝까지 얼마나 걸리나요?",
+      "jp": "朝の準備は最初から最後までおよそどれくらいかかりますか?"
+    },
+    "sampleAnswer": "About 45 minutes – shower, skincare ritual, and a quick outfit curation that sets my confident stride. Rushed days shave it to 30, but that deliberate pace ensures I step out feeling polished and poised.",
+    "sampleAnswerIpa": "/əˈbaʊt ˈfɔːti-faɪv ˈmɪnɪts ˈʃaʊə ˈskɪnkeə ˈrɪtʃuəl ənd ə kwɪk ˈaʊtfɪt ˌkjʊəˈreɪʃn ðæt sɛts maɪ ˈkɒnfɪdənt straɪd rʌʃt deɪz ʃeɪv ɪt tuː ˈθɜːti bʌt ðæt dɪˈlɪbərət peɪs ɪnˈʃʊəz aɪ stɛp aʊt ˈfiːlɪŋ ˈpɒlɪʃt ənd pɔɪzd/",
+    "sampleAnswerTranslations": {
+      "vn": "Khoảng 45 phút – tắm, nghi thức chăm da và chọn trang phục nhanh để đặt nhịp tự tin. Ngày vội có thể rút xuống 30 phút, nhưng nhịp độ có chủ ý ấy đảm bảo tôi bước ra cảm thấy chỉn chu và đĩnh đạc.",
+      "kr": "약 45분이에요 – 샤워, 스킨케어 의식, 자신감 넘치는 걸음을 위한 빠른 옷 큐레이션으로요. 급한 날은 30분으로 줄이지만, 그 의도적 페이스가 세련되고 침착하게 외출하게 해줘요.",
+      "jp": "約45分です – シャワー、スケンケア儀式、自信ある歩みを設定するクイックな服装キュレーションです。急ぎの日には30分に削りますが、その意図的なペースが磨かれ落ち着いた感じで外出させてくれます。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 66,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is breakfast a non-negotiable part of your day?",
+    "ipa": "/ɪz ˈbrekfəst ə nɒn nɪˈɡəʊʃəbl pɑːt ɒv jɔː deɪ/",
+    "translations": {
+      "vn": "Bữa sáng có phải là phần không thể thương lượng trong ngày của bạn không?",
+      "kr": "아침 식사는 하루에서 양보할 수 없는 부분인가요?",
+      "jp": "朝食は一日の中で譲れない部分ですか?"
+    },
+    "sampleAnswer": "Absolutely essential – a yogurt parfait with fruits and nuts fuels my focus without heaviness, kickstarting metabolism and mood. Skipping it leaves me foggy by noon, so it's my daily pact with vitality.",
+    "sampleAnswerIpa": "/ˈæbsəluːtli ɪˈsɛnʃl ə ˈjəʊɡət pɑːˈfeɪ wɪð fruːts ənd nʌts ˈfjuːəlz maɪ ˈfəʊkəs wɪˈðaʊt ˈhɛvɪnəs ˈkɪkstɑːtɪŋ ˌmɛtəˈbɒlɪzəm ənd muːd ˈskɪpɪŋ ɪt liːvz miː ˈfɒɡi baɪ nuːn səʊ ɪts maɪ ˈdeɪli pækt wɪð vaɪˈtæləti/",
+    "sampleAnswerTranslations": {
+      "vn": "Tuyệt đối thiết yếu – parfait yogurt với trái cây và hạt cung cấp năng lượng tập trung mà không nặng nề, khởi động trao đổi chất và tâm trạng. Bỏ qua khiến tôi mụ mị vào trưa, nên đó là giao ước hàng ngày với sức sống.",
+      "kr": "절대적으로 필수예요 – 과일과 견과류 요거트 파르페가 무거움 없이 집중력을 연료로 주고, 신진대사와 기분을 킥스타트해요. 건너뛰면 정오에 멍해져서, 활력과의 일상 계약이에요.",
+      "jp": "絶対に不可欠です – フルーツとナッツのヨーグルトパフェが重さなく集中力を燃料とし、新陳代謝と気分をキックスタートします。スキップすると正午にぼんやりするので、活力との日常の約束です。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 67,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Around what time does dinner usually grace your table?",
+    "ipa": "/əˈraʊnd wɒt taɪm dʌz ˈdɪnər ˈjuːʒuəli ɡreɪs jɔː ˈteɪbl/",
+    "translations": {
+      "vn": "Bữa tối thường xuất hiện trên bàn ăn lúc mấy giờ?",
+      "kr": "보통 몇 시에 저녁 식사를 하나요?",
+      "jp": "夕食は通常何時頃ですか?"
+    },
+    "sampleAnswer": "Precisely 7 PM, when the family converges for a shared spread – stir-fries or soups simmered with love, sparking animated recaps of the day. It's our anchor, weaving nourishment with narratives that bind us tighter.",
+    "sampleAnswerIpa": "/prɪˈsaɪsli ˈsɛvn piːˈɛm wɛn ðə ˈfæməli kənˈvɜːdʒɪz fɔːr ə ʃeəd sprɛd stɜː-fraɪz ɔːr suːps ˈsɪməd wɪð lʌv ˈspɑːkɪŋ ˈænɪmeɪtɪd ˈriːkæps ɒv ðə deɪ ɪts aʊə ˈæŋkə ˈwiːvɪŋ ˈnʌrɪʃmənt wɪð ˈnærətɪvz ðæt baɪnd ʌs ˈtaɪtə/",
+    "sampleAnswerTranslations": {
+      "vn": "Chính xác 7 giờ tối, khi gia đình tụ họp quanh mâm cơm chung – món xào hay canh ninh đầy yêu thương, khơi mào những kể chuyện sôi nổi về ngày qua. Đó là neo giữ chúng tôi, dệt dinh dưỡng với câu chuyện gắn kết chặt hơn.",
+      "kr": "정확히 오후 7시, 가족이 공유 식탁으로 모일 때예요 – 사랑으로 끓인 볶음이나 수프가 하루의 생생한 리캡을 촉발해요. 우리 앵커로, 영양과 서사를 엮어 더 단단히 묶어줘요.",
+      "jp": "正確に午後7時、家族が共有の食事に集まるときです – 愛情を込めて煮込んだ炒め物やスープが一日の活気ある振り返りを点火します。私たちのアンカーで、栄養と物語を織り交ぜてより強く結びつけます。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 68,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are you still under the same roof as your family?",
+    "ipa": "/ɑːr juː stɪl ˈʌndə ðə seɪm ruːf æz jɔː ˈfæməli/",
+    "translations": {
+      "vn": "Bạn vẫn còn sống chung mái nhà với gia đình không?",
+      "kr": "가족과 여전히 같은 지붕 아래 사나요?",
+      "jp": "まだ家族と同じ屋根の下にいますか?"
+    },
+    "sampleAnswer": "For now, yes – our bustling household hums with laughter and the occasional sibling squabble, a safety net of support. Independence calls, but these shared suppers and story swaps are irreplaceable chapters I'll cherish.",
+    "sampleAnswerIpa": "/fɔː naʊ jɛs aʊə ˈbʌslɪŋ ˈhaʊshəʊld hʌmz wɪð ˈlɑːftə ənd ði əˈkeɪʒənl ˈsɪblɪŋ ˈskwɒbl ə ˈseɪfti nɛt ɒv səˈpɔːt ˌɪndɪˈpɛndəns kɔːlz bʌt ðiːz ʃeəd ˈsʌpəz ənd ˈstɔːri swɒps ɑːr ˌɪrɪˈpleɪsəbl ˈtʃæptəz aɪl ˈtʃɛrɪʃ/",
+    "sampleAnswerTranslations": {
+      "vn": "Hiện tại thì có – ngôi nhà nhộn nhịp của chúng tôi rộn ràng tiếng cười và thỉnh thoảng cãi vã anh em, là lưới an toàn hỗ trợ. Độc lập đang gọi, nhưng những bữa tối chung và trao đổi chuyện là những chương không thể thay thế tôi sẽ trân trọng.",
+      "kr": "지금은 네요 – 번잡한 우리 집이 웃음과 가끔 형제 다툼으로 윙윙거리고, 지지의 안전망이에요. 독립이 부르지만, 공유 저녁과 이야기 교환은 소중히 간직할 대체 불가 챕터예요.",
+      "jp": "今ははいです – 私たちの賑やかな家は笑いと時々の兄弟げんかでざわめき、支援のセーフティネットです。独立が呼んでいますが、これらの共有夕食と物語交換は大切に記憶するかけがえのない章です。"
+    },
+    "category": "Accommodation"
+  },
+  {
+    "id": 69,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is there a green space within easy reach of your home?",
+    "ipa": "/ɪz ðeər ə ɡriːn speɪs wɪðˈɪn ˈiːzi riːtʃ ɒv jɔː həʊm/",
+    "translations": {
+      "vn": "Có không gian xanh dễ tiếp cận từ nhà bạn không?",
+      "kr": "집 근처에 녹지 공간이 있나요?",
+      "jp": "家のすぐ近くに緑地はありますか?"
+    },
+    "sampleAnswer": "Just a stone's throw away – our neighborhood park, with its lotus ponds and shaded benches, is my sanctuary for sunset jogs. Amid concrete jungles, it's a breath of fresh air, alive with birdsong and impromptu picnics.",
+    "sampleAnswerIpa": "/dʒʌst ə stəʊnz θrəʊ əˈweɪ aʊə ˈneɪbəhʊd pɑːk wɪð ɪts ˈləʊtəs pɒndz ənd ʃeɪdɪd ˈbɛntʃɪz ɪz maɪ ˈsæŋktʃʊəri fɔː ˈsʌnsɛt dʒɒɡz əˈmɪd ˈkɒnkriːt ˈdʒʌŋɡlz ɪts ə brɛθ ɒv frɛʃ eə əˈlaɪv wɪð ˈbɜːdsɒŋ ənd ˌɪmprɒmptˈuː ˈpɪknɪks/",
+    "sampleAnswerTranslations": {
+      "vn": "Chỉ cách một quãng ném đá – công viên khu phố với hồ sen và ghế băng râm mát là nơi trú ẩn cho tôi chạy bộ lúc hoàng hôn. Giữa rừng bê tông, đó là hơi thở không khí trong lành, sống động với tiếng chim và picnic bất chợt.",
+      "kr": "돌 던질 거리예요 – 연꽃 연못과 그늘진 벤치가 있는 동네 공원이 일몰 조깅의 성역이에요. 콘크리트 정글 속에서 신선한 공기의 숨결로, 새소리와 즉석 피크닉으로 살아 있어요.",
+      "jp": "石を投げれば届く距離です – 蓮の池と日陰のベンチがある近所の公園が、私の夕陽ジョギングの聖域です。コンクリートジャングルの中で新鮮な空気の息吹で、鳥のさえずりと即興ピクニックで生きています。"
+    },
+    "category": "Hometown"
+  },
+  {
+    "id": 70,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What draws you to the neighborhood you're in right now?",
+    "ipa": "/wɒt drɔːz juː tuː ðə ˈneɪbəhʊd jɔːr ɪn raɪt naʊ/",
+    "translations": {
+      "vn": "Điều gì thu hút bạn ở khu phố hiện tại?",
+      "kr": "현재 사는 동네의 매력은 무엇인가요?",
+      "jp": "今住んでいる近所に何が魅力的ですか?"
+    },
+    "sampleAnswer": "Its eclectic charm – artisan cafes rub shoulders with street vendors, creating a tapestry of flavors and faces that feels authentically alive. Walkable to work and whimsy, it's the ideal backdrop for serendipitous discoveries.",
+    "sampleAnswerIpa": "/ɪts ɪˈklɛktɪk tʃɑːm ˈɑːtɪzæn kæˈfeɪz rʌb ˈʃəʊldəz wɪð striːt ˈvɛndəz kriˈeɪtɪŋ ə ˈtæpɪstri ɒv ˈfleɪvəz ənd feɪsɪz ðæt fiːlz ɔːˈθɛntɪkli əˈlaɪv ˈwɔːkəbl tuː wɜːk ənd ˈwɪmzi ɪts ði aɪˈdɪəl ˈbækdrɒp fɔːr ˌsɛrənˈdɪpɪtəs dɪsˈkʌvəriz/",
+    "sampleAnswerTranslations": {
+      "vn": "Sức hút chiết trung của nó – quán cà phê thủ công chen vai với hàng rong, tạo nên tấm thảm hương vị và gương mặt cảm giác chân thực sống động. Đi bộ đến chỗ làm và những ý tưởng bất chợt, đó là bối cảnh lý tưởng cho những khám phá tình cờ.",
+      "kr": "그 절충적 매력이에요 – 장인 카페가 길거리 상인과 어깨를 나란히 하며 맛과 얼굴의 태피스트리를 만들고 진정 살아 있는 느낌이에요. 출근과 변덕에 걸어서 갈 수 있어 우연한 발견의 이상적 배경이에요.",
+      "jp": "その折衷的な魅力です – 職人カフェが屋台と肩を並べ、味と顔のタペストリーを作り、本物らしく生き生きと感じます。仕事と気まぐれに歩いて行けて、偶然の発見の理想的な背景です。"
+    },
+    "category": "Accommodation"
+  },
+  {
+    "id": 71,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How often does a supermarket run make it onto your to-do list?",
+    "ipa": "/haʊ ˈɒfən dʌz ə ˈsuːpəmɑːkɪt rʌn meɪk ɪt ˈɒntu jɔː tuː-duː lɪst/",
+    "translations": {
+      "vn": "Bạn đi siêu thị bao lâu một lần?",
+      "kr": "슈퍼마켓에 얼마나 자주 가나요?",
+      "jp": "スーパーにどのくらい頻繁に行きますか?"
+    },
+    "sampleAnswer": "Twice weekly, armed with a mental tally of staples – it's a mindful ritual to stock up on organics and experiment with seasonal produce. Dodging crowds mid-week keeps it swift, turning chores into a treasure hunt for inspiration.",
+    "sampleAnswerIpa": "/twaɪs ˈwiːkli ɑːmd wɪð ə ˈmɛntl ˈtæli ɒv ˈsteɪplz ɪts ə ˈmaɪndfl ˈrɪtʃuəl tuː stɒk ʌp ɒn ɔːˈɡænɪks ənd ɪkˈspɛrɪmənt wɪð ˈsiːzənl ˈprɒdjuːs ˈdɒdʒɪŋ kraʊdz mɪd-wiːk kiːps ɪt swɪft ˈtɜːnɪŋ tʃɔːz ˈɪntu ə ˈtrɛʒə hʌnt fɔːr ˌɪnspɪˈreɪʃn/",
+    "sampleAnswerTranslations": {
+      "vn": "Hai lần một tuần, với danh sách tinh thần các món cơ bản – đó là nghi thức chánh niệm để dự trữ hữu cơ và thử nghiệm rau củ theo mùa. Tránh đám đông giữa tuần giữ cho nhanh chóng, biến việc vặt thành cuộc săn kho báu cảm hứng.",
+      "kr": "주 2회, 기본품 멘탈 리스트로 무장하고요 – 유기농 채우기와 제철 농산물 실험의 마인드풀 의식이에요. 평일 중반 군중 피하기로 신속하게 하고, 잡일을 영감 보물 사냥으로 바꿔요.",
+      "jp": "週2回、基本品のメンタルリストで武装します – オーガニックをストックし季節の農産物を試すマインドフルな儀式です。平日中盤の群衆を避けて素早くし、家事をインスピレーションの宝探しに変えます。"
+    },
+    "category": "Shopping"
+  },
+  {
+    "id": 72,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Online carts or in-store browses – which shopping ritual suits you better?",
+    "ipa": "/ˈɒnlaɪn kɑːts ɔːr ɪn-stɔː braʊzɪz – wɪtʃ ˈʃɒpɪŋ ˈrɪtʃuəl suːts juː ˈbetər/",
+    "translations": {
+      "vn": "Giỏ hàng trực tuyến hay dạo quanh cửa hàng – nghi thức mua sắm nào phù hợp với bạn hơn?",
+      "kr": "온라인 장바구니와 매장 쇼핑 중 어느 것이 더 맞나요?",
+      "jp": "オンラインカートか店内閲覧か、どちらのショッピング儀式があなたに合いますか?"
+    },
+    "sampleAnswer": "Online for efficiency – curating wishlists from bed, with reviews guiding choices, saves hours. Yet, in-store serendipity, like stumbling on a silk scarf that whispers 'mine,' adds that tactile thrill no algorithm replicates.",
+    "sampleAnswerIpa": "/ˈɒnlaɪn fɔːr ɪˈfɪʃənsi ˈkjʊəreɪtɪŋ ˈwɪʃlɪsts frɒm bɛd wɪð rɪˈvjuːz ˈɡaɪdɪŋ tʃɔɪsɪz seɪvz aʊəz jɛt ɪn-stɔː ˌsɛrənˈdɪpɪti laɪk ˈstʌmblɪŋ ɒn ə sɪlk skɑːf ðæt ˈwɪspəz maɪn ædz ðæt ˈtæktaɪl θrɪl nəʊ ˈælɡərɪðəm ˈrɛplɪkeɪts/",
+    "sampleAnswerTranslations": {
+      "vn": "Online vì hiệu quả – tuyển chọn wishlist từ giường, với review hướng dẫn lựa chọn, tiết kiệm hàng giờ. Tuy nhiên, sự bất ngờ trong cửa hàng, như tình cờ khăn lụa thì thầm 'của mình', thêm cảm giác xúc giác mà thuật toán không tái tạo được.",
+      "kr": "효율성으로 온라인 – 침대에서 위시리스트 큐레이팅하고 리뷰가 선택을 안내해 시간을 아껴요. 하지만 매장 내 우연, 실크 스카프에 우연히 걸려 '내 거'라고 속삭이는, 알고리즘으로는 재현 못 할 촉각 스릴을 더해요.",
+      "jp": "効率のためにオンラインです – ベッドからウィッシュリストをキュレーションし、レビューが選択を導いて時間を節約します。それでも店内の偶然、シルクのスカーフに偶然出会って「私の」とささやくような、アルゴリズムでは再現できない触覚のスリルを加えます。"
+    },
+    "category": "Shopping"
+  },
+  {
+    "id": 73,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Looking back, which school subject left the deepest impression?",
+    "ipa": "/ˈlʊkɪŋ bæk, wɪtʃ skuːl ˈsʌbdʒɪkt left ðə ˈdiːpɪst ɪmˈpreʃn/",
+    "translations": {
+      "vn": "Nhìn lại, môn học nào để lại ấn tượng sâu sắc nhất?",
+      "kr": "돌아보면 어떤 학교 과목이 가장 깊은 인상을 주었나요?",
+      "jp": "振り返ると、どの学校科目が最も深い印象を残しましたか?"
+    },
+    "sampleAnswer": "Biology, unequivocally – dissecting frog hearts and debating ecosystems ignited a lifelong curiosity for life's intricacies. The teacher's passion was contagious, transforming labs into wonderlands where science felt like unlocking nature's secrets.",
+    "sampleAnswerIpa": "/baɪˈɒlədʒi ˌʌnɪˈkwɪvəkəli dɪˈsɛktɪŋ frɒɡ hɑːts ənd dɪˈbeɪtɪŋ ˈiːkəʊˌsɪstəmz ɪɡˈnaɪtɪd ə ˈlaɪflɒŋ ˌkjʊəriˈɒsəti fɔː laɪfs ˈɪntrɪkəsiz ðə ˈtiːtʃəz ˈpæʃn wəz kənˈteɪdʒəs trænsˈfɔːmɪŋ læbz ˈɪntu ˈwʌndəlændz weər ˈsaɪəns fɛlt laɪk ʌnˈlɒkɪŋ ˈneɪtʃəz ˈsiːkrɪts/",
+    "sampleAnswerTranslations": {
+      "vn": "Sinh học, không nghi ngờ gì – mổ tim ếch và tranh luận hệ sinh thái đã khơi dậy sự tò mò suốt đời về những phức tạp của sự sống. Đam mê của giáo viên lây lan, biến phòng thí nghiệm thành xứ sở thần tiên nơi khoa học như mở khóa bí mật thiên nhiên.",
+      "kr": "생물학, 단연코요 – 개구리 심장 해부와 생태계 토론이 삶의 복잡함에 평생 호기심을 점화했어요. 선생님의 열정이 전염돼 실험실을 경이로운 땅으로 바꾸고 과학이 자연의 비밀을 푸는 느낌이었어요.",
+      "jp": "生物学、間違いなくです – カエルの心臓解剖と生態系議論が人生の複雑さに生涯の好奇心を点火しました。先生の情熱が伝染し、ラボを不思議の国に変え、科学が自然の秘密を解き明かすように感じました。"
+    },
+    "category": "Study"
+  },
+  {
+    "id": 74,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Public transit: a frequent fixture in your commute?",
+    "ipa": "/ˈpʌblɪk ˈtrænzɪt: ə ˈfriːkwənt ˈfɪksʧər ɪn jɔː kəˈmjuːt/",
+    "translations": {
+      "vn": "Giao thông công cộng: có thường xuyên trong việc đi lại của bạn không?",
+      "kr": "대중교통이 통근에 자주 사용되나요?",
+      "jp": "公共交通機関は通勤の頻繁な要素ですか?"
+    },
+    "sampleAnswer": "My daily dance – buses and metros weave efficiency with eavesdropped tales, from aspiring artists to weary commuters. Eco-smart and wallet-friendly, it's my window to the city's pulse.",
+    "sampleAnswerIpa": "/maɪ ˈdeɪli dɑːns ˈbʌsɪz ənd ˈmɛtrəʊz wiːv ɪˈfɪʃənsi wɪð ˌiːvzˈdrɒpt teɪlz frɒm əˈspaɪərɪŋ ˈɑːtɪsts tuː ˈwɪəri kəˈmjuːtəz ˈiːkəʊ-smɑːt ənd ˈwɒlɪt-ˈfrɛndli ɪts maɪ ˈwɪndəʊ tuː ðə ˈsɪtiz pʌls/",
+    "sampleAnswerTranslations": {
+      "vn": "Vũ điệu hàng ngày của tôi – xe bus và metro dệt hiệu quả với những câu chuyện nghe lén, từ nghệ sĩ đầy khát vọng đến hành khách mệt mỏi. Thông minh sinh thái và thân thiện ví tiền, đó là cửa sổ nhìn nhịp đập thành phố của tôi.",
+      "kr": "제 일상 댄스예요 – 버스와 지하철이 효율성과 엿들은 이야기들을 엮죠, 야심찬 아티스트부터 피곤한 통근자까지요. 에코 스마트하고 지갑 친화적이며, 도시 펄스의 창이에요.",
+      "jp": "私の毎日のダンスです – バスとメトロが効率と盗み聞きした話織り交ぜ、志あるアーティストから疲れた通勤者まで。エコスマートで財布に優しく、都市のパルスの窓です。"
+    },
+    "category": "Transport"
+  },
+  {
+    "id": 75,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Sun-drenched days or overcast skies – which weather whimsy wins you over?",
+    "ipa": "/sʌn-drɛnt deɪz ɔːr ˈəʊvəkæst skaɪz – wɪtʃ ˈweðə ˈwɪmzɪ wɪnz juː ˈəʊvər/",
+    "translations": {
+      "vn": "Ngày nắng chang chang hay trời u ám – sự thất thường thời tiết nào chinh phục bạn?",
+      "kr": "맑은 날씨와 흐린 날씨 중 어느 쪽이 더 끌리나요?",
+      "jp": "日差しが強い日か曇り空か、どちらの天気の気まぐれがあなたを魅了しますか?"
+    },
+    "sampleAnswer": "Overcast skies with a promise of rain – the diffused light flatters my sketches, and the anticipation builds a cozy cocoon for introspection. Sunshine's cheer is welcome, but those moody grays coax creativity from quiet corners.",
+    "sampleAnswerIpa": "/ˈəʊvəkæst skaɪz wɪð ə ˈprɒmɪs ɒv reɪn ðə dɪˈfjuːzd laɪt ˈflætəz maɪ skɛtʃɪz ənd ði ˌæntɪsɪˈpeɪʃn bɪldz ə ˈkəʊzi kəˈkuːn fɔːr ˌɪntrəˈspɛkʃn ˈsʌnʃaɪnz tʃɪə ɪz ˈwɛlkəm bʌt ðəʊz ˈmuːdi ɡreɪz kəʊks ˌkriːeɪˈtɪvəti frɒm ˈkwaɪət ˈkɔːnəz/",
+    "sampleAnswerTranslations": {
+      "vn": "Trời u ám với lời hứa mưa – ánh sáng khuếch tán tôn lên bản phác thảo của tôi, và sự mong đợi xây dựng kén ấm cúng cho nội tâm. Nắng vui vẻ được chào đón, nhưng những gam xám uể oải ấy khơi dậy sáng tạo từ góc yên tĩnh.",
+      "kr": "비 올 기미 있는 흐린 하늘이요 – 확산된 빛이 제 스케치를 아첨하고, 기대감이 내성적 사색을 위한 포근한 고치를 만들어줘요. 햇살의 유쾌함은 환영하지만, 그 우울한 회색이 조용한 구석에서 창의력을 유도해요.",
+      "jp": "雨の約束がある曇り空です – 拡散した光が私のスケッチを褒め、期待が内省のための居心地良い繭を築きます。陽光の陽気さは歓迎ですが、あのムーディーな灰色が静かな隅から創造性を誘います。"
+    },
+    "category": "Weather"
+  },
+  {
+    "id": 76,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How often do you dive into a pool for a swim?",
+    "ipa": "/haʊ ˈɒfən duː juː daɪv ˈɪntu ə puːl fɔːr ə swɪm/",
+    "translations": {
+      "vn": "Bạn đi bơi bao lâu một lần?",
+      "kr": "수영을 얼마나 자주 하나요?",
+      "jp": "どのくらい頻繁に泳ぎに行きますか?"
+    },
+    "sampleAnswer": "Bi-weekly laps at the community center – gliding through strokes, I shed the week's weight, emerging buoyant in body and spirit. It's meditative motion, where worries dissolve like chlorine in water.",
+    "sampleAnswerIpa": "/baɪ-ˈwiːkli læps æt ðə kəˈmjuːnəti ˈsɛntə ˈɡlaɪdɪŋ θruː strəʊks aɪ ʃɛd ðə wiːks weɪt ɪˈmɜːdʒɪŋ ˈbɔɪənt ɪn ˈbɒdi ənd ˈspɪrɪt ɪts ˌmɛdɪˈteɪtɪv ˈməʊʃn weər ˈwʌriz dɪˈzɒlv laɪk ˈklɔːriːn ɪn ˈwɔːtə/",
+    "sampleAnswerTranslations": {
+      "vn": "Hai tuần một lần ở trung tâm cộng đồng – lướt qua các kiểu bơi, tôi trút bỏ gánh nặng tuần, nổi lên tràn đầy sức sống cơ thể và tinh thần. Đó là chuyển động thiền định, nơi lo lắng tan biến như clo trong nước.",
+      "kr": "격주로 커뮤니티 센터에서 랩을 해요 – 스트로크를 미끄러지며 주의 무게를 벗고, 몸과 영혼이 부력 있게 떠올라요. 염소가 물에 녹듯 걱정이 녹는 명상적 운동이에요.",
+      "jp": "2週に一度、コミュニティセンターでラップです – ストロークを滑りながら週の重さを脱ぎ、身体と精神が浮力を持って現れます。塩素が水に溶けるように心配が溶ける瞑想的な運動です。"
+    },
+    "category": "Sports"
+  },
+  {
+    "id": 77,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you own a bike, and if so, how do you use it?",
+    "ipa": "/duː juː əʊn ə baɪk, ənd ɪf səʊ haʊ duː juː juːz ɪt/",
+    "translations": {
+      "vn": "Bạn có xe đạp không, nếu có thì dùng nó như thế nào?",
+      "kr": "자전거가 있나요? 있다면 어떻게 사용하나요?",
+      "jp": "自転車を持っていますか？持っていればどう使いますか?"
+    },
+    "sampleAnswer": "My hybrid's my weekend warrior – pedaling riverside paths, wind whispering secrets, it's therapy on two wheels. City streets are too dicey, so it stays for leisurely spins that clear cobwebs and kindle inspiration.",
+    "sampleAnswerIpa": "/maɪ ˈhaɪbrɪdz maɪ ˈwiːkɛnd ˈwɒriə ˈpɛdlɪŋ ˈrɪvəsaɪd pɑːθz wɪnd ˈwɪspərɪŋ ˈsiːkrɪts ɪts ˈθɛrəpi ɒn tuː wiːlz ˈsɪti striːts ɑː tuː ˈdaɪsi səʊ ɪt steɪz fɔː ˈlɛʒəli spɪnz ðæt klɪə ˈkɒbwɛbz ənd ˈkɪndl ˌɪnspɪˈreɪʃn/",
+    "sampleAnswerTranslations": {
+      "vn": "Chiếc hybrid của tôi là chiến binh cuối tuần – đạp dọc lối sông, gió thì thầm bí mật, đó là liệu pháp hai bánh. Phố thành quá nguy hiểm, nên nó dành cho những vòng quay thư thả xóa mạng nhện và khơi dậy cảm hứng.",
+      "kr": "제 하이브리드가 주말 전사예요 – 강변 길을 페달링하며 바람이 비밀을 속삭이고, 두 바퀴 위 테라피죠. 도시 거리는 너무 위험해서 여유로운 스핀으로 거미줄을 치우고 영감을 점화해요.",
+      "jp": "私のハイブリッドが週末の戦士です – 川沿いの道をペダリングし、風が秘密をささやき、二輪のセラピーです。市街は危なすぎるので、くもの巣を払いインスピレーションを灯すゆったりしたスピンに留めます。"
+    },
+    "category": "Transport"
+  },
+  {
+    "id": 78,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "When fatigue sets in, what's your go-to remedy?",
+    "ipa": "/wen fəˈtiːɡ juːs sæts ɪn, wɒts jɔː ˈɡəʊ tuː ˈremədi/",
+    "translations": {
+      "vn": "Khi mệt mỏi ập đến, biện pháp yêu thích của bạn là gì?",
+      "kr": "피로가 올 때 가장 좋아하는 해결책은 무엇인가요?",
+      "jp": "疲労が襲ってきたら、お気に入りの対処法は何ですか?"
+    },
+    "sampleAnswer": "A power nap under a fan's gentle hum, or a herbal infusion with a podcast – short bursts that reboot without grogginess. It's reclaiming energy on my terms, turning slumps into springboards.",
+    "sampleAnswerIpa": "/ə ˈpaʊə næp ˈʌndə ə fænz ˈdʒɛntl hʌm ɔːr ə ˈhɜːbəl ɪnˈfjuːʒn wɪð ə ˈpɒdkɑːst ʃɔːt bɜːsts ðæt riːˈbuːt wɪˈðaʊt ˈɡrɒɡɪnəs ɪts rɪˈkleɪmɪŋ ˈɛnədʒi ɒn maɪ tɜːmz ˈtɜːnɪŋ slʌmps ˈɪntu ˈsprɪŋbɔːdz/",
+    "sampleAnswerTranslations": {
+      "vn": "Ngủ ngắn dưới tiếng quạt vo ve nhẹ, hoặc trà thảo mộc với podcast – những đợt ngắn tái khởi động mà không mụ mị. Đó là lấy lại năng lượng theo cách của tôi, biến suy sụp thành bệ phóng.",
+      "kr": "선풍기 부드러운 윙윙 아래 파워납이나 허브 인퓨전과 팟캐스트예요 – 멍함 없이 재부팅하는 짧은 버스트죠. 내 조건으로 에너지를 되찾아 슬럼프를 스프링보드로 바꿔요.",
+      "jp": "ファンの優しいハムの下でのパワーナップか、ハーブティーとポッドキャストです – ぼんやりせず再起動する短いバーストです。私の条件でエネルギーを取り戻し、スランプをスプリングボードに変えます。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 79,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are hats part of your style arsenal?",
+    "ipa": "/ɑː hæts pɑːt ɒv jɔː staɪl ˈɑːsənl/",
+    "translations": {
+      "vn": "Mũ có nằm trong kho vũ khí phong cách của bạn không?",
+      "kr": "모자가 스타일 무기 중 하나인가요?",
+      "jp": "帽子はあなたのスタイルの武器庫の一部ですか?"
+    },
+    "sampleAnswer": "Wide-brims for sun-soaked escapades – they shield while adding bohemian flair to sundresses. A fedora for urban edge completes moody outfits, proving headwear's power to transform a look.",
+    "sampleAnswerIpa": "/waɪd-brɪmz fɔː sʌn-səʊkt ɪˈskeɪpeɪdz ðeɪ ʃiːld waɪl ˈædɪŋ ˌbəʊhiːˈmiən fleə tuː ˈsʌndrɛsɪz ə fɪˈdɔːrə fɔːr ˈɜːbən ɛdʒ kəmˈpliːts ˈmuːdi ˈaʊtfɪts ˈpruːvɪŋ ˈhɛdweəz ˈpaʊə tuː trænsˈfɔːm ə lʊk/",
+    "sampleAnswerTranslations": {
+      "vn": "Mũ vành rộng cho những cuộc trốn nắng – che chắn trong khi thêm phong cách bohemian cho váy hè. Mũ fedora cho cạnh đô thị hoàn thiện trang phục uể oải, chứng minh sức mạnh mũ nón biến đổi diện mạo.",
+      "kr": "햇살 듬뿍 탈출에 와이드 브림이에요 – 선드레스에 보헤미안 플레어를 더하면서 보호해주죠. 도시 에지를 위한 페도라가 무디한 옷차림을 완성하고, 헤드웨어가 룩을 변신시키는 힘을 증명해요.",
+      "jp": "日差したっぷりの逃避にワイドブリムです – サンドレスにボヘミアンな華やぎを加えながら守ってくれます。アーバンエッジのフェドーラがムーディーな服装を完成させ、ヘッドウェアがルックを変える力を証明します。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 80,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your frequency for tidying up your personal space?",
+    "ipa": "/wɒts jɔː ˈfriːkwənsi fɔː ˈtaɪdɪɪŋ ʌp jɔː ˈpɜːsənl speɪs/",
+    "translations": {
+      "vn": "Tần suất bạn dọn dẹp không gian cá nhân là bao nhiêu?",
+      "kr": "개인 공간을 정리하는 빈도는 얼마나 되나요?",
+      "jp": "個人的なスペースを片付ける頻度はどれくらいですか?"
+    },
+    "sampleAnswer": "Weekly deep cleans with upbeat tunes – decluttering drawers and dusting shelves restores order and zen. It's therapeutic, unearthing forgotten gems amid the chaos, like a mini excavation of my mind.",
+    "sampleAnswerIpa": "/ˈwiːkli diːp kliːnz wɪð ʌpˈbiːt tjuːnz dɪˈklʌtərɪŋ drɔːz ənd ˈdʌstɪŋ ʃɛlvz rɪˈstɔːz ˈɔːdə ənd zɛn ɪts ˌθɛrəˈpjuːtɪk ʌnˈɜːθɪŋ fəˈɡɒtn dʒɛmz əˈmɪd ðə ˈkeɪɒs laɪk ə ˈmɪni ˌɛksəˈveɪʃn ɒv maɪ maɪnd/",
+    "sampleAnswerTranslations": {
+      "vn": "Dọn sâu hàng tuần với nhạc vui – sắp xếp lại ngăn kéo và lau bụi kệ khôi phục trật tự và thiền. Đó là trị liệu, khai quật những viên ngọc bị quên giữa hỗn độn, như cuộc đào nhỏ tâm trí tôi.",
+      "kr": "업비트 음악과 함께 주간 딥 클린이에요 – 서랍 정리와 선반 먼지 털기가 질서와 젠을 회복해요. 카오스 속 잊힌 보석을 발굴하는 테라피로, 제 마음의 미니 발굴 같아요.",
+      "jp": "アップビートな曲とともに週間のディープクリーンです – 引き出しの片付けと棚の埃払いが秩序と禅を回復します。カオスの中の忘れられた宝石を発掘するセラピー、マインドのミニ発掘のようです。"
+    },
+    "category": "Home"
+  },
+  {
+    "id": 81,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Grand bashes or intimate gatherings – which party vibe calls to you?",
+    "ipa": "/ɡrænd bæʃɪz ɔːr ˈɪntɪmət ˈɡæðərɪŋz – wɪtʃ ˈpɑːti vaɪb kɔːlz tuː juː/",
+    "translations": {
+      "vn": "Tiệc lớn hay tụ họp thân mật – phong cách tiệc nào thu hút bạn?",
+      "kr": "큰 파티와 친밀한 모임 중 어느 쪽이 더 끌리나요?",
+      "jp": "大規模なパーティーか親密な集まりか、どちらのパーティーの雰囲気があなたを呼んでいますか?"
+    },
+    "sampleAnswer": "Intimate soirees with a handful of souls – deep dives into dreams over wine, where vulnerability blooms in trusted circles. Grand events dazzle, but these quiet symphonies of connection linger longest in the heart.",
+    "sampleAnswerIpa": "/ˈɪntɪmət ˈswɑːreɪz wɪð ə ˈhændfʊl ɒv səʊlz diːp daɪvz ˈɪntu driːmz ˈəʊvə waɪn weər ˌvʌlnərəˈbɪləti bluːmz ɪn ˈtrʌstɪd ˈsɜːklz ɡrænd ɪˈvɛnts ˈdæzl bʌt ðiːz ˈkwaɪət ˈsɪmfəniz ɒv kəˈnɛkʃn ˈlɪŋɡə ˈlɒŋɡɪst ɪn ðə hɑːt/",
+    "sampleAnswerTranslations": {
+      "vn": "Những buổi tiệc thân mật với vài tâm hồn – lặn sâu vào giấc mơ bên ly rượu, nơi dễ bị tổn thương nở rộ trong vòng tròn tin cậy. Sự kiện lớn lộng lẫy, nhưng những bản giao hưởng kết nối yên tĩnh này lưu lại lâu nhất trong tim.",
+      "kr": "소수 영혼과의 친밀한 모임이에요 – 와인과 함께 꿈 속 깊이 다이빙하고 신뢰하는 서클에서 취약함이 피어나죠. 그랜드 이벤트는 눈부시지만, 이 조용한 연결의 교향곡이 마음에 가장 오래 남아요.",
+      "jp": "少数の魂との親密なパーティーです – ワインを片手に夢への深いダイブ、信頼のサークルで脆弱さが咲きます。グランドイベントは眩しいですが、この静かなつながりのシンフォニーが心に最も長く残ります。"
+    },
+    "category": "Social Life"
+  },
+  {
+    "id": 82,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "If the week had a MVP day, which one would you crown?",
+    "ipa": "/ɪf ðə wiːk hæd ə em viː piː deɪ, wɪtʃ wʌn wʊd juː kraʊn/",
+    "translations": {
+      "vn": "Nếu tuần có một ngày MVP, bạn sẽ trao vương miện cho ngày nào?",
+      "kr": "일주일에 MVP 날이 있다면 어떤 날을 선택할까요?",
+      "jp": "週にMVPの日があれば、どの日を王冠にしますか?"
+    },
+    "sampleAnswer": "Saturday, unequivocally – no alarms, just the luxury of lingering breakfasts and spontaneous jaunts, a canvas for whimsy. It's the exhale after week's crescendo, priming me for Monday's melody.",
+    "sampleAnswerIpa": "/ˈsætədeɪ ˌʌnɪˈkwɪvəkəli nəʊ əˈlɑːmz dʒʌst ðə ˈlʌkʃəri ɒv ˈlɪŋɡərɪŋ ˈbrɛkfəsts ənd ˌspɒntəˈneɪəs dʒɔːnts ə ˈkænvəs fɔː ˈwɪmzi ɪts ði ˈɛksheɪl ˈɑːftə wiːks krɪˈʃɛndəʊ ˈpraɪmɪŋ miː fɔː ˈmʌndeɪz ˈmɛlədi/",
+    "sampleAnswerTranslations": {
+      "vn": "Thứ Bảy, không nghi ngờ gì – không báo thức, chỉ sự xa xỉ của bữa sáng kéo dài và những chuyến đi bất chợt, một bức tranh cho sự thất thường. Đó là hơi thở ra sau cao trào tuần, chuẩn bị tôi cho giai điệu thứ Hai.",
+      "kr": "토요일, 단연코요 – 알람 없이 여유로운 아침 식사와 즉흥 외출의 사치, 변덕을 위한 캔버스예요. 주의 크레센도 후 숨을 내쉬며 월요일 멜로디를 준비해줘요.",
+      "jp": "土曜日、間違いなくです – アラームなし、ゆったりした朝食と即興のお出かけの贅沢、気まぐれのためのキャンバスです。週のクレシェンド後の吐息で、月曜のメロディーを準備します。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 83,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is fragrance a fixture in your daily ritual?",
+    "ipa": "/ɪz ˈfreɪɡrəns ə ˈfɪksʧər ɪn jɔː ˈdeɪli ˈrɪtʃuəl/",
+    "translations": {
+      "vn": "Hương thơm có phải phần cố định trong nghi thức hàng ngày của bạn không?",
+      "kr": "향수가 일상 루틴의 일부인가요?",
+      "jp": "香りは毎日の儀式の定番ですか?"
+    },
+    "sampleAnswer": "A spritz of jasmine-infused eau de parfum – subtle yet lingering, it cloaks me in quiet elegance, boosting confidence like an invisible cape. Chosen for its nod to tropical gardens, it's my scent signature.",
+    "sampleAnswerIpa": "/ə sprɪts ɒv ˈdʒæsmɪn-ɪnˈfjuːzd əʊ də pɑːˈfʌm ˈsʌtl jɛt ˈlɪŋɡərɪŋ ɪt kləʊks miː ɪn ˈkwaɪət ˈɛlɪɡəns ˈbuːstɪŋ ˈkɒnfɪdəns laɪk ən ɪnˈvɪzəbl keɪp ˈtʃəʊzn fɔːr ɪts nɒd tuː ˈtrɒpɪkl ˈɡɑːdnz ɪts maɪ sɛnt ˈsɪɡnətʃə/",
+    "sampleAnswerTranslations": {
+      "vn": "Một cú xịt nước hoa eau de parfum ngấm hương nhài – tinh tế nhưng lưu luyến, bao bọc tôi trong sự thanh lịch thầm lặng, tăng tự tin như áo choàng vô hình. Chọn vì gợi nhớ vườn nhiệt đới, đó là chữ ký hương thơm của tôi.",
+      "kr": "재스민 인퓨즈드 오 드 퍼퓸 한 번 뿌리기예요 – 미묘하지만 지속돼 조용한 우아함으로 감싸고 보이지 않는 망토처럼 자신감을 북돋아요. 열대 정원을 향한 고개 끄덕임으로 선택됐고, 제 향 시그니처예요.",
+      "jp": "ジャスミン入りのオーデパルファムを一吹きです – 微妙でありながら持続し、静かなエレガンスで私を包み、見えないマントのように自信を高めます。熱帯庭園へのうなずきで選ばれ、私の香りのシグネチャーです。"
+    },
+    "category": "Appearance"
+  },
+  {
+    "id": 84,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How integral is your phone to your everyday flow?",
+    "ipa": "/haʊ ˈɪntɪɡrəl ɪz jɔː fəʊn tuː jɔː ˌevrideɪ fləʊ/",
+    "translations": {
+      "vn": "Điện thoại quan trọng như thế nào trong dòng chảy hàng ngày của bạn?",
+      "kr": "휴대폰이 일상 흐름에 얼마나 필수적인가요?",
+      "jp": "電話は毎日の流れにどれほど不可欠ですか?"
+    },
+    "sampleAnswer": "Like an extension of my hand – navigation, notes, and nostalgic scrolls keep me tethered yet free. Mindful breaks remind me life's offline hues are equally vivid.",
+    "sampleAnswerIpa": "/laɪk ən ɪkˈstɛnʃn ɒv maɪ hænd ˈnævɪɡeɪʃn nəʊts ənd nɒˈstældʒɪk skrəʊlz kiːp miː ˈtɛðəd jɛt friː ˈmaɪndfl breɪks rɪˈmaɪnd miː laɪfs ˈɒflaɪn hjuːz ɑːr ˈiːkwəli ˈvɪvɪd/",
+    "sampleAnswerTranslations": {
+      "vn": "Như phần mở rộng của tay tôi – định vị, ghi chú và lướt hoài niệm giữ tôi kết nối nhưng tự do. Những khoảng nghỉ chánh niệm nhắc tôi rằng màu sắc offline của cuộc sống cũng sống động không kém.",
+      "kr": "손의 연장선 같아요 – 내비게이션, 노트, 향수 어린 스크롤이 연결하면서도 자유롭게 해줘요. 마인드풀 브레이크가 삶의 오프라인 색조도 똑같이 생생하다는 걸 상기시켜줘요.",
+      "jp": "手の延長のようです – ナビゲーション、メモ、ノスタルジックなスクロールが私を繋ぎつつ自由にします。マインドフルな休憩が人生のオフラインの色合いも同様に鮮やかだと思い出させてくれます。"
+    },
+    "category": "Technology"
+  },
+  {
+    "id": 85,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are jeans a wardrobe warrior for you?",
+    "ipa": "/ɑː dʒiːnz ə ˈwɔːdrəʊb ˈwɒriə fɔː juː/",
+    "translations": {
+      "vn": "Quần jeans có phải chiến binh tủ quần áo của bạn không?",
+      "kr": "청바지가 옷장의 전사인가요?",
+      "jp": "ジーンズはあなたのワードローブの戦士ですか?"
+    },
+    "sampleAnswer": "Indispensable – distressed pairs for casual Fridays, slim cuts for polished evenings, they morph with moods. Timeless denim's durability echoes my resilient style ethos.",
+    "sampleAnswerIpa": "/ˌɪndɪˈspɛnsəbl dɪˈstrɛst peəz fɔː ˈkæʒuəl ˈfraɪdeɪz slɪm kʌts fɔː ˈpɒlɪʃt ˈiːvnɪŋz ðeɪ mɔːf wɪð muːdz ˈtaɪmləs ˈdɛnɪm durəˈbɪləti ˈɛkəʊz maɪ rɪˈzɪlɪənt staɪl ˈiːθɒs/",
+    "sampleAnswerTranslations": {
+      "vn": "Không thể thiếu – quần rách cho thứ Sáu thoải mái, cắt slim cho buổi tối chỉn chu, chúng biến đổi theo tâm trạng. Độ bền denim vượt thời gian vang vọng triết lý phong cách kiên cường của tôi.",
+      "kr": "필수불가결이에요 – 캐주얼 프라이데이에 디스트레스드 페어, 세련된 저녁에 슬림 컷으로 기분에 따라 변신해요. 타임리스 데님의 내구성이 제 회복력 있는 스타일 철학을 에코해요.",
+      "jp": "欠かせません – ディストレスドペアでカジュアルフライデー、スリムカットで磨かれた夕べ、気分に合わせて変身します。タイムレスなデニムの耐久性が私のレジリエントなスタイル哲学を反響します。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 86,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What do you slip into for milestone moments?",
+    "ipa": "/wɒt duː juː slɪp ˈɪntuː fɔː ˈmaɪlstəʊn ˈməʊmənts/",
+    "translations": {
+      "vn": "Bạn mặc gì cho những khoảnh khắc kỷ niệm?",
+      "kr": "중요한 순간에 어떤 옷을 입나요?",
+      "jp": "マイルストーンの瞬間に何を着ますか?"
+    },
+    "sampleAnswer": "A tailored ao dai for cultural rites or a sleek black dress for toasts – elegant simplicity that honors the occasion's gravity. It's armor for memories, blending heritage with heartfelt poise.",
+    "sampleAnswerIpa": "/ə ˈteɪləd aʊ daɪ fɔː ˈkʌltʃərəl raɪts ɔːr ə sliːk blæk drɛs fɔː təʊsts ˈɛlɪɡənt ˈsɪmplɪsəti ðæt ˈɒnəz ði əˈkeɪʒənz ˈɡrævəti ɪts ˈɑːmə fɔː ˈmɛməriz ˈblɛndɪŋ ˈhɛrɪtɪdʒ wɪð ˈhɑːtfɛlt pɔɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Áo dài may đo cho nghi thức văn hóa hoặc váy đen bóng cho chúc tụng – sự thanh lịch đơn giản tôn vinh trọng lượng dịp. Đó là áo giáp cho kỷ niệm, hòa quyện di sản với sự đĩnh đạc chân thành.",
+      "kr": "문화 의식에 맞춘 아오자이 또는 건배에 슬릭 블랙 드레스예요 – 행사의 무게를 존중하는 우아한 단순함이에요. 추억을 위한 갑옷으로, 유산과 진심 어린 침착함을 블렌딩해요.",
+      "jp": "文化儀式に仕立てたアオザイか、乾杯にスリックなブラックドレスです – 機会の重みを敬うエレガントなシンプルさです。記憶のための鎧で、遺産と心からの落ち着きをブレンドします。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 87,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Is your shoe collection more marathon or sprint?",
+    "ipa": "/ɪz jɔː ʃuː kəˈlekʃn mɔːr ˈmærəθɒn ɔːr sprɪnt/",
+    "translations": {
+      "vn": "Bộ sưu tập giày của bạn là marathon hay sprint?",
+      "kr": "신발 컬렉션이 마라톤인가 스프린트인가요?",
+      "jp": "靴のコレクションはマラソンかスプリントか?"
+    },
+    "sampleAnswer": "Marathon minimalism – a versatile trio: sneakers for strides, sandals for summers, heels for highlights. Quality over quantity ensures each pair pulls double duty without closet clutter.",
+    "sampleAnswerIpa": "/ˈmærəθɒn ˈmɪnɪməlɪzəm ə ˈvɜːsətaɪl ˈtriːəʊ ˈsniːkəz fɔː straɪdz ˈsændlz fɔː ˈsʌməz hiːlz fɔː ˈhaɪlaɪts ˈkwɒləti ˈəʊvə ˈkwɒntəti ɪnˈʃʊəz iːtʃ peə pʊlz ˈdʌbl ˈdjuːti wɪˈðaʊt ˈklɒzɪt ˈklʌtə/",
+    "sampleAnswerTranslations": {
+      "vn": "Minimalism marathon – bộ ba linh hoạt: sneaker cho bước dài, sandal cho hè, heels cho điểm nhấn. Chất lượng hơn số lượng đảm bảo mỗi đôi làm việc kép mà không lộn xộn tủ.",
+      "kr": "마라톤 미니멀리즘 – 다재다능한 트리오: 걸음에 스니커즈, 여름에 샌들, 하이라이트에 힐. 양보다 질로 각 페어가 이중 임무를 수행하며 옷장 혼란 없이요.",
+      "jp": "マラソンミニマリズムです – 多用途のトリオ：ストライドにスニーカー、夏にサンダル、ハイライトにヒール。量より質で、各ペアがダブルデューティーを果たしクローゼットの散らかりを防ぎます。"
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": 88,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What shade graces the walls of your living space?",
+    "ipa": "/wɒt ʃeɪd ɡreɪsɪz ðə wɔːlz ɒv jɔː ˈlɪvɪŋ speɪs/",
+    "translations": {
+      "vn": "Màu sắc nào tô điểm cho tường không gian sống của bạn?",
+      "kr": "거실 벽 색상은 무엇인가요?",
+      "jp": "居住スペースの壁の色は何ですか?"
+    },
+    "sampleAnswer": "Soft sage green – serene yet invigorating, it evokes tranquil forests, fostering focus amid urban hum. Accents of mustard pops add warmth, curating a haven that soothes and inspires.",
+    "sampleAnswerIpa": "/sɒft seɪdʒ ɡriːn səˈriːn jɛt ɪnˈvɪɡəreɪtɪŋ ɪt ɪˈvəʊks ˈtræŋkwɪl ˈfɒrɪsts ˈfɒstərɪŋ ˈfəʊkəs əˈmɪd ˈɜːbən hʌm ˈæksɛnts ɒv ˈmʌstəd pɒps æd wɔːmθ ˈkjʊəreɪtɪŋ ə ˈheɪvn ðæt suːðz ənd ɪnˈspaɪəz/",
+    "sampleAnswerTranslations": {
+      "vn": "Xanh sage dịu – bình yên nhưng tiếp thêm sinh lực, gợi rừng yên tĩnh, nuôi dưỡng tập trung giữa tiếng ồn đô thị. Điểm nhấn mustard thêm ấm áp, tuyển chọn một thiên đường xoa dịu và truyền cảm hứng.",
+      "kr": "소프트 세이지 그린이에요 – 고요하면서도 활력을 주고, 평온한 숲을 떠올리게 해 도시 소음 속 집중을 키워줘요. 머스터드 팝 액센트가 따뜻함을 더하고, 진정시키고 영감을 주는 안식처를 큐레이팅해요.",
+      "jp": "ソフトセージグリーンです – 穏やかでありながら活力を与え、静かな森を呼び起こし、都市のざわめきの中で集中を育みます。マスタードのポップなアクセントが温かさを加え、癒やしとインスピレーションを与える安息所をキュレーションします。"
+    },
+    "category": "Home"
+  },
+  {
+    "id": 89,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do belts play a starring role in your outfits?",
+    "ipa": "/duː belts pleɪ ə ˈstɑːrɪŋ rəʊl ɪn jɔː ˈaʊtfɪts/",
+    "translations": {
+      "vn": "Thắt lưng có vai trò chính trong trang phục của bạn không?",
+      "kr": "벨트가 옷차림에서 주연을 맡나요?",
+      "jp": "ベルトはあなたの服装で主役を果たしますか?"
+    },
+    "sampleAnswer": "Cameo appearances – a woven leather cinch elevates jeans, sculpting silhouette with subtle flair. Reserved for polished days, it's the understated anchor tying looks together.",
+    "sampleAnswerIpa": "/kəˈmeɪəʊ əˈpɪərənsɪz ə ˈwəʊvn ˈlɛðə sɪntʃ ˈɛlɪveɪts dʒiːnz ˈskʌlptɪŋ ˌsɪlʊˈɛt wɪð ˈsʌtl fleə rɪˈzɜːvd fɔː ˈpɒlɪʃt deɪz ɪts ði ˌʌndəˈsteɪtɪd ˈæŋkə ˈtaɪɪŋ lʊks təˈɡɛðə/",
+    "sampleAnswerTranslations": {
+      "vn": "Vai phụ cameo – thắt lưng da đan nâng tầm quần jeans, điêu khắc đường nét với phong cách tinh tế. Dành cho ngày chỉn chu, đó là neo thầm lặng buộc các trang phục lại với nhau.",
+      "kr": "카메오 출연이에요 – 짠 가죽 벨트가 진을 업그레이드하고 실루엣을 미묘한 플레어로 조각해요. 세련된 날을 위해 예약돼 룩을 묶는 저평가된 앵커예요.",
+      "jp": "カメオ出演です – 織られたレザーベルトがジーンズを格上げし、シルエットを微妙な華やぎで彫刻します。磨かれた日のために予約され、ルックを結ぶ控えめなアンカーです。"
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": 90,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How often do you refresh your hairstyle for a new look?",
+    "ipa": "/haʊ ˈɒfən duː juː rɪˈfreʃ jɔː ˈheəstaɪl fɔːr ə njuː lʊk/",
+    "translations": {
+      "vn": "Bạn làm mới kiểu tóc bao lâu một lần cho diện mạo mới?",
+      "kr": "새로운 룩을 위해 헤어스타일을 얼마나 자주 바꾸나요?",
+      "jp": "新しいルックのためにヘアスタイルをどのくらいの頻度でリフレッシュしますか?"
+    },
+    "sampleAnswer": "Quarterly trims with a twist – from bob to beach waves, each snip mirrors mood shifts, like autumn's layered cut evoking cozy introspection. It's reinvention therapy, framing face with fresh energy.",
+    "sampleAnswerIpa": "/ˈkwɔːtəli trɪmz wɪð ə twɪst frɒm bɒb tuː biːtʃ weɪvz iːtʃ snɪp ˈmɪrəz muːd ʃɪfts laɪk ˈɔːtəmz ˈleɪəd kʌt ɪˈvəʊkɪŋ ˈkəʊzi ˌɪntrəˈspɛkʃn ɪts ˌriːɪnˈvɛnʃn ˈθɛrəpi ˈfreɪmɪŋ feɪs wɪð frɛʃ ˈɛnədʒi/",
+    "sampleAnswerTranslations": {
+      "vn": "Cắt tỉa hàng quý với biến tấu – từ bob đến sóng biển, mỗi lần cắt phản chiếu thay đổi tâm trạng, như cắt lớp mùa thu gợi nội tâm ấm cúng. Đó là liệu pháp tái tạo, khung khuôn mặt với năng lượng mới.",
+      "kr": "분기별 트림에 트위스트예요 – 밥에서 비치 웨이브로, 각 스닙이 기분 변화를 비추고 가을 레이어드 컷처럼 포근한 내성을 불러일으켜요. 얼굴을 새 에너지로 프레이밍하는 재창조 테라피예요.",
+      "jp": "四半期ごとのトリムにひねりを加え – ボブからビーチウェーブへ、各カットが気分変動を映し、秋のレイヤーカットが居心地良い内省を呼び起こします。再発明セラピー、顔を新鮮なエネルギーでフレーミングします。"
+    },
+    "category": "Appearance"
+  },
+  {
+    "id": 91,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Skirts fluttering or pants striding – your preference?",
+    "ipa": "/skɜːts ˈflʌtərɪŋ ɔːr pænts ˈstraɪdɪŋ – jɔː ˈprefərəns/",
+    "translations": {
+      "vn": "Váy bay bổng hay quần sải bước – sở thích của bạn?",
+      "kr": "스커트와 바지 중 어느 쪽을 선호하나요?",
+      "jp": "スカートがひらひらするかパンツで大股か、あなたの好みは?"
+    },
+    "sampleAnswer": "Pants for prowess – tailored trousers empower my stride, versatile from desk to dusk dinners. Skirts charm for whimsical days, but pants win for that confident, unapologetic power pose.",
+    "sampleAnswerIpa": "/pænts fɔː ˈpraʊɪs ˈteɪləd ˈtraʊzəz ɪmˈpaʊə maɪ straɪd ˈvɜːsətaɪl frɒm dɛsk tuː dʌsk ˈdɪnəz skɜːts tʃɑːm fɔː ˈwɪmzɪkl deɪz bʌt pænts wɪn fɔː ðæt ˈkɒnfɪdənt ˌʌnəˈpɒlədʒɛtɪk ˈpaʊə pəʊz/",
+    "sampleAnswerTranslations": {
+      "vn": "Quần cho sức mạnh – quần may đo trao quyền cho bước đi, linh hoạt từ bàn làm việc đến bữa tối hoàng hôn. Váy quyến rũ cho ngày thất thường, nhưng quần thắng nhờ tư thế quyền lực tự tin không xin lỗi.",
+      "kr": "능력을 위한 팬츠예요 – 테일러드 트라우저가 걸음을 힘주고 데스크에서 황혼 디너까지 다재다능해요. 스커트는 변덕스러운 날에 매력적이지만, 자신감 넘치고 사과 없는 파워 포즈로 팬츠가 이겨요.",
+      "jp": "パンツで力量です – テーラードトラウザーが私の歩みをエンパワーし、デスクから夕暮れディナーまで汎用性があります。スカートは気まぐれな日に魅力的ですが、自信に満ちた謝らないパワーポーズでパンツが勝ちます。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 92,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's tucked away in your everyday carry bag?",
+    "ipa": "/wɒts tʌkt əˈweɪ ɪn jɔː ˌevrideɪ ˈkæri bæɡ/",
+    "translations": {
+      "vn": "Những gì được giấu trong túi xách hàng ngày của bạn?",
+      "kr": "일상 가방에 무엇이 들어 있나요?",
+      "jp": "毎日のキャリーバッグに何が入っていますか?"
+    },
+    "sampleAnswer": "Essentials with eccentricity: wallet, keys, a dog-eared novel, lip balm, and surprise sketchpad for idle inspirations. It's a portable Pandora's box, ready for whatever the day unfurls.",
+    "sampleAnswerIpa": "/ɪˈsɛnʃlz wɪð ˌɛksɛnˈtrɪsəti ˈwɒlɪt kiːz ə dɒɡ-ɪəd ˈnɒvl lɪp bɑːm ənd səˈpraɪz ˈskɛtʃpæd fɔːr ˈaɪdl ˌɪnspɪˈreɪʃnz ɪts ə ˈpɔːtəbl pænˈdɔːrəz bɒks ˈrɛdi fɔː wɒtˈɛvə ðə deɪ ʌnˈfɜːlz/",
+    "sampleAnswerTranslations": {
+      "vn": "Những thứ thiết yếu với chút lập dị: ví, chìa khóa, tiểu thuyết góc gập, son dưỡng, và sổ phác thảo bất ngờ cho cảm hứng nhàn rỗi. Đó là hộp Pandora di động, sẵn sàng cho bất cứ gì ngày mở ra.",
+      "kr": "필수품에 기벽을 더해요: 지갑, 열쇠, 귀 접힌 소설, 립밤, 한가한 영감을 위한 서프라이즈 스케치패드. 휴대용 판도라 상자로, 날이 펼쳐주는 어떤 것에도 준비됐어요.",
+      "jp": "エッセンシャルに奇癖を加えて：財布、鍵、犬耳のついた小説、リップバーム、暇なインスピレーションのためのサプライズスケッチパッド。ポータブルなパンドラの箱で、日が展開するどんなことにも準備万端です。"
+    },
+    "category": "Bags"
+  },
+  {
+    "id": 93,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do scarves add a dash of drama to your ensemble?",
+    "ipa": "/duː skɑːrvz æd ə dæʃ ɒv ˈdrɑːmə tuː jɔː ɒnˈsɒmbl/",
+    "translations": {
+      "vn": "Khăn quàng có thêm chút kịch tính cho bộ trang phục của bạn không?",
+      "kr": "스카프가 복장에 드라마를 더하나요?",
+      "jp": "スカーフはあなたの衣装にドラマチックなアクセントを加えますか?"
+    },
+    "sampleAnswer": "Silk whispers of wanderlust – draped loosely, they transform tees into boho chic, evoking Parisian cafes. Winter's woolen wraps cocoon in color, turning frost into fashion fable.",
+    "sampleAnswerIpa": "/sɪlk ˈwɪspəz ɒv ˈwɒndəlʌst dreɪpt ˈluːsli ðeɪ trænsˈfɔːm tiːz ˈɪntu ˈbəʊhəʊ ʃiːk ɪˈvəʊkɪŋ ˌpærɪˈziːən kæˈfeɪ ˈwɪntəz ˈwʊlən ræps kəˈkuːn ɪn ˈkʌlə ˈtɜːnɪŋ frɒst ˈɪntu ˈfæʃn ˈfeɪbl/",
+    "sampleAnswerTranslations": {
+      "vn": "Lụa thì thầm khao khát du hành – buông lơi, chúng biến áo phông thành boho chic, gợi quán cà phê Paris. Khăn len mùa đông bao bọc trong màu sắc, biến sương giá thành truyện cổ tích thời trang.",
+      "kr": "실크가 방랑욕을 속삭여요 – 느슨하게 드레이프하면 티를 보헤미안 시크로 바꾸고 파리지앵 카페를 떠올리게 해요. 겨울 울 랩이 색으로 코쿤하고 서리를 패션 우화로 바꿔요.",
+      "jp": "シルクが放浪欲をささやきます – ゆるくドレープするとTシャツをボホシックに変え、パリのカフェを呼び起こします。冬のウールラップが色で繭を作り、霜をファッションの寓話に変えます。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 94,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How do you orchestrate your daily schedule?",
+    "ipa": "/haʊ duː juː ˈɔːkɪstreɪt jɔː ˈdeɪli ˈskedʒuːl/",
+    "translations": {
+      "vn": "Bạn sắp xếp lịch trình hàng ngày như thế nào?",
+      "kr": "일상 일정을 어떻게 조율하나요?",
+      "jp": "毎日のスケジュールをどのように調整しますか?"
+    },
+    "sampleAnswer": "A digital symphony via app – color-coded blocks for work, whims, and wind-downs ensure harmony without overwhelm. Flexibility's the conductor, allowing impromptu detours that enrich the score.",
+    "sampleAnswerIpa": "/ə ˈdɪdʒɪtl ˈsɪmfəni ˈvaɪə æp ˈkʌlə-kəʊdɪd blɒks fɔː wɜːk wɪmz ənd waɪnd-daʊnz ɪnˈʃʊə ˈhɑːməni wɪˈðaʊt ˌəʊvəˈwɛlm ˌflɛksəˈbɪləti z ðə kənˈdʌktə əˈlaʊɪŋ ˌɪmprɒmptˈuː ˈdiːtʊəz ðæt ɪnˈrɪtʃ ðə skɔː/",
+    "sampleAnswerTranslations": {
+      "vn": "Bản giao hưởng kỹ thuật số qua app – khối màu cho công việc, ý tưởng và thư giãn đảm bảo hài hòa không quá tải. Linh hoạt là người chỉ huy, cho phép ngả rẽ bất chợt làm phong phú bản nhạc.",
+      "kr": "앱을 통한 디지털 심포니예요 – 작업, 변덕, 휴식을 위한 컬러 코딩 블록이 압도 없이 하모니를 보장해요. 유연성이 지휘자로 즉흥 우회를 허용해 스코어를 풍부하게 해줘요.",
+      "jp": "アプリ経由のデジタルシンフォニーです – 仕事、気まぐれ、リラックスのためのカラーコードブロックが圧倒されず調和を確保します。柔軟性が指揮者で、即興の寄り道を許しスコアを豊かにします。"
+    },
+    "category": "Daily Routine"
+  },
+  {
+    "id": 95,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do uniforms feature in your work or study environment?",
+    "ipa": "/duː ˈjuːnɪfɔːmz ˈfiːtʃər ɪn jɔː wɜːk ɔːr ˈstʌdi ɪnˈvaɪrənmənt/",
+    "translations": {
+      "vn": "Đồng phục có xuất hiện trong môi trường làm việc hoặc học tập của bạn không?",
+      "kr": "직장이나 학교에서 유니폼을 입나요?",
+      "jp": "仕事や勉強の環境で制服はありますか?"
+    },
+    "sampleAnswer": "Not in my creative agency gig – casual Fridays are eternal, fostering that free-flowing vibe. University flashbacks to polos and slacks feel like relics, now replaced by self-expressive threads.",
+    "sampleAnswerIpa": "/nɒt ɪn maɪ kriˈeɪtɪv ˈeɪdʒənsi dʒɪɡ ˈkæʒuəl ˈfraɪdeɪz ɑːr ɪˈtɜːnl ˈfɒstərɪŋ ðæt friː-ˈfləʊɪŋ vaɪb ˌjuːnɪˈvɜːsəti ˈflæʃbæks tuː ˈpəʊləʊz ənd slæks fiːl laɪk ˈrɛlɪks naʊ rɪˈpleɪst baɪ sɛlf-ɪkˈsprɛsɪv θrɛdz/",
+    "sampleAnswerTranslations": {
+      "vn": "Không trong công việc agency sáng tạo của tôi – thứ Sáu thoải mái là vĩnh cửu, nuôi dưỡng vibe tự do chảy. Hồi tưởng đại học với polo và quần tây như di vật, giờ thay bằng sợi chỉ tự biểu đạt.",
+      "kr": "제 크리에이티브 에이전시 일에는 없어요 – 캐주얼 프라이데이가 영원하고 자유로운 바이브를 키워줘요. 대학 플래시백의 폴로와 슬랙스는 유물처럼 느껴지고 이제 셀프 익스프레시브 옷으로 대체됐어요。",
+      "jp": "私のクリエイティブエージェンシーの仕事にはありません – カジュアルフライデーが永遠で、自由に流れるバイブを育てます。大学のフラッシュバックのポロとスラックスは遺物のように感じ、今は自己表現の糸に置き換えられました。"
+    },
+    "category": "Clothes"
+  },
+  {
+    "id": 96,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's the accessory that steals the show in your collection?",
+    "ipa": "/wɒts ði əkˈsesəri ðæt stiːlz ðə ʃəʊ ɪn jɔː kəˈlekʃn/",
+    "translations": {
+      "vn": "Phụ kiện nào nổi bật nhất trong bộ sưu tập của bạn?",
+      "kr": "컬렉션에서 가장 돋보이는 액세서리는 무엇인가요?",
+      "jp": "コレクションでショーを盗むアクセサリーは何ですか?"
+    },
+    "sampleAnswer": "Grandma's jade pendant – heirloom elegance with a story etched in every curve, it grounds my outfits in legacy. Worn for luck, it whispers wisdom across generations.",
+    "sampleAnswerIpa": "/ˈɡrændmɑːz dʒeɪd ˈpɛndənt ˈeəluːm ˈɛlɪɡəns wɪð ə ˈstɔːri ɛtʃt ɪn ˈɛvri kɜːv ɪt ɡraʊndz maɪ ˈaʊtfɪts ɪn ˈlɛɡəsi wɔːn fɔː lʌk ɪt ˈwɪspəz ˈwɪzdəm əˈkrɒs ˌdʒɛnəˈreɪʃnz/",
+    "sampleAnswerTranslations": {
+      "vn": "Mặt dây chuyền ngọc bích của bà – sự thanh lịch di sản với câu chuyện khắc trên mỗi đường cong, neo trang phục tôi trong truyền thống. Đeo cho may mắn, nó thì thầm trí tuệ qua các thế hệ.",
+      "kr": "할머니의 옥 펜던트예요 – 모든 곡선에 새겨진 이야기와 함께 가보 우아함으로 옷차림을 유산에 고정해줘요. 행운을 위해 착용하고 세대를 넘어 지혜를 속삭여요。",
+      "jp": "おばあちゃんの翡翠ペンダントです – すべての曲線に刻まれた物語と共の家宝の優雅さで、私の服装を遺産に接地します。運のために着け、世代を超えて叡智をささやきます。"
+    },
+    "category": "Accessories"
+  },
+  {
+    "id": 97,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do high heels hold any allure for your wardrobe?",
+    "ipa": "/duː haɪ hiːlz həʊld ˈeni əˈljʊər fɔː jɔː ˈwɔːdrəʊb/",
+    "translations": {
+      "vn": "Giày cao gót có sức hút gì với tủ quần áo của bạn không?",
+      "kr": "하이힐이 옷장에 매력이 있나요?",
+      "jp": "ハイヒールはあなたのワードローブに魅力を感じますか?"
+    },
+    "sampleAnswer": "Occasional enchantment – a strappy pair elongates lines for galas, infusing poise with peril. Daily flats win for freedom, but heels' click-clack confidence is a rare treat.",
+    "sampleAnswerIpa": "/əˈkeɪʒənl ɪnˈtʃɑːntmənt ə ˈstræpi peər ɪˈlɒŋɡeɪts laɪnz fɔː ˈɡæləz ɪnˈfjuːzɪŋ pɔɪz wɪð ˈpɛrɪl ˈdeɪli flæts wɪn fɔː ˈfriːdəm bʌt hiːlz klɪk-klæk ˈkɒnfɪdəns ɪz ə reə triːt/",
+    "sampleAnswerTranslations": {
+      "vn": "Phù phép thỉnh thoảng – đôi quai mảnh kéo dài đường nét cho gala, truyền đĩnh đạc kèm nguy hiểm. Giày bệt hàng ngày thắng nhờ tự do, nhưng tiếng click-clack tự tin của heels là món hiếm.",
+      "kr": "가끔의 마법이에요 – 스트래피 페어가 갈라에 라인을 길게 하고 위험과 함께 침착함을 주입해요. 일상 플랫이 자유로 이기지만 힐의 클릭클랙 자신감은 드문 대접이에요。",
+      "jp": "時々の魅惑です – ストラッピーペアがガラでラインを伸ばし、危険と共の落ち着きを注入します。日常のフラットが自由で勝ちますが、ヒールのカチカチ自信は稀なごちそうです。"
+    },
+    "category": "Shoes"
+  },
+  {
+    "id": 98,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What's your rhythm for investing in fresh wardrobe pieces?",
+    "ipa": "/wɒts jɔː ˈrɪðəm fɔː ɪnˈvestɪŋ ɪn freʃ ˈwɔːdrəʊb piːsɪz/",
+    "translations": {
+      "vn": "Nhịp điệu của bạn khi đầu tư vào món đồ tủ quần áo mới là gì?",
+      "kr": "새로운 옷에 투자하는 리듬은 무엇인가요?",
+      "jp": "ワードローブの新品に投資するリズムは何ですか?"
+    },
+    "sampleAnswer": "Seasonal infusions – sales signal sustainable splurges on versatile staples that transcend trends. It's curated evolution, ensuring my closet narrates growth, not excess.",
+    "sampleAnswerIpa": "/ˈsiːzənl ɪnˈfjuːʒnz seɪlz ˈsɪɡnəl səˈsteɪnəbl ˈsplɜːdʒɪz ɒn ˈvɜːsətaɪl ˈsteɪplz ðæt trænˈsɛnd trɛndz ɪts ˈkjʊəreɪtɪd ˌiːvəˈluːʃn ɪnˈʃʊərɪŋ maɪ ˈklɒzɪt ˈnærəts ɡrəʊθ nɒt ˈɛksɛs/",
+    "sampleAnswerTranslations": {
+      "vn": "Truyền theo mùa – sale báo hiệu chi tiêu bền vững vào món cơ bản linh hoạt vượt xu hướng. Đó là tiến hóa được tuyển chọn, đảm bảo tủ đồ kể câu chuyện trưởng thành, không thừa thãi.",
+      "kr": "시즌별 인퓨전이에요 – 세일이 트렌드를 초월하는 다재다능한 스테이플에 지속가능한 스플러지를 신호해요. 큐레이티드 에볼루션으로 옷장이 과잉이 아닌 성장을 서술하게 해줘요。",
+      "jp": "季節ごとの注入です – セールがトレンドを超える汎用性の高いステープルへの持続可能な散財を信号します。キュレーションされた進化で、クローゼットが過剰ではなく成長を語るようにします。"
+    },
+    "category": "Shopping"
+  }
+]

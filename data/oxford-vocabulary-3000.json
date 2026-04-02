@@ -1,0 +1,170 @@
+[
+  {
+    "word": "ability",
+    "ipa": "/əˈbɪləti/",
+    "definition": "The capacity or power to do something physical or mental",
+    "example": "She has the ability to learn quickly.",
+    "translations": { "vn": "Khả năng, năng lực", "kr": "능력", "jp": "能力" },
+    "level": "A1"
+  },
+  {
+    "word": "able",
+    "ipa": "/ˈeɪbəl/",
+    "definition": "Having the power, skill, means, or opportunity to do something",
+    "example": "He was able to read at the age of three.",
+    "translations": { "vn": "Có thể, có khả năng", "kr": "할 수 있는", "jp": "できる" },
+    "level": "A1"
+  },
+  {
+    "word": "about",
+    "ipa": "/əˈbaʊt/",
+    "definition": "On the subject of; concerning",
+    "example": "We talked about the weather.",
+    "translations": { "vn": "Về, liên quan đến", "kr": "~에 대해", "jp": "について" },
+    "level": "A1"
+  },
+  {
+    "word": "above",
+    "ipa": "/əˈbʌv/",
+    "definition": "In or to a higher position than something else",
+    "example": "The sun rose above the horizon.",
+    "translations": { "vn": "Ở trên, phía trên", "kr": "위에", "jp": "上に" },
+    "level": "A1"
+  },
+  {
+    "word": "abroad",
+    "ipa": "/əˈbrɔːd/",
+    "definition": "In or to a foreign country or countries",
+    "example": "She's living abroad now.",
+    "translations": { "vn": "Ở nước ngoài", "kr": "해외에", "jp": "海外で" },
+    "level": "A2"
+  },
+  {
+    "word": "absence",
+    "ipa": "/ˈæbsəns/",
+    "definition": "The state of being away from a place or person",
+    "example": "His absence was noted by the teacher.",
+    "translations": { "vn": "Sự vắng mặt", "kr": "부재", "jp": "不在" },
+    "level": "B1"
+  },
+  {
+    "word": "absolute",
+    "ipa": "/ˈæbsəluːt/",
+    "definition": "Complete; total; not mixed with anything else",
+    "example": "I have absolute confidence in her ability.",
+    "translations": { "vn": "Tuyệt đối, hoàn toàn", "kr": "절대적인", "jp": "絶対的な" },
+    "level": "B2"
+  },
+  {
+    "word": "absolutely",
+    "ipa": "/ˈæbsəluːtli/",
+    "definition": "Completely; totally",
+    "example": "You're absolutely right!",
+    "translations": { "vn": "Hoàn toàn, tuyệt đối", "kr": "절대적으로", "jp": "絶対に" },
+    "level": "B1"
+  },
+  {
+    "word": "absorb",
+    "ipa": "/əbˈsɔːb/",
+    "definition": "To take in or soak up a substance",
+    "example": "Plants absorb water through their roots.",
+    "translations": { "vn": "Hấp thụ, thu hút", "kr": "흡수하다", "jp": "吸収する" },
+    "level": "B2"
+  },
+  {
+    "word": "academic",
+    "ipa": "/ˌækəˈdemɪk/",
+    "definition": "Relating to education and scholarship",
+    "example": "She has excellent academic qualifications.",
+    "translations": { "vn": "Học thuật, thuộc về giáo dục", "kr": "학문의", "jp": "学問の" },
+    "level": "B1"
+  },
+  {
+    "word": "accept",
+    "ipa": "/əkˈsept/",
+    "definition": "To agree to receive or take something offered",
+    "example": "I accept your apology.",
+    "translations": { "vn": "Chấp nhận, đồng ý", "kr": "받아들이다", "jp": "受け入れる" },
+    "level": "A2"
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈækses/",
+    "definition": "The means or opportunity to approach or enter a place",
+    "example": "Students need access to the library.",
+    "translations": { "vn": "Quyền truy cập, lối vào", "kr": "접근", "jp": "アクセス" },
+    "level": "B1"
+  },
+  {
+    "word": "accident",
+    "ipa": "/ˈæksɪdənt/",
+    "definition": "An unfortunate incident that happens unexpectedly and unintentionally",
+    "example": "He was injured in a car accident.",
+    "translations": { "vn": "Tai nạn, sự cố", "kr": "사고", "jp": "事故" },
+    "level": "A2"
+  },
+  {
+    "word": "accompany",
+    "ipa": "/əˈkʌmpəni/",
+    "definition": "To go somewhere with someone",
+    "example": "I accompanied my friend to the station.",
+    "translations": { "vn": "Đi cùng, đồng hành", "kr": "동반하다", "jp": "同行する" },
+    "level": "B1"
+  },
+  {
+    "word": "accomplish",
+    "ipa": "/əˈkʌmplɪʃ/",
+    "definition": "To complete or achieve something successfully",
+    "example": "She accomplished her goals.",
+    "translations": { "vn": "Hoàn thành, đạt được", "kr": "성취하다", "jp": "達成する" },
+    "level": "B2"
+  },
+  {
+    "word": "according",
+    "ipa": "/əˈkɔːdɪŋ/",
+    "definition": "As stated by or in",
+    "example": "According to the weather forecast, it will rain.",
+    "translations": { "vn": "Theo như, căn cứ vào", "kr": "~에 따르면", "jp": "によれば" },
+    "level": "A2"
+  },
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "definition": "A record or statement of financial transactions",
+    "example": "I opened a bank account yesterday.",
+    "translations": { "vn": "Tài khoản, bản báo cáo", "kr": "계좌", "jp": "アカウント" },
+    "level": "B1"
+  },
+  {
+    "word": "accurate",
+    "ipa": "/ˈækjərət/",
+    "definition": "Correct in all details; exact",
+    "example": "The information is accurate and up to date.",
+    "translations": { "vn": "Chính xác, đúng đắn", "kr": "정확한", "jp": "正確な" },
+    "level": "B1"
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "definition": "To successfully reach a goal or complete something",
+    "example": "He achieved his ambition to become a doctor.",
+    "translations": { "vn": "Đạt được, thực hiện", "kr": "달성하다", "jp": "達成する" },
+    "level": "A2"
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/əkˈnɒlɪdʒ/",
+    "definition": "To accept or admit the existence or truth of something",
+    "example": "He acknowledged his mistake.",
+    "translations": { "vn": "Thừa nhận, công nhận", "kr": "인정하다", "jp": "認める" },
+    "level": "B2"
+  },
+  {
+    "word": "zealous",
+    "ipa": "/ˈzeləs/",
+    "definition": "Having or showing great energy or enthusiasm in pursuit of a cause or objective",
+    "example": "She was a zealous supporter of environmental protection.",
+    "translations": { "vn": "Nhiệt tình, nhiệt thành", "kr": "열성적인", "jp": "熱心な" },
+    "level": "C2"
+  }
+]

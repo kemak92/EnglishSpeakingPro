@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 401,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer to work for a large company while others prefer a small one. Which do you prefer? Use reasons and examples to support your opinion.",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr tuː wɜːk fɔːr ə lɑːrdʒ ˈkʌmpəni waɪl ˈʌðərz prɪˈfɜːr ə smɔːl wʌn wɪtʃ duː juː prɪˈfɜːr juːz ˈriːzənz ənd ɪɡˈzæmplz tuː səˈpɔːrt jɔːr əˈpɪnjən/",
+    "translations": {
+      "vn": "Một số người thích làm việc cho công ty lớn trong khi người khác thích công ty nhỏ. Bạn thích cái nào hơn? Sử dụng lý do và ví dụ để hỗ trợ ý kiến của bạn.",
+      "kr": "어떤 사람들은 대기업에서 일하는 것을 선호하고 다른 사람들은 소기업을 선호합니다. 당신은 어느 쪽을 선호하나요? 이유와 예시를 들어 의견을 뒷받침하세요.",
+      "jp": "一部の人は大企業で働くのを好み、他は小企業を好みます。どちらを好みますか？理由と例を挙げて意見を支持してください。"
+    },
+    "sampleAnswer": "I prefer working for a small company. First, there are more opportunities to take on diverse responsibilities and learn new skills quickly. For example, in my previous job at a startup with only 20 employees, I handled marketing, sales, and even some HR tasks, which helped me grow professionally much faster than in a big corporation. Second, the work environment is usually more flexible and friendly, with closer relationships among colleagues. Overall, small companies offer better chances for personal development and a sense of contribution.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈwɜːrkɪŋ fɔːr ə smɔːl ˈkʌmpəni fɜːrst ðɛr ɑːr mɔːr ˌɒpərˈtuːnətiz tuː teɪk ɒn daɪˈvɜːs rɪˌspɑːnsəˈbɪlətiz ənd lɜːn nuː skɪlz ˈkwɪkli fɔːr ɪɡˈzæmpl ɪn maɪ ˈpriːviəs dʒɒb æt ə ˈstɑːrtʌp wɪð ˈoʊnli ˈtwɛnti ɪmˈplɔɪiːz aɪ ˈhændld ˈmɑːrkɪtɪŋ seɪlz ənd ˈiːvn sʌm eɪtʃˈɑːr tæsks wɪtʃ hɛlpt miː ɡroʊ prəˈfɛʃənəli mʌtʃ ˈfæstər ðæn ɪn ə bɪɡ ˌkɔːrpəˈreɪʃən ˈsɛkənd ðə wɜːk ɪnˈvaɪrənmənt ɪz ˈjuːʒʊəli mɔːr ˈflɛksəbl ənd ˈfrɛndli wɪð ˈkloʊsər rɪˈleɪʃənʃɪps əˈmʌŋ kəˈliːɡz ˈoʊvərˈɔːl smɔːl ˈkʌmpəniz ˈɒfər ˈbɛtər tʃænsɪz fɔː ˈpɜːrsənl dɪˈvɛləpmənt ənd ə sɛns əv ˌkɒntrɪˈbjuːʃən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích làm việc cho công ty nhỏ hơn. Đầu tiên, có nhiều cơ hội đảm nhận trách nhiệm đa dạng và học kỹ năng mới nhanh chóng. Ví dụ, ở công việc trước tại startup chỉ 20 người, tôi xử lý marketing, bán hàng và thậm chí một số nhiệm vụ HR, giúp tôi phát triển nghề nghiệp nhanh hơn nhiều so với công ty lớn. Thứ hai, môi trường làm việc thường linh hoạt và thân thiện hơn, với mối quan hệ gần gũi giữa đồng nghiệp. Tổng thể, công ty nhỏ mang lại cơ hội phát triển cá nhân tốt hơn và cảm giác đóng góp.",
+      "kr": "저는 소기업에서 일하는 것을 선호합니다. 먼저, 다양한 책임을 맡고 새로운 기술을 빠르게 배울 기회가 더 많습니다. 예를 들어, 이전 스타트업에서 20명밖에 안 되는 직원과 함께 마케팅, 영업, 심지어 일부 HR 업무를 처리하면서 대기업보다 훨씬 빠르게 전문적으로 성장했습니다. 둘째, 작업 환경이 더 유연하고 친근하며 동료 간 관계가 가까워집니다. 전체적으로 소기업은 개인 발전과 기여감에 더 나은 기회를 제공합니다.",
+      "jp": "私は小企業で働く方を好みます。まず、多様な責任を担い、新しいスキルを迅速に学べる機会が多いです。例えば、前のスタートアップで社員20人しかいない中でマーケティング、営業、さらには一部のHR業務を扱い、大企業よりはるかに速く専門的に成長できました。二番目に、仕事環境がより柔軟で友好的で、同僚間の関係が近いです。全体的に、小企業は個人発展と貢献感に良い機会を提供します。"
+    },
+    "category": "Work Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 402,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you agree or disagree with the statement that technology has made our lives more complicated rather than simpler?",
+    "ipa": "/duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː wɪð ðə ˈsteɪtmənt ðæt tɛkˈnɑːlədʒi hæz meɪd aʊər laɪvz mɔːr ˈkɒmplɪkeɪtɪd ˈræðər ðæn ˈsɪmplər/",
+    "translations": {
+      "vn": "Bạn đồng ý hay không đồng ý với ý kiến rằng công nghệ đã làm cuộc sống của chúng ta phức tạp hơn thay vì đơn giản hơn?",
+      "kr": "기술이 우리의 삶을 더 단순하게 만드는 대신 더 복잡하게 만들었다는 주장에 동의하시나요 아니면 반대하시나요?",
+      "jp": "技術が私たちの生活をよりシンプルにするのではなく、より複雑にしたという主張に同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree with the statement that technology has made our lives more complicated. First, it has greatly simplified daily tasks, such as communication and information access. For instance, with smartphones and apps like email or video calls, I can instantly connect with family abroad without expensive long-distance calls. Second, technology saves time in work and household chores through automation, like online banking or smart home devices. Overall, while there are some challenges like information overload, the benefits far outweigh them, making life easier and more efficient.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː wɪð ðə ˈsteɪtmənt ðæt tɛkˈnɑːlədʒi hæz meɪd aʊər laɪvz mɔːr ˈkɒmplɪkeɪtɪd fɜːrst ɪt hæz ˈɡreɪtli ˈsɪmplɪfaɪd ˈdeɪli tæsks sʌtʃ æz ˌkɒmjʊnɪˈkeɪʃən ənd ˌɪnfərˈmeɪʃən ˈæksɛs fɔːr ˈɪnstəns wɪð ˈsmɑːrtfoʊnz ənd æps laɪk ˈiːmeɪl ɔːr ˈvɪdioʊ kɔːlz aɪ kæn ˈɪnstəntli kəˈnɛkt wɪð ˈfæməli əˈbrɔːd wɪˈðaʊt ɪkˈspɛnsɪv lɔːŋ ˈdɪstəns kɔːlz ˈsɛkənd tɛkˈnɑːlədʒi seɪvz taɪm ɪn wɜːk ənd ˈhaʊshoʊld tʃɔːrz θruː ˌɔːtəˈmeɪʃən laɪk ɒnˈlaɪn ˈbæŋkɪŋ ɔːr smɑːrt hoʊm dɪˈvaɪsɪz ˈoʊvərˈɔːl waɪl ðɛr ɑːr sʌm ˈtʃælɪndʒɪz laɪk ˌɪnfərˈmeɪʃən ˈoʊvərloʊd ðə ˈbɛnɪfɪts fɑːr aʊtˈweɪ ðɛm ˈmeɪkɪŋ laɪf ˈiːziər ənd mɔːr ɪˈfɪʃənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý với ý kiến rằng công nghệ làm cuộc sống phức tạp hơn. Đầu tiên, nó đã đơn giản hóa rất nhiều nhiệm vụ hàng ngày như giao tiếp và tiếp cận thông tin. Ví dụ, với smartphone và app như email hay gọi video, tôi có thể kết nối ngay lập tức với gia đình ở nước ngoài mà không tốn kém cuộc gọi đường dài. Thứ hai, công nghệ tiết kiệm thời gian trong công việc và việc nhà qua tự động hóa, như ngân hàng trực tuyến hay thiết bị nhà thông minh. Tổng thể, dù có thách thức như quá tải thông tin, lợi ích vượt trội hơn nhiều, làm cuộc sống dễ dàng và hiệu quả hơn.",
+      "kr": "기술이 삶을 더 복잡하게 만들었다는 주장에 동의하지 않습니다. 먼저, 통신과 정보 접근 같은 일상 작업을 크게 단순화했습니다. 예를 들어 스마트폰과 이메일이나 화상 통화 앱으로 해외 가족과 즉시 연결할 수 있어 비싼 장거리 통화가 필요 없습니다. 둘째, 온라인 뱅킹이나 스마트 홈 기기 같은 자동화를 통해 작업과 가사 시간을 절약합니다. 전체적으로 정보 과부하 같은 도전이 있지만 이점들이 훨씬 크며 삶을 더 쉽고 효율적으로 만듭니다.",
+      "jp": "技術が生活をより複雑にしたという主張には反対です。まず、通信や情報アクセスなどの日常タスクを大きく簡素化しました。例えば、スマホとメールやビデオ通話アプリで海外の家族と即座に繋がれ、高額な長距離通話が不要です。二番目に、オンラインバンキングやスマートホームデバイスなどの自動化で仕事と家事の時間を節約します。全体的に情報過多などの課題はあるものの、利点がはるかに上回り、生活をより簡単で効率的にします。"
+    },
+    "category": "Technology Impact",
+    "speakTime": 60
+  },
+  {
+    "id": 403,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Many people believe that traveling abroad is the best way to learn about other cultures. Do you agree or disagree with this opinion?",
+    "ipa": "/ˈmɛni ˈpiːpəl bɪˈliːv ðæt ˈtrævəlɪŋ əˈbrɔːd ɪz ðə bɛst weɪ tuː lɜːn əˈbaʊt ˈʌðər ˈkʌltʃərz duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː wɪð ðɪs əˈpɪnjən/",
+    "translations": {
+      "vn": "Nhiều người tin rằng du lịch nước ngoài là cách tốt nhất để học về văn hóa khác. Bạn đồng ý hay không đồng ý với ý kiến này?",
+      "kr": "많은 사람들이 해외 여행이 다른 문화를 배우는 가장 좋은 방법이라고 믿습니다. 이 의견에 동의하시나요 아니면 반대하시나요?",
+      "jp": "多くの人が海外旅行が他の文化を学ぶ最良の方法だと信じています。この意見に同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I agree that traveling abroad is one of the best ways to learn about other cultures. First, it allows direct immersion and real-life experiences that books or videos can't provide. For example, when I visited Japan last year, trying local food, participating in tea ceremonies, and observing daily customs gave me deep insights into their values of respect and harmony. Second, interacting with locals helps break stereotypes and build empathy. Although online resources are useful, nothing compares to firsthand experiences. Therefore, traveling abroad truly enriches cultural understanding.",
+    "sampleAnswerIpa": "/aɪ əˈɡriː ðæt ˈtrævəlɪŋ əˈbrɔːd ɪz wʌn əv ðə bɛst weɪz tuː lɜːn əˈbaʊt ˈʌðər ˈkʌltʃərz fɜːrst ɪt əˈlaʊz dɪˈrɛkt ɪˈmɜːrʒən ənd rɪəl laɪf ɪkˈspɪəriənsɪz ðæt bʊks ɔːr ˈvɪdioʊz kænt prəˈvaɪd fɔːr ɪɡˈzæmpl wɛn aɪ ˈvɪzɪtɪd dʒəˈpæn lɑːst jɪr ˈtraɪɪŋ ˈloʊkəl fuːd ˌpɑːrtɪsɪˈpeɪtɪŋ ɪn tiː ˈsɛrəmoʊniz ənd əbˈzɜːrvɪŋ ˈdeɪli ˈkʌstəmz ɡeɪv miː diːp ˈɪnsaɪts ˈɪntuː ðɛr ˈvæljuːz əv rɪˈspɛkt ənd ˈhɑːrməni ˈsɛkənd ˌɪntərˈæktɪŋ wɪð ˈloʊkəlz hɛlps breɪk ˈstɛriətaɪps ənd bɪld ˈɛmpəθi ɔːlˈðoʊ ɒnˈlaɪn rɪˈsɔːrsɪz ɑːr ˈjuːsfəl ˈnʌθɪŋ kəmˈpɛərz tuː ˈfɜːrsthænd ɪkˈspɪəriənsɪz ˈðɛərfɔːr ˈtrævəlɪŋ əˈbrɔːd ˈtruːli ɪnˈrɪtʃɪz ˈkʌltʃərəl ˌʌndərˈstændɪŋ/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý rằng du lịch nước ngoài là một trong những cách tốt nhất để học về văn hóa khác. Đầu tiên, nó cho phép trải nghiệm trực tiếp mà sách vở hay video không thể cung cấp. Ví dụ, khi thăm Nhật Bản năm ngoái, thử đồ ăn địa phương, tham gia lễ trà và quan sát phong tục hàng ngày giúp tôi hiểu sâu về giá trị tôn trọng và hài hòa của họ. Thứ hai, giao tiếp với người bản địa giúp phá bỏ định kiến và xây dựng sự đồng cảm. Dù tài nguyên trực tuyến hữu ích, không gì sánh bằng trải nghiệm thực tế. Vì vậy, du lịch nước ngoài thực sự làm phong phú hiểu biết văn hóa.",
+      "kr": "해외 여행이 다른 문화를 배우는 가장 좋은 방법 중 하나라는 데 동의합니다. 먼저, 책이나 비디오가 제공할 수 없는 직접 몰입과 실생활 경험을 허용합니다. 예를 들어 작년 일본 방문에서 현지 음식을 먹고 다도에 참여하며 일상 관습을 관찰해 존중과 조화의 가치를 깊이 이해했습니다. 둘째, 현지인과의 상호작용이 고정관념을 깨고 공감을 쌓는 데 도움이 됩니다. 온라인 자원이 유용하지만 직접 경험에 비교할 수 없습니다. 따라서 해외 여행은 문화 이해를 진정 풍부하게 합니다.",
+      "jp": "海外旅行が他の文化を学ぶ最良の方法の一つだと同意します。まず、本やビデオでは提供できない直接的な没入と実生活体験を可能にします。例えば、去年日本を訪れた時、地元料理を試したり茶道に参加したり日常の習慣を観察したりして、敬意と調和の価値を深く理解できました。二番目に、地元の人々との交流がステレオタイプを壊し共感を築きます。オンライン資源は有用ですが、直接体験に匹敵するものはありません。因此、海外旅行は文化理解を本当に豊かにします。"
+    },
+    "category": "Travel & Culture",
+    "speakTime": 60
+  },
+  {
+    "id": 404,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that physical exercise should be mandatory in schools every day. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈfɪzɪkl ˈɛksəsaɪz ʃʊd biː ˈmændətəri ɪn skuːlz ˈɛvri deɪ duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng tập thể dục nên là bắt buộc ở trường học hàng ngày. Bạn đồng ý hay không?",
+      "kr": "어떤 사람들은 학교에서 매일 신체 운동이 의무적이어야 한다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は学校で毎日身体運動を義務化すべきだと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I strongly agree that physical exercise should be mandatory in schools every day. First, it promotes better health and reduces obesity risks among children in an increasingly sedentary world. For example, daily PE classes help students build habits of staying active, improving concentration and academic performance. Second, it teaches teamwork and discipline through sports. In my school days, regular exercise sessions reduced stress and made learning more enjoyable. Therefore, making it mandatory would benefit students' physical and mental well-being long-term.",
+    "sampleAnswerIpa": "/aɪ ˈstrɒŋli əˈɡriː ðæt ˈfɪzɪkl ˈɛksəsaɪz ʃʊd biː ˈmændətəri ɪn skuːlz ˈɛvri deɪ fɜːrst ɪt prəˈmoʊts ˈbɛtər hɛlθ ənd rɪˈduːsɪz oʊˈbiːsəti rɪsks əˈmʌŋ ˈtʃɪldrən ɪn ən ɪnˈkriːsɪŋli ˈsɛdənˌtɛri wɜːrld fɔːr ɪɡˈzæmpl ˈdeɪli piː iː ˈklæsɪz hɛlp ˈstuːdənts bɪld ˈhæbɪts əv ˈsteɪɪŋ ˈæktɪv ɪmˈpruːvɪŋ ˌkɒnsənˈtreɪʃən ənd ˌækəˈdɛmɪk pəˈfɔːməns ˈsɛkənd ɪt tiːtʃɪz ˈtiːmwɜːk ənd ˈdɪsɪplɪn θruː spɔːrts ɪn maɪ skuːl deɪz ˈrɛɡjələr ˈɛksəsaɪz ˈsɛʃənz rɪˈduːst strɛs ənd meɪd ˈlɜːnɪŋ mɔːr ɪnˈdʒɔɪəbl ˈðɛərfɔːr ˈmeɪkɪŋ ɪt ˈmændətəri wʊd ˈbɛnɪfɪt ˈstuːdənts ˈfɪzɪkl ənd ˈmɛntl wɛl ˈbiːɪŋ lɔːŋ tɜːm/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng tập thể dục nên bắt buộc ở trường hàng ngày. Đầu tiên, nó thúc đẩy sức khỏe tốt hơn và giảm nguy cơ béo phì ở trẻ em trong thế giới ngày càng ít vận động. Ví dụ, giờ thể dục hàng ngày giúp học sinh xây dựng thói quen hoạt động, cải thiện tập trung và thành tích học tập. Thứ hai, nó dạy làm việc nhóm và kỷ luật qua thể thao. Thời đi học của tôi, các buổi tập đều đặn giảm stress và làm học tập vui hơn. Vì vậy, bắt buộc sẽ mang lợi ích lâu dài cho sức khỏe thể chất và tinh thần học sinh.",
+      "kr": "학교에서 매일 신체 운동을 의무화해야 한다는 데 강력히 동의합니다. 먼저, 점점 앉아서 생활하는 세상에서 어린이의 건강을 촉진하고 비만 위험을 줄입니다. 예를 들어 매일 체육 수업은 학생들이 활동적인 습관을 들이고 집중력과 학업 성과를 향상시킵니다. 둘째, 스포츠를 통해 팀워크와 규율을 가르칩니다. 제 학창 시절 정기 운동 세션이 스트레스를 줄이고 학습을 더 즐겁게 만들었습니다. 따라서 의무화는 학생들의 신체적·정신적 웰빙에 장기적으로 이익이 됩니다.",
+      "jp": "学校で毎日身体運動を義務化すべきだと強く同意します。まず、ますます座りがちな世界で子供たちの健康を促進し肥満リスクを減らします。例えば、毎日の体育授業は生徒が活動的な習慣を築き、集中力と学業成績を向上させます。二番目に、スポーツを通じてチームワークと規律を教えます。私の学生時代、定期的な運動セッションがストレスを減らし学習をより楽しくしました。因此、義務化は生徒の身体的・精神的ウェルビーイングに長期的に利益をもたらします。"
+    },
+    "category": "Education & Health",
+    "speakTime": 60
+  },
+  {
+    "id": 405,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think governments should invest more in public transportation rather than building new roads?",
+    "ipa": "/duː juː θɪŋk ˈɡʌvərnmənts ʃʊd ɪnˈvɛst mɔːr ɪn ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈræðər ðæn ˈbɪldɪŋ nuː roʊdz/",
+    "translations": {
+      "vn": "Bạn có nghĩ chính phủ nên đầu tư nhiều hơn vào giao thông công cộng thay vì xây đường mới không?",
+      "kr": "정부가 새로운 도로 건설 대신 대중교통에 더 많이 투자해야 한다고 생각하시나요?",
+      "jp": "政府は新しい道路建設ではなく公共交通に多く投資すべきだと思いますか？"
+    },
+    "sampleAnswer": "Yes, I believe governments should prioritize investing in public transportation over new roads. First, it helps reduce traffic congestion and air pollution in crowded cities. For example, expanding subway systems or bus networks encourages people to leave cars at home, leading to cleaner air and less gridlock. Second, it's more cost-effective long-term and accessible for low-income groups who can't afford vehicles. In my city, improved trains have made commuting faster and cheaper. Therefore, focusing on public transport promotes sustainability and equality.",
+    "sampleAnswerIpa": "/jɛs aɪ bɪˈliːv ˈɡʌvərnmənts ʃʊd praɪˈɔːrətaɪz ɪnˈvɛstɪŋ ɪn ˈpʌblɪk ˌtrænspɔːrˈteɪʃən ˈoʊvə nuː roʊdz fɜːrst ɪt hɛlps rɪˈduːs ˈtræfɪk kənˈdʒɛstʃən ənd ɛr pəˈluːʃən ɪn ˈkraʊdɪd ˈsɪtiz fɔːr ɪɡˈzæmpl ɪkˈspændɪŋ ˈsʌbweɪ ˈsɪstəmz ɔːr bʌs ˈnɛtwɜːrks ɪnˈkʌrɪdʒɪz ˈpiːpəl tuː liːv kɑːrz æt hoʊm ˈliːdɪŋ tuː ˈkliːnər ɛr ənd lɛs ˈɡrɪdlɒk ˈsɛkənd ɪts mɔːr kɒst ɪˈfɛktɪv lɔːŋ tɜːm ənd ˌæksɛˈsəbl fɔːr loʊ ˈɪnkʌm ɡruːps huː kænt əˈfɔːrd ˈviːɪklz ɪn maɪ ˈsɪti ɪmˈpruːvd treɪnz hæv meɪd kəˈmjuːtɪŋ ˈfæstər ənd ˈtʃiːpər ˈðɛərfɔːr ˈfoʊkəsɪŋ ɒn ˈpʌblɪk ˈtrænspɔːrt prəˈmoʊts səˌsteɪnəˈbɪləti ənd iˈkwɒləti/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi tin chính phủ nên ưu tiên đầu tư giao thông công cộng hơn xây đường mới. Đầu tiên, nó giúp giảm tắc nghẽn và ô nhiễm không khí ở thành phố đông đúc. Ví dụ, mở rộng tàu điện ngầm hay mạng xe buýt khuyến khích bỏ xe hơi ở nhà, dẫn đến không khí sạch hơn và ít ùn tắc. Thứ hai, nó hiệu quả chi phí lâu dài và dễ tiếp cận cho nhóm thu nhập thấp không mua nổi xe. Ở thành phố tôi, tàu cải thiện làm di chuyển nhanh và rẻ hơn. Vì vậy, tập trung giao thông công cộng thúc đẩy bền vững và bình đẳng.",
+      "kr": "네, 정부가 새로운 도로 대신 대중교통에 우선 투자해야 한다고 믿습니다. 먼저, 혼잡한 도시에서 교통 체증과 대기 오염을 줄이는 데 도움이 됩니다. 예를 들어 지하철 시스템이나 버스 네트워크 확장은 사람들이 차를 집에 두고 다니게 장려하여 더 깨끗한 공기와 덜한 정체를 가져옵니다. 둘째, 장기적으로 비용 효율적이며 차를 살 수 없는 저소득층에게 접근하기 쉽습니다. 제 도시에서 개선된 기차는 통근을 더 빠르고 저렴하게 만들었습니다. 따라서 대중교통에 집중하면 지속 가능성과 평등을 촉진합니다.",
+      "jp": "はい、政府は新しい道路より公共交通に優先投資すべきだと思います。まず、混雑した都市で交通渋滞と大気汚染を減らすのに役立ちます。例えば、地下鉄システムやバスネットワークの拡大は人々が車を家に置いて出かけるのを奨励し、よりきれいな空気と少ない渋滞をもたらします。二番目に、長期的にコスト効果が高く、車両を買えない低所得層にアクセスしやすいです。私の都市で改善された電車は通勤を速く安くしました。因此、公共交通に焦点を当てると持続可能性と平等を促進します。"
+    },
+    "category": "Environment & Transportation",
+    "speakTime": 60
+  },
+  {
+    "id": 406,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people believe that regular exercise is more important than a healthy diet for maintaining good health. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl bɪˈliːv ðæt ˈrɛɡjələr ˈɛksəsaɪz ɪz mɔːr ɪmˈpɔːtənt ðæn ə ˈhɛlθi ˈdaɪət fɔː meɪnˈteɪnɪŋ ɡʊd hɛlθ duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người tin rằng tập thể dục đều đặn quan trọng hơn chế độ ăn lành mạnh để duy trì sức khỏe tốt. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 건강한 식단보다 규칙적인 운동이 좋은 건강 유지에 더 중요하다고 믿습니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は健康的な食事より定期的な運動が良い健康維持に重要だと信じています。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree because a healthy diet is more fundamental than regular exercise for long-term health. First, what we eat directly affects energy levels, organ function, and disease prevention. For example, a diet rich in fruits and vegetables reduces the risk of heart disease and diabetes more effectively than exercise alone. Second, poor nutrition can undermine exercise benefits, leading to fatigue or injury. While exercise is important, without proper diet, it’s less effective. Therefore, balanced nutrition should be the priority.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː bɪˈkɒz ə ˈhɛlθi ˈdaɪət ɪz mɔːr ˌfʌndəˈmɛntl ðæn ˈrɛɡjələr ˈɛksəsaɪz fɔːr lɔːŋ tɜːm hɛlθ fɜːrst wɒt wiː iːt dɪˈrɛktli əˈfɛkts ˈɛnərdʒi ˈlɛvlz ˈɔːrɡən ˈfʌŋkʃən ənd dɪˈziːz prɪˈvɛnʃən fɔːr ɪɡˈzæmpl ə ˈdaɪət rɪtʃ ɪn fruːts ənd ˈvɛdʒtəblz rɪˈduːsɪz ðə rɪsk əv hɑːrt dɪˈziːz ənd ˌdaɪəˈbiːtiːz mɔːr ɪˈfɛktɪvli ðæn ˈɛksəsaɪz əˈloʊn ˈsɛkənd pʊr nuːˈtrɪʃən kæn ˌʌndərˈmaɪn ˈɛksəsaɪz ˈbɛnɪfɪts ˈliːdɪŋ tuː fəˈtiːɡ ɔːr ˈɪndʒəri waɪl ˈɛksəsaɪz ɪz ɪmˈpɔːtənt wɪˈðaʊt ˈprɒpər ˈdaɪət ɪts lɛs ɪˈfɛktɪv ˈðɛərfɔːr ˈbælənst nuːˈtrɪʃən ʃʊd biː ðə praɪˈɔːrəti/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý vì chế độ ăn lành mạnh cơ bản hơn tập thể dục cho sức khỏe lâu dài. Đầu tiên, ăn uống ảnh hưởng trực tiếp năng lượng, chức năng cơ quan và phòng bệnh. Ví dụ, chế độ giàu trái cây rau củ giảm nguy cơ bệnh tim và tiểu đường hiệu quả hơn chỉ tập thể dục. Thứ hai, dinh dưỡng kém làm giảm lợi ích tập luyện, gây mệt mỏi hoặc chấn thương. Dù tập luyện quan trọng, thiếu ăn đúng thì kém hiệu quả. Vì vậy, dinh dưỡng cân bằng nên ưu tiên.",
+      "kr": "건강한 식단이 규칙적인 운동보다 장기 건강에 더 기본적이기 때문에 동의하지 않습니다. 먼저, 먹는 것이 에너지 수준, 장기 기능, 질병 예방에 직접 영향을 미칩니다. 예를 들어 과일과 채소가 풍부한 식단은 운동만 하는 것보다 심장병과 당뇨 위험을 더 효과적으로 줄입니다. 둘째, 나쁜 영양은 운동 이점을 약화시켜 피로나 부상을 초래합니다. 운동이 중요하지만 적절한 식단 없이는 덜 효과적입니다. 따라서 균형 잡힌 영양이 우선되어야 합니다.",
+      "jp": "健康的な食事の方が定期的な運動より長期健康に基本的だから反対です。まず、食べるものがエネルギー、臓器機能、病気予防に直接影響します。例えば、果物と野菜豊富な食事は運動だけより心臓病と糖尿病リスクを効果的に減らします。二番目に、悪い栄養は運動利益を損ない疲労や怪我を招きます。運動は重要ですが適切な食事なしでは効果が低いです。因此、バランス栄養が優先されるべきです。"
+    },
+    "category": "Health & Diet",
+    "speakTime": 60
+  },
+  {
+    "id": 407,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think online learning can completely replace traditional classroom education in the future?",
+    "ipa": "/duː juː θɪŋk ɒnˈlaɪn ˈlɜːnɪŋ kæn kəmˈpliːtli rɪˈpleɪs trəˈdɪʃənl ˈklæsruːm ˌɛdʒuˈkeɪʃən ɪn ðə ˈfjuːtʃər/",
+    "translations": {
+      "vn": "Bạn có nghĩ học trực tuyến có thể hoàn toàn thay thế giáo dục lớp học truyền thống trong tương lai không?",
+      "kr": "온라인 학습이 미래에 전통적인 교실 교육을 완전히 대체할 수 있다고 생각하시나요?",
+      "jp": "オンライン学習が将来、伝統的な教室教育を完全に置き換えられると思いますか？"
+    },
+    "sampleAnswer": "I don’t think online learning can completely replace traditional classroom education. First, classrooms provide essential social interaction and immediate feedback from teachers. For example, group discussions and hands-on activities build teamwork and critical thinking better in person. Second, many students need the structured environment of a classroom to stay motivated and focused. While online learning is flexible and accessible, it lacks the personal connection and discipline of face-to-face teaching. Therefore, a hybrid model combining both would be more effective in the future.",
+    "sampleAnswerIpa": "/aɪ doʊnt θɪŋk ɒnˈlaɪn ˈlɜːnɪŋ kæn kəmˈpliːtli rɪˈpleɪs trəˈdɪʃənl ˈklæsruːm ˌɛdʒuˈkeɪʃən fɜːrst ˈklæsruːmz prəˈvaɪd ɪˈsɛnʃəl ˈsoʊʃəl ˌɪntərˈækʃən ənd ɪˈmiːdiət ˈfiːdbæk frɑːm ˈtiːtʃərz fɔːr ɪɡˈzæmpl ɡruːp dɪˈskʌʃənz ənd ˈhændz ɒn ækˈtɪvətiz bɪld ˈtiːmwɜːk ənd ˈkrɪtɪkl ˈθɪŋkɪŋ ˈbɛtər ɪn ˈpɜːrsən ˈsɛkənd ˈmɛni ˈstuːdənts niːd ðə ˈstrʌktʃərd ɪnˈvaɪrənmənt əv ə ˈklæsruːm tuː steɪ ˈmoʊtɪveɪtɪd ənd ˈfoʊkəst waɪl ɒnˈlaɪn ˈlɜːnɪŋ ɪz ˈflɛksəbl ənd ˌæksɛˈsəbl ɪt læks ðə ˈpɜːrsənl kəˈnɛkʃən ənd ˈdɪsɪplɪn əv feɪs tuː feɪs ˈtiːtʃɪŋ ˈðɛərfɔːr ə ˈhaɪbrɪd ˈmɒdl kəmˈbaɪnɪŋ boʊθ wʊd biː mɔːr ɪˈfɛktɪv ɪn ðə ˈfjuːtʃər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không nghĩ học trực tuyến có thể thay thế hoàn toàn giáo dục lớp học truyền thống. Đầu tiên, lớp học cung cấp tương tác xã hội thiết yếu và phản hồi ngay từ giáo viên. Ví dụ, thảo luận nhóm và hoạt động thực hành xây dựng làm việc nhóm và tư duy phê phán tốt hơn khi gặp mặt. Thứ hai, nhiều học sinh cần môi trường có cấu trúc để duy trì động lực và tập trung. Dù học trực tuyến linh hoạt và dễ tiếp cận, nó thiếu kết nối cá nhân và kỷ luật của dạy trực tiếp. Vì vậy, mô hình kết hợp cả hai sẽ hiệu quả hơn trong tương lai.",
+      "kr": "온라인 학습이 전통적인 교실 교육을 완전히 대체할 수 있다고 생각하지 않습니다. 먼저, 교실은 교사로부터의 즉각적인 피드백과 필수적인 사회적 상호작용을 제공합니다. 예를 들어 그룹 토론과 실습 활동은 대면에서 팀워크와 비판적 사고를 더 잘 구축합니다. 둘째, 많은 학생들이 동기와 집중을 유지하기 위해 교실의 구조화된 환경이 필요합니다. 온라인 학습은 유연하고 접근하기 쉽지만 대면 교육의 개인적 연결과 규율이 부족합니다. 따라서 둘을 결합한 하이브리드 모델이 미래에 더 효과적일 것입니다.",
+      "jp": "オンライン学習が伝統的な教室教育を完全に置き換えられるとは思いません。まず、教室は教師からの即時フィードバックと重要な社会的交流を提供します。例えば、グループディスカッションと実践活動は対面でチームワークと批判的思考をより良く築きます。二番目に、多くの生徒が動機と集中を保つために教室の構造化された環境が必要です。オンライン学習は柔軟でアクセスしやすいですが、対面教育の個人的つながりと規律が欠けています。因此、両方を組み合わせたハイブリッドモデルが将来より効果的です。"
+    },
+    "category": "Education & Technology",
+    "speakTime": 60
+  },
+  {
+    "id": 408,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people say that watching movies at home is better than going to the cinema. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl seɪ ðæt ˈwɒtʃɪŋ ˈmuːviz æt hoʊm ɪz ˈbɛtər ðæn ˈɡoʊɪŋ tuː ðə ˈsɪnəmə duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nói rằng xem phim ở nhà tốt hơn đi xem rạp. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 영화관 가는 것보다 집에서 영화 보는 것이 더 좋다고 합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は映画館に行くより家で映画を見る方が良いと言います。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I partially agree that watching movies at home can be better in some ways. First, it’s more convenient and cost-effective; you can pause, rewind, and enjoy snacks from your kitchen. For example, during family movie nights, we watch comfortably on the couch without expensive tickets. However, cinemas offer a superior experience with big screens, surround sound, and the exciting atmosphere that enhances thrillers or blockbusters. Overall, home viewing is great for relaxation, but cinemas are unbeatable for immersion.",
+    "sampleAnswerIpa": "/aɪ ˈpɑːʃəli əˈɡriː ðæt ˈwɒtʃɪŋ ˈmuːviz æt hoʊm kæn biː ˈbɛtər ɪn sʌm weɪz fɜːrst ɪts mɔːr kənˈviːniənt ənd kɒst ɪˈfɛktɪv juː kæn pɔːz rɪˈwaɪnd ənd ɪnˈdʒɔɪ snæks frɑːm jɔːr ˈkɪtʃɪn fɔːr ɪɡˈzæmpl ˈdjʊərɪŋ ˈfæməli ˈmuːvi naɪts wiː wɒtʃ ˈkʌmfətəbli ɒn ðə kaʊtʃ wɪˈðaʊt ɪkˈspɛnsɪv ˈtɪkɪts haʊˈɛvər ˈsɪnəməz ˈɒfər ə səˈpɪriər ɪkˈspɪəriəns wɪð bɪɡ skriːnz səˈraʊnd saʊnd ənd ði ɪkˈsaɪtɪŋ ˈætməsfɪr ðæt ɪnˈhænsɪz ˈθrɪlərz ɔːr blɒkˈbʌstərz ˈoʊvərˈɔːl hoʊm ˈvjuːɪŋ ɪz ɡreɪt fɔːr rɪˌlækˈseɪʃən bʌt ˈsɪnəməz ɑːr ʌnˈbiːtəbl fɔːr ɪˈmɜːrʒən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý một phần rằng xem phim ở nhà có thể tốt hơn ở một số khía cạnh. Đầu tiên, tiện lợi và tiết kiệm chi phí; bạn có thể tạm dừng, tua lại và ăn đồ ăn bếp nhà. Ví dụ, tối phim gia đình, chúng tôi xem thoải mái trên ghế sofa mà không tốn vé đắt. Tuy nhiên, rạp chiếu mang trải nghiệm vượt trội với màn hình lớn, âm thanh vòm và không khí hào hứng tăng cường phim hành động. Tổng thể, xem nhà tuyệt cho thư giãn, nhưng rạp không thể đánh bại về sự đắm chìm.",
+      "kr": "집에서 영화 보는 것이 어떤 면에서 더 좋다는 데 부분적으로 동의합니다. 먼저, 편리하고 비용 효율적입니다; 일시정지, 되감기, 부엌 간식을 즐길 수 있습니다. 예를 들어 가족 영화의 밤에 비싼 티켓 없이 소파에서 편안히 봅니다. 그러나 영화관은 큰 화면, 서라운드 사운드, 스릴러나 블록버스터를 향상시키는 흥미로운 분위기를 제공합니다. 전체적으로 집 관람은 휴식에 좋지만 몰입감에서 영화관이 최고입니다.",
+      "jp": "家で映画を見る方がいくつか良い点があるというのに部分的に同意します。まず、便利でコスト効果的です；一時停止、巻き戻し、キッチンのスナックを楽しめます。例えば、家族映画の夜に高いチケットなしでソファで快適に見ます。しかし、映画館は大画面、サラウンドサウンド、スリラーやブロックバスターを高めるエキサイティングな雰囲気を提供します。全体的に、家視聴はリラクゼーションに最適ですが、没入感では映画館が無敵です。"
+    },
+    "category": "Entertainment",
+    "speakTime": 60
+  },
+  {
+    "id": 409,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think fast food restaurants should be banned to improve public health?",
+    "ipa": "/duː juː θɪŋk fæst fuːd ˈrɛstərɑːnts ʃʊd biː bænd tuː ɪmˈpruːv ˈpʌblɪk hɛlθ/",
+    "translations": {
+      "vn": "Bạn có nghĩ nên cấm nhà hàng thức ăn nhanh để cải thiện sức khỏe cộng đồng không?",
+      "kr": "공중 보건 개선을 위해 패스트푸드 레스토랑을 금지해야 한다고 생각하시나요?",
+      "jp": "公衆衛生向上のためファストフードレストランを禁止すべきだと思いますか？"
+    },
+    "sampleAnswer": "I disagree with banning fast food restaurants entirely. First, personal choice and responsibility play a bigger role in health than restrictions. For example, people can enjoy fast food occasionally as part of a balanced diet without harm. Second, bans limit freedom and economic impact on jobs. Instead, education on nutrition and healthier menu options would be more effective. Governments should promote awareness rather than prohibition to encourage better habits while respecting individual rights.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː wɪð ˈbænɪŋ fæst fuːd ˈrɛstərɑːnts ɪnˈtaɪərli fɜːrst ˈpɜːrsənl tʃɔɪs ənd rɪˌspɑːnsəˈbɪləti pleɪ ə ˈbɪɡər roʊl ɪn hɛlθ ðæn rɪˈstrɪkʃənz fɔːr ɪɡˈzæmpl ˈpiːpəl kæn ɪnˈdʒɔɪ fæst fuːd əˈkeɪʒənəli æz pɑːrt əv ə ˈbælənst ˈdaɪət wɪˈðaʊt hɑːrm ˈsɛkənd bænz ˈlɪmɪt ˈfriːdəm ənd iːkəˈnɒmɪk ˈɪmpækt ɒn dʒɒbz ɪnˈstɛd ˌɛdʒuˈkeɪʃən ɒn nuːˈtrɪʃən ənd ˈhɛlθiər ˈmɛnjuː ˈɒpʃənz wʊd biː mɔːr ɪˈfɛktɪv ˈɡʌvərnmənts ʃʊd prəˈmoʊt əˈwɛərnəs ˈræðər ðæn ˌproʊɪˈbɪʃən tuː ɪnˈkʌrɪdʒ ˈbɛtər ˈhæbɪts waɪl rɪˈspɛktɪŋ ˌɪndɪˈvɪdʒuəl raɪts/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý cấm hoàn toàn nhà hàng thức ăn nhanh. Đầu tiên, lựa chọn và trách nhiệm cá nhân quan trọng hơn hạn chế cho sức khỏe. Ví dụ, mọi người có thể ăn fast food thỉnh thoảng trong chế độ cân bằng mà không hại. Thứ hai, cấm hạn chế tự do và ảnh hưởng kinh tế việc làm. Thay vào đó, giáo dục dinh dưỡng và lựa chọn menu lành mạnh hiệu quả hơn. Chính phủ nên thúc đẩy nhận thức thay vì cấm để khuyến khích thói quen tốt trong khi tôn trọng quyền cá nhân.",
+      "kr": "패스트푸드 레스토랑을 완전히 금지하는 데 반대합니다. 먼저, 개인 선택과 책임이 제한보다 건강에 더 큰 역할을 합니다. 예를 들어 사람들은 균형 잡힌 식단의 일부로 가끔 패스트푸드를 즐길 수 있어 해가 없습니다. 둘째, 금지는 자유를 제한하고 일자리에 경제적 영향을 미칩니다. 대신 영양 교육과 더 건강한 메뉴 옵션이 더 효과적입니다. 정부는 금지 대신 인식을 촉진하여 개인 권리를 존중하면서 더 나은 습관을 장려해야 합니다.",
+      "jp": "ファストフードレストランを完全に禁止することに反対です。まず、個人選択と責任が制限より健康に大きな役割を果たします。例えば、人々はバランスの取れた食事の一部として時々ファストフードを楽しめ害はありません。二番目に、禁止は自由を制限し雇用に経済的影響を与えます。代わりに栄養教育と健康的なメニューオプションがより効果的です。政府は禁止ではなく意識を促進し、個人権を尊重しながらより良い習慣を奨励すべきです。"
+    },
+    "category": "Food & Health",
+    "speakTime": 60
+  },
+  {
+    "id": 410,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people argue that social media does more harm than good to society. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl ˈɑːrɡjuː ðæt ˈsoʊʃəl ˈmiːdiə dʌz mɔːr hɑːrm ðæn ɡʊd tuː səˈsaɪəti duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người cho rằng mạng xã hội gây hại nhiều hơn lợi cho xã hội. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 소셜 미디어가 사회에 이익보다 해를 더 많이 준다고 주장합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人はソーシャルメディアが社会に利益より害を多く与えると主張します。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I partially agree that social media can do more harm than good if not used responsibly. First, it spreads misinformation and cyberbullying, affecting mental health. For example, fake news on platforms has caused social unrest in many countries. Second, excessive use leads to addiction and reduced face-to-face interactions. However, it also connects people globally and raises awareness for important causes. Overall, the harm outweighs benefits when misused, so education on digital literacy is crucial.",
+    "sampleAnswerIpa": "/aɪ ˈpɑːʃəli əˈɡriː ðæt ˈsoʊʃəl ˈmiːdiə kæn duː mɔːr hɑːrm ðæn ɡʊd ɪf nɒt juːzd rɪˈspɒnsəbli fɜːrst ɪt sprɛdz ˌmɪsˌɪnfərˈmeɪʃən ənd ˈsaɪbərˌbʊliɪŋ əˈfɛktɪŋ ˈmɛntl hɛlθ fɔːr ɪɡˈzæmpl feɪk nuːz ɒn ˈplætfɔːrmz hæz kɔːzd ˈsoʊʃəl ʌnˈrɛst ɪn ˈmɛni ˈkʌntriz ˈsɛkənd ɪkˈsɛsɪv juːz liːdz tuː əˈdɪkʃən ənd rɪˈduːst feɪs tuː feɪs ˌɪntərˈækʃənz haʊˈɛvər ɪt ˈɔːlsoʊ kəˈnɛkts ˈpiːpəl ˈɡloʊbəli ənd reɪzɪz əˈwɛərnəs fɔːr ɪmˈpɔːtənt kɔːzɪz ˈoʊvərˈɔːl ðə hɑːrm aʊtˈweɪz ˈbɛnɪfɪts wɛn ˈmɪsjuːzd soʊ ˌɛdʒuˈkeɪʃən ɒn ˈdɪdʒɪtl ˈlɪtərəsi ɪz ˈkruːʃəl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý một phần rằng mạng xã hội có thể hại nhiều hơn lợi nếu không dùng trách nhiệm. Đầu tiên, nó lan truyền thông tin sai và bắt nạt mạng, ảnh hưởng sức khỏe tâm thần. Ví dụ, tin giả trên nền tảng gây bất ổn xã hội nhiều nước. Thứ hai, dùng quá dẫn nghiện và giảm tương tác trực tiếp. Tuy nhiên, nó kết nối toàn cầu và nâng cao nhận thức vấn đề quan trọng. Tổng thể, hại vượt lợi khi lạm dụng, nên giáo dục kỹ năng số rất cần.",
+      "kr": "소셜 미디어가 책임 있게 사용되지 않으면 해가 더 크다는 데 부분적으로 동의합니다. 먼저, 잘못된 정보와 사이버불링을 퍼뜨려 정신 건강에 영향을 미칩니다. 예를 들어 플랫폼의 가짜 뉴스가 많은 국가에서 사회 불안을 일으켰습니다. 둘째, 과도한 사용은 중독과 대면 상호작용 감소를 초래합니다. 그러나 전 세계 사람들을 연결하고 중요한 원인에 대한 인식을 높이기도 합니다. 전체적으로 오용 시 해가 이점을 능가하므로 디지털 리터러시 교육이 중요합니다.",
+      "jp": "ソーシャルメディアが責任を持って使われなければ害が利益を上回るというのに部分的に同意します。まず、誤情報とサイバーブリングを広め精神健康に影響します。例えば、プラットフォームのフェイクニュースが多くの国で社会不安を引き起こしました。二番目に、過度使用は中毒と対面交流減少を招きます。しかし、世界的に人々を繋ぎ重要な原因への意識を高めます。全体的に誤用時は害が利益を上回るのでデジタルリテラシー教育が重要です。"
+    },
+    "category": "Social Media",
+    "speakTime": 60
+  },
+  {
+    "id": 411,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that protecting the environment should be the responsibility of governments rather than individuals. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt prəˈtɛktɪŋ ði ɪnˈvaɪrənmənt ʃʊd biː ðə rɪˌspɑːnsəˈbɪləti əv ˈɡʌvərnmənts ˈræðər ðæn ˌɪndɪˈvɪdʒuəlz duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng bảo vệ môi trường nên là trách nhiệm của chính phủ hơn là cá nhân. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 환경 보호가 개인보다 정부의 책임이라고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は環境保護が個人より政府の責任だと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree because individuals play a crucial role in environmental protection alongside governments. First, daily personal choices like reducing plastic use or recycling directly impact waste levels. For example, when my family switched to reusable bags and bottles, we significantly cut down household trash. Second, collective individual actions create pressure for policy changes. Governments can enforce laws, but without public support and habits, efforts fail. Therefore, both must share responsibility for effective change.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː bɪˈkɒz ˌɪndɪˈvɪdʒuəlz pleɪ ə ˈkruːʃəl roʊl ɪn ɪnˈvaɪrənməntl prəˈtɛkʃən əˈlɔːŋsaɪd ˈɡʌvərnmənts fɜːrst ˈdeɪli ˈpɜːrsənl ˈtʃɔɪsɪz laɪk rɪˈduːsɪŋ ˈplæstɪk juːz ɔːr rɪˈsaɪklɪŋ dɪˈrɛktli ˈɪmpækt weɪst ˈlɛvlz fɔːr ɪɡˈzæmpl wɛn maɪ ˈfæməli swɪtʃt tuː riːˈjuːzəbl bæɡz ənd ˈbɒtlz wiː sɪɡˈnɪfɪkəntli kʌt daʊn ˈhaʊshoʊld træʃ ˈsɛkənd kəˈlɛktɪv ˌɪndɪˈvɪdʒuəl ˈækʃənz kriˈeɪt ˈprɛʃər fɔː ˈpɒləsi ˈtʃeɪndʒɪz ˈɡʌvərnmənts kæn ɪnˈfɔːrs lɔːz bʌt wɪˈðaʊt ˈpʌblɪk səˈpɔːrt ənd ˈhæbɪts ˈɛfərts feɪl ˈðɛərfɔːr boʊθ mʌst ʃɛr rɪˌspɑːnsəˈbɪləti fɔːr ɪˈfɛktɪv tʃeɪndʒ/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý vì cá nhân đóng vai trò quan trọng trong bảo vệ môi trường cùng chính phủ. Đầu tiên, lựa chọn hàng ngày như giảm nhựa hoặc tái chế ảnh hưởng trực tiếp mức rác thải. Ví dụ, khi gia đình tôi chuyển sang túi và chai tái sử dụng, chúng tôi giảm đáng kể rác gia đình. Thứ hai, hành động tập thể cá nhân tạo áp lực thay đổi chính sách. Chính phủ có thể ban hành luật, nhưng thiếu hỗ trợ công chúng và thói quen thì thất bại. Vì vậy, cả hai phải chia sẻ trách nhiệm để thay đổi hiệu quả.",
+      "kr": "개인이 정부와 함께 환경 보호에 중요한 역할을 하기 때문에 동의하지 않습니다. 먼저, 플라스틱 사용 줄이기나 재활용 같은 일상 선택이 폐기물 수준에 직접 영향을 미칩니다. 예를 들어 가족이 재사용 가능한 가방과 병으로 바꾼 후 가정 쓰레기를 크게 줄였습니다. 둘째, 집단적 개인 행동이 정책 변화 압력을 만듭니다. 정부는 법을 집행할 수 있지만 대중 지지와 습관 없이는 실패합니다. 따라서 효과적인 변화 위해 둘 다 책임을 공유해야 합니다.",
+      "jp": "個人も政府と並んで環境保護に重要な役割を果たすので反対です。まず、プラスチック使用削減やリサイクルなどの日常選択が廃棄物レベルに直接影響します。例えば、家族が再利用可能なバッグとボトルに変えたら家庭ごみを大幅に減らせました。二番目に、集団的個人行動が政策変更圧力を生みます。政府は法律を施行できますが、公衆支持と習慣なしでは失敗します。因此、効果的な変化のため両方が責任を共有すべきです。"
+    },
+    "category": "Environment",
+    "speakTime": 60
+  },
+  {
+    "id": 412,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think shopping online is better than shopping in physical stores?",
+    "ipa": "/duː juː θɪŋk ˈʃɒpɪŋ ɒnˈlaɪn ɪz ˈbɛtər ðæn ˈʃɒpɪŋ ɪn ˈfɪzɪkl stɔːrz/",
+    "translations": {
+      "vn": "Bạn có nghĩ mua sắm trực tuyến tốt hơn mua sắm ở cửa hàng truyền thống không?",
+      "kr": "온라인 쇼핑이 오프라인 매장 쇼핑보다 낫다고 생각하시나요?",
+      "jp": "オンラインショッピングが実店舗ショッピングより良いと思いますか？"
+    },
+    "sampleAnswer": "I think online shopping is generally better than physical stores. First, it offers greater convenience and variety; you can shop anytime from home with endless options. For example, during sales events like Black Friday, I found better deals and rare items online without crowds. Second, comparison tools help find lower prices easily. However, for clothes or shoes, trying on in stores is better. Overall, for most purchases, online saves time and money.",
+    "sampleAnswerIpa": "/aɪ θɪŋk ɒnˈlaɪn ˈʃɒpɪŋ ɪz ˈdʒɛnərəli ˈbɛtər ðæn ˈfɪzɪkl stɔːrz fɜːrst ɪt ˈɒfərz ˈɡreɪtər kənˈviːniəns ənd vəˈraɪəti juː kæn ʃɒp ˈɛnitaɪm frɑːm hoʊm wɪð ˈɛndləs ˈɒpʃənz fɔːr ɪɡˈzæmpl ˈdjʊərɪŋ seɪlz ɪˈvɛnts laɪk blæk ˈfraɪdeɪ aɪ faʊnd ˈbɛtər diːlz ənd rɛr ˈaɪtəmz ɒnˈlaɪn wɪˈðaʊt kraʊdz ˈsɛkənd kəmˈpærɪsən tuːlz hɛlp faɪnd ˈloʊər ˈpraɪsɪz ˈiːzɪli haʊˈɛvər fɔːr kloʊðz ɔːr ʃuːz ˈtraɪɪŋ ɒn ɪn stɔːrz ɪz ˈbɛtər ˈoʊvərˈɔːl fɔː moʊst ˈpɜːtʃəsɪz ɒnˈlaɪn seɪvz taɪm ənd ˈmʌni/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi nghĩ mua sắm trực tuyến thường tốt hơn cửa hàng truyền thống. Đầu tiên, tiện lợi và đa dạng hơn; bạn mua bất cứ lúc nào từ nhà với vô vàn lựa chọn. Ví dụ, dịp sale Black Friday, tôi tìm deal tốt và hàng hiếm online mà không chen lấn. Thứ hai, công cụ so sánh giúp tìm giá rẻ dễ dàng. Tuy nhiên, với quần áo giày dép, thử ở cửa hàng tốt hơn. Tổng thể, hầu hết mua sắm, online tiết kiệm thời gian và tiền.",
+      "kr": "온라인 쇼핑이 일반적으로 오프라인 매장보다 낫다고 생각합니다. 먼저, 더 큰 편의성과 다양성을 제공합니다; 집에서 언제든 무한 옵션으로 쇼핑할 수 있습니다. 예를 들어 블랙프라이데이 세일 때 군중 없이 온라인에서 더 좋은 딜과 희귀 아이템을 찾았습니다. 둘째, 비교 도구가 낮은 가격을 쉽게 찾게 도와줍니다. 그러나 옷이나 신발은 매장에서 시착하는 게 낫습니다. 전체적으로 대부분 구매에서 온라인은 시간과 돈을 절약합니다.",
+      "jp": "オンラインショッピングが一般的に実店舗より良いと思います。まず、より大きな便利さと多様性を提供します；家からいつでも無限のオプションでショッピングできます。例えば、ブラックフライデーセール時に群衆なしでオンラインで良いディールとレアアイテムを見つけました。二番目に、比較ツールが低い価格を簡単に探せます。しかし、服や靴は店舗で試着の方が良いです。全体的に、大半の購入でオンラインは時間とお金を節約します。"
+    },
+    "category": "Shopping",
+    "speakTime": 60
+  },
+  {
+    "id": 413,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people enjoy collecting things as a hobby, such as stamps or coins. Do you think this is a good hobby?",
+    "ipa": "/sʌm ˈpiːpəl ɪnˈdʒɔɪ kəˈlɛktɪŋ θɪŋz æz ə ˈhɒbi sʌtʃ æz stæmps ɔːr kɔɪnz duː juː θɪŋk ðɪs ɪz ə ɡʊd ˈhɒbi/",
+    "translations": {
+      "vn": "Một số người thích sưu tầm đồ vật làm sở thích, như tem hoặc đồng xu. Bạn nghĩ đây có phải sở thích tốt không?",
+      "kr": "어떤 사람들은 취미로 우표나 동전 같은 것을 수집하는 것을 즐깁니다. 이것이 좋은 취미라고 생각하시나요?",
+      "jp": "一部の人は趣味で切手やコインなどを集めるのを楽しんでいます。これが良い趣味だと思いますか？"
+    },
+    "sampleAnswer": "Yes, I think collecting things like stamps or coins is a good hobby. First, it encourages learning about history, culture, and geography. For example, my friend’s stamp collection taught him about different countries’ events and famous figures. Second, it promotes patience and organization while providing relaxation from daily stress. Many collectors also connect through clubs or online communities. Overall, it’s rewarding, educational, and can even become valuable over time.",
+    "sampleAnswerIpa": "/jɛs aɪ θɪŋk kəˈlɛktɪŋ θɪŋz laɪk stæmps ɔːr kɔɪnz ɪz ə ɡʊd ˈhɒbi fɜːrst ɪt ɪnˈkʌrɪdʒɪz ˈlɜːnɪŋ əˈbaʊt ˈhɪstəri ˈkʌltʃər ənd dʒiˈɒɡrəfi fɔːr ɪɡˈzæmpl maɪ frɛndz stæmp kəˈlɛkʃən tɔːt hɪm əˈbaʊt ˈdɪfrənt ˈkʌntriz ɪˈvɛnts ənd ˈfeɪməs ˈfɪɡjərz ˈsɛkənd ɪt prəˈmoʊts ˈpeɪʃəns ənd ˌɔːrɡənaɪˈzeɪʃən waɪl prəˈvaɪdɪŋ ˌriːlækˈseɪʃən frɑːm ˈdeɪli strɛs ˈmɛni kəˈlɛktərz ˈɔːlsoʊ kəˈnɛkt θruː klʌbz ɔːr ɒnˈlaɪn kəˈmjuːnətiz ˈoʊvərˈɔːl ɪts rɪˈwɔːrdɪŋ ˌɛdʒuˈkeɪʃənl ənd kæn ˈiːvn bɪˈkʌm ˈvæljuəbl ˈoʊvə taɪm/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi nghĩ sưu tầm tem hoặc đồng xu là sở thích tốt. Đầu tiên, nó khuyến khích học về lịch sử, văn hóa và địa lý. Ví dụ, bộ sưu tập tem của bạn tôi dạy anh ấy về sự kiện và nhân vật nổi tiếng các nước. Thứ hai, nó rèn luyện kiên nhẫn và tổ chức trong khi thư giãn khỏi stress hàng ngày. Nhiều nhà sưu tầm kết nối qua câu lạc bộ hoặc cộng đồng online. Tổng thể, nó bổ ích, giáo dục và có thể trở nên giá trị theo thời gian.",
+      "kr": "네, 우표나 동전 수집이 좋은 취미라고 생각합니다. 먼저, 역사, 문화, 지리에 대해 배우게 장려합니다. 예를 들어 친구의 우표 컬렉션이 다른 나라의 사건과 유명 인물을 가르쳐주었습니다. 둘째, 일상 스트레스에서 휴식을 제공하며 인내와 조직력을 촉진합니다. 많은 수집가들이 클럽이나 온라인 커뮤니티로 연결됩니다. 전체적으로 보상적이고 교육적이며 시간이 지나 가치가 될 수 있습니다.",
+      "jp": "はい、切手やコインを集めるのは良い趣味だと思います。まず、歴史、文化、地理を学ぶのを奨励します。例えば、友人の切手コレクションが違う国の出来事と有名人を教えてくれました。二番目に、日常ストレスからリラクゼーションを提供し忍耐と組織力を促進します。多くのコレクターがクラブやオンラインコミュニティで繋がります。全体的に報われ、教育적で時間が経つと価値が出ます。"
+    },
+    "category": "Hobbies",
+    "speakTime": 60
+  },
+  {
+    "id": 414,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you agree that spending time with family is more important than spending time with friends?",
+    "ipa": "/duː juː əˈɡriː ðæt ˈspɛndɪŋ taɪm wɪð ˈfæməli ɪz mɔːr ɪmˈpɔːtənt ðæn ˈspɛndɪŋ taɪm wɪð frɛndz/",
+    "translations": {
+      "vn": "Bạn có đồng ý rằng dành thời gian với gia đình quan trọng hơn dành thời gian với bạn bè không?",
+      "kr": "가족과 시간을 보내는 것이 친구와 보내는 것보다 더 중요하다고 동의하시나요?",
+      "jp": "家族と過ごす時間が友達と過ごす時間より重要だと同意しますか？"
+    },
+    "sampleAnswer": "I partially agree that family time is often more important than friends. First, family provides unconditional support and shapes our values from childhood. For example, regular family dinners in my home strengthened bonds and taught life lessons that friends couldn't. Second, family is permanent while friendships can change. However, friends offer fresh perspectives and emotional freedom. Overall, family should come first, but balancing both enriches life.",
+    "sampleAnswerIpa": "/aɪ ˈpɑːʃəli əˈɡriː ðæt ˈfæməli taɪm ɪz ˈɒfən mɔːr ɪmˈpɔːtənt ðæn frɛndz fɜːrst ˈfæməli prəˈvaɪdz ˌʌnkənˈdɪʃənl səˈpɔːrt ənd ʃeɪps aʊər ˈvæljuːz frɑːm ˈtʃaɪldhʊd fɔːr ɪɡˈzæmpl ˈrɛɡjələr ˈfæməli ˈdɪnərz ɪn maɪ hoʊm ˈstrɛŋθənd bɒndz ənd tɔːt laɪf ˈlɛsənz ðæt frɛndz ˈkʊdnt ˈsɛkənd ˈfæməli ɪz ˈpɜːmənənt waɪl ˈfrɛndʃɪps kæn tʃeɪndʒ haʊˈɛvər frɛndz ˈɒfər frɛʃ pərˈspɛktɪvz ənd ɪˈmoʊʃənl ˈfriːdəm ˈoʊvərˈɔːl ˈfæməli ʃʊd kʌm fɜːst bʌt ˈbælənsɪŋ boʊθ ɪnˈrɪtʃɪz laɪf/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý một phần rằng thời gian gia đình thường quan trọng hơn bạn bè. Đầu tiên, gia đình cung cấp hỗ trợ vô điều kiện và hình thành giá trị từ nhỏ. Ví dụ, bữa tối gia đình đều đặn ở nhà tôi củng cố tình cảm và dạy bài học cuộc sống mà bạn bè không thể. Thứ hai, gia đình vĩnh cửu còn tình bạn có thể thay đổi. Tuy nhiên, bạn bè mang góc nhìn mới và tự do cảm xúc. Tổng thể, gia đình nên ưu tiên, nhưng cân bằng cả hai làm phong phú cuộc sống.",
+      "kr": "가족 시간이 종종 친구보다 더 중요하다는 데 부분적으로 동의합니다. 먼저, 가족은 무조건적인 지지와 어린 시절부터 가치관을 형성합니다. 예를 들어 집에서 정기적인 가족 저녁은 유대를 강화하고 친구가 줄 수 없는 삶의 교훈을 가르쳤습니다. 둘째, 가족은 영구적이며 우정은 변할 수 있습니다. 그러나 친구는 새로운 관점과 감정 자유를 제공합니다. 전체적으로 가족이 우선이지만 둘을 균형하면 삶이 풍부해집니다.",
+      "jp": "家族時間がしばしば友達より重要だというのに部分的に同意します。まず、家族は無条件のサポートと幼少期からの価値観形成を提供します。例えば、家での定期的な家族夕食は絆を強め、友達がくれない人生の教訓を教えてくれました。二番目に、家族は永続的で友情は変わります。しかし、友達は新鮮な視点と感情的自由を提供します。全体的に家族を優先すべきですが、両方をバランスすると人生が豊かになります。"
+    },
+    "category": "Family & Friends",
+    "speakTime": 60
+  },
+  {
+    "id": 415,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Many people prefer getting news from television rather than newspapers. Which do you prefer?",
+    "ipa": "/ˈmɛni ˈpiːpəl prɪˈfɜːr ˈɡɛtɪŋ nuːz frɑːm ˌtɛlɪˈvɪʒən ˈræðər ðæn ˈnjuːzˌpeɪpərz wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Nhiều người thích lấy tin từ truyền hình hơn báo giấy. Bạn thích cái nào hơn?",
+      "kr": "많은 사람들이 신문보다 텔레비전에서 뉴스를 얻는 것을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "多くの人が新聞よりテレビからニュースを得るのを好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer getting news from television over newspapers. First, TV provides visual and immediate coverage with videos and live reports that make events more engaging. For example, watching breaking news on TV about natural disasters feels more impactful than reading descriptions. Second, it's easier for busy people to multitask while watching. Newspapers offer depth, but TV combines information with emotion and clarity. Overall, television makes news more accessible and memorable.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈɡɛtɪŋ nuːz frɑːm ˌtɛlɪˈvɪʒən ˈoʊvə ˈnjuːzˌpeɪpərz fɜːrst tiːˈviː prəˈvaɪdz ˈvɪʒuəl ənd ɪˈmiːdiət ˈkʌvərɪdʒ wɪð ˈvɪdioʊz ənd laɪv rɪˈpɔːrts ðæt meɪk ɪˈvɛnts mɔːr ɪnˈɡeɪdʒɪŋ fɔːr ɪɡˈzæmpl ˈwɒtʃɪŋ ˈbreɪkɪŋ nuːz ɒn tiːˈviː əˈbaʊt ˈnætʃərəl dɪˈzɑːstərz fiːlz mɔːr ˈɪmpæktfl ðæn ˈriːdɪŋ dɪˈskrɪpʃənz ˈsɛkənd ɪts ˈiːziər fɔː ˈbɪzi ˈpiːpəl tuː ˈmʌltiˌtæsk waɪl ˈwɒtʃɪŋ ˈnjuːzˌpeɪpərz ˈɒfər dɛpθ bʌt tiːˈviː kəmˈbaɪnz ˌɪnfərˈmeɪʃən wɪð ɪˈmoʊʃən ənd ˈklærəti ˈoʊvərˈɔːl ˌtɛlɪˈvɪʒən meɪks nuːz mɔːr ˌæksɛˈsəbl ənd məˈmɔːrəbl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích lấy tin từ truyền hình hơn báo giấy. Đầu tiên, TV cung cấp hình ảnh và tin tức tức thì với video và báo cáo trực tiếp làm sự kiện hấp dẫn hơn. Ví dụ, xem tin nóng về thiên tai trên TV cảm giác tác động mạnh hơn đọc mô tả. Thứ hai, dễ dàng hơn cho người bận rộn làm nhiều việc cùng lúc khi xem. Báo giấy sâu sắc, nhưng TV kết hợp thông tin với cảm xúc và rõ ràng. Tổng thể, truyền hình làm tin tức dễ tiếp cận và nhớ lâu hơn.",
+      "kr": "텔레비전에서 뉴스를 얻는 것을 신문보다 선호합니다. 먼저, 비디오와 생중계로 시각적이고 즉각적인 보도를 제공해 사건을 더 매력적으로 만듭니다. 예를 들어 자연재해 속보를 TV로 보는 것이 설명 읽는 것보다 더 충격적입니다. 둘째, 바쁜 사람들에게 시청하면서 멀티태스킹이 쉽습니다. 신문은 깊이를 제공하지만 TV는 정보에 감정과 명확성을 결합합니다. 전체적으로 텔레비전은 뉴스를 더 접근하기 쉽고 기억에 남게 합니다.",
+      "jp": "テレビからニュースを得る方を新聞より好みます。まず、ビデオとライブレポートで視覚的・即時的な報道を提供し出来事をより魅力的にします。例えば、自然災害の速報をテレビで見る方が記述を読むよりインパクトがあります。二番目に、忙しい人々が視聴しながらマルチタスクしやすいです。新聞は深みを提供しますが、テレビは情報に感情と明瞭さを組み合わせます。全体的に、テレビはニュースをよりアクセスしやすく記憶に残します。"
+    },
+    "category": "News Sources",
+    "speakTime": 60
+  },
+  {
+    "id": 416,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people believe that advertising encourages us to buy things we don't need. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl bɪˈliːv ðæt ˈædvərtaɪzɪŋ ɪnˈkʌrɪdʒɪz ʌs tuː baɪ θɪŋz wiː doʊnt niːd duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người tin rằng quảng cáo khuyến khích chúng ta mua đồ không cần. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 광고가 필요 없는 물건을 사게 장려한다고 믿습니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は広告が私たちに必要ないものを買わせると信じています。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I agree that advertising often encourages unnecessary purchases. First, it creates artificial needs through emotional appeals and celebrity endorsements. For example, flashy ads for the latest smartphones make people upgrade even when their current one works fine. Second, constant exposure leads to impulse buying. However, good advertising also informs about useful products. Overall, while it drives economy, it frequently manipulates desires, so consumers need to be critical.",
+    "sampleAnswerIpa": "/aɪ əˈɡriː ðæt ˈædvərtaɪzɪŋ ˈɒfən ɪnˈkʌrɪdʒɪz ˌʌnˈnɛsəsəri ˈpɜːtʃəsɪz fɜːrst ɪt kriˈeɪts ˌɑːrtɪˈfɪʃəl niːdz θruː ɪˈmoʊʃənl əˈpiːlz ənd səˈlɛbrəti ˌɛndɔːrsmənts fɔːr ɪɡˈzæmpl ˈflæʃi ædz fɔːr ðə ˈleɪtɪst ˈsmɑːrtfoʊnz meɪk ˈpiːpəl ˈʌpɡreɪd ˈiːvn wɛn ðɛr ˈkʌrənt wʌn wɜːrks faɪn ˈsɛkənd ˈkɒnstənt ɪkˈspoʊʒər liːdz tuː ˈɪmpʌls ˈbaɪɪŋ haʊˈɛvər ɡʊd ˈædvərtaɪzɪŋ ˈɔːlsoʊ ɪnˈfɔːrmz əˈbaʊt ˈjuːsfəl ˈprɒdʌkts ˈoʊvərˈɔːl waɪl ɪt draɪvz ɪˈkɒnəmi ɪt ˈfriːkwəntli məˈnɪpjəleɪts dɪˈzaɪərz soʊ kənˈsjuːmərz niːd tuː biː ˈkrɪtɪkl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý rằng quảng cáo thường khuyến khích mua sắm không cần thiết. Đầu tiên, nó tạo nhu cầu giả qua cảm xúc và người nổi tiếng quảng cáo. Ví dụ, quảng cáo hào nhoáng smartphone mới khiến mọi người nâng cấp dù máy cũ vẫn tốt. Thứ hai, tiếp xúc liên tục dẫn đến mua impuls. Tuy nhiên, quảng cáo tốt cũng thông tin sản phẩm hữu ích. Tổng thể, dù thúc đẩy kinh tế, nó thường thao túng mong muốn, nên người tiêu dùng cần phê phán.",
+      "kr": "광고가 종종 불필요한 구매를 장려한다는 데 동의합니다. 먼저, 감정 호소와 유명인 보증으로 인공적 필요를 만듭니다. 예를 들어 최신 스마트폰의 화려한 광고는 현재 기기가 잘 작동해도 업그레이드를 유도합니다. 둘째, 지속 노출이 충동 구매로 이어집니다. 그러나 좋은 광고는 유용한 제품을 알리기도 합니다. 전체적으로 경제를 촉진하지만 자주 욕망을 조작하므로 소비자는 비판적이어야 합니다.",
+      "jp": "広告がしばしば不要な購入を奨励するというのに同意します。まず、感情的訴求とセレブ推薦で人工的ニーズを作ります。例えば、最新スマホの派手な広告は現在のものが良くてもアップグレードさせます。二番目に、継続露出が衝動買いを招きます。しかし、良い広告は有用製品を告知します。全体的に経済を駆動しますが、頻繁に欲望を操作するので消費者は批判的であるべきです。"
+    },
+    "category": "Advertising",
+    "speakTime": 60
+  },
+  {
+    "id": 417,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think tourism has more positive or negative effects on local communities?",
+    "ipa": "/duː juː θɪŋk ˈtʊrɪzəm hæz mɔːr ˈpɒzətɪv ɔːr ˈnɛɡətɪv ɪˈfɛkts ɒn ˈloʊkəl kəˈmjuːnətiz/",
+    "translations": {
+      "vn": "Bạn nghĩ du lịch có nhiều tác động tích cực hay tiêu cực hơn đến cộng đồng địa phương?",
+      "kr": "관광이 지역 사회에 긍정적 영향이 더 많은지 부정적 영향이 더 많은지 생각하시나요?",
+      "jp": "観光が地元コミュニティに肯定的影響が多いか否定的影響が多いと思いますか？"
+    },
+    "sampleAnswer": "I believe tourism has more positive effects on local communities when managed well. First, it boosts economy by creating jobs in hotels, restaurants, and guides. For example, in my hometown near a famous beach, tourism employs thousands and supports small businesses. Second, it promotes cultural exchange and preservation. However, overcrowding and environmental damage can occur. Overall, with sustainable practices, benefits like income and global awareness outweigh negatives.",
+    "sampleAnswerIpa": "/aɪ bɪˈliːv ˈtʊrɪzəm hæz mɔːr ˈpɒzətɪv ɪˈfɛkts ɒn ˈloʊkəl kəˈmjuːnətiz wɛn ˈmænɪdʒd wɛl fɜːrst ɪt buːsts ɪˈkɒnəmi baɪ kriˈeɪtɪŋ dʒɒbz ɪn hoʊˈtɛlz ˈrɛstərɑːnts ənd ɡaɪdz fɔːr ɪɡˈzæmpl ɪn maɪ ˈhoʊmtaʊn nɪr ə ˈfeɪməs biːtʃ ˈtʊrɪzəm ɪmˈplɔɪz ˈθaʊzəndz ənd səˈpɔːts smɔːl ˈbɪznɪsɪz ˈsɛkənd ɪt prəˈmoʊts ˈkʌltʃərəl ɪksˈtʃeɪndʒ ənd ˌprɛzərˈveɪʃən haʊˈɛvər ˌoʊvəˈkraʊdɪŋ ənd ɪnˈvaɪrənməntl ˈdæmɪdʒ kæn əˈkɜːr ˈoʊvərˈɔːl wɪð səˈsteɪnəbl ˈpræktɪsɪz ˈbɛnɪfɪts laɪk ˈɪnkʌm ənd ˈɡloʊbəl əˈwɛərnəs aʊtˈweɪ ˈnɛɡətɪvz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tin du lịch có nhiều tác động tích cực hơn đến cộng đồng địa phương nếu quản lý tốt. Đầu tiên, nó thúc đẩy kinh tế bằng tạo việc làm ở khách sạn, nhà hàng và hướng dẫn viên. Ví dụ, ở quê tôi gần bãi biển nổi tiếng, du lịch雇 hàng ngàn người và hỗ trợ doanh nghiệp nhỏ. Thứ hai, nó thúc đẩy trao đổi văn hóa và bảo tồn. Tuy nhiên, đông đúc và hại môi trường có thể xảy ra. Tổng thể, với thực hành bền vững, lợi ích như thu nhập và nhận thức toàn cầu vượt trội tiêu cực.",
+      "kr": "잘 관리되면 관광이 지역 사회에 더 많은 긍정적 영향을 미친다고 믿습니다. 먼저, 호텔, 레스토랑, 가이드 일자리를 만들어 경제를 촉진합니다. 예를 들어 유명 해변 근처 제 고향에서 관광이 수천 명을 고용하고 소기업을 지원합니다. 둘째, 문화 교류와 보존을 촉진합니다. 그러나 과밀과 환경 피해가 발생할 수 있습니다. 전체적으로 지속 가능한 관행으로 수입과 글로벌 인식 같은 이점이 부정을 능가합니다.",
+      "jp": "よく管理されれば観光が地元コミュニティに肯定的影響が多いと信じます。まず、ホテル、レストラン、ガイドの雇用を生み経済を活性化します。例えば、有名ビーチ近くの故郷で観光が数千人を雇用し小ビジネスを支えます。二番目に、文化交流と保存を促進します。しかし、過密と環境被害が発生し得ます。全体的に持続可能な実践で収入とグローバル意識などの利益が否定的を上回ります。"
+    },
+    "category": "Tourism",
+    "speakTime": 60
+  },
+  {
+    "id": 418,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that keeping pets at home is beneficial for children. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈkiːpɪŋ pɛts æt hoʊm ɪz ˌbɛnɪˈfɪʃəl fɔːr ˈtʃɪldrən duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng nuôi thú cưng ở nhà có lợi cho trẻ em. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 집에서 애완동물을 키우는 것이 아이들에게 유익하다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は家でペットを飼うのが子供に有益だと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I strongly agree that keeping pets at home benefits children. First, it teaches responsibility and empathy from a young age. For example, my niece learned to care for others by feeding and walking our family dog daily. Second, pets reduce stress and encourage physical activity. Studies show kids with pets have lower anxiety and better social skills. Overall, the companionship and life lessons from pets greatly enrich childhood development.",
+    "sampleAnswerIpa": "/aɪ ˈstrɒŋli əˈɡriː ðæt ˈkiːpɪŋ pɛts æt hoʊm ˈbɛnɪfɪts ˈtʃɪldrən fɜːrst ɪt tiːtʃɪz rɪˌspɑːnsəˈbɪləti ənd ˈɛmpəθi frɑːm ə jʌŋ eɪdʒ fɔːr ɪɡˈzæmpl maɪ niːs lɜːrnd tuː kɛr fɔːr ˈʌðərz baɪ ˈfiːdɪŋ ənd ˈwɔːkɪŋ aʊər ˈfæməli dɒɡ ˈdeɪli ˈsɛkənd pɛts rɪˈduːs strɛs ənd ɪnˈkʌrɪdʒ ˈfɪzɪkl ækˈtɪvəti ˈstʌdiz ʃoʊ kɪdz wɪð pɛts hæv ˈloʊər æŋˈzaɪəti ənd ˈbɛtər ˈsoʊʃəl skɪlz ˈoʊvərˈɔːl ðə kəmˈpænjənʃɪp ənd laɪf ˈlɛsənz frɑːm pɛts ˈɡreɪtli ɪnˈrɪtʃ ˈtʃaɪldhʊd dɪˈvɛləpmənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng nuôi thú cưng ở nhà có lợi cho trẻ em. Đầu tiên, nó dạy trách nhiệm và đồng cảm từ nhỏ. Ví dụ, cháu gái tôi học chăm sóc người khác bằng cho ăn và dắt chó gia đình hàng ngày. Thứ hai, thú cưng giảm stress và khuyến khích hoạt động thể chất. Nghiên cứu cho thấy trẻ có thú cưng ít lo âu hơn và kỹ năng xã hội tốt hơn. Tổng thể, sự đồng hành và bài học cuộc sống từ thú cưng làm phong phú phát triển tuổi thơ.",
+      "kr": "집에서 애완동물을 키우는 것이 아이들에게 유익하다는 데 강력히 동의합니다. 먼저, 어린 나이부터 책임감과 공감을 가르칩니다. 예를 들어 조카가 매일 가족 개에게 먹이 주고 산책시키며 타인을 돌보는 법을 배웠습니다. 둘째, 애완동물은 스트레스를 줄이고 신체 활동을 장려합니다. 연구에 따르면 애완동물 있는 아이들이 불안이 낮고 사회 기술이 좋습니다. 전체적으로 애완동물의 동반과 삶의 교훈이 아동 발달을 크게 풍부하게 합니다.",
+      "jp": "家でペットを飼うのが子供に有益だというのに強く同意します。まず、幼い頃から責任と共感を教えます。例えば、姪が毎日家族の犬に餌をやり散歩させて他者をケアする方法を学びました。二番目に、ペットはストレスを減らし身体活動を奨励します。研究ではペットいる子供が不安が低く社会的スキルが良いです。全体的に、ペットの伴侶と人生の教訓が子供の発達を大きく豊かにします。"
+    },
+    "category": "Pets & Children",
+    "speakTime": 60
+  },
+  {
+    "id": 419,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think listening to music while working or studying improves productivity?",
+    "ipa": "/duː juː θɪŋk ˈlɪsnɪŋ tuː ˈmjuːzɪk waɪl ˈwɜːrkɪŋ ɔːr ˈstʌdiɪŋ ɪmˈpruːvz ˌprɒdʌkˈtɪvəti/",
+    "translations": {
+      "vn": "Bạn có nghĩ nghe nhạc khi làm việc hoặc học tập cải thiện năng suất không?",
+      "kr": "일하거나 공부할 때 음악 듣기가 생산성을 향상시킨다고 생각하시나요?",
+      "jp": "仕事や勉強中に音楽を聞くのが生産性を向上させると考えますか？"
+    },
+    "sampleAnswer": "Yes, listening to music while working or studying can improve productivity for many people. First, it blocks distractions and creates a focused atmosphere. For example, instrumental music helps me concentrate during long writing sessions without lyrics distracting thoughts. Second, it reduces stress and boosts mood, making tasks more enjoyable. However, for some, silence is better. Overall, the right type of music enhances focus and efficiency significantly.",
+    "sampleAnswerIpa": "/jɛs ˈlɪsnɪŋ tuː ˈmjuːzɪk waɪl ˈwɜːrkɪŋ ɔːr ˈstʌdiɪŋ kæn ɪmˈpruːv ˌprɒdʌkˈtɪvəti fɔː ˈmɛni ˈpiːpəl fɜːrst ɪt blɒks dɪˈstrækʃənz ənd kriˈeɪts ə ˈfoʊkəst ˈætməsfɪr fɔːr ɪɡˈzæmpl ˌɪnstrəˈmɛntl ˈmjuːzɪk hɛlps miː ˈkɒnsəntreɪt ˈdjʊərɪŋ lɔːŋ ˈraɪtɪŋ ˈsɛʃənz wɪˈðaʊt ˈlɪrɪks dɪˈstræktɪŋ θɔːts ˈsɛkənd ɪt rɪˈduːs strɛs ənd buːsts muːd ˈmeɪkɪŋ tæsks mɔːr ɪnˈdʒɔɪəbl haʊˈɛvər fɔː sʌm ˈsaɪləns ɪz ˈbɛtər ˈoʊvərˈɔːl ðə raɪt taɪp əv ˈmjuːzɪk ɪnˈhænsɪz ˈfoʊkəs ənd ɪˈfɪʃənsi sɪɡˈnɪfɪkəntli/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, nghe nhạc khi làm việc hoặc học có thể cải thiện năng suất cho nhiều người. Đầu tiên, nó chặn phân tâm và tạo không khí tập trung. Ví dụ, nhạc không lời giúp tôi tập trung trong buổi viết dài mà không bị lời bài hát làm xao lãng. Thứ hai, nó giảm stress và nâng tâm trạng, làm nhiệm vụ vui hơn. Tuy nhiên, với một số người, im lặng tốt hơn. Tổng thể, loại nhạc phù hợp tăng cường tập trung và hiệu quả đáng kể.",
+      "kr": "네, 일하거나 공부할 때 음악 듣기가 많은 사람의 생산성을 향상시킬 수 있습니다. 먼저, 방해를 차단하고 집중 분위기를 만듭니다. 예를 들어 가사 없는 기악 음악이 긴 글쓰기 세션 중 생각을 산만하게 하지 않고 집중하게 도와줍니다. 둘째, 스트레스를 줄이고 기분을 높여 작업을 더 즐겁게 만듭니다. 그러나 일부에게는 침묵이 낫습니다. 전체적으로 적절한 음악 유형이 집중과 효율성을 크게 향상시킵니다.",
+      "jp": "はい、仕事や勉強中に音楽を聞くのが多くの人の生産性を向上させます。まず、気晴らしをブロックし集中雰囲気を生みます。例えば、無詞のインストゥルメンタル音楽が長い執筆セッション中歌詞で思考を乱さず集中させてくれます。二番目に、ストレスを減らし気分を高めタスクを楽しませます。しかし、一部の人には沈黙が良いです。全体的に、正しい音楽タイプが集中と効率を大幅に高めます。"
+    },
+    "category": "Music & Productivity",
+    "speakTime": 60
+  },
+  {
+    "id": 420,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer reading books in print rather than e-books. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈriːdɪŋ bʊks ɪn prɪnt ˈræðər ðæn iː bʊks wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích đọc sách in hơn sách điện tử. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 전자책보다 인쇄 책 읽기를 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人は電子書籍より印刷本を読むのを好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer print books over e-books. First, the physical feel and smell of pages make reading more enjoyable and immersive. For example, turning pages and marking favorites with bookmarks creates a personal connection that screens lack. Second, print books reduce eye strain and distractions from notifications. While e-books are portable and eco-friendly, nothing beats the satisfaction of a real bookshelf. Overall, print books offer a richer, more tactile experience.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr prɪnt bʊks ˈoʊvə iː bʊks fɜːrst ðə ˈfɪzɪkl fiːl ənd smɛl əv peɪdʒɪz meɪk ˈriːdɪŋ mɔːr ɪnˈdʒɔɪəbl ənd ɪˈmɜːrsɪv fɔːr ɪɡˈzæmpl ˈtɜːrnɪŋ peɪdʒɪz ənd ˈmɑːrkɪŋ ˈfeɪvərɪts wɪð ˈbʊkmɑːrks kriˈeɪts ə ˈpɜːrsənl kəˈnɛkʃən ðæt skriːnz læk ˈsɛkənd prɪnt bʊks rɪˈduːs aɪ streɪn ənd dɪˈstrækʃənz frɑːm ˌnoʊtɪfɪˈkeɪʃənz waɪl iː bʊks ɑːr pɔːrˈtəbl ənd ˈiːkoʊ ˈfrɛndli ˈnʌθɪŋ biːts ðə ˌsætɪsˈfækʃən əv ə rɪəl ˈbʊkʃɛlf ˈoʊvərˈɔːl prɪnt bʊks ˈɒfər ə ˈrɪtʃər mɔːr ˈtæktaɪl ɪkˈspɪəriəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích sách in hơn sách điện tử. Đầu tiên, cảm giác và mùi giấy làm đọc sách thú vị và đắm chìm hơn. Ví dụ, lật trang và đánh dấu yêu thích bằng bookmark tạo kết nối cá nhân mà màn hình thiếu. Thứ hai, sách in giảm mỏi mắt và phân tâm từ thông báo. Dù e-book di động và thân thiện môi trường, không gì sánh bằng sự hài lòng của kệ sách thật. Tổng thể, sách in mang trải nghiệm phong phú và xúc giác hơn.",
+      "kr": "전자책보다 인쇄 책을 선호합니다. 먼저, 페이지의 촉감과 냄새가 읽기를 더 즐겁고 몰입하게 만듭니다. 예를 들어 페이지를 넘기고 북마크로 좋아하는 부분 표시가 스크린이 부족한 개인적 연결을 만듭니다. 둘째, 인쇄 책은 눈 피로와 알림 산만을 줄입니다. 전자책은 휴대성과 친환경적이지만 실제 책장 만족감에 비교할 수 없습니다. 전체적으로 인쇄 책은 더 풍부하고 촉각적인 경험을 제공합니다。",
+      "jp": "電子書籍より印刷本を好みます。まず、ページの感触と匂いが読書をより楽しく没入的にします。例えば、ページをめくりブックマークで好きな部分をマークするのがスクリーン欠ける個人的つながりを生みます。二番目に、印刷本は目の疲れと通知の気晴らしを減らします。電子書籍は携帯性とエコですが、本物の本棚の満足感に敵いません。全体的に印刷本はより豊かで触覚的な体験を提供します。"
+    },
+    "category": "Reading Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 421,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people believe that owning a pet teaches children important life lessons. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl bɪˈliːv ðæt ˈoʊnɪŋ ə pɛt tiːtʃɪz ˈtʃɪldrən ɪmˈpɔːtənt laɪf ˈlɛsənz duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người tin rằng nuôi thú cưng dạy trẻ em những bài học cuộc sống quan trọng. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 애완동물을 키우는 것이 아이들에게 중요한 삶의 교훈을 가르친다고 믿습니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人はペットを飼うのが子供に重要な人生の教訓を教えると信じています。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I strongly agree that owning a pet teaches children valuable life lessons. First, it builds responsibility as kids learn to feed, groom, and care for another living being. For example, my younger brother became more disciplined after getting a rabbit and handling its daily needs. Second, pets foster empathy and compassion through emotional bonds. Overall, the experience prepares children for adulthood by teaching commitment and kindness.",
+    "sampleAnswerIpa": "/aɪ ˈstrɒŋli əˈɡriː ðæt ˈoʊnɪŋ ə pɛt tiːtʃɪz ˈtʃɪldrən ˈvæljuəbl laɪf ˈlɛsənz fɜːrst ɪt bɪldz rɪˌspɑːnsəˈbɪləti æz kɪdz lɜːn tuː fiːd ɡruːm ənd kɛr fɔːr əˈnʌðər ˈlɪvɪŋ ˈbiːɪŋ fɔːr ɪɡˈzæmpl maɪ ˈjʌŋɡər ˈbrʌðər bɪˈkeɪm mɔːr ˈdɪsɪplɪnd ˈæftə ˈɡɛtɪŋ ə ˈræbɪt ənd ˈhændlɪŋ ɪts ˈdeɪli niːdz ˈsɛkənd pɛts ˈfɒstər ˈɛmpəθi ənd kəmˈpæʃən θruː ɪˈmoʊʃənl bɒndz ˈoʊvərˈɔːl ði ɪkˈspɪəriəns prɪˈpɛərz ˈtʃɪldrən fɔːr ˈædʌlthʊd baɪ ˈtiːtʃɪŋ kəˈmɪtmənt ənd ˈkaɪndnəs/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng nuôi thú cưng dạy trẻ em bài học cuộc sống quý giá. Đầu tiên, nó xây dựng trách nhiệm khi trẻ học cho ăn, chải lông và chăm sóc sinh vật khác. Ví dụ, em trai tôi trở nên kỷ luật hơn sau khi có thỏ và lo nhu cầu hàng ngày của nó. Thứ hai, thú cưng nuôi dưỡng đồng cảm và từ bi qua gắn kết cảm xúc. Tổng thể, trải nghiệm chuẩn bị trẻ cho trưởng thành bằng dạy cam kết và tử tế.",
+      "kr": "애완동물을 키우는 것이 아이들에게 귀중한 삶의 교훈을 가르친다는 데 강력히 동의합니다. 먼저, 아이들이 다른 생명을 먹이고 손질하고 돌보는 법을 배우며 책임감을 키웁니다. 예를 들어 동생이 토끼를 키운 후 일상 필요를 처리하며 더 규율적이 되었습니다. 둘째, 애완동물은 감정적 유대를 통해 공감과 연민을 키웁니다. 전체적으로 이 경험은 헌신과 친절을 가르쳐 성인기를 준비시킵니다.",
+      "jp": "ペットを飼うのが子供に貴重な人生の教訓を教えるというのに強く同意します。まず、他の生き物を餌やり、手入れ、ケアする法を学び責任感を築きます。例えば、弟がウサギを飼った後日常ニーズを扱いより規律的になりました。二番目に、ペットは感情的絆を通じて共感と慈悲を育みます。全体的に、この経験は献身と優しさを教え大人になる準備をします。"
+    },
+    "category": "Pets & Children",
+    "speakTime": 60
+  },
+  {
+    "id": 422,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think listening to music every day is necessary for a happy life?",
+    "ipa": "/duː juː θɪŋk ˈlɪsnɪŋ tuː ˈmjuːzɪk ˈɛvri deɪ ɪz ˈnɛsəsɛri fɔːr ə ˈhæpi laɪf/",
+    "translations": {
+      "vn": "Bạn có nghĩ nghe nhạc hàng ngày là cần thiết cho cuộc sống hạnh phúc không?",
+      "kr": "매일 음악 듣기가 행복한 삶에 필요하다고 생각하시나요?",
+      "jp": "毎日音楽を聞くのが幸せな生活に必要だと思いますか？"
+    },
+    "sampleAnswer": "I believe listening to music every day contributes greatly to a happy life. First, it reduces stress and improves mood instantly. For example, after a long workday, playing my favorite playlist helps me relax and forget worries. Second, music inspires creativity and motivates during exercise or chores. Many people, including me, feel more positive with background tunes. Overall, while not strictly necessary, daily music makes life more enjoyable and balanced.",
+    "sampleAnswerIpa": "/aɪ bɪˈliːv ˈlɪsnɪŋ tuː ˈmjuːzɪk ˈɛvri deɪ kənˈtrɪbjuːts ˈɡreɪtli tuː ə ˈhæpi laɪf fɜːrst ɪt rɪˈduːs strɛs ənd ɪmˈpruːvz muːd ˈɪnstəntli fɔːr ɪɡˈzæmpl ˈæftə ə lɔːŋ ˈwɜːkdeɪ ˈpleɪɪŋ maɪ ˈfeɪvərɪt ˈpleɪlɪst hɛlps miː rɪˈlæks ənd fərˈɡɛt ˈwʌriz ˈsɛkənd ˈmjuːzɪk ɪnˈspaɪərz ˌkriːeɪˈtɪvəti ənd ˈmoʊtɪveɪts ˈdjʊərɪŋ ˈɛksəsaɪz ɔːr tʃɔːrz ˈmɛni ˈpiːpəl ɪnˈkluːdɪŋ miː fiːl mɔːr ˈpɒzətɪv wɪð ˈbækɡraʊnd tuːnz ˈoʊvərˈɔːl waɪl nɒt ˈstrɪktli ˈnɛsəsɛri ˈdeɪli ˈmjuːzɪk meɪks laɪf mɔːr ɪnˈdʒɔɪəbl ənd ˈbælənst/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tin nghe nhạc hàng ngày góp phần lớn vào cuộc sống hạnh phúc. Đầu tiên, nó giảm stress và cải thiện tâm trạng ngay lập tức. Ví dụ, sau ngày làm dài, nghe playlist yêu thích giúp tôi thư giãn và quên lo lắng. Thứ hai, nhạc truyền cảm hứng sáng tạo và động lực khi tập luyện hoặc làm việc nhà. Nhiều người, kể cả tôi, cảm thấy tích cực hơn với nhạc nền. Tổng thể, dù không tuyệt đối cần thiết, nghe nhạc hàng ngày làm cuộc sống vui vẻ và cân bằng hơn.",
+      "kr": "매일 음악 듣기가 행복한 삶에 크게 기여한다고 믿습니다. 먼저, 스트레스를 줄이고 즉시 기분을 개선합니다. 예를 들어 긴 근무일 후 좋아하는 플레이리스트를 들으며 휴식하고 걱정을 잊습니다. 둘째, 음악은 운동이나 집안일 중 창의성을 자극하고 동기를 부여합니다. 나를 포함한 많은 사람들이 배경 음악으로 더 긍정적입니다. 전체적으로 엄격히 필요하지는 않지만 일상 음악은 삶을 더 즐겁고 균형 있게 만듭니다.",
+      "jp": "毎日音楽を聞くのが幸せな生活に大きく貢献すると信じます。まず、ストレスを減らし即座に気分を改善します。例えば、長仕事日の後お気に入りプレイリストを再生してリラックスし心配を忘れます。二番目に、音楽は運動や家事中創造性を刺激し動機付けます。私を含む多くの人が背景曲でよりポジティブです。全体的に厳密に必要ではないですが、日常音楽は生活をより楽しくバランス良くします。"
+    },
+    "category": "Music & Happiness",
+    "speakTime": 60
+  },
+  {
+    "id": 423,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer reading fiction books while others prefer non-fiction. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈriːdɪŋ ˈfɪkʃən bʊks waɪl ˈʌðərz prɪˈfɜːr nɒn ˈfɪkʃən wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích đọc sách hư cấu trong khi người khác thích phi hư cấu. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 소설 책 읽기를 선호하고 다른 사람들은 논픽션을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人はフィクション本を読むのを好み、他はノンフィクションを好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer reading fiction books. First, they provide an escape from reality and spark imagination through captivating stories. For example, reading fantasy novels like Harry Potter transported me to magical worlds and reduced daily stress. Second, fiction often explores human emotions and relationships deeply, offering insights into life. Non-fiction is informative, but fiction entertains while teaching empathy. Overall, fiction makes reading more enjoyable and relaxing for me.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈriːdɪŋ ˈfɪkʃən bʊks fɜːrst ðeɪ prəˈvaɪd ən ɪˈskeɪp frɑːm riˈæləti ənd spɑːrk ˌɪmædʒɪˈneɪʃən θruː ˈkæptɪveɪtɪŋ ˈstɔːriz fɔːr ɪɡˈzæmpl ˈriːdɪŋ ˈfæntəsi ˈnɒvəlz laɪk ˈhæri ˈpɒtər trænsˈpɔːrtɪd miː tuː ˈmædʒɪkl wɜːrldz ənd rɪˈduːst ˈdeɪli strɛs ˈsɛkənd ˈfɪkʃən ˈɒfən ɪkˈsplɔːrz ˈhjuːmən ɪˈmoʊʃənz ənd rɪˈleɪʃənʃɪps ˈdiːpli ˈɒfərɪŋ ˈɪnsaɪts ˈɪntuː laɪf nɒn ˈfɪkʃən ɪz ˌɪnfərˈmeɪtɪv bʌt ˈfɪkʃən ˌɛntərˈteɪnz waɪl ˈtiːtʃɪŋ ˈɛmpəθi ˈoʊvərˈɔːl ˈfɪkʃən meɪks ˈriːdɪŋ mɔːr ɪnˈdʒɔɪəbl ənd rɪˈlæksɪŋ fɔː miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích đọc sách hư cấu hơn. Đầu tiên, chúng mang lại lối thoát khỏi thực tế và khơi dậy trí tưởng tượng qua câu chuyện hấp dẫn. Ví dụ, đọc tiểu thuyết giả tưởng như Harry Potter đưa tôi đến thế giới phép thuật và giảm stress hàng ngày. Thứ hai, hư cấu thường khám phá cảm xúc và mối quan hệ con người sâu sắc, mang insight về cuộc sống. Phi hư cấu thông tin, nhưng hư cấu giải trí trong khi dạy đồng cảm. Tổng thể, hư cấu làm đọc sách vui và thư giãn hơn với tôi.",
+      "kr": "소설 책 읽기를 선호합니다. 먼저, 매력적인 이야기로 현실 탈출과 상상력을 자극합니다. 예를 들어 해리 포터 같은 판타지 소설 읽기가 마법 세계로 데려가 일상 스트레스를 줄였습니다. 둘째, 소설은 인간 감정과 관계를 깊이 탐구해 삶의 통찰을 줍니다. 논픽션은 정보적이지만 소설은 공감을 가르치며 즐겁게 합니다. 전체적으로 소설은 읽기를 더 즐겁고 휴식하게 만듭니다.",
+      "jp": "フィクション本を読む方を好みます。まず、魅力的な物語で現実からの逃避と想像力を刺激します。例えば、ハリー・ポッターのようなファンタジー小説を読むのが魔法世界に運び日常ストレスを減らしました。二番目に、フィクションは人間感情と関係を深く探求し人生の洞察を提供します。ノンフィクションは情報的ですが、フィクションは共感を教えながら楽しませます。全体的にフィクションは読書をより楽しくリラックスさせます。"
+    },
+    "category": "Reading Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 424,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think governments should spend more money on space exploration?",
+    "ipa": "/duː juː θɪŋk ˈɡʌvərnmənts ʃʊd spɛnd mɔːr ˈmʌni ɒn speɪs ˌɛkspləˈreɪʃən/",
+    "translations": {
+      "vn": "Bạn có nghĩ chính phủ nên chi nhiều tiền hơn cho khám phá vũ trụ không?",
+      "kr": "정부가 우주 탐사에 더 많은 돈을 써야 한다고 생각하시나요?",
+      "jp": "政府は宇宙探査にもっとお金を使うべきだと思いますか？"
+    },
+    "sampleAnswer": "Yes, I believe governments should invest more in space exploration. First, it drives technological advancements that benefit everyday life. For example, satellite technology from space programs improved GPS and weather forecasting. Second, it inspires future generations and expands human knowledge about the universe. While immediate earthly problems need attention, long-term benefits like resource discovery on other planets justify the spending. Overall, space exploration is essential for progress and survival.",
+    "sampleAnswerIpa": "/jɛs aɪ bɪˈliːv ˈɡʌvərnmənts ʃʊd ɪnˈvɛst mɔːr ɪn speɪs ˌɛkspləˈreɪʃən fɜːrst ɪt draɪvz ˌtɛknəˈlɒdʒɪkl ədˈvænsmənts ðæt ˈbɛnɪfɪt ˈɛvrɪdeɪ laɪf fɔːr ɪɡˈzæmpl ˈsætəlaɪt tɛkˈnɑːlədʒi frɑːm speɪs ˈproʊɡræmz ɪmˈpruːvd dʒiː piː ˈɛs ənd ˈweðər ˈfɔːkɑːstɪŋ ˈsɛkənd ɪt ɪnˈspaɪərz ˈfjuːtʃər ˌdʒɛnəˈreɪʃənz ənd ɪkˈspændz ˈhjuːmən ˈnɑːlɪdʒ əˈbaʊt ðə ˈjuːnɪvɜːrs waɪl ɪˈmiːdiət ˈɜːrθli ˈprɒbləmz niːd əˈtɛnʃən lɔːŋ tɜːm ˈbɛnɪfɪts laɪk rɪˈsɔːrs dɪˈskʌvəri ɒn ˈʌðər ˈplænɪts ˈdʒʌstɪfaɪ ðə ˈspɛndɪŋ ˈoʊvərˈɔːl speɪs ˌɛkspləˈreɪʃən ɪz ɪˈsɛnʃəl fɔː ˈprɒɡrɛs ənd sərˈvaɪvl/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi tin chính phủ nên đầu tư nhiều hơn vào khám phá vũ trụ. Đầu tiên, nó thúc đẩy tiến bộ công nghệ lợi ích đời sống hàng ngày. Ví dụ, công nghệ vệ tinh từ chương trình vũ trụ cải thiện GPS và dự báo thời tiết. Thứ hai, nó truyền cảm hứng thế hệ tương lai và mở rộng kiến thức về vũ trụ. Dù vấn đề Trái Đất cần chú ý ngay, lợi ích dài hạn như phát hiện tài nguyên hành tinh khác biện minh chi phí. Tổng thể, khám phá vũ trụ thiết yếu cho tiến bộ và sinh tồn.",
+      "kr": "네, 정부가 우주 탐사에 더 투자해야 한다고 믿습니다. 먼저, 일상생활에 이익이 되는 기술 발전을 촉진합니다. 예를 들어 우주 프로그램의 위성 기술이 GPS와 날씨 예보를 개선했습니다. 둘째, 미래 세대를 영감하고 우주에 대한 인간 지식을 확장합니다. 즉각적인 지구 문제가 주의를 필요로 하지만 다른 행성 자원 발견 같은 장기 이점이 지출을 정당화합니다. 전체적으로 우주 탐사는 진보와 생존에 필수적입니다.",
+      "jp": "はい、政府は宇宙探査にもっと投資すべきだと信じます。まず、日常生活に利益をもたらす技術進歩を駆動します。例えば、宇宙プログラムの衛星技術がGPSと天気予報を改善しました。二番目に、未来世代をインスパイアし宇宙についての人間知識を拡大します。即時の地球問題が注意を必要とするが、他の惑星資源発見などの長期利益が支出を正当化します。全体的に宇宙探査は進歩と生存に不可欠です。"
+    },
+    "category": "Space Exploration",
+    "speakTime": 60
+  },
+  {
+    "id": 425,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people say that learning a foreign language is essential in today's globalized world. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl seɪ ðæt ˈlɜːnɪŋ ə ˈfɒrən ˈlæŋɡwɪdʒ ɪz ɪˈsɛnʃəl ɪn təˈdeɪz ˈɡloʊbəlaɪzd wɜːrld duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nói rằng học ngoại ngữ là thiết yếu trong thế giới toàn cầu hóa ngày nay. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 오늘날 글로벌화된 세계에서 외국어 학습이 필수적이라고 합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は今日のグローバル化した世界で外国語学習が不可欠だと言います。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I completely agree that learning a foreign language is essential today. First, it opens career opportunities in international business and travel. For example, knowing Spanish helped my colleague get promoted to manage Latin American markets. Second, it enhances cultural understanding and builds global connections. In a connected world, multilingual people communicate better and appreciate diversity. Overall, foreign languages are key to personal growth and professional success in globalization.",
+    "sampleAnswerIpa": "/aɪ kəmˈpliːtli əˈɡriː ðæt ˈlɜːnɪŋ ə ˈfɒrən ˈlæŋɡwɪdʒ ɪz ɪˈsɛnʃəl təˈdeɪ fɜːrst ɪt ˈoʊpənz kəˈrɪər ˌɒpərˈtuːnətiz ɪn ˌɪntərˈnæʃənl ˈbɪznɪs ənd ˈtrævl fɔːr ɪɡˈzæmpl ˈnoʊɪŋ ˈspænɪʃ hɛlpt maɪ ˈkɒliːɡ ɡɛt prəˈmoʊtɪd tuː ˈmænɪdʒ ˈlætɪn əˈmɛrɪkən ˈmɑːrkɪts ˈsɛkənd ɪt ɪnˈhænsɪz ˈkʌltʃərəl ˌʌndərˈstændɪŋ ənd bɪldz ˈɡloʊbəl kəˈnɛkʃənz ɪn ə kəˈnɛktɪd wɜːrld ˌmʌltiˈlɪŋɡwəl ˈpiːpəl kəmˈjuːnɪkeɪt ˈbɛtər ənd əˈpriːʃieɪt daɪˈvɜːsəti ˈoʊvərˈɔːl ˈfɒrən ˈlæŋɡwɪdʒɪz ɑːr kiː tuː ˈpɜːrsənl ɡroʊθ ənd prəˈfɛʃənl səkˈsɛs ɪn ˌɡloʊbəlaɪˈzeɪʃən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng học ngoại ngữ là thiết yếu ngày nay. Đầu tiên, nó mở cơ hội nghề nghiệp trong kinh doanh quốc tế và du lịch. Ví dụ, biết tiếng Tây Ban Nha giúp đồng nghiệp tôi thăng chức quản lý thị trường Mỹ Latin. Thứ hai, nó tăng hiểu biết văn hóa và xây dựng kết nối toàn cầu. Trong thế giới kết nối, người đa ngữ giao tiếp tốt hơn và đánh giá cao đa dạng. Tổng thể, ngoại ngữ là chìa khóa cho phát triển cá nhân và thành công nghề nghiệp trong toàn cầu hóa.",
+      "kr": "오늘날 외국어 학습이 필수적이라는 데 완전히 동의합니다. 먼저, 국제 비즈니스와 여행에서 경력 기회를 엽니다. 예를 들어 스페인어를 아는 것이 동료가 라틴 아메리카 시장 관리로 승진하는 데 도왔습니다. 둘째, 문화 이해를 높이고 글로벌 연결을 구축합니다. 연결된 세계에서 다국어 사람은 더 잘 소통하고 다양성을 감사합니다. 전체적으로 외국어는 개인 성장과 전문 성공의 열쇠입니다.",
+      "jp": "今日外国語学習が不可欠だというのに完全に同意します。まず、国際ビジネスと旅行でキャリア機会を開きます。例えば、スペイン語を知るのが同僚をラテンアメリカ市場管理に昇進させました。二番目に、文化理解を高めグローバルつながりを築きます。繋がった世界で多言語話者はより良くコミュニケーションし多様性を評価します。全体的に外国語は個人成長と専門成功の鍵です。"
+    },
+    "category": "Language Learning",
+    "speakTime": 60
+  },
+  {
+    "id": 426,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think celebrities have a responsibility to be good role models for young people?",
+    "ipa": "/duː juː θɪŋk səˈlɛbrətiz hæv ə rɪˌspɑːnsəˈbɪləti tuː biː ɡʊd roʊl ˈmɒdlz fɔːr jʌŋ ˈpiːpəl/",
+    "translations": {
+      "vn": "Bạn có nghĩ người nổi tiếng có trách nhiệm làm gương tốt cho giới trẻ không?",
+      "kr": "유명인사가 젊은이들에게 좋은 롤모델이 될 책임이 있다고 생각하시나요?",
+      "jp": "セレブは若者に良いロールモデルになる責任があると思いますか？"
+    },
+    "sampleAnswer": "Yes, I think celebrities have a responsibility to be good role models. First, their actions influence millions of young fans who admire them. For example, when a singer promotes healthy living, it encourages teens to exercise and eat well. Second, with fame comes power to spread positive messages on issues like mental health. While they deserve privacy, public figures should consider their impact. Overall, responsible behavior from celebrities can inspire better choices in youth.",
+    "sampleAnswerIpa": "/jɛs aɪ θɪŋk səˈlɛbrətiz hæv ə rɪˌspɑːnsəˈbɪləti tuː biː ɡʊd roʊl ˈmɒdlz fɜːrst ðɛr ˈækʃənz ˈɪnfluəns ˈmɪljənz əv jʌŋ fænz huː ədˈmaɪər ðɛm fɔːr ɪɡˈzæmpl wɛn ə ˈsɪŋər prəˈmoʊts ˈhɛlθi ˈlɪvɪŋ ɪt ɪnˈkʌrɪdʒɪz tiːnz tuː ˈɛksəsaɪz ənd iːt wɛl ˈsɛkənd wɪð feɪm kʌmz ˈpaʊər tuː sprɛd ˈpɒzətɪv ˈmɛsɪdʒɪz ɒn ˈɪʃuːz laɪk ˈmɛntl hɛlθ waɪl ðeɪ dɪˈzɜːrv ˈpraɪvəsi ˈpʌblɪk ˈfɪɡjərz ʃʊd kənˈsɪdər ðɛr ˈɪmpækt ˈoʊvərˈɔːl rɪˈspɒnsəbl bɪˈheɪvjər frɑːm səˈlɛbrətiz kæn ɪnˈspaɪə ˈbɛtər ˈtʃɔɪsɪz ɪn juːθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi nghĩ người nổi tiếng có trách nhiệm làm gương tốt. Đầu tiên, hành động của họ ảnh hưởng hàng triệu fan trẻ ngưỡng mộ. Ví dụ, khi ca sĩ quảng bá sống khỏe, nó khuyến khích thiếu niên tập luyện và ăn tốt. Thứ hai, với danh tiếng đi kèm sức mạnh lan tỏa thông điệp tích cực về vấn đề như sức khỏe tâm thần. Dù họ xứng đáng riêng tư, nhân vật công chúng nên cân nhắc tác động. Tổng thể, hành vi trách nhiệm từ người nổi tiếng có thể truyền cảm hứng lựa chọn tốt hơn cho giới trẻ.",
+      "kr": "네, 유명인사가 좋은 롤모델이 될 책임이 있다고 생각합니다. 먼저, 그들의 행동이 그들을 존경하는 수백만 젊은 팬에게 영향을 미칩니다. 예를 들어 가수가 건강한 생활을 홍보하면 십대들이 운동하고 잘 먹도록 장려합니다. 둘째, 명성과 함께 정신 건강 같은 문제에 긍정 메시지를 퍼뜨릴 힘입니다. 프라이버시를 누릴 권리가 있지만 공인들은 영향력을 고려해야 합니다. 전체적으로 유명인사의 책임 있는 행동이 청소년의 더 나은 선택을 영감합니다.",
+      "jp": "はい、セレブは良いロールモデルになる責任があると思います。まず、彼らの行動が憧れる数百万の若いファンに影響します。例えば、歌手が健康生活を推進すればティーンが運動と良い食事を奨励します。二番目に、名声とともにメンタルヘルスなどの問題にポジティブメッセージを広める力です。プライバシーを受ける権利があるが、公人は影響を考慮すべきです。全体的にセレブの責任ある行動が若者のより良い選択をインスパイアします。"
+    },
+    "category": "Celebrities & Role Models",
+    "speakTime": 60
+  },
+  {
+    "id": 427,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer living in the city while others prefer the countryside. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈlɪvɪŋ ɪn ðə ˈsɪti waɪl ˈʌðərz prɪˈfɜːr ðə ˈkʌntrisaɪd wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích sống ở thành phố trong khi người khác thích nông thôn. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 도시 생활을 선호하고 다른 사람들은 시골을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人は都市生活を好み、他は田舎を好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer living in the city. First, it offers more job opportunities, cultural events, and convenient amenities like public transport and restaurants. For example, in my current urban apartment, everything from theaters to grocery stores is within walking distance. Second, cities provide diversity and networking chances essential for career growth. While countryside is peaceful, the excitement and possibilities in cities suit my lifestyle better. Overall, urban life is more dynamic and fulfilling for me.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈlɪvɪŋ ɪn ðə ˈsɪti fɜːrst ɪt ˈɒfərz mɔːr dʒɒb ˌɒpərˈtuːnətiz ˈkʌltʃərəl ɪˈvɛnts ənd kənˈviːniənt əˈmɛnətiz laɪk ˈpʌblɪk ˈtrænspɔːrt ənd ˈrɛstərɑːnts fɔːr ɪɡˈzæmpl ɪn maɪ ˈkʌrənt ˈɜːrbən əˈpɑːtmənt ˈɛvrɪθɪŋ frɑːm ˈθiːətərz tuː ˈɡroʊsəri stɔːrz ɪz wɪˈðɪn ˈwɔːkɪŋ ˈdɪstəns ˈsɛkənd ˈsɪtiz prəˈvaɪd daɪˈvɜːsəti ənd ˈnɛtwɜːkɪŋ tʃænsɪz ɪˈsɛnʃəl fɔː kəˈrɪə ɡroʊθ waɪl ˈkʌntrisaɪd ɪz ˈpiːsfəl ði ɪkˈsaɪtmənt ənd ˌpɒsəˈbɪlətiz ɪn ˈsɪtiz suːt maɪ ˈlaɪfstaɪl ˈbɛtər ˈoʊvərˈɔːl ˈɜːrbən laɪf ɪz mɔːr ˈdaɪnæmɪk ənd fʊlˈfɪlɪŋ fɔː miː/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích sống ở thành phố hơn. Đầu tiên, nó mang nhiều cơ hội việc làm, sự kiện văn hóa và tiện ích như giao thông công cộng và nhà hàng. Ví dụ, ở căn hộ đô thị hiện tại, mọi thứ từ rạp hát đến siêu thị đều đi bộ tới được. Thứ hai, thành phố cung cấp đa dạng và cơ hội kết nối thiết yếu cho phát triển nghề nghiệp. Dù nông thôn yên bình, sự sôi động và khả năng ở thành phố phù hợp lối sống tôi hơn. Tổng thể, cuộc sống đô thị năng động và thỏa mãn hơn với tôi.",
+      "kr": "도시 생활을 선호합니다. 먼저, 더 많은 일자리 기회, 문화 행사, 대중교통과 레스토랑 같은 편리한 편의를 제공합니다. 예를 들어 현재 도시 아파트에서 극장부터 식료품점까지 도보 거리입니다. 둘째, 도시가 경력 성장에 필수적인 다양성과 네트워킹 기회를 줍니다. 시골이 평화롭지만 도시의 흥분과 가능성이 내 라이프스타일에 더 맞습니다. 전체적으로 도시 생활이 더 역동적이고 충족됩니다.",
+      "jp": "都市生活を好みます。まず、より多くの就職機会、文化イベント、交通とレストランなどの便利なアメニティを提供します。例えば、現在の都市アパートで劇場から食料品店まで歩ける距離です。二番目に、都市はキャリア成長に不可欠な多様性とネットワーキング機会を与えます。田舎が平和だが、都市の興奮と可能性が私のライフスタイルに合います。全体的に都市生活がよりダイナミックで充実します。"
+    },
+    "category": "Living Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 428,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think children should be allowed to use smartphones at a young age?",
+    "ipa": "/duː juː θɪŋk ˈtʃɪldrən ʃʊd biː əˈlaʊd tuː juːz ˈsmɑːrtfoʊnz æt ə jʌŋ eɪdʒ/",
+    "translations": {
+      "vn": "Bạn có nghĩ trẻ em nên được phép dùng smartphone từ nhỏ không?",
+      "kr": "아이들이 어린 나이부터 스마트폰을 사용하도록 허용해야 한다고 생각하시나요?",
+      "jp": "子供が幼い頃からスマホを使うのを許可すべきだと思いますか？"
+    },
+    "sampleAnswer": "I think children should not be allowed unrestricted smartphone use at a young age. First, excessive screen time harms development and health, causing eye strain and reduced physical activity. For example, studies show kids under 10 with heavy phone use have poorer concentration. Second, it exposes them to inappropriate content and online risks. With parental controls and limited access, some educational apps are fine, but overall, delaying smartphone use protects childhood better.",
+    "sampleAnswerIpa": "/aɪ θɪŋk ˈtʃɪldrən ʃʊd nɒt biː əˈlaʊd ˌʌnrɪˈstrɪktɪd ˈsmɑːrtfoʊn juːz æt ə jʌŋ eɪdʒ fɜːrst ɪkˈsɛsɪv skriːn taɪm hɑːrmz dɪˈvɛləpmənt ənd hɛlθ ˈkɔːzɪŋ aɪ streɪn ənd rɪˈduːst ˈfɪzɪkl ækˈtɪvəti fɔːr ɪɡˈzæmpl ˈstʌdiz ʃoʊ kɪdz ˈʌndə tɛn wɪð ˈhɛvi foʊn juːz hæv ˈpʊrər ˌkɒnsənˈtreɪʃən ˈsɛkənd ɪt ɪkˈspoʊzɪz ðɛm tuː ˌɪnəˈproʊpriət ˈkɒntɛnt ənd ɒnˈlaɪn rɪsks wɪð pəˈrɛntl kənˈtroʊlz ənd ˈlɪmɪtɪd ˈæksɛs sʌm ˌɛdʒuˈkeɪʃənl æps ɑːr faɪn bʌt ˈoʊvərˈɔːl dɪˈleɪɪŋ ˈsmɑːrtfoʊn juːz prəˈtɛkts ˈtʃaɪldhʊd ˈbɛtər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi nghĩ trẻ em không nên được phép dùng smartphone không hạn chế từ nhỏ. Đầu tiên, thời gian màn hình quá nhiều hại phát triển và sức khỏe, gây mỏi mắt và giảm hoạt động thể chất. Ví dụ, nghiên cứu cho thấy trẻ dưới 10 dùng điện thoại nhiều tập trung kém hơn. Thứ hai, nó phơi bày nội dung không phù hợp và rủi ro online. Với kiểm soát phụ huynh và truy cập hạn chế, một số app giáo dục ổn, nhưng tổng thể, trì hoãn dùng smartphone bảo vệ tuổi thơ tốt hơn.",
+      "kr": "아이들이 어린 나이부터 스마트폰을 무제한 사용하도록 허용하지 말아야 한다고 생각합니다. 먼저, 과도한 화면 시간이 발달과 건강을 해치며 눈 피로와 신체 활동 감소를 초래합니다. 예를 들어 연구에서 10세 미만 아이들이 많이 사용하면 집중력이 떨어집니다. 둘째, 부적절한 콘텐츠와 온라인 위험에 노출됩니다. 부모 통제와 제한 접근으로 일부 교육 앱은 괜찮지만 전체적으로 스마트폰 사용 지연이 아동기를 더 잘 보호합니다.",
+      "jp": "子供が幼い頃からスマホを無制限に使うのを許可すべきでないと思います。まず、過度なスクリーンタイムが発達と健康を害し目の疲れと身体活動減少を招きます。例えば、研究で10歳未満の重度使用子供が集中力が低いです。二番目に、不適切コンテンツとオンラインリスクにさらします。親制御と制限アクセスで一部教育アプリは大丈夫ですが、全体的にスマホ使用遅らせが子供時代をより良く守ります。"
+    },
+    "category": "Technology & Children",
+    "speakTime": 60
+  },
+  {
+    "id": 429,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people believe that teamwork is more important than individual effort in achieving success. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl bɪˈliːv ðæt ˈtiːmwɜːk ɪz mɔːr ɪmˈpɔːtənt ðæn ˌɪndɪˈvɪdʒuəl ˈɛfərt ɪn əˈtʃiːvɪŋ səkˈsɛs duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người tin rằng làm việc nhóm quan trọng hơn nỗ lực cá nhân để đạt thành công. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 성공 달성에서 팀워크가 개인 노력보다 더 중요하다고 믿습니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は成功達成でチームワークが個人努力より重要だと信じます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I agree that teamwork is often more important than individual effort for success. First, collaboration combines diverse skills and ideas for better results. For example, in my group project at university, pooling knowledge from different majors led to an award-winning presentation. Second, teams provide support, motivation, and shared responsibility during challenges. While individual talent matters, most big achievements require cooperation. Overall, effective teamwork multiplies success potential.",
+    "sampleAnswerIpa": "/aɪ əˈɡriː ðæt ˈtiːmwɜːk ɪz ˈɒfən mɔːr ɪmˈpɔːtənt ðæn ˌɪndɪˈvɪdʒuəl ˈɛfərt fɔː səkˈsɛs fɜːrst kəˌlæbəˈreɪʃən kəmˈbaɪnz daɪˈvɜːs skɪlz ənd aɪˈdiːəz fɔːr ˈbɛtər rɪˈzʌlts fɔːr ɪɡˈzæmpl ɪn maɪ ɡruːp ˈprɒdʒɛkt æt ˌjuːnɪˈvɜːsəti ˈpuːlɪŋ ˈnɑːlɪdʒ frɑːm ˈdɪfrənt ˈmeɪdʒərz lɛd tuː ən əˈwɔːd ˈwɪnɪŋ ˌprɛzənˈteɪʃən ˈsɛkənd tiːmz prəˈvaɪd səˈpɔːrt ˌmoʊtɪˈveɪʃən ənd ʃɛrd rɪˌspɑːnsəˈbɪləti ˈdjʊərɪŋ ˈtʃælɪndʒɪz waɪl ˌɪndɪˈvɪdʒuəl ˈtælənt ˈmætərz moʊst bɪɡ əˈtʃiːvmənts rɪˈkwaɪər koʊˌɒpəˈreɪʃən ˈoʊvərˈɔːl ɪˈfɛktɪv ˈtiːmwɜːk ˈmʌltɪplaɪz səkˈsɛs pəˈtɛnʃəl/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý rằng làm việc nhóm thường quan trọng hơn nỗ lực cá nhân cho thành công. Đầu tiên, hợp tác kết hợp kỹ năng và ý tưởng đa dạng cho kết quả tốt hơn. Ví dụ, ở dự án nhóm đại học, tổng hợp kiến thức chuyên ngành khác nhau dẫn đến bài thuyết trình đoạt giải. Thứ hai, nhóm cung cấp hỗ trợ, động lực và trách nhiệm chia sẻ khi khó khăn. Dù tài năng cá nhân quan trọng, hầu hết thành tựu lớn cần hợp tác. Tổng thể, làm việc nhóm hiệu quả nhân lên tiềm năng thành công.",
+      "kr": "성공을 위해 팀워크가 종종 개인 노력보다 더 중요하다는 데 동의합니다. 먼저, 협력이 다양한 기술과 아이디어를 결합해 더 나은 결과를 냅니다. 예를 들어 대학 그룹 프로젝트에서 다른 전공 지식을 모아 수상 프레젠테이션을 만들었습니다. 둘째, 팀은 도전 중 지지, 동기, 공유 책임을 제공합니다. 개인 재능이 중요하지만 대부분 큰 성과는 협력을 필요로 합니다. 전체적으로 효과적인 팀워크가 성공 잠재력을 배가합니다.",
+      "jp": "成功のためチームワークがしばしば個人努力より重要だというのに同意します。まず、協力が多様なスキルとアイデアを組み合わせより良い結果を生みます。例えば、大学グループプロジェクトで違う専攻の知識をまとめ受賞プレゼンになりました。二番目に、チームは挑戦中サポート、動機、共有責任を提供します。個人才能は重要ですが、大半の大達成は協力を要します。全体的に効果的チームワークが成功ポテンシャルを倍増します。"
+    },
+    "category": "Teamwork vs Individual",
+    "speakTime": 60
+  },
+  {
+    "id": 430,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think it is better to have a few close friends or many acquaintances?",
+    "ipa": "/duː juː θɪŋk ɪt ɪz ˈbɛtər tuː hæv ə fjuː kloʊs frɛndz ɔːr ˈmɛni əˈkweɪntənsɪz/",
+    "translations": {
+      "vn": "Bạn nghĩ có vài người bạn thân hay nhiều người quen tốt hơn?",
+      "kr": "몇 명의 가까운 친구가 있는 것이 많은 지인보다 낫다고 생각하시나요?",
+      "jp": "少数の親しい友達がいる方が多くの知り合いより良いと思いますか？"
+    },
+    "sampleAnswer": "I think having a few close friends is better than many acquaintances. First, deep friendships provide genuine support and trust during tough times. For example, my three best friends have always been there for advice and comfort when I faced challenges. Second, quality relationships foster meaningful conversations and shared experiences. Acquaintances are nice for networking, but close friends offer emotional fulfillment. Overall, fewer but stronger bonds lead to happier, more authentic life.",
+    "sampleAnswerIpa": "/aɪ θɪŋk ˈhævɪŋ ə fjuː kloʊs frɛndz ɪz ˈbɛtər ðæn ˈmɛni əˈkweɪntənsɪz fɜːrst diːp ˈfrɛndʃɪps prəˈvaɪd ˈdʒɛnjuɪn səˈpɔːrt ənd trʌst ˈdjʊərɪŋ tʌf taɪmz fɔːr ɪɡˈzæmpl maɪ θriː bɛst frɛndz hæv ˈɔːlweɪz biːn ðɛr fɔːr ədˈvaɪs ənd ˈkʌmfərt wɛn aɪ feɪst ˈtʃælɪndʒɪz ˈsɛkənd ˈkwɒləti rɪˈleɪʃənʃɪps ˈfɒstər ˈmiːnɪŋfəl ˌkɒnvəˈseɪʃənz ənd ʃɛrd ɪkˈspɪəriənsɪz əˈkweɪntənsɪz ɑːr naɪs fɔː ˈnɛtwɜːkɪŋ bʌt kloʊs frɛndz ˈɒfər ɪˈmoʊʃənl fʊlˈfɪlmənt ˈoʊvərˈɔːl ˈfjuːə bʌt ˈstrɒŋɡər bɒndz liːd tuː ˈhæpiər mɔːr ɔːˈθɛntɪk laɪf/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi nghĩ có vài người bạn thân tốt hơn nhiều người quen. Đầu tiên, tình bạn sâu sắc mang hỗ trợ chân thành và tin tưởng khi khó khăn. Ví dụ, ba người bạn thân luôn ở bên khuyên bảo và an ủi khi tôi gặp thử thách. Thứ hai, mối quan hệ chất lượng nuôi dưỡng cuộc trò chuyện ý nghĩa và trải nghiệm chia sẻ. Người quen tốt cho kết nối, nhưng bạn thân mang thỏa mãn cảm xúc. Tổng thể, ít nhưng mạnh mẽ hơn dẫn đến cuộc sống hạnh phúc và chân thực hơn.",
+      "kr": "몇 명의 가까운 친구가 많은 지인보다 낫다고 생각합니다. 먼저, 깊은 우정이 힘든 시기 진정한 지지와 신뢰를 제공합니다. 예를 들어 세 명의 절친이 도전 시 항상 조언과 위로를 주었습니다. 둘째, 질 높은 관계가 의미 있는 대화와 공유 경험을 키웁니다. 지인은 네트워킹에 좋지만 가까운 친구는 감정 충족을 줍니다. 전체적으로 적지만 강한 유대가 더 행복하고 진정한 삶으로 이끕니다.",
+      "jp": "少数の親しい友達が多くの知り合いより良いと思います。まず、深い友情が困難時に本物のサポートと信頼を提供します。例えば、3人の親友が挑戦時にいつもアドバイスと慰めをくれました。二番目に、質の高い関係が意味ある会話と共有体験を育みます。知り合いはネットワーキングに良いですが、親しい友達は感情的充足を与えます。全体的に、少なくても強い絆がより幸せで本物の生活に導きます。"
+    },
+    "category": "Friendships",
+    "speakTime": 60
+  },
+  {
+    "id": 431,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that traditional paper books will disappear in the future due to e-books. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt trəˈdɪʃənl ˈpeɪpə bʊks wɪl ˌdɪsəˈpɪər ɪn ðə ˈfjuːtʃər djuː tuː iː bʊks duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng sách giấy truyền thống sẽ biến mất trong tương lai do sách điện tử. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 전자책 때문에 미래에 전통 종이 책이 사라질 거라고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は電子書籍のため将来伝統的な紙の本が消えると考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree that traditional paper books will disappear completely. First, many readers prefer the tactile experience and no battery requirement of physical books. For example, collectors and older generations still love building libraries and the feel of pages. Second, paper books don't depend on devices or internet, making them reliable anywhere. While e-books are convenient for travel, print books offer unique charm. Overall, both formats will coexist in the future.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː ðæt trəˈdɪʃənl ˈpeɪpə bʊks wɪl ˌdɪsəˈpɪər kəmˈpliːtli fɜːrst ˈmɛni ˈriːdərz prɪˈfɜːr ðə ˈtæktaɪl ɪkˈspɪəriəns ənd noʊ ˈbætəri rɪˈkwaɪərmənt əv ˈfɪzɪkl bʊks fɔːr ɪɡˈzæmpl kəˈlɛktərz ənd ˈoʊldər ˌdʒɛnəˈreɪʃənz stɪl lʌv ˈbɪldɪŋ ˈlaɪbrəriz ənd ðə fiːl əv peɪdʒɪz ˈsɛkənd ˈpeɪpə bʊks doʊnt dɪˈpɛnd ɒn dɪˈvaɪsɪz ɔːr ˈɪntərnɛt ˈmeɪkɪŋ ðɛm rɪˈlaɪəbl ˈɛnɪweər waɪl iː bʊks ɑːr kənˈviːniənt fɔːr ˈtrævl prɪnt bʊks ˈɒfər ˈjuːnɪk tʃɑːrm ˈoʊvərˈɔːl boʊθ ˈfɔːmæts wɪl ˌkoʊɪɡˈzɪst ɪn ðə ˈfjuːtʃər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý rằng sách giấy truyền thống sẽ biến mất hoàn toàn. Đầu tiên, nhiều độc giả thích trải nghiệm xúc giác và không cần pin của sách vật lý. Ví dụ, nhà sưu tầm và thế hệ lớn tuổi vẫn yêu xây thư viện và cảm giác lật trang. Thứ hai, sách giấy không phụ thuộc thiết bị hay internet, đáng tin cậy mọi nơi. Dù e-book tiện du lịch, sách in mang sức hút độc đáo. Tổng thể, cả hai định dạng sẽ cùng tồn tại trong tương lai.",
+      "kr": "전통 종이 책이 완전히 사라질 거라는 데 반대합니다. 먼저, 많은 독자가 물리 책의 촉감 경험과 배터리 불필요를 선호합니다. 예를 들어 수집가와 고령 세대가 여전히 도서관 쌓기와 페이지 느낌을 사랑합니다. 둘째, 종이 책은 기기나 인터넷에 의존하지 않아 어디서나 신뢰할 수 있습니다. 전자책은 여행에 편리하지만 인쇄 책은 독특한 매력을 줍니다. 전체적으로 두 형식은 미래에 공존할 것입니다.",
+      "jp": "伝統的な紙の本が完全に消えるというのに反対です。まず、多くの読者が物理本の触覚体験とバッテリー不要を好みます。例えば、コレクターと高齢世代がまだ図書館構築とページ感触を愛します。二番目に、紙の本はデバイスやインターネットに依存せずどこでも信頼できます。電子書籍は旅行に便利ですが、印刷本は独特の魅力を与えます。全体的に両フォーマットが将来共存します。"
+    },
+    "category": "Books & Technology",
+    "speakTime": 60
+  },
+  {
+    "id": 432,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think working from home has more advantages than disadvantages for employees?",
+    "ipa": "/duː juː θɪŋk ˈwɜːkɪŋ frɑːm hoʊm hæz mɔːr ədˈvɑːntɪdʒɪz ðæn ˌdɪsədˈvɑːntɪdʒɪz fɔːr ɪmˈplɔɪiːz/",
+    "translations": {
+      "vn": "Bạn có nghĩ làm việc từ xa có nhiều lợi ích hơn bất lợi cho nhân viên không?",
+      "kr": "재택근무가 직원에게 단점보다 장점이 더 많다고 생각하시나요?",
+      "jp": "在宅勤務が従業員に欠点より利点が多いと思いますか？"
+    },
+    "sampleAnswer": "Yes, I think working from home has more advantages for employees. First, it saves commuting time and costs, allowing better work-life balance. For example, I gained two extra hours daily for family and exercise since starting remote work. Second, flexible schedules boost productivity and reduce stress. While isolation is a drawback, video calls help. Overall, the freedom and comfort outweigh minor disadvantages significantly.",
+    "sampleAnswerIpa": "/jɛs aɪ θɪŋk ˈwɜːkɪŋ frɑːm hoʊm hæz mɔːr ədˈvɑːntɪdʒɪz fɔːr ɪmˈplɔɪiːz fɜːrst ɪt seɪvz kəˈmjuːtɪŋ taɪm ənd kɒsts əˈlaʊɪŋ ˈbɛtər wɜːk laɪf ˈbæləns fɔːr ɪɡˈzæmpl aɪ ɡeɪnd tuː ˈɛkstrə aʊərz ˈdeɪli fɔːr ˈfæməli ənd ˈɛksəsaɪz sɪns ˈstɑːtɪŋ rɪˈmoʊt wɜːk ˈsɛkənd ˈflɛksəbl ˈʃɛdjuːlz buːst ˌprɒdʌkˈtɪvəti ənd rɪˈduːs strɛs waɪl ˈaɪsəˈleɪʃən ɪz ə ˈdrɔːbæk ˈvɪdioʊ kɔːlz hɛlp ˈoʊvərˈɔːl ðə ˈfriːdəm ənd ˈkʌmfərt aʊtˈweɪ ˈmaɪnər ˌdɪsədˈvɑːntɪdʒɪz sɪɡˈnɪfɪkəntli/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi nghĩ làm việc từ xa có nhiều lợi ích hơn cho nhân viên. Đầu tiên, nó tiết kiệm thời gian và chi phí di chuyển, cho phép cân bằng công việc-cuộc sống tốt hơn. Ví dụ, tôi có thêm hai giờ hàng ngày cho gia đình và tập luyện kể từ khi làm remote. Thứ hai, lịch linh hoạt tăng năng suất và giảm stress. Dù cô lập là nhược điểm, gọi video giúp. Tổng thể, tự do và thoải mái vượt trội bất lợi nhỏ đáng kể.",
+      "kr": "네, 재택근무가 직원에게 장점이 더 많다고 생각합니다. 먼저, 통근 시간과 비용을 절약해 워크라이프 밸런스를 좋게 합니다. 예를 들어 원격 시작 후 매일 가족과 운동에 2시간 더 생겼습니다. 둘째, 유연 일정이 생산성과 스트레스 감소를 촉진합니다. 고립이 단점이지만 화상 통화가 도와줍니다. 전체적으로 자유와 편안함이 사소한 단점을 크게 능가합니다。",
+      "jp": "はい、在宅勤務が従業員に利点が多いと思います。まず、通勤時間とコストを節約しワークライフバランスを良くします。例えば、リモート開始後毎日家族と運動に2時間増えました。二番目に、柔軟スケジュールが生産性とストレス減少を促進します。孤立が欠点ですがビデオ通話が助けます。全体的に自由と快適さが小さな欠点を大幅に上回ります。"
+    },
+    "category": "Remote Work",
+    "speakTime": 60
+  },
+  {
+    "id": 433,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer watching sports on TV while others prefer attending live events. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈwɒtʃɪŋ spɔːrts ɒn tiːˈviː waɪl ˈʌðərz prɪˈfɜːr əˈtɛndɪŋ laɪv ɪˈvɛnts wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích xem thể thao trên TV trong khi người khác thích tham gia sự kiện trực tiếp. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 TV로 스포츠 보는 것을 선호하고 다른 사람들은 라이브 이벤트 참석을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人はテレビでスポーツを見るのを好み、他はライブイベント参加を好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer attending live sports events over watching on TV. First, the atmosphere and energy from the crowd make it thrilling and unforgettable. For example, cheering at a football stadium with thousands of fans created memories I'll never forget. Second, you experience the game in real time without commercials or replays interruptions. TV is convenient, but live events offer excitement and social bonding. Overall, the immersive feeling is worth the effort.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr əˈtɛndɪŋ laɪv spɔːrts ɪˈvɛnts ˈoʊvə ˈwɒtʃɪŋ ɒn tiːˈviː fɜːrst ði ˈætməsfɪr ənd ˈɛnərdʒi frɑːm ðə kraʊd meɪk ɪt ˈθrɪlɪŋ ənd ˌʌnfərˈɡɛtəbl fɔːr ɪɡˈzæmpl ˈtʃɪərɪŋ æt ə ˈfʊtbɔːl ˈsteɪdiəm wɪð ˈθaʊzəndz əv fænz kriˈeɪtɪd ˈmɛməriz aɪl ˈnɛvə fərˈɡɛt ˈsɛkənd juː ɪkˈspɪəriəns ðə ɡeɪm ɪn rɪəl taɪm wɪˈðaʊt kəˈmɜːrʃəlz ɔːr rɪˈpleɪz ˌɪntəˈrʌpʃənz tiːˈviː ɪz kənˈviːniənt bʌt laɪv ɪˈvɛnts ˈɒfər ɪkˈsaɪtmənt ənd ˈsoʊʃəl ˈbɒndɪŋ ˈoʊvərˈɔːl ði ɪˈmɜːrsɪv ˈfiːlɪŋ ɪz wɜːrθ ði ˈɛfərt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích tham gia sự kiện thể thao trực tiếp hơn xem TV. Đầu tiên, không khí và năng lượng từ đám đông làm nó hồi hộp và khó quên. Ví dụ, cổ vũ ở sân bóng với hàng ngàn fan tạo kỷ niệm không quên. Thứ hai, bạn trải nghiệm trận đấu thời gian thực mà không quảng cáo hay tua lại gián đoạn. TV tiện lợi, nhưng sự kiện trực tiếp mang hào hứng và gắn kết xã hội. Tổng thể, cảm giác đắm chìm đáng công sức.",
+      "kr": "TV 보기보다 라이브 스포츠 이벤트 참석을 선호합니다. 먼저, 군중의 분위기와 에너지가 스릴 있고 잊을 수 없게 만듭니다. 예를 들어 수천 팬과 축구 경기장에서 응원하며 잊지 못할 추억을 만들었습니다. 둘째, 광고나 리플레이 중단 없이 실시간 게임을 경험합니다. TV는 편리하지만 라이브 이벤트는 흥분과 사회적 유대를 줍니다. 전체적으로 몰입 감각이 노력할 가치 있습니다.",
+      "jp": "テレビよりライブスポーツイベント参加を好みます。まず、群衆の雰囲気とエネルギーがスリリングで忘れがたくします。例えば、数千ファンとサッカー場で応援し忘れられない思い出を作りました。二番目に、CMやリプレイ中断なしでリアルタイムゲームを体験します。テレビは便利ですが、ライブイベントは興奮と社会的絆を提供します。全体的に没入感が努力の価値あります。"
+    },
+    "category": "Sports Viewing",
+    "speakTime": 60
+  },
+  {
+    "id": 434,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think students should wear uniforms at school?",
+    "ipa": "/duː juː θɪŋk ˈstuːdənts ʃʊd wɛr ˈjuːnɪfɔːrmz æt skuːl/",
+    "translations": {
+      "vn": "Bạn có nghĩ học sinh nên mặc đồng phục ở trường không?",
+      "kr": "학생들이 학교에서 교복을 입어야 한다고 생각하시나요?",
+      "jp": "生徒は学校で制服を着るべきだと思いますか？"
+    },
+    "sampleAnswer": "Yes, I think students should wear uniforms at school. First, it promotes equality and reduces bullying based on clothing. For example, in schools with uniforms, students focus more on studies than fashion competition. Second, it saves time and money for families by eliminating daily outfit choices. While some argue it limits expression, uniforms foster discipline and school pride. Overall, the benefits for focus and unity outweigh individual style concerns.",
+    "sampleAnswerIpa": "/jɛs aɪ θɪŋk ˈstuːdənts ʃʊd wɛr ˈjuːnɪfɔːrmz æt skuːl fɜːrst ɪt prəˈmoʊts iˈkwɒləti ənd rɪˈduːsɪz ˈbʊliɪŋ beɪst ɒn ˈkloʊðɪŋ fɔːr ɪɡˈzæmpl ɪn skuːlz wɪð ˈjuːnɪfɔːrmz ˈstuːdənts ˈfoʊkəs mɔːr ɒn ˈstʌdiz ðæn ˈfæʃən kəmˈpɛtɪʃən ˈsɛkənd ɪt seɪvz taɪm ənd ˈmʌni fɔː ˈfæməliz baɪ ɪˈlɪmɪneɪtɪŋ ˈdeɪli ˈaʊtfɪt ˈtʃɔɪsɪz waɪl sʌm ˈɑːrɡjuː ɪt ˈlɪmɪts ɪkˈsprɛʃən ˈjuːnɪfɔːrmz ˈfɒstər ˈdɪsɪplɪn ənd skuːl praɪd ˈoʊvərˈɔːl ðə ˈbɛnɪfɪts fɔː ˈfoʊkəs ənd ˈjuːnəti aʊtˈweɪ ˌɪndɪˈvɪdʒuəl staɪl kənˈsɜːrnz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi nghĩ học sinh nên mặc đồng phục ở trường. Đầu tiên, nó thúc đẩy bình đẳng và giảm bắt nạt dựa trên quần áo. Ví dụ, ở trường có đồng phục, học sinh tập trung học hành hơn cạnh tranh thời trang. Thứ hai, nó tiết kiệm thời gian và tiền cho gia đình bằng loại bỏ chọn trang phục hàng ngày. Dù một số cho rằng hạn chế biểu đạt, đồng phục nuôi dưỡng kỷ luật và tự hào trường. Tổng thể, lợi ích tập trung và đoàn kết vượt quan ngại phong cách cá nhân.",
+      "kr": "네, 학생들이 학교에서 교복을 입어야 한다고 생각합니다. 먼저, 평등을 촉진하고 옷차림 기반 왕따를 줄입니다. 예를 들어 교복 있는 학교에서 학생들이 패션 경쟁보다 공부에 더 집중합니다. 둘째, 매일 옷 선택을 없애 가족 시간과 돈을 절약합니다. 일부가 표현 제한이라고 주장하지만 교복은 규율과 학교 자부심을 키웁니다. 전체적으로 집중과 단결 이점이 개인 스타일 우려를 능가합니다.",
+      "jp": "はい、生徒は学校で制服を着るべきだと思います。まず、平等を促進し服に基づくいじめを減らします。例えば、制服ある学校で生徒がファッション競争より勉強に集中します。二番目に、毎日服選択をなくし家族の時間とお金を節約します。一部が表現制限と言うが、制服は規律と学校誇りを育みます。全体的に集中と団結の利益が個人スタイル懸念を上回ります。"
+    },
+    "category": "School Uniforms",
+    "speakTime": 60
+  },
+  {
+    "id": 435,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people believe that volunteering should be mandatory for high school students. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl bɪˈliːv ðæt ˌvɒlənˈtɪərɪŋ ʃʊd biː ˈmændətəri fɔː haɪ skuːl ˈstuːdənts duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người tin rằng tình nguyện nên bắt buộc cho học sinh trung học. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 고등학생에게 봉사가 의무적이어야 한다고 믿습니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は高校生にボランティアを義務化すべきだと信じます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I agree that volunteering should be mandatory for high school students. First, it teaches empathy and community awareness at a formative age. For example, my mandatory service hours helping at a food bank opened my eyes to social issues. Second, it builds resume and develops skills like leadership. While some may resist, the long-term benefits for character and society are significant. Overall, required volunteering fosters responsible citizens.",
+    "sampleAnswerIpa": "/aɪ əˈɡriː ðæt ˌvɒlənˈtɪərɪŋ ʃʊd biː ˈmændətəri fɔː haɪ skuːl ˈstuːdənts fɜːrst ɪt tiːtʃɪz ˈɛmpəθi ənd kəˈmjuːnəti əˈwɛərnəs æt ə fɔːˈmeɪtɪv eɪdʒ fɔːr ɪɡˈzæmpl maɪ ˈmændətəri ˈsɜːvɪs aʊərz ˈhɛlpɪŋ æt ə fuːd bæŋk ˈoʊpənd maɪ aɪz tuː ˈsoʊʃəl ˈɪʃuːz ˈsɛkənd ɪt bɪldz rɪˈzjuːmeɪ ənd dɪˈvɛləps skɪlz laɪk ˈliːdəʃɪp waɪl sʌm meɪ rɪˈzɪst ðə lɔːŋ tɜːm ˈbɛnɪfɪts fɔː ˈkærɪktər ənd səˈsaɪəti ɑːr sɪɡˈnɪfɪkənt ˈoʊvərˈɔːl rɪˈkwaɪərd ˌvɒlənˈtɪərɪŋ ˈfɒstərz rɪˈspɒnsəbl ˈsɪtɪzənz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý rằng tình nguyện nên bắt buộc cho học sinh trung học. Đầu tiên, nó dạy đồng cảm và nhận thức cộng đồng ở tuổi hình thành. Ví dụ, giờ phục vụ bắt buộc giúp ngân hàng thực phẩm mở mắt tôi về vấn đề xã hội. Thứ hai, nó xây dựng CV và phát triển kỹ năng như lãnh đạo. Dù một số phản đối, lợi ích dài hạn cho nhân cách và xã hội đáng kể. Tổng thể, tình nguyện bắt buộc nuôi dưỡng công dân trách nhiệm.",
+      "kr": "고등학생에게 봉사가 의무적이어야 한다는 데 동의합니다. 먼저, 형성기 나이에 공감과 커뮤니티 인식을 가르칩니다. 예를 들어 의무 봉사 시간에 푸드뱅크 도우며 사회 문제에 눈을 떴습니다. 둘째, 이력서 쌓기와 리더십 같은 기술 개발합니다. 일부가 저항할 수 있지만 성격과 사회에 장기 이점이 크습니다. 전체적으로 의무 봉사는 책임 있는 시민을 키웁니다.",
+      "jp": "高校生にボランティアを義務化すべきだというのに同意します。まず、形成期に共感とコミュニティ意識を教えます。例えば、義務サービス時間にフードバンク手伝いが社会問題に目を開かせました。二番目に、レジュメ構築とリーダーシップなどのスキル開発します。一部が抵抗するが性格と社会への長期利益が大きいです。全体的に義務ボランティアが責任ある市民を育てます。"
+    },
+    "category": "Volunteering",
+    "speakTime": 60
+  },
+  {
+    "id": 436,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that advertising aimed at children should be strictly regulated. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈædvərtaɪzɪŋ eɪmd æt ˈtʃɪldrən ʃʊd biː ˈstrɪktli ˈrɛɡjəleɪtɪd duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng quảng cáo nhắm đến trẻ em nên được quy định nghiêm ngặt. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 어린이를 대상으로 한 광고를 엄격히 규제해야 한다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は子供向け広告を厳しく規制すべきだと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I strongly agree that advertising aimed at children should be strictly regulated. First, young kids lack the ability to distinguish between ads and reality, leading to unhealthy demands. For example, junk food commercials often cause children to pressure parents for sugary snacks. Second, aggressive marketing exploits vulnerability and promotes materialism early. While some ads educate, most prioritize profit over well-being. Overall, strict rules protect children's health and development.",
+    "sampleAnswerIpa": "/aɪ ˈstrɒŋli əˈɡriː ðæt ˈædvərtaɪzɪŋ eɪmd æt ˈtʃɪldrən ʃʊd biː ˈstrɪktli ˈrɛɡjəleɪtɪd fɜːrst jʌŋ kɪdz læk ði əˈbɪləti tuː dɪˈstɪŋɡwɪʃ bɪˈtwiːn ædz ənd riˈæləti ˈliːdɪŋ tuː ʌnˈhɛlθi dɪˈmændz fɔːr ɪɡˈzæmpl dʒʌŋk fuːd kəˈmɜːrʃəlz ˈɒfən kɔːz ˈtʃɪldrən tuː ˈprɛʃər ˈpɛərənts fɔː ˈʃʊɡəri snæks ˈsɛkənd əˈɡrɛsɪv ˈmɑːrkɪtɪŋ ɪkˈsplɔɪts ˌvʌlnərəˈbɪləti ənd prəˈmoʊts ˌməˈtɪəriəlɪzəm ˈɜːli waɪl sʌm ædz ˌɛdʒuˈkeɪt moʊst praɪˈɔːrətaɪz ˈprɒfɪt ˈoʊvə wɛl ˈbiːɪŋ ˈoʊvərˈɔːl strɪkt ruːlz prəˈtɛkt ˈtʃɪldrənz hɛlθ ənd dɪˈvɛləpmənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng quảng cáo nhắm đến trẻ em nên được quy định nghiêm ngặt. Đầu tiên, trẻ nhỏ thiếu khả năng phân biệt quảng cáo và thực tế, dẫn đến đòi hỏi không lành mạnh. Ví dụ, quảng cáo đồ ăn vặt thường khiến trẻ ép bố mẹ mua đồ ngọt. Thứ hai, tiếp thị hung hăng khai thác sự dễ bị tổn thương và thúc đẩy chủ nghĩa vật chất sớm. Dù một số quảng cáo giáo dục, hầu hết ưu tiên lợi nhuận hơn sức khỏe. Tổng thể, quy định nghiêm bảo vệ sức khỏe và phát triển trẻ em.",
+      "kr": "어린이를 대상으로 한 광고를 엄격히 규제해야 한다는 데 강력히 동의합니다. 먼저, 어린 아이들은 광고와 현실을 구분할 능력이 부족해 건강하지 않은 요구를 합니다. 예를 들어 정크푸드 광고가 아이들이 부모에게 설탕 간식을 사달라고 압박하게 합니다. 둘째, 공격적 마케팅이 취약성을 이용하고 일찍 물질주의를 촉진합니다. 일부 광고가 교육적이지만 대부분 이익을 웰빙보다 우선합니다. 전체적으로 엄격 규칙이 아이들의 건강과 발달을 보호합니다.",
+      "jp": "子供向け広告を厳しく規制すべきだというのに強く同意します。まず、幼い子供たちは広告と現実を区別する能力がなく不健康な要求を招きます。例えば、ジャンクフードCMが子供に親へ甘いスナックをねだらせます。二番目に、攻撃的マーケティングが脆弱性を悪用し早く物質主義を促進します。一部広告が教育的ですが、大半が利益をウェルビーイングより優先します。全体的に厳格ルールが子供の健康と発達を守ります。"
+    },
+    "category": "Advertising & Children",
+    "speakTime": 60
+  },
+  {
+    "id": 437,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think international tourism brings more benefits or problems to local areas?",
+    "ipa": "/duː juː θɪŋk ˌɪntərˈnæʃənl ˈtʊrɪzəm brɪŋz mɔːr ˈbɛnɪfɪts ɔːr ˈprɒbləmz tuː ˈloʊkəl ˈɛəriəz/",
+    "translations": {
+      "vn": "Bạn có nghĩ du lịch quốc tế mang lại nhiều lợi ích hay vấn đề hơn cho khu vực địa phương?",
+      "kr": "국제 관광이 지역에 이익이 더 많은지 문제가 더 많은지 생각하시나요?",
+      "jp": "国際観光が地元地域に利益が多いか問題が多いと思いますか？"
+    },
+    "sampleAnswer": "I believe international tourism brings more benefits than problems to local areas. First, it generates income and creates jobs for residents. For example, in Bali, tourism supports thousands of families through hotels and handicrafts. Second, it promotes cultural exchange and infrastructure improvements. While overcrowding can strain resources, proper management minimizes issues. Overall, the economic boost and global exposure outweigh temporary challenges.",
+    "sampleAnswerIpa": "/aɪ bɪˈliːv ˌɪntərˈnæʃənl ˈtʊrɪzəm brɪŋz mɔːr ˈbɛnɪfɪts ðæn ˈprɒbləmz tuː ˈloʊkəl ˈɛəriəz fɜːrst ɪt ˈdʒɛnəreɪts ˈɪnkʌm ənd kriˈeɪts dʒɒbz fɔː ˈrɛzɪdənts fɔːr ɪɡˈzæmpl ɪn ˈbɑːli ˈtʊrɪzəm səˈpɔːts ˈθaʊzəndz əv ˈfæməliz θruː hoʊˈtɛlz ənd ˌhændiˈkræfts ˈsɛkənd ɪt prəˈmoʊts ˈkʌltʃərəl ɪksˈtʃeɪndʒ ənd ˌɪnfrəˈstrʌktʃər ɪmˈpruːvmənts waɪl ˌoʊvəˈkraʊdɪŋ kæn streɪn rɪˈsɔːrsɪz ˈprɒpər ˈmænɪdʒmənt ˈmɪnɪmaɪzɪz ˈɪʃuːz ˈoʊvərˈɔːl ði iːkəˈnɒmɪk buːst ənd ˈɡloʊbəl ɪkˈspoʊʒər aʊtˈweɪ ˈtɛmpərəri ˈtʃælɪndʒɪz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tin du lịch quốc tế mang lại nhiều lợi ích hơn vấn đề cho khu vực địa phương. Đầu tiên, nó tạo thu nhập và việc làm cho cư dân. Ví dụ, ở Bali, du lịch hỗ trợ hàng ngàn gia đình qua khách sạn và thủ công mỹ nghệ. Thứ hai, nó thúc đẩy trao đổi văn hóa và cải thiện hạ tầng. Dù đông đúc có thể căng thẳng tài nguyên, quản lý tốt giảm thiểu vấn đề. Tổng thể, tăng trưởng kinh tế và tiếp xúc toàn cầu vượt trội thách thức tạm thời.",
+      "kr": "국제 관광이 지역에 이익이 더 많다고 믿습니다. 먼저, 수입을 창출하고 주민 일자리를 만듭니다. 예를 들어 발리에서 관광이 호텔과 수공예로 수천 가족을 지원합니다. 둘째, 문화 교류와 인프라 개선을 촉진합니다. 과밀이 자원을 압박할 수 있지만 적절 관리로 문제를 최소화합니다. 전체적으로 경제 부스트와 글로벌 노출이 일시 도전을 능가합니다.",
+      "jp": "国際観光が地元地域に利益が多いと信じます。まず、収入を生み住民雇用を作ります。例えば、バリで観光がホテルと手工芸で数千家族を支えます。二番目に、文化交流とインフラ改善を促進します。過密が資源を圧迫するが適切管理で問題を最小化します。全体的に経済ブーストとグローバル露出が一時的挑戦を上回ります。"
+    },
+    "category": "Tourism Impact",
+    "speakTime": 60
+  },
+  {
+    "id": 438,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer listening to music with lyrics while others prefer instrumental music. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈlɪsnɪŋ tuː ˈmjuːzɪk wɪð ˈlɪrɪks waɪl ˈʌðərz prɪˈfɜːr ˌɪnstrəˈmɛntl ˈmjuːzɪk wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích nghe nhạc có lời trong khi người khác thích nhạc không lời. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 가사 있는 음악 듣기를 선호하고 다른 사람들은 기악 음악을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人は歌詞付き音楽を好み、他はインストゥルメンタル音楽を好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer instrumental music over songs with lyrics. First, it allows better focus during work or study without distracting words. For example, classical piano pieces help me concentrate on writing reports for hours. Second, instrumental tracks evoke emotions purely through melody, offering relaxation. Lyrics can be great for singing along, but instrumentals provide versatile background sound. Overall, they enhance productivity and calm in daily routines.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˌɪnstrəˈmɛntl ˈmjuːzɪk ˈoʊvə sɒŋz wɪð ˈlɪrɪks fɜːrst ɪt əˈlaʊz ˈbɛtər ˈfoʊkəs ˈdjʊərɪŋ wɜːk ɔːr ˈstʌdi waɪˈðaʊt dɪˈstræktɪŋ wɜːdz fɔːr ɪɡˈzæmpl ˈklæsɪkl piˈænoʊ piːsɪz hɛlp miː ˈkɒnsəntreɪt ɒn ˈraɪtɪŋ rɪˈpɔːrts fɔːr aʊərz ˈsɛkənd ˌɪnstrəˈmɛntl træks ɪˈvoʊk ɪˈmoʊʃənz ˈpjʊəli θruː ˈmɛlədi ˈɒfərɪŋ ˌriːlækˈseɪʃən ˈlɪrɪks kæn biː ɡreɪt fɔː ˈsɪŋɪŋ əˈlɒŋ bʌt ˌɪnstrəˈmɛntl prəˈvaɪd ˈvɜːsətaɪl ˈbækɡraʊnd saʊnd ˈoʊvərˈɔːl ðeɪ ɪnˈhæns ˌprɒdʌkˈtɪvəti ənd kɑːm ɪn ˈdeɪli ruːˈtiːnz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích nhạc không lời hơn nhạc có lời. Đầu tiên, nó cho phép tập trung tốt hơn khi làm việc hoặc học mà không bị lời bài hát làm phân tâm. Ví dụ, bản piano cổ điển giúp tôi tập trung viết báo cáo hàng giờ. Thứ hai, nhạc không lời gợi cảm xúc thuần qua giai điệu, mang thư giãn. Lời bài hát hay để hát theo, nhưng không lời cung cấp âm nền đa dụng. Tổng thể, chúng tăng năng suất và bình tĩnh trong thói quen hàng ngày.",
+      "kr": "가사 있는 노래보다 기악 음악을 선호합니다. 먼저, 산만한 가사 없이 작업이나 공부 중 더 나은 집중을 허용합니다. 예를 들어 클래식 피아노 곡이 보고서 쓰는 데 몇 시간 집중하게 도와줍니다. 둘째, 기악 트랙이 멜로디만으로 감정을 불러일으켜 휴식을 줍니다. 가사는 따라 부르기 좋지만 기악은 다용도 배경 사운드를 제공합니다. 전체적으로 일상 루틴에서 생산성과 평온을 높입니다.",
+      "jp": "歌詞付きよりインストゥルメンタル音楽を好みます。まず、気晴らし言葉なしで仕事や勉強中より良い集中を許します。例えば、クラシックピアノ曲がレポート執筆で何時間集中させてくれます。二番目に、インストゥルメンタルトラックがメロディだけで感情を呼びリラクゼーションを提供します。歌詞は一緒に歌うのに良いですが、インストゥルメンタルは汎用背景音を提供します。全体的に日常ルーチンで生産性と落ち着きを高めます。"
+    },
+    "category": "Music Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 439,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think reading books is better than watching movies for entertainment?",
+    "ipa": "/duː juː θɪŋk ˈriːdɪŋ bʊks ɪz ˈbɛtər ðæn ˈwɒtʃɪŋ ˈmuːviz fɔːr ˌɛntərˈteɪnmənt/",
+    "translations": {
+      "vn": "Bạn có nghĩ đọc sách tốt hơn xem phim cho giải trí không?",
+      "kr": "오락을 위해 책 읽기가 영화 보는 것보다 낫다고 생각하시나요?",
+      "jp": "娯楽のため本を読むのが映画を見るより良いと思いますか？"
+    },
+    "sampleAnswer": "I think reading books is better than watching movies for entertainment. First, books stimulate imagination by letting readers visualize scenes themselves. For example, describing characters in novels allows personal interpretation that films fix. Second, reading improves vocabulary and critical thinking through deeper engagement. Movies are visually exciting, but books offer richer inner experiences. Overall, books provide more intellectual and emotional satisfaction.",
+    "sampleAnswerIpa": "/aɪ θɪŋk ˈriːdɪŋ bʊks ɪz ˈbɛtər ðæn ˈwɒtʃɪŋ ˈmuːviz fɔːr ˌɛntərˈteɪnmənt fɜːrst bʊks ˈstɪmjəleɪt ˌɪmædʒɪˈneɪʃən baɪ ˈlɛtɪŋ ˈriːdərz ˈvɪʒuəlaɪz siːnz ðɛmˈsɛlvz fɔːr ɪɡˈzæmpl dɪˈskraɪbɪŋ ˈkærɪktərz ɪn ˈnɒvəlz əˈlaʊz ˈpɜːrsənl ˌɪntərprɪˈteɪʃən ðæt fɪlmz fɪks ˈsɛkənd ˈriːdɪŋ ɪmˈpruːvz vəʊˈkæbjələri ənd ˈkrɪtɪkl ˈθɪŋkɪŋ θruː ˈdiːpər ɪnˈɡeɪdʒmənt ˈmuːviz ɑːr ˈvɪʒuəli ɪkˈsaɪtɪŋ bʌt bʊks ˈɒfər ˈrɪtʃər ˈɪnər ɪkˈspɪəriənsɪz ˈoʊvərˈɔːl bʊks prəˈvaɪd mɔːr ˌɪntɪˈlɛktʃuəl ənd ɪˈmoʊʃənl ˌsætɪsˈfækʃən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi nghĩ đọc sách tốt hơn xem phim cho giải trí. Đầu tiên, sách kích thích trí tưởng tượng bằng để độc giả tự hình dung cảnh. Ví dụ, mô tả nhân vật trong tiểu thuyết cho phép diễn giải cá nhân mà phim cố định. Thứ hai, đọc sách cải thiện từ vựng và tư duy phê phán qua tương tác sâu hơn. Phim hấp dẫn thị giác, nhưng sách mang trải nghiệm nội tâm phong phú hơn. Tổng thể, sách cung cấp thỏa mãn trí tuệ và cảm xúc lớn hơn.",
+      "kr": "오락을 위해 책 읽기가 영화 보는 것보다 낫다고 생각합니다. 먼저, 독자가 직접 장면을 시각화하게 해 상상력을 자극합니다. 예를 들어 소설 캐릭터 묘사가 영화가 고정하는 개인 해석을 허용합니다. 둘째, 더 깊은 참여로 어휘와 비판적 사고를 향상시킵니다. 영화는 시각적으로 흥미롭지만 책은 더 풍부한 내적 경험을 줍니다. 전체적으로 책이 지적·감정적 만족을 더 제공합니다.",
+      "jp": "娯楽のため本を読むのが映画を見るより良いと思います。まず、読者が自分で場面を視覚化し想像力を刺激します。例えば、小説のキャラクター描写が映画の固定に対し個人解釈を許します。二番目に、より深い関与で語彙と批判的思考を向上させます。映画は視覚的にエキサイティングですが、本はより豊かな内面的体験を提供します。全体的に本が知的・感情的満足をより与えます。"
+    },
+    "category": "Books vs Movies",
+    "speakTime": 60
+  },
+  {
+    "id": 440,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that working overtime is necessary for career success. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈwɜːkɪŋ ˈoʊvətaɪm ɪz ˈnɛsəsɛri fɔː kəˈrɪə səkˈsɛs duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng làm thêm giờ là cần thiết cho thành công nghề nghiệp. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 경력 성공에 초과 근무가 필요하다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人はキャリア成功に残業が必要だと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree that working overtime is necessary for career success. First, productivity depends on efficiency and focus, not hours. For example, many successful companies like Google encourage work-life balance and innovative short hours. Second, constant overtime leads to burnout and reduced creativity. True success comes from smart work and rest. Overall, quality over quantity and well-being drive long-term achievements better.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː ðæt ˈwɜːkɪŋ ˈoʊvətaɪm ɪz ˈnɛsəsɛri fɔː kəˈrɪə səkˈsɛs fɜːrst ˌprɒdʌkˈtɪvəti dɪˈpɛndz ɒn ɪˈfɪʃənsi ənd ˈfoʊkəs nɒt aʊərz fɔːr ɪɡˈzæmpl ˈmɛni səkˈsɛsfəl ˈkʌmpəniz laɪk ˈɡuːɡl ɪnˈkʌrɪdʒ wɜːk laɪf ˈbæləns ənd ˌɪnəˈveɪtɪv ʃɔːrt aʊərz ˈsɛkənd ˈkɒnstənt ˈoʊvətaɪm liːdz tuː ˈbɜːrnaʊt ənd rɪˈduːst ˌkriːeɪˈtɪvəti truː səkˈsɛs kʌmz frɑːm smɑːrt wɜːk ənd rɛst ˈoʊvərˈɔːl ˈkwɒləti ˈoʊvə ˈkwɒntəti ənd wɛl ˈbiːɪŋ draɪv lɔːŋ tɜːm əˈtʃiːvmənts ˈbɛtər/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý rằng làm thêm giờ cần thiết cho thành công nghề nghiệp. Đầu tiên, năng suất phụ thuộc hiệu quả và tập trung, không phải giờ làm. Ví dụ, nhiều công ty thành công như Google khuyến khích cân bằng công việc-cuộc sống và giờ làm sáng tạo ngắn. Thứ hai, làm thêm liên tục dẫn đến kiệt sức và giảm sáng tạo. Thành công thực sự từ làm việc thông minh và nghỉ ngơi. Tổng thể, chất lượng hơn số lượng và sức khỏe thúc đẩy thành tựu dài hạn tốt hơn.",
+      "kr": "경력 성공에 초과 근무가 필요하다는 데 반대합니다. 먼저, 생산성은 시간보다 효율과 집중에 달려 있습니다. 예를 들어 구글 같은 성공 기업이 워크라이프 밸런스와 혁신적 단시간을 장려합니다. 둘째, 지속 초과 근무가 번아웃과 창의성 감소를 초래합니다. 진정한 성공은 스마트 워크와 휴식에서 옵니다. 전체적으로 질보다 양과 웰빙이 장기 성과를 더 잘 이끕니다.",
+      "jp": "キャリア成功に残業が必要だというのに反対です。まず、生産性は時間より効率と集中に依存します。例えば、グーグルなどの成功企業がワークライフバランスと革新的短時間を奨励します。二番目に、継続残業がバーンアウトと創造性減少を招きます。本当の成功はスマートワークと休息から来ます。全体的に質より量とウェルビーイングが長期達成をより良く駆動します。"
+    },
+    "category": "Work & Overtime",
+    "speakTime": 60
+  },
+  {
+    "id": 441,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think artificial intelligence will create more jobs or eliminate more jobs in the future?",
+    "ipa": "/duː juː θɪŋk ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns wɪl kriˈeɪt mɔːr dʒɒbz ɔːr ɪˈlɪmɪneɪt mɔːr dʒɒbz ɪn ðə ˈfjuːtʃər/",
+    "translations": {
+      "vn": "Bạn có nghĩ trí tuệ nhân tạo sẽ tạo nhiều việc làm hơn hay loại bỏ nhiều việc làm hơn trong tương lai?",
+      "kr": "인공지능이 미래에 더 많은 일자리를 창출할지 아니면 더 많이 없앨지 생각하시나요?",
+      "jp": "人工知能が将来より多くの雇用を生むかより多くを排除すると思いますか？"
+    },
+    "sampleAnswer": "I believe artificial intelligence will create more jobs than it eliminates in the future. First, AI automates repetitive tasks, freeing humans for creative roles. For example, in healthcare, AI handles diagnostics while doctors focus on patient care, creating new tech support jobs. Second, it spawns entirely new industries like AI ethics and maintenance. While some jobs disappear, history shows technology generates more opportunities. Overall, adaptation and reskilling will lead to net job growth.",
+    "sampleAnswerIpa": "/aɪ bɪˈliːv ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns wɪl kriˈeɪt mɔːr dʒɒbz ðæn ɪt ɪˈlɪmɪneɪts ɪn ðə ˈfjuːtʃər fɜːrst eɪ aɪ ˈɔːtəmeɪts rɪˈpɛtɪtɪv tæsks ˈfriːɪŋ ˈhjuːmənz fɔː kriˈeɪtɪv roʊlz fɔːr ɪɡˈzæmpl ɪn ˈhɛlθkɛər eɪ aɪ ˈhændlz ˌdaɪəɡˈnɒstɪks waɪl ˈdɒktərz ˈfoʊkəs ɒn ˈpeɪʃənt kɛr kriˈeɪtɪŋ nuː tɛk səˈpɔːrt dʒɒbz ˈsɛkənd ɪt spɔːnz ɪnˈtaɪəli nuː ˈɪndəstriz laɪk eɪ aɪ ˈɛθɪks ənd ˈmeɪntənəns waɪl sʌm dʒɒbz ˌdɪsəˈpɪər ˈhɪstəri ʃoʊz tɛkˈnɑːlədʒi ˈdʒɛnəreɪts mɔːr ˌɒpərˈtuːnətiz ˈoʊvərˈɔːl ˌædæpˈteɪʃən ənd riːˈskɪlɪŋ wɪl liːd tuː nɛt dʒɒb ɡroʊθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tin trí tuệ nhân tạo sẽ tạo nhiều việc làm hơn loại bỏ trong tương lai. Đầu tiên, AI tự động hóa nhiệm vụ lặp lại, giải phóng con người cho vai trò sáng tạo. Ví dụ, trong y tế, AI xử lý chẩn đoán trong khi bác sĩ tập trung chăm sóc bệnh nhân, tạo việc hỗ trợ công nghệ mới. Thứ hai, nó sinh ra ngành hoàn toàn mới như đạo đức AI và bảo trì. Dù một số việc biến mất, lịch sử cho thấy công nghệ tạo nhiều cơ hội hơn. Tổng thể, thích nghi và đào tạo lại sẽ dẫn đến tăng trưởng việc làm ròng.",
+      "kr": "인공지능이 미래에 없애는 것보다 더 많은 일자리를 창출할 거라고 믿습니다. 먼저, 반복 작업을 자동화해 인간을 창의적 역할로 해방합니다. 예를 들어 의료에서 AI가 진단을 처리하며 의사가 환자 케어에 집중해 새 테크 지원 일자리를 만듭니다. 둘째, AI 윤리와 유지보수 같은 완전 새 산업을 낳습니다. 일부 일자리가 사라지지만 역사상 기술이 더 많은 기회를 만들었습니다. 전체적으로 적응과 재교육이 순 일자리 성장을 이끌 것입니다.",
+      "jp": "人工知能が将来排除より多くの雇用を生むと信じます。まず、繰り返しタスクを自動化し人間を創造的役割に解放します。例えば、医療でAIが診断を扱い医師が患者ケアに集中し、新テックサポート雇用を作ります。二番目に、AI倫理とメンテナンスなどの全く新産業を生みます。一部雇用が消えるが、歴史は技術がより多くの機会を生むと示します。全体的に適応とリスキリングが純雇用成長を導きます。"
+    },
+    "category": "AI & Jobs",
+    "speakTime": 60
+  },
+  {
+    "id": 442,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer traveling alone while others prefer traveling with others. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ˈtrævəlɪŋ əˈloʊn waɪl ˈʌðərz prɪˈfɜːr ˈtrævəlɪŋ wɪð ˈʌðərz wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích du lịch một mình trong khi người khác thích đi cùng người khác. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 혼자 여행을 선호하고 다른 사람들은 함께 여행을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人は一人旅行を好み、他は他人と旅行を好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer traveling with others over going alone. First, shared experiences create lasting memories and stronger bonds. For example, my trip to Europe with friends involved laughter, photos, and support during mishaps that solo travel lacks. Second, group travel is safer and more fun with divided costs and planning. Alone offers freedom, but companionship adds joy and security. Overall, traveling together enriches the adventure emotionally.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ˈtrævəlɪŋ wɪð ˈʌðərz ˈoʊvə ˈɡoʊɪŋ əˈloʊn fɜːrst ʃɛrd ɪkˈspɪəriənsɪz kriˈeɪt ˈlɑːstɪŋ ˈmɛməriz ənd ˈstrɒŋɡər bɒndz fɔːr ɪɡˈzæmpl maɪ trɪp tuː ˈjʊərəp wɪð frɛndz ɪnˈvɒlvd ˈlɑːftər ˈfoʊtoʊz ənd səˈpɔːrt ˈdjʊərɪŋ ˈmɪshæps ðæt ˈsoʊloʊ ˈtrævl læks ˈsɛkənd ɡruːp ˈtrævl ɪz ˈseɪfər ənd mɔːr fʌn wɪð dɪˈvaɪdɪd kɒsts ənd ˈplænɪŋ əˈloʊn ˈɒfərz ˈfriːdəm bʌt kəmˈpænjənʃɪp ædz dʒɔɪ ənd sɪˈkjʊərəti ˈoʊvərˈɔːl ˈtrævəlɪŋ təˈɡɛðər ɪnˈrɪtʃɪz ði ədˈvɛntʃər ɪˈmoʊʃənəli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích du lịch cùng người khác hơn đi một mình. Đầu tiên, trải nghiệm chia sẻ tạo kỷ niệm lâu dài và gắn kết mạnh mẽ hơn. Ví dụ, chuyến đi châu Âu với bạn bè có tiếng cười, ảnh chụp và hỗ trợ khi rắc rối mà du lịch solo thiếu. Thứ hai, đi nhóm an toàn và vui hơn với chia chi phí và lập kế hoạch. Một mình mang tự do, nhưng đồng hành thêm niềm vui và an ninh. Tổng thể, đi cùng nhau làm phong phú cuộc phiêu lưu cảm xúc.",
+      "kr": "혼자보다 함께 여행을 선호합니다. 먼저, 공유 경험이 지속 기억과 더 강한 유대를 만듭니다. 예를 들어 친구들과 유럽 여행에서 웃음, 사진, 사고 시 지원이 솔로 여행이 부족한 것입니다. 둘째, 그룹 여행이 비용과 계획 분담으로 더 안전하고 재미있습니다. 혼자가 자유를 주지만 동반이 기쁨과 보안을 더합니다. 전체적으로 함께 여행이 모험을 감정적으로 풍부하게 합니다.",
+      "jp": "一人より他人と旅行を好みます。まず、共有体験が持続記憶と強い絆を生みます。例えば、友達とのヨーロッパ旅行で笑い、写真、トラブル時のサポートがソロ欠けるものです。二番目に、グループ旅行がコストと計画分担でより安全で楽しいです。一人が自由を与えますが、伴侶が喜びとセキュリティを加えます。全体的に一緒に旅行が冒険を感情的に豊かにします。"
+    },
+    "category": "Travel Preferences",
+    "speakTime": 60
+  },
+  {
+    "id": 443,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think regular health check-ups are necessary even when you feel healthy?",
+    "ipa": "/duː juː θɪŋk ˈrɛɡjələr hɛlθ tʃɛk ʌps ɑːr ˈnɛsəsɛri ˈiːvn wɛn juː fiːl ˈhɛlθi/",
+    "translations": {
+      "vn": "Bạn có nghĩ kiểm tra sức khỏe định kỳ cần thiết ngay cả khi bạn cảm thấy khỏe mạnh không?",
+      "kr": "건강하다고 느껴도 정기 건강 검진이 필요하다고 생각하시나요?",
+      "jp": "健康に感じても定期健康診断が必要だと思いますか？"
+    },
+    "sampleAnswer": "Yes, regular health check-ups are necessary even when feeling healthy. First, they detect hidden issues early for better treatment. For example, routine blood tests caught my uncle's high cholesterol before symptoms appeared, preventing heart problems. Second, preventive care saves money and lives long-term. Many diseases like cancer are curable if found soon. Overall, check-ups provide peace of mind and promote proactive health management.",
+    "sampleAnswerIpa": "/jɛs ˈrɛɡjələr hɛlθ tʃɛk ʌps ɑːr ˈnɛsəsɛri ˈiːvn wɛn ˈfiːlɪŋ ˈhɛlθi fɜːrst ðeɪ dɪˈtɛkt ˈhɪdn ˈɪʃuːz ˈɜːli fɔː ˈbɛtər ˈtriːtmənt fɔːr ɪɡˈzæmpl ˈruːtiːn blʌd tɛsts kɔːt maɪ ˈʌŋklz haɪ kəˈlɛstərɔːl bɪˈfɔː ˈsɪmptəmz əˈpɪərd prɪˈvɛntɪŋ hɑːrt ˈprɒbləmz ˈsɛkənd prɪˈvɛntɪv kɛr seɪvz ˈmʌni ənd laɪvz lɔːŋ tɜːm ˈmɛni dɪˈziːzɪz laɪk ˈkænsər ɑːr ˈkjʊərəbl ɪf faʊnd suːn ˈoʊvərˈɔːl tʃɛk ʌps prəˈvaɪd piːs əv maɪnd ənd prəˈmoʊt prəʊˈæktɪv hɛlθ ˈmænɪdʒmənt/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, kiểm tra sức khỏe định kỳ cần thiết ngay cả khi cảm thấy khỏe. Đầu tiên, chúng phát hiện vấn đề ẩn sớm để điều trị tốt hơn. Ví dụ, xét nghiệm máu định kỳ phát hiện cholesterol cao của chú tôi trước khi có triệu chứng, ngăn vấn đề tim. Thứ hai, chăm sóc phòng ngừa tiết kiệm tiền và cứu sống lâu dài. Nhiều bệnh như ung thư chữa được nếu phát hiện sớm. Tổng thể, kiểm tra mang bình an tâm trí và thúc đẩy quản lý sức khỏe chủ động.",
+      "kr": "네, 건강하다고 느껴도 정기 검진이 필요합니다. 먼저, 숨겨진 문제를 일찍 발견해 더 나은 치료를 합니다. 예를 들어 루틴 혈액 검사로 증상 전 삼촌의 높은 콜레스테롤을 잡아 심장 문제를 예방했습니다. 둘째, 예방 케어가 장기적으로 돈과 생명을 절약합니다. 암 같은 많은 질병이 일찍 발견되면 치료 가능합니다. 전체적으로 검진이 마음의 평화와 적극적 건강 관리를 제공합니다.",
+      "jp": "はい、健康に感じても定期検診が必要です。まず、隠れた問題を早く検知しより良い治療をします。例えば、ルーチン血液検査が症状前におじの高いコレステロールを捉え心臓問題を防ぎました。二番目に、予防ケアが長期的に金と命を節約します。癌などの多くの病気が早く見つかれば治せます。全体的に検診が心の平安と積極的健康管理を促進します。"
+    },
+    "category": "Health Check-ups",
+    "speakTime": 60
+  },
+  {
+    "id": 444,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that homework should be banned in schools. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈhoʊmwɜːk ʃʊd biː bænd ɪn skuːlz duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng bài tập về nhà nên bị cấm ở trường. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 학교에서 숙제를 금지해야 한다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は学校で宿題を禁止すべきだと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I disagree with banning homework entirely in schools. First, it reinforces classroom learning and builds independent study habits. For example, math problems at home helped me master concepts better than class alone. Second, moderate homework teaches time management and responsibility. Complete ban might reduce stress but hinder preparation for higher education. Overall, reasonable amounts of homework support academic growth effectively.",
+    "sampleAnswerIpa": "/aɪ ˌdɪsəˈɡriː wɪð ˈbænɪŋ ˈhoʊmwɜːk ɪnˈtaɪəli ɪn skuːlz fɜːrst ɪt ˌriːɪnˈfɔːrs ˈklæsruːm ˈlɜːnɪŋ ənd bɪldz ˌɪndɪˈpɛndənt ˈstʌdi ˈhæbɪts fɔːr ɪɡˈzæmpl mæθ ˈprɒbləmz æt hoʊm hɛlpt miː ˈmɑːstə ˈkɒnsɛpts ˈbɛtər ðæn klɑːs əˈloʊn ˈsɛkənd ˈmɒdərɪt ˈhoʊmwɜːk tiːtʃɪz taɪm ˈmænɪdʒmənt ənd rɪˌspɑːnsəˈbɪləti kəmˈpliːt bæn maɪt rɪˈduːs strɛs bʌt ˈhɪndər prɪˌpærəˈreɪʃən fɔː ˈhaɪər ˌɛdʒuˈkeɪʃən ˈoʊvərˈɔːl ˈriːznəbl əˈmaʊnts əv ˈhoʊmwɜːk səˈpɔːrt əˈkædɛmɪk ɡroʊθ ɪˈfɛktɪvli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi không đồng ý cấm hoàn toàn bài tập về nhà ở trường. Đầu tiên, nó củng cố học lớp và xây dựng thói quen học độc lập. Ví dụ, bài toán về nhà giúp tôi nắm khái niệm tốt hơn chỉ học lớp. Thứ hai, bài tập vừa phải dạy quản lý thời gian và trách nhiệm. Cấm hoàn toàn có thể giảm stress nhưng cản trở chuẩn bị giáo dục cao hơn. Tổng thể, lượng bài tập hợp lý hỗ trợ tăng trưởng học thuật hiệu quả.",
+      "kr": "학교에서 숙제를 완전히 금지하는 데 반대합니다. 먼저, 수업 학습을 강화하고 독립 공부 습관을 키웁니다. 예를 들어 집에서 수학 문제가 수업만보다 개념을 더 잘 마스터하게 도왔습니다. 둘째, 적당한 숙제가 시간 관리와 책임을 가르칩니다. 완전 금지는 스트레스를 줄일 수 있지만 고등 교육 준비를 방해합니다. 전체적으로 합리적 양의 숙제가 학업 성장을 효과적으로 지원합니다.",
+      "jp": "学校で宿題を完全に禁止することに反対です。まず、授業学習を強化し独立勉強習慣を築きます。例えば、家での数学問題が授業だけより概念をより良くマスターさせました。二番目に、適度な宿題が時間管理と責任を教えます。完全禁止はストレスを減らすが高等教育準備を妨げます。全体的に合理的量の宿題が学業成長を効果的にサポートします。"
+    },
+    "category": "Homework in Education",
+    "speakTime": 60
+  },
+  {
+    "id": 445,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think recycling should be mandatory for all households?",
+    "ipa": "/duː juː θɪŋk rɪˈsaɪklɪŋ ʃʊd biː ˈmændətəri fɔːr ɔːl ˈhaʊshoʊldz/",
+    "translations": {
+      "vn": "Bạn có nghĩ tái chế nên bắt buộc cho mọi hộ gia đình không?",
+      "kr": "모든 가정에 재활용이 의무적이어야 한다고 생각하시나요?",
+      "jp": "全世帯にリサイクルを義務化すべきだと思いますか？"
+    },
+    "sampleAnswer": "Yes, recycling should be mandatory for all households. First, it significantly reduces waste and conserves resources. For example, in cities with strict recycling laws, landfill volumes dropped dramatically. Second, it educates families on environmental responsibility and sets habits for future generations. Fines or incentives can encourage compliance. Overall, mandatory recycling is essential for sustainable living and protecting the planet.",
+    "sampleAnswerIpa": "/jɛs rɪˈsaɪklɪŋ ʃʊd biː ˈmændətəri fɔːr ɔːl ˈhaʊshoʊldz fɜːrst ɪt sɪɡˈnɪfɪkəntli rɪˈduːsɪz weɪst ənd kənˈsɜːvz rɪˈsɔːrsɪz fɔːr ɪɡˈzæmpl ɪn ˈsɪtiz wɪð strɪkt rɪˈsaɪklɪŋ lɔːz ˈlændfɪl ˈvɒljuːmz drɒpt drəˈmætɪkli ˈsɛkənd ɪt ˌɛdʒuˈkeɪts ˈfæməliz ɒn ɪnˈvaɪrənməntl rɪˌspɑːnsəˈbɪləti ənd sɛts ˈhæbɪts fɔː ˈfjuːtʃər ˌdʒɛnəˈreɪʃənz faɪnz ɔːr ɪnˈsɛntɪvz kæn ɪnˈkʌrɪdʒ kəmˈplaɪəns ˈoʊvərˈɔːl ˈmændətəri rɪˈsaɪklɪŋ ɪz ɪˈsɛnʃəl fɔː səˈsteɪnəbl ˈlɪvɪŋ ənd prəˈtɛktɪŋ ðə ˈplænɪt/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tái chế nên bắt buộc cho mọi hộ gia đình. Đầu tiên, nó giảm đáng kể rác thải và bảo tồn tài nguyên. Ví dụ, ở thành phố có luật tái chế nghiêm, lượng rác chôn lấp giảm mạnh. Thứ hai, nó giáo dục gia đình về trách nhiệm môi trường và đặt thói quen cho thế hệ sau. Phạt hoặc khuyến khích có thể thúc đẩy tuân thủ. Tổng thể, tái chế bắt buộc thiết yếu cho sống bền vững và bảo vệ hành tinh.",
+      "kr": "네, 모든 가정에 재활용이 의무적이어야 합니다. 먼저, 폐기물을 크게 줄이고 자원을 보존합니다. 예를 들어 엄격 재활용 법 있는 도시에서 매립량이 극적으로 떨어졌습니다. 둘째, 가족에게 환경 책임을 교육하고 미래 세대 습관을 만듭니다. 벌금이나 인센티브가 준수를 장려합니다. 전체적으로 의무 재활용이 지속 가능 생활과 지구 보호에 필수적입니다.",
+      "jp": "はい、全世帯にリサイクルを義務化すべきです。まず、廃棄物を大幅に減らし資源を節約します。例えば、厳格リサイクル法ある都市で埋立量が劇的に減りました。二番目に、家族に環境責任を教育し未来世代の習慣を築きます。罰金やインセンティブが遵守を奨励します。全体的に義務リサイクルが持続可能生活と地球保護に不可欠です。"
+    },
+    "category": "Recycling & Environment",
+    "speakTime": 60
+  },
+  {
+    "id": 446,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people prefer online shopping while others prefer traditional in-store shopping. Which do you prefer?",
+    "ipa": "/sʌm ˈpiːpəl prɪˈfɜːr ɒnˈlaɪn ˈʃɒpɪŋ waɪl ˈʌðərz prɪˈfɜːr trəˈdɪʃənl ɪn stɔːr ˈʃɒpɪŋ wɪtʃ duː juː prɪˈfɜːr/",
+    "translations": {
+      "vn": "Một số người thích mua sắm trực tuyến trong khi người khác thích mua sắm truyền thống tại cửa hàng. Bạn thích cái nào hơn?",
+      "kr": "어떤 사람들은 온라인 쇼핑을 선호하고 다른 사람들은 전통 매장 쇼핑을 선호합니다. 당신은 어느 쪽을 선호하나요?",
+      "jp": "一部の人はオンラインショッピングを好み、他は伝統的店舗ショッピングを好みます。どちらを好みますか？"
+    },
+    "sampleAnswer": "I prefer online shopping over traditional in-store. First, it saves time and offers endless choices from home. For example, during busy weeks, I order clothes and groceries online with delivery, avoiding traffic and crowds. Second, price comparisons and reviews help make better decisions. In-store is good for trying items, but online convenience and deals win for most purchases. Overall, digital shopping fits modern lifestyles perfectly.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜːr ɒnˈlaɪn ˈʃɒpɪŋ ˈoʊvə trəˈdɪʃənl ɪn stɔːr fɜːrst ɪt seɪvz taɪm ənd ˈɒfərz ˈɛndləs ˈtʃɔɪsɪz frɑːm hoʊm fɔːr ɪɡˈzæmpl ˈdjʊərɪŋ ˈbɪzi wiːks aɪ ˈɔːdər kloʊðz ənd ˈɡroʊsəriz ɒnˈlaɪn wɪð dɪˈlɪvəri əˈvɔɪdɪŋ ˈtræfɪk ənd kraʊdz ˈsɛkənd praɪs kəmˈpærɪsənz ənd rɪˈvjuːz hɛlp meɪk ˈbɛtər dɪˈsɪʒənz ɪn stɔːr ɪz ɡʊd fɔː ˈtraɪɪŋ ˈaɪtəmz bʌt ɒnˈlaɪn kənˈviːniəns ənd diːlz wɪn fɔː moʊst ˈpɜːtʃəsɪz ˈoʊvərˈɔːl ˈdɪdʒɪtl ˈʃɒpɪŋ fɪts ˈmɒdərn ˈlaɪfstaɪlz ˈpɜːfɪktli/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích mua sắm trực tuyến hơn truyền thống tại cửa hàng. Đầu tiên, nó tiết kiệm thời gian và mang vô vàn lựa chọn từ nhà. Ví dụ, tuần bận rộn, tôi đặt quần áo và thực phẩm online giao tận nơi, tránh kẹt xe và đám đông. Thứ hai, so sánh giá và đánh giá giúp quyết định tốt hơn. Tại cửa hàng tốt để thử đồ, nhưng tiện lợi và ưu đãi online thắng hầu hết mua sắm. Tổng thể, mua sắm số phù hợp hoàn hảo lối sống hiện đại.",
+      "kr": "전통 매장보다 온라인 쇼핑을 선호합니다. 먼저, 시간 절약과 집에서 무한 선택을 제공합니다. 예를 들어 바쁜 주에 옷과 식료품을 온라인 주문 배달로 받아 교통과 군중을 피합니다. 둘째, 가격 비교와 리뷰가 더 나은 결정을 돕습니다. 매장에서 시착이 좋지만 대부분 구매에서 온라인 편의와 딜이 이깁니다. 전체적으로 디지털 쇼핑이 현대 라이프스타일에 완벽히 맞습니다.",
+      "jp": "伝統店舗よりオンラインショッピングを好みます。まず、時間を節約し家から無限選択を提供します。例えば、忙しい週に服と食料品をオンライン注文配送で受け、交通と群衆を避けます。二番目に、価格比較とレビューがより良い決定を助けます。店舗で試着が良いですが、大半購入でオンライン便利さとディールが勝ちます。全体的にデジタルショッピングが現代ライフスタイルに完璧に合います。"
+    },
+    "category": "Online vs In-store Shopping",
+    "speakTime": 60
+  },
+  {
+    "id": 447,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think having a hobby is important for a balanced life?",
+    "ipa": "/duː juː θɪŋk ˈhævɪŋ ə ˈhɒbi ɪz ɪmˈpɔːtənt fɔːr ə ˈbælənst laɪf/",
+    "translations": {
+      "vn": "Bạn có nghĩ có sở thích quan trọng cho cuộc sống cân bằng không?",
+      "kr": "균형 잡힌 삶에 취미가 중요하다고 생각하시나요?",
+      "jp": "バランスの取れた生活に趣味を持つのが重要だと思いますか？"
+    },
+    "sampleAnswer": "Yes, having a hobby is very important for a balanced life. First, it provides relaxation and reduces work stress. For example, my weekend painting sessions help me unwind and recharge after busy weeks. Second, hobbies foster creativity and personal growth outside professional duties. They also improve mental health and relationships. Overall, dedicating time to passions prevents burnout and adds joy to daily routine.",
+    "sampleAnswerIpa": "/jɛs ˈhævɪŋ ə ˈhɒbi ɪz ˈvɛri ɪmˈpɔːtənt fɔːr ə ˈbælənst laɪf fɜːrst ɪt prəˈvaɪdz ˌriːlækˈseɪʃən ənd rɪˈduːs wɜːk strɛs fɔːr ɪɡˈzæmpl maɪ ˈwiːkɛnd ˈpeɪntɪŋ ˈsɛʃənz hɛlp miː ʌnˈwaɪnd ənd riːˈtʃɑːrdʒ ˈæftə ˈbɪzi wiːks ˈsɛkənd ˈhɒbiz ˈfɒstər ˌkriːeɪˈtɪvəti ənd ˈpɜːrsənl ɡroʊθ aʊtˈsaɪd prəˈfɛʃənl ˈdjuːtiz ðeɪ ˈɔːlsoʊ ɪmˈpruːv ˈmɛntl hɛlθ ənd rɪˈleɪʃənʃɪps ˈoʊvərˈɔːl ˈdɛdɪkeɪtɪŋ taɪm tuː ˈpæʃənz prɪˈvɛnts ˈbɜːrnaʊt ənd ædz dʒɔɪ tuː ˈdeɪli ruːˈtiːn/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, có sở thích rất quan trọng cho cuộc sống cân bằng. Đầu tiên, nó mang thư giãn và giảm stress công việc. Ví dụ, buổi vẽ tranh cuối tuần giúp tôi thư thái và nạp năng lượng sau tuần bận rộn. Thứ hai, sở thích nuôi dưỡng sáng tạo và phát triển cá nhân ngoài nhiệm vụ nghề nghiệp. Chúng cũng cải thiện sức khỏe tâm thần và mối quan hệ. Tổng thể, dành thời gian cho đam mê ngăn kiệt sức và thêm niềm vui vào thói quen hàng ngày.",
+      "kr": "네, 균형 삶에 취미가 매우 중요합니다. 먼저, 휴식 제공과 작업 스트레스 감소합니다. 예를 들어 주말 페인팅 세션이 바쁜 주 후 풀리고 재충전하게 도와줍니다. 둘째, 취미가 직업 의무 밖 창의성과 개인 성장을 키웁니다. 정신 건강과 관계도 향상시킵니다. 전체적으로 열정에 시간 헌납이 번아웃 방지하고 일상 루틴에 기쁨을 더합니다.",
+      "jp": "はい、バランス生活に趣味がとても重要だと思います。まず、リラクゼーションを提供し仕事ストレスを減らします。例えば、週末絵画セッションが忙しい週後リラックスと再充電を助けます。二番目に、趣味が職業義務外創造性と個人成長を育みます。精神健康と関係も改善します。全体的に情熱に時間献上がバーンアウトを防ぎ日常ルーチンに喜びを加えます。"
+    },
+    "category": "Hobbies & Balance",
+    "speakTime": 60
+  },
+  {
+    "id": 448,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that family meals together are less common nowadays. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈfæməli miːlz təˈɡɛðər ɑːr lɛs ˈkɒmən ˈnaʊədeɪz duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng bữa ăn gia đình cùng nhau ít phổ biến hơn ngày nay. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 요즘 가족 함께 식사가 덜 흔하다고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は今日家族一緒の食事が見少なくなったと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I agree that family meals together are less common nowadays. First, busy schedules from work and school leave little shared time. For example, in my family, parents' late hours and kids' activities mean separate dinners often. Second, technology distracts with phones at tables. While some families prioritize it, modern life fragments traditions. Overall, fewer joint meals weaken bonds and communication.",
+    "sampleAnswerIpa": "/aɪ əˈɡriː ðæt ˈfæməli miːlz təˈɡɛðər ɑːr lɛs ˈkɒmən ˈnaʊədeɪz fɜːrst ˈbɪzi ˈʃɛdjuːlz frɑːm wɜːk ənd skuːl liːv ˈlɪtl ʃɛrd taɪm fɔːr ɪɡˈzæmpl ɪn maɪ ˈfæməli ˈpɛərənts leɪt aʊərz ənd kɪdz ækˈtɪvətiz miːn ˈsɛpərɪt ˈdɪnərz ˈɒfən ˈsɛkənd tɛkˈnɑːlədʒi dɪˈstrækts wɪð foʊnz æt ˈteɪblz waɪl sʌm ˈfæməliz praɪˈɔːrətaɪz ɪt ˈmɒdərn laɪf ˈfræɡmənts trəˈdɪʃənz ˈoʊvərˈɔːl ˈfjuːə dʒɔɪnt miːlz ˈwiːkən bɒndz ənd ˌkɒmjʊnɪˈkeɪʃən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đồng ý rằng bữa ăn gia đình cùng nhau ít phổ biến hơn ngày nay. Đầu tiên, lịch bận rộn từ công việc và học hành để lại ít thời gian chung. Ví dụ, trong gia đình tôi, giờ muộn của bố mẹ và hoạt động con cái nghĩa là thường ăn riêng. Thứ hai, công nghệ làm phân tâm với điện thoại trên bàn. Dù một số gia đình ưu tiên, cuộc sống hiện đại làm vỡ vụn truyền thống. Tổng thể, ít bữa ăn chung làm yếu gắn kết và giao tiếp.",
+      "kr": "요즘 가족 함께 식사가 덜 흔하다는 데 동의합니다. 먼저, 일과 학교 바쁜 일정이 공유 시간 적게 남깁니다. 예를 들어 우리 가족에서 부모 늦은 시간과 아이 활동으로 자주 따로 밥을 먹습니다. 둘째, 테이블 폰이 산만하게 합니다. 일부 가족이 우선하지만 현대 생활이 전통을 분열시킵니다. 전체적으로 적은 공동 식사가 유대와 소통을 약화시킵니다。",
+      "jp": "今日家族一緒の食事が少なくなったというのに同意します。まず、仕事と学校の忙しいスケジュールが共有時間を少なくします。例えば、私の家族で親の遅い時間と子供活動でしばしば別々に夕食します。二番目に、テーブルスマホが気晴らしします。一部家族が優先しますが、現代生活が伝統を断片化します。全体的に少ない共同食事が絆とコミュニケーションを弱めます。"
+    },
+    "category": "Family Meals",
+    "speakTime": 60
+  },
+  {
+    "id": 449,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Do you think news from social media is as reliable as traditional news sources?",
+    "ipa": "/duː juː θɪŋk nuːz frɑːm ˈsoʊʃəl ˈmiːdiə ɪz æz rɪˈlaɪəbl æz trəˈdɪʃənl nuːz ˈsɔːrsɪz/",
+    "translations": {
+      "vn": "Bạn có nghĩ tin tức từ mạng xã hội đáng tin cậy như nguồn tin truyền thống không?",
+      "kr": "소셜 미디어 뉴스가 전통 뉴스 소스만큼 신뢰할 수 있다고 생각하시나요?",
+      "jp": "ソーシャルメディアのニュースが伝統的ニュースソースと同じく信頼できると思いますか？"
+    },
+    "sampleAnswer": "No, I think news from social media is generally less reliable than traditional sources. First, anyone can post without fact-checking, spreading misinformation quickly. For example, during elections, false stories on platforms influenced public opinion wrongly. Second, algorithms prioritize engagement over accuracy. Professional journalism has standards and editing. Overall, while social media is fast, traditional outlets provide verified, balanced reporting.",
+    "sampleAnswerIpa": "/noʊ aɪ θɪŋk nuːz frɑːm ˈsoʊʃəl ˈmiːdiə ɪz ˈdʒɛnərəli lɛs rɪˈlaɪəbl ðæn trəˈdɪʃənl ˈsɔːrsɪz fɜːrst ˈɛniwʌn kæn poʊst wɪˈðaʊt fækt ˈtʃɛkɪŋ ˈsprɛdɪŋ ˌmɪsˌɪnfərˈmeɪʃən ˈkwɪkli fɔːr ɪɡˈzæmpl ˈdjʊərɪŋ ɪˈlɛkʃənz fɔːls ˈstɔːriz ɒn ˈplætfɔːrmz ˈɪnfluənst ˈpʌblɪk əˈpɪnjən ˈrɒŋli ˈsɛkənd ˈælɡərɪðmz praɪˈɔːrətaɪz ɪnˈɡeɪdʒmənt ˈoʊvə ˈækjərəsi prəˈfɛʃənl ˈdʒɜːnəlɪzəm hæz ˈstændərdz ənd ˈɛdɪtɪŋ ˈoʊvərˈɔːl waɪl ˈsoʊʃəl ˈmiːdiə ɪz fæst trəˈdɪʃənl ˈaʊtlɛts prəˈvaɪd vəˈraɪfaɪd ˈbælənst rɪˈpɔːtɪŋ/",
+    "sampleAnswerTranslations": {
+      "vn": "Không, tôi nghĩ tin tức từ mạng xã hội thường ít đáng tin hơn nguồn truyền thống. Đầu tiên, ai cũng đăng mà không kiểm chứng sự thật, lan truyền thông tin sai nhanh chóng. Ví dụ, trong bầu cử, câu chuyện giả trên nền tảng ảnh hưởng sai dư luận. Thứ hai, thuật toán ưu tiên tương tác hơn chính xác. Báo chí chuyên nghiệp có tiêu chuẩn và biên tập. Tổng thể, dù mạng xã hội nhanh, nguồn truyền thống cung cấp báo cáo xác minh và cân bằng.",
+      "kr": "아니요, 소셜 미디어 뉴스가 일반적으로 전통 소스보다 덜 신뢰할 수 있다고 생각합니다. 먼저, 누구나 팩트 체크 없이 게시해 잘못된 정보가 빠르게 퍼집니다. 예를 들어 선거 중 플랫폼 가짜 스토리가 대중 의견을 잘못 영향했습니다. 둘째, 알고리즘이 정확성보다 참여를 우선합니다. 전문 저널리즘은 표준과 편집이 있습니다. 전체적으로 소셜 미디어가 빠르지만 전통 매체가 검증·균형 보도를 제공합니다.",
+      "jp": "いいえ、ソーシャルメディアのニュースが一般的に伝統ソースより信頼性が低いと思います。まず、誰でもファクトチェックなし投稿し誤情報が急速に広がります。例えば、選挙中プラットフォーム偽ストーリーが世論を誤って影響しました。二番目に、アルゴリズムが正確性よりエンゲージメントを優先します。プロジャーナリズムは標準と編集があります。全体的にソーシャルメディアは速いですが、伝統的アウトレットが検証・バランス報道を提供します。"
+    },
+    "category": "News Reliability",
+    "speakTime": 60
+  },
+  {
+    "id": 450,
+    "questionType": "Express an opinion",
+    "questionNumber": "Q11",
+    "text": "Some people think that learning to cook is an essential life skill. Do you agree or disagree?",
+    "ipa": "/sʌm ˈpiːpəl θɪŋk ðæt ˈlɜːnɪŋ tuː kʊk ɪz ən ɪˈsɛnʃəl laɪf skɪl duː juː əˈɡriː ɔːr ˌdɪsəˈɡriː/",
+    "translations": {
+      "vn": "Một số người nghĩ rằng học nấu ăn là kỹ năng sống thiết yếu. Bạn đồng ý hay không đồng ý?",
+      "kr": "어떤 사람들은 요리 배우기가 필수 삶 기술이라고 생각합니다. 동의하시나요 아니면 반대하시나요?",
+      "jp": "一部の人は料理を学ぶのが必須生活スキルだと考えます。同意しますか、それとも反対しますか？"
+    },
+    "sampleAnswer": "I strongly agree that learning to cook is an essential life skill. First, it promotes healthy eating and saves money compared to takeout. For example, preparing simple meals at home helped me control ingredients and avoid processed foods. Second, cooking fosters independence and creativity in daily life. It also brings joy through sharing with family. Overall, this skill supports well-being and self-reliance throughout adulthood.",
+    "sampleAnswerIpa": "/aɪ ˈstrɒŋli əˈɡriː ðæt ˈlɜːnɪŋ tuː kʊk ɪz ən ɪˈsɛnʃəl laɪf skɪl fɜːrst ɪt prəˈmoʊts ˈhɛlθi ˈiːtɪŋ ənd seɪvz ˈmʌni kəmˈpɛərd tuː ˈteɪkaʊt fɔːr ɪɡˈzæmpl prɪˈpɛərɪŋ ˈsɪmpl miːlz æt hoʊm hɛlpt miː kənˈtroʊl ɪnˈɡriːdiənts ənd əˈvɔɪd ˈprɒsɛst fuːdz ˈsɛkənd ˈkʊkɪŋ ˈfɒstər ˌɪndɪˈpɛndəns ənd ˌkriːeɪˈtɪvəti ɪn ˈdeɪli laɪf ɪt ˈɔːlsoʊ brɪŋz dʒɔɪ θruː ˈʃɛərɪŋ wɪð ˈfæməli ˈoʊvərˈɔːl ðɪs skɪl səˈpɔːts wɛl ˈbiːɪŋ ənd sɛlf rɪˈlaɪəns θruːˈaʊt ˈædʌlthʊd/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi hoàn toàn đồng ý rằng học nấu ăn là kỹ năng sống thiết yếu. Đầu tiên, nó thúc đẩy ăn lành mạnh và tiết kiệm tiền so với ăn ngoài. Ví dụ, chuẩn bị bữa đơn giản ở nhà giúp tôi kiểm soát nguyên liệu và tránh đồ chế biến. Thứ hai, nấu ăn nuôi dưỡng độc lập và sáng tạo hàng ngày. Nó cũng mang niềm vui qua chia sẻ gia đình. Tổng thể, kỹ năng này hỗ trợ sức khỏe và tự lập suốt tuổi trưởng thành.",
+      "kr": "요리 배우기가 필수 삶 기술이라는 데 강력히 동의합니다. 먼저, 건강한 식사 촉진과 테이크아웃보다 돈 절약합니다. 예를 들어 집에서 간단 식사 준비가 재료 제어와 가공 식품 피하게 도왔습니다. 둘째, 요리가 일상 독립성과 창의성을 키웁니다. 가족 공유로 기쁨도 줍니다. 전체적으로 이 기술이 웰빙과 자립을 성인기 내내 지원합니다.",
+      "jp": "料理を学ぶのが必須生活スキルだというのに強く同意します。まず、健康食を促進しテイクアウトよりお金を節約します。例えば、家で簡単食事準備が材料制御と加工食品避けを助けました。二番目に、料理が日常独立性と創造性を育みます。家族共有で喜びももたらします。全体的にこのスキルがウェルビーイングと自立を成人期を通じてサポートします。"
+    },
+    "category": "Cooking as Life Skill",
+    "speakTime": 60
+  }
+]

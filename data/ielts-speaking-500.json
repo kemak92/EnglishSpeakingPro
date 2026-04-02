@@ -1,0 +1,214 @@
+[
+  {
+    "id": 1,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What is your full name?",
+    "ipa": "/wɒt ɪz jɔː fʊl neɪm/",
+    "translations": { "vn": "Tên đầy đủ của bạn là gì?", "kr": "성함이 어떻게 되세요?", "jp": "フルネームは何ですか?" },
+    "sampleAnswer": "My full name is John David Smith.",
+    "sampleAnswerIpa": "/maɪ fʊl neɪm ɪz dʒɒn ˈdeɪvɪd smɪθ/",
+    "sampleAnswerTranslations": {
+      "vn": "Tên đầy đủ của tôi là John David Smith.",
+      "kr": "제 성함은 John David Smith입니다.",
+      "jp": "私のフルネームはジョン・デイビッド・スミスです。"
+    },
+    "category": "Personal Information"
+  },
+  {
+    "id": 2,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Where are you from?",
+    "ipa": "/weə ɑː juː frɒm/",
+    "translations": { "vn": "Bạn đến từ đâu?", "kr": "어디 출신이세요?", "jp": "どこ出身ですか?" },
+    "sampleAnswer": "I'm from London, England.",
+    "sampleAnswerIpa": "/aɪm frɒm ˈlʌndən ˈɪŋɡlənd/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi đến từ London, Anh.",
+      "kr": "저는 영국 런던 출신입니다.",
+      "jp": "私はイギリスのロンドン出身です。"
+    },
+    "category": "Personal Information"
+  },
+  {
+    "id": 3,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you work or are you a student?",
+    "ipa": "/duː juː wɜːk ɔːr ɑː juː ə ˈstjuːdənt/",
+    "translations": {
+      "vn": "Bạn đang làm việc hay đang là sinh viên?",
+      "kr": "직장인이세요, 아니면 학생이세요?",
+      "jp": "働いていますか、それとも学生ですか?"
+    },
+    "sampleAnswer": "I'm currently a university student studying computer science.",
+    "sampleAnswerIpa": "/aɪm ˈkʌrəntli ə ˌjuːnɪˈvɜːsəti ˈstjuːdənt ˈstʌdiɪŋ kəmˈpjuːtə ˈsaɪəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Hiện tại tôi là sinh viên đại học ngành khoa học máy tính.",
+      "kr": "저는 현재 컴퓨터 공학을 전공하는 대학생입니다.",
+      "jp": "現在、コンピュータサイエンスを専攻している大学生です。"
+    },
+    "category": "Work & Study"
+  },
+  {
+    "id": 4,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What do you like about your hometown?",
+    "ipa": "/wɒt duː juː laɪk əˈbaʊt jɔː ˈhəʊmtaʊn/",
+    "translations": {
+      "vn": "Bạn thích điều gì về quê hương của mình?",
+      "kr": "고향에 대해 무엇을 좋아하세요?",
+      "jp": "故郷について何が好きですか?"
+    },
+    "sampleAnswer": "I love the friendly atmosphere and beautiful parks in my hometown.",
+    "sampleAnswerIpa": "/aɪ lʌv ðə ˈfrendli ˈætməsfɪə ænd ˈbjuːtɪfəl pɑːks ɪn maɪ ˈhəʊmtaʊn/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi yêu bầu không khí thân thiện và những công viên đẹp ở quê tôi.",
+      "kr": "저는 고향의 친근한 분위기와 아름다운 공원들을 좋아합니다.",
+      "jp": "故郷の親しみやすい雰囲気と美しい公園が大好きです。"
+    },
+    "category": "Hometown"
+  },
+  {
+    "id": 5,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you prefer reading books or watching television?",
+    "ipa": "/duː juː prɪˈfɜː ˈriːdɪŋ bʊks ɔː ˈwɒtʃɪŋ ˈtelɪvɪʒən/",
+    "translations": {
+      "vn": "Bạn thích đọc sách hay xem tivi hơn?",
+      "kr": "책 읽는 것과 텔레비전 보는 것 중 어느 것을 더 선호하세요?",
+      "jp": "本を読むのとテレビを見るのとどちらが好きですか?"
+    },
+    "sampleAnswer": "I prefer reading books because they stimulate my imagination more than television.",
+    "sampleAnswerIpa": "/aɪ prɪˈfɜː ˈriːdɪŋ bʊks bɪˈkɒz ðeɪ ˈstɪmjʊleɪt maɪ ɪˌmædʒɪˈneɪʃən mɔː ðæn ˈtelɪvɪʒən/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích đọc sách hơn vì chúng kích thích trí tưởng tượng của tôi nhiều hơn tivi.",
+      "kr": "저는 책이 텔레비전보다 상상력을 더 자극하기 때문에 책 읽는 것을 선호합니다.",
+      "jp": "本はテレビよりも想像力を刺激するので、本を読む方が好きです。"
+    },
+    "category": "Hobbies"
+  },
+  {
+    "id": 6,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "How often do you meet your friends?",
+    "ipa": "/haʊ ˈɒfən duː juː miːt jɔː frendz/",
+    "translations": {
+      "vn": "Bạn gặp bạn bè của mình bao lâu một lần?",
+      "kr": "친구들을 얼마나 자주 만나나요?",
+      "jp": "友達とどのくらいの頻度で会いますか?"
+    },
+    "sampleAnswer": "I meet my friends at least twice a week, usually on weekends.",
+    "sampleAnswerIpa": "/aɪ miːt maɪ frendz æt liːst twaɪs ə wiːk ˈjuːʒʊəli ɒn ˈwiːkendz/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi gặp bạn bè ít nhất hai lần một tuần, thường là vào cuối tuần.",
+      "kr": "저는 주말에 보통 일주일에 최소 두 번 친구들을 만납니다.",
+      "jp": "通常週末に、少なくとも週に2回友達と会います。"
+    },
+    "category": "Social Life"
+  },
+  {
+    "id": 7,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What kind of music do you enjoy listening to?",
+    "ipa": "/wɒt kaɪnd ɒv ˈmjuːzɪk duː juː ɪnˈdʒɔɪ ˈlɪsənɪŋ tuː/",
+    "translations": {
+      "vn": "Bạn thích nghe loại nhạc gì?",
+      "kr": "어떤 종류의 음악을 듣는 것을 즐기나요?",
+      "jp": "どんな種類の音楽を聴くのが好きですか?"
+    },
+    "sampleAnswer": "I enjoy listening to classical music and jazz because they help me relax.",
+    "sampleAnswerIpa": "/aɪ ɪnˈdʒɔɪ ˈlɪsənɪŋ tuː ˈklæsɪkəl ˈmjuːzɪk ænd dʒæz bɪˈkɒz ðeɪ help miː rɪˈlæks/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi thích nghe nhạc cổ điển và jazz vì chúng giúp tôi thư giãn.",
+      "kr": "저는 긴장을 풀어주기 때문에 클래식 음악과 재즈를 듣는 것을 즐깁니다.",
+      "jp": "リラックスできるので、クラシック音楽とジャズを聴くのが好きです。"
+    },
+    "category": "Music"
+  },
+  {
+    "id": 8,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Do you think it's important to learn a foreign language?",
+    "ipa": "/duː juː θɪŋk ɪts ɪmˈpɔːtənt tuː lɜːn ə ˈfɒrən ˈlæŋɡwɪdʒ/",
+    "translations": {
+      "vn": "Bạn có nghĩ rằng việc học một ngôn ngữ nước ngoài là quan trọng không?",
+      "kr": "외국어를 배우는 것이 중요하다고 생각하나요?",
+      "jp": "外国語を学ぶことは重要だと思いますか?"
+    },
+    "sampleAnswer": "Yes, I believe learning foreign languages opens up new opportunities and helps us understand different cultures.",
+    "sampleAnswerIpa": "/jes aɪ bɪˈliːv ˈlɜːnɪŋ ˈfɒrən ˈlæŋɡwɪdʒɪz ˈəʊpənz ʌp njuː ˌɒpəˈtjuːnətiz ænd helps ʌs ˌʌndəˈstænd ˈdɪfrənt ˈkʌltʃəz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi tin rằng học ngoại ngữ mở ra những cơ hội mới và giúp chúng ta hiểu các nền văn hóa khác nhau.",
+      "kr": "네, 저는 외국어를 배우는 것이 새로운 기회를 열어주고 다양한 문화를 이해하는 데 도움이 된다고 믿습니다.",
+      "jp": "はい、外国語を学ぶことは新しい機会を開き、異なる文化を理解するのに役立つと信じています。"
+    },
+    "category": "Education"
+  },
+  {
+    "id": 9,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "What do you usually do in your free time?",
+    "ipa": "/wɒt duː juː ˈjuːʒʊəli duː ɪn jɔː friː taɪm/",
+    "translations": {
+      "vn": "Bạn thường làm gì trong thời gian rảnh?",
+      "kr": "여가 시간에 보통 무엇을 하나요?",
+      "jp": "自由時間には普段何をしますか?"
+    },
+    "sampleAnswer": "In my free time, I usually play sports, read books, or spend time with my family.",
+    "sampleAnswerIpa": "/ɪn maɪ friː taɪm aɪ ˈjuːʒʊəli pleɪ spɔːts riːd bʊks ɔː spend taɪm wɪð maɪ ˈfæməli/",
+    "sampleAnswerTranslations": {
+      "vn": "Trong thời gian rảnh, tôi thường chơi thể thao, đọc sách hoặc dành thời gian với gia đình.",
+      "kr": "여가 시간에는 보통 스포츠를 하거나 책을 읽거나 가족과 시간을 보냅니다.",
+      "jp": "自由時間には、通常スポーツをしたり、本を読んだり、家族と過ごしたりします。"
+    },
+    "category": "Leisure"
+  },
+  {
+    "id": 10,
+    "part": "Part 1",
+    "type": "Introduction & Interview",
+    "text": "Are you interested in art?",
+    "ipa": "/ɑː juː ˈɪntrəstɪd ɪn ɑːt/",
+    "translations": {
+      "vn": "Bạn có quan tâm đến nghệ thuật không?",
+      "kr": "예술에 관심이 있나요?",
+      "jp": "芸術に興味がありますか?"
+    },
+    "sampleAnswer": "Yes, I'm quite interested in art, especially contemporary paintings and sculptures.",
+    "sampleAnswerIpa": "/jes aɪm kwaɪt ˈɪntrəstɪd ɪn ɑːt ɪˈspeʃəli kənˈtempərəri ˈpeɪntɪŋz ænd ˈskʌlptʃəz/",
+    "sampleAnswerTranslations": {
+      "vn": "Có, tôi khá quan tâm đến nghệ thuật, đặc biệt là tranh vẽ và điêu khắc đương đại.",
+      "kr": "네, 저는 특히 현대 회화와 조각에 관심이 많습니다.",
+      "jp": "はい、特に現代絵画と彫刻に興味があります。"
+    },
+    "category": "Arts"
+  },
+  {
+    "id": 500,
+    "part": "Part 3",
+    "type": "Two-way Discussion",
+    "text": "How do you think artificial intelligence will change the job market in the future?",
+    "ipa": "/haʊ duː juː θɪŋk ɑːtɪˈfɪʃəl ɪnˈtelɪdʒəns wɪl tʃeɪndʒ ðə dʒɒb ˈmɑːkɪt ɪn ðə ˈfjuːtʃə/",
+    "translations": {
+      "vn": "Bạn nghĩ trí tuệ nhân tạo sẽ thay đổi thị trường việc làm như thế nào trong tương lai?",
+      "kr": "인공 지능이 미래에 취업 시장을 어떻게 변화시킬 것이라고 생각하십니까?",
+      "jp": "人工知能が将来の雇用市場をどのように変えると思いますか?"
+    },
+    "sampleAnswer": "I believe AI will automate many routine tasks, creating demand for skills in technology, creativity, and human interaction. While some jobs may disappear, new opportunities will emerge in AI development, data analysis, and fields requiring emotional intelligence.",
+    "sampleAnswerIpa": "/aɪ bɪˈliːv eɪaɪ wɪl ˈɔːtəmeɪt ˈmeni ruːˈtiːn tɑːsks kriˈeɪtɪŋ dɪˈmɑːnd fɔː skɪlz ɪn tekˈnɒlədʒi ˌkriːeɪˈtɪvəti ænd ˈhjuːmən ˌɪntərˈækʃən waɪl sʌm dʒɒbz meɪ ˌdɪsəˈpɪə njuː ˌɒpəˈtjuːnətiz wɪl ɪˈmɜːdʒ ɪn eɪaɪ dɪˈveləpmənt ˈdeɪtə əˈnæləsɪs ænd fiːldz rɪˈkwaɪərɪŋ ɪˈməʊʃənəl ɪnˈtelɪdʒəns/",
+    "sampleAnswerTranslations": {
+      "vn": "Tôi tin rằng AI sẽ tự động hóa nhiều nhiệm vụ thường lệ, tạo ra nhu cầu về kỹ năng công nghệ, sáng tạo và tương tác con người. Trong khi một số công việc có thể biến mất, những cơ hội mới sẽ xuất hiện trong phát triển AI, phân tích dữ liệu và các lĩnh vực yêu cầu trí tuệ cảm xúc.",
+      "kr": "저는 AI가 많은 일상적인 작업을 자동화하여 기술, 창의성 및 인간 상호작용 기술에 대한 수요를 창출할 것이라고 믿습니다. 일부 직업이 사라질 수 있지만, AI 개발, 데이터 분석 및 감성 지능이 필요한 분야에서 새로운 기회가 나타날 것입니다.",
+      "jp": "AIは多くの日常業務を自動化し、テクノロジー、創造性、人間との相互作用におけるスキルの需要を生み出すと信じています。一部の仕事は消えるかもしれませんが、AI開発、データ分析、感情的知能を必要とする分野で新しい機会が生まれるでしょう。"
+    },
+    "category": "Technology & Future"
+  }
+]

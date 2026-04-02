@@ -1,0 +1,128 @@
+[
+  {
+    "word": "ability",
+    "ipa": "/əˈbɪləti/",
+    "definition": "The capacity or power to do something",
+    "translations": { "vn": "Khả năng", "kr": "능력", "jp": "能力" }
+  },
+  {
+    "word": "able",
+    "ipa": "/ˈeɪbəl/",
+    "definition": "Having the power or skill to do something",
+    "translations": { "vn": "Có thể", "kr": "할 수 있는", "jp": "できる" }
+  },
+  {
+    "word": "about",
+    "ipa": "/əˈbaʊt/",
+    "definition": "On the subject of; concerning",
+    "translations": { "vn": "Về", "kr": "~에 대해", "jp": "について" }
+  },
+  {
+    "word": "above",
+    "ipa": "/əˈbʌv/",
+    "definition": "In or to a higher position",
+    "translations": { "vn": "Ở trên", "kr": "위에", "jp": "上に" }
+  },
+  {
+    "word": "abroad",
+    "ipa": "/əˈbrɔːd/",
+    "definition": "In or to a foreign country",
+    "translations": { "vn": "Ở nước ngoài", "kr": "해외에", "jp": "海外で" }
+  },
+  {
+    "word": "absence",
+    "ipa": "/ˈæbsəns/",
+    "definition": "The state of being away",
+    "translations": { "vn": "Sự vắng mặt", "kr": "부재", "jp": "不在" }
+  },
+  {
+    "word": "absolute",
+    "ipa": "/ˈæbsəluːt/",
+    "definition": "Complete; total",
+    "translations": { "vn": "Tuyệt đối", "kr": "절대적인", "jp": "絶対的な" }
+  },
+  {
+    "word": "absorb",
+    "ipa": "/əbˈsɔːb/",
+    "definition": "To take in or soak up",
+    "translations": { "vn": "Hấp thụ", "kr": "흡수하다", "jp": "吸収する" }
+  },
+  {
+    "word": "academic",
+    "ipa": "/ˌækəˈdemɪk/",
+    "definition": "Relating to education",
+    "translations": { "vn": "Học thuật", "kr": "학문의", "jp": "学問の" }
+  },
+  {
+    "word": "accept",
+    "ipa": "/əkˈsept/",
+    "definition": "To receive or take something offered",
+    "translations": { "vn": "Chấp nhận", "kr": "받아들이다", "jp": "受け入れる" }
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈækses/",
+    "definition": "The means to approach or enter",
+    "translations": { "vn": "Quyền truy cập", "kr": "접근", "jp": "アクセス" }
+  },
+  {
+    "word": "accident",
+    "ipa": "/ˈæksɪdənt/",
+    "definition": "An unfortunate incident",
+    "translations": { "vn": "Tai nạn", "kr": "사고", "jp": "事故" }
+  },
+  {
+    "word": "accomplish",
+    "ipa": "/əˈkʌmplɪʃ/",
+    "definition": "To complete successfully",
+    "translations": { "vn": "Hoàn thành", "kr": "성취하다", "jp": "達成する" }
+  },
+  {
+    "word": "account",
+    "ipa": "/əˈkaʊnt/",
+    "definition": "A record of transactions",
+    "translations": { "vn": "Tài khoản", "kr": "계좌", "jp": "アカウント" }
+  },
+  {
+    "word": "accurate",
+    "ipa": "/ˈækjərət/",
+    "definition": "Correct in all details",
+    "translations": { "vn": "Chính xác", "kr": "정확한", "jp": "正確な" }
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "definition": "To successfully reach a goal",
+    "translations": { "vn": "Đạt được", "kr": "달성하다", "jp": "達成する" }
+  },
+  {
+    "word": "acknowledge",
+    "ipa": "/əkˈnɒlɪdʒ/",
+    "definition": "To accept or admit",
+    "translations": { "vn": "Thừa nhận", "kr": "인정하다", "jp": "認める" }
+  },
+  {
+    "word": "acquire",
+    "ipa": "/əˈkwaɪə/",
+    "definition": "To buy or obtain",
+    "translations": { "vn": "Có được", "kr": "획득하다", "jp": "獲得する" }
+  },
+  {
+    "word": "action",
+    "ipa": "/ˈækʃən/",
+    "definition": "The process of doing something",
+    "translations": { "vn": "Hành động", "kr": "행동", "jp": "行動" }
+  },
+  {
+    "word": "active",
+    "ipa": "/ˈæktɪv/",
+    "definition": "Engaging in physical activity",
+    "translations": { "vn": "Tích cực", "kr": "활동적인", "jp": "活発な" }
+  },
+  {
+    "word": "zymotic",
+    "ipa": "/zaɪˈmɒtɪk/",
+    "definition": "Relating to or denoting contagious disease",
+    "translations": { "vn": "Liên quan đến bệnh truyền nhiễm", "kr": "전염병의", "jp": "伝染病の" }
+  }
+]
